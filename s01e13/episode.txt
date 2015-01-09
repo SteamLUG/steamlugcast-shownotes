@@ -1,0 +1,141 @@
+RECORDED: 2013-11-15
+PUBLISHED: 2013-11-27
+TITLE: Assault Android Cactus
+SEASON: 01
+EPISODE: 13
+DURATION: 01:45:02
+FILENAME: steamlugcast.s01e13.assault-android-cactus
+DESCRIPTION: In this lengthy, but exciting episode of SteamLUGCast, @johndrinkwater overcomes router problems, guest hosts @MimLofBees and @DerRidda join in, and special guest @SanatanaMishra from Witchbeam Games chats with us about Assault Android Cactus, SteamOS and more!
+HOSTS: @ValiantCheese, @DerRidda, @MimLofBees, John (@johndrinkwater)
+GUESTS: Sanatana Mishra (@SanatanaMishra)
+ADDITIONAL:
+
+00:00:08 *Introduction*
+00:00:11 Cheese @ValiantCheese introduces
+00:00:15 @MimLofBees joins us once again
+00:00:15 Special guest @SanatanaMishra from Witchbeam Games http://www.witchbeam.com.au/
+00:00:29 Technical difficulties have kept @johndrinkwater and @swordfischer away
+
+00:00:36 *Interview with Sanatana Mishra from Witchbeam Games*
+00:00:42 Witchbeam consists of @SanatanaMishra, Tim ( @ironicaccount ) and Jeff ( @jeff_van_dyck )
+	Jeff Van Dyck has composed music for a range of titles including Total War and Need for Speed http://en.wikipedia.org/wiki/Jeff_van_Dyck
+00:02:21 Assault Android Cactus (AAC) is a manic twin stick shoot-em-up
+00:04:20 Variety and distinction between levels
+00:06:31 AAC has an all-female cast
+00:08:19 Maintining unique and distinct mechanics for each playable character
+00:09:57 @DerRidda joins the cast
+00:10:12 Character diversity encourages replay
+00:11:25 What tools are used in Cactus’ development?
+	Unity http://unity3d.com/
+	3D Studio Max http://www.autodesk.com.au/products/autodesk-3ds-max
+	Photoshop http://www.photoshop.com/
+	Blender http://blender.org
+	Gimp http://gimp.org
+00:13:50 Wasteland 2 http://wasteland.inxile-entertainment.com/
+00:13:52 Project Eternity http://eternity.obsidian.net/
+00:15:31 Gimp: Single-window mode vs multi-window mode http://docs.gimp.org/en/gimp-concepts-main-windows.html
+00:16:54 Hurdles and challenges during AAC’s development
+00:18:43 Witchbeam’s previous free game, Antibody http://circleofjudgement.com/antibody/
+00:19:13 Pleasant surprises during AAC’s development
+	AAC at PAX Australia http://www.assaultandroidcactus.com/2013/07/convention-time.html
+	AAC at the Eurogamer Expo http://www.assaultandroidcactus.com/2013/11/odds-and-ends.html
+00:20:28 AAC Steam Discussion Hub http://steamcommunity.com/app/250110/discussions/
+00:20:53 ‘Players are never wrong about how they feel’
+	Interpreting player feedback on in-development games was also discussed in [s01e10]
+00:24:00 Multiplayer request thread http://steamcommunity.com/app/250110/discussions/0/864980277921358029
+00:27:23 S Rank http://www.giantbomb.com/s-rank/3015-2962/
+	Cheese reveals that he’s never encountered ‘S rank’ before AAC
+00:28:44 Influences
+	Ikaruga http://en.wikipedia.org/wiki/Ikaruga
+	Radiant Silver Gun http://en.wikipedia.org/wiki/Radiant_Silvergun
+	Treasure http://en.wikipedia.org/wiki/Treasure_%28company%29
+00:29:50 Character voices
+00:32:10 Response from Linux users has been mostly positive
+	Linux builds have had issues, but Linux feedback has been helpful
+	Linux ‘superfan’ has been writing detailed guides http://steamcommunity.com/sharedfiles/filedetails/?id=182391861
+	Might have sold more copies on Linux than Mac
+00:34:07 ‘I always wanted to support Linux’
+00:36:18 AAC is tested internally on Ubuntu 12.04 or 12.10, and externally on others
+00:36:54 @johndrinkwater rejoins us after router problems
+00:37:18 Pacing and spawn behaviours are determined by player actions
+00:40:37 No random elements in the game
+00:44:35 Assault Android Cactus demo on Steam http://store.steampowered.com/app/250110
+00:45:27 Release is likely to happen in January
+00:46:02 Expected weekly content updates between now and release
+
+00:47:12 *SteamLUG Community Stuff*
+00:47:24 TF2 Halloween eventy had a good turnout http://steamcommunity.com/groups/steamlug#events/1531515291225694518
+00:47:45 Worms: Reloaded event was fun http://steamcommunity.com/groups/steamlug#events/1531515291225692203
+00:48:07 Upcoming post-cast Assault Android Cactus event with developer @SantanaMishra http://steamcommunity.com/groups/steamlug#events/1531515291225704796
+00:48:11 Upcoming Monaco event http://steamcommunity.com/groups/steamlug#events/1531515291225698679
+00:48:18 Upcoming Painkiller event with Linux porter Leszek Godlewski http://steamcommunity.com/groups/steamlug#events/1531515291225833787
+00:48:26 Upcoming Dota 2 event http://steamcommunity.com/groups/steamlug#events/1531515291225701306
+00:48:53 Steam For Linux beta’s first anniversary stories http://steamcommunity.com/groups/steamlug#announcements/detail/1405415135915731976
+00:49:13 /r/linux_gaming subredit Linux themed discussions http://www.reddit.com/r/linux_gaming/comments/1pbk6y/weekly_rlinux_gaming_discussion_what_have_you/
+00:49:25 Guns of Icarus Online training group http://steamcommunity.com/groups/GOIO_Training/discussions/0/666825525359561919
+00:49:39 Cheese’s Battle Worlds: Kronos (Battlekit Major Edition) unboxing video http://www.youtube.com/watch?v=t0yCF2IBsSM
+
+00:50:28 *Steam/Valve News*
+00:50:31 Steam Machine prototype coverage http://steamcommunity.com/groups/steamuniverse#announcements/detail/1966113289566972393
+00:50:49 Is SteamOS something that AAC will be targeting? ‘We’ll be there at day zero for sure.’
+00:52:39 How might mods and user created content be handled in SteamOS?
+00:55:17 Should Steam Workshop provide a way to use 3rd party Linux supporting engines?
+	ScummVM http://scummvm.org
+	OpenMW https://openmw.org/
+00:56:24 Official Steam group for In-Home Streaming http://steamcommunity.com/groups/homestream
+00:57:06 Valve will be the only Steam Controller vendor http://au.ign.com/articles/2013/11/04/steam-controllers-will-only-be-made-by-valve
+01:01:04 GitHub activity has been ramping up and resulting in Linux related fixes
+01:01:26 Recent client beta updates include:
+	Fixes copy and paste bug
+	Invisible window bug resolved
+	Download management revamp
+	Fixed images not displaying
+	Improved idle CPU usage
+
+01:02:59 *Greenlight News*
+01:03:02 November 12th Greenlight titles http://steamcommunity.com/sharedfiles/filedetails/?id=193189432
+	17 of 40 titles offering Linux support
+01:03:28 Little Racers STREET http://steamcommunity.com/sharedfiles/filedetails/?id=92919295
+01:03:36 Undead Overlord http://steamcommunity.com/sharedfiles/filedetails/?id=183292658
+01:03:50 Pixel Boy http://steamcommunity.com/sharedfiles/filedetails/?id=93144574
+01:04:07 CLANG http://steamcommunity.com/sharedfiles/filedetails/?id=132179846
+01:06:34 Dark Matter http://www.darkmatterthegame.com/
+01:06:39 Half-Life 2 and episodes get VR support on Linux http://steamcommunity.com/games/220/announcements/detail/1892930523506809570
+
+01:07:19 *Linux News*
+01:07:23 Nvidia new framebuffer capture library NvFBCOpenGL http://www.phoronix.com/scan.php?page=news_item&px=MTUwNjA
+
+01:08:14 *Our Gaming*
+01:08:16 @MimLofBees has been playing Forced, Rift, Assault Android Cactus, Don’t Starve, The Sims 3 and Dead Space 2
+01:11:16 @johndrinkwater has been playing L4D2, Metro Last Light, No More Room In Hell, Ticket To Ride and a Humble QA title
+01:13:32 @DerRidda has been playing Dota 2, No More Room In Hell, Project Zomboid
+01:15:51 @SanatanaMishra has been playing Battlefield 4 and Rayman Legends
+01:25:34 @ValiantCheese has been playing Assault Android Cactus, TF2, Glare, Worms: Reloaded, Monaco, Guns of Icarus Online, Spacebase DF-9, Dark Matter and Forced
+
+01:27:33 *General Gaming News*
+01:27:35 Metro Last Light has been released for Linux http://www.neogaf.com/forum/showthread.php?t=709781
+01:27:40 Project CARS http://www.wmdportal.com/projects/cars
+01:28:49 Joe Danger http://rootgamer.com/8074/news/joe-danger-gets-signs-linux-support
+01:29:24 Luxuria Superbia http://luxuria-superbia.com/
+01:29:37 Total War: Rome 2 Linux announcement http://steamcommunity.com/groups/steamuniverse#announcements/detail/1946973719015581944
+01:30:02 Humble Store is now live https://www.humblebundle.com/store
+	Blog post http://blog.humblebundle.com/post/66696499536
+01:36:29 Humble Weekly Sale: bitComposer Games has two Linux games, Air Conflicts: Pacific Carriers and Expedititions: Conquistador http://humblebundle.com/weekly
+01:37:34 Nuclear Dawn Linux beta is imminent http://steamcommunity.com/app/17710/discussions/0/828927580797507857/?tscn=1384476144#c648811852163197759
+01:38:13 New Splot screenshots surface http://frozenbyte.com/2013/11/splot-where-are-you-at/
+
+01:38:32 *Crowdfunding News*
+01:38:35 SCALE has been successfully funded and has reached its Rift stretch goal http://www.kickstarter.com/projects/1188957169/scale/posts
+01:39:07 STASIS does not currently offer Linux support http://www.kickstarter.com/projects/bischoff/stasis-2d-isometric-scifi-horror-adventure-game
+01:39:59 The Girl and The Robot has its second crowdfunding campaign running http://www.kickstarter.com/projects/2039811773/the-girl-and-the-robot
+01:40:18 Dyscourse, a survival adventure game http://www.kickstarter.com/projects/owlchemylabs/dyscourse-survivors-choose-wisely
+01:40:48 Paradise Lost: First Contact, a retro stealth platformer http://www.kickstarter.com/projects/1183462809/paradise-lost-first-contact
+01:42:44 Hand of Fate, a card collecting/hack and slash hybrid http://www.kickstarter.com/projects/defiant/hand-of-fate-a-card-game-that-comes-to-life
+
+01:43:00 *Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, Mim @MimLofBees & DerRidda @DerRidda
+

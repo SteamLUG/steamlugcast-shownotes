@@ -1,0 +1,137 @@
+RECORDED: 2013-10-04
+PUBLISHED: 2013-10-09
+TITLE: Falling out of Control to SteamOS
+SEASON: 01
+EPISODE: 10
+DURATION: 01:58:44
+FILENAME: steamlugcast.s01e10.falling-out-of-control-to-steamos
+DESCRIPTION: We have a bumper episode of SteamLUG Cast for you to listen to, we interview the developer of The Fall, discuss crowdfunding, greenlight, Valve’s Living Room plans around SteamOS. Steam Machines and their controller design that they plan to share with the world. We hope you enjoy listening!
+HOSTS: @ValiantCheese, John (@johndrinkwater), @DerRidda
+GUESTS: John Warner (@OverTheMoonGms)
+ADDITIONAL:
+
+00:00:10 *Introduction*
+00:00:10 Cheese @twolofbees introduces
+00:00:22 @derridda emerges from the dungeon to rejoin us
+00:00:35 John from @overthemoongms joins us
+00:00:47 Technical difficulties prevent @swordfischer from dropping in
+
+00:01:06 *Interview w/ John Warner from Over The Moon Games*
+00:01:29 Relic http://www.relic.com/
+	Company of Heroes http://www.relic.com/games/company-of-heroes/
+	Company of Heroes: Opposing Fronts http://www.relic.com/games/opposing-fronts/
+	Dawn of War 2 http://www.dawnofwar2.com
+00:01:44 Dance on Broadway http://www.longtailstudios.com/en/games/endanceonbroadway
+00:02:02 Raycatcher http://store.steampowered.com/app/32000/
+00:02:31 The Fall is first solo game http://www.kickstarter.com/projects/189665092/the-fall-dark-story-driven-exploration-in-an-alien
+00:02:43 Motivations for supporting Linux
+00:03:03 Unity http://unity3d.com/
+00:03:41 Linux is moving to the forefront
+00:03:57 Thoughts on SteamOS?
+00:04:28 Responses from Linux gamers regarding The Fall
+00:05:09 Inspirations for The Fall
+00:05:25 Metroid http://en.wikipedia.org/wiki/Metroid
+00:05:34 Limbo http://limbogame.org/
+00:05:40 Monkey Island http://en.wikipedia.org/wiki/Monkey_Island_%28series%29
+00:05:54 The Fall’s plot
+00:05:58 Isaac Asimov inspired http://en.wikipedia.org/wiki/Isaac_Asimov
+00:06:33 Three Laws of Robotics http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
+00:07:00 Character interaction?
+00:08:15 How true to Asimov’s 3 Laws of Robotics will The Fall be?
+00:09:30 How much of The Fall is conceptualised?
+00:10:59 What kind of input are backers likely to have on the project?
+00:12:03 Comparison between crowdfunding and publisher funded large studio development
+00:13:54 How might feedback be handled for a crowdfunded project that has an overwhelming response?
+00:15:02 What made crowdfunding attractive for the first episode of The Fall?
+00:15:20 How intense is running a crowdfunding campaign?
+00:17:58 The Fall is expected to be released March or April
+00:18:08 The Fall’s Greenlight campaign is at #13 http://steamcommunity.com/sharedfiles/filedetails/?id=177232316
+
+00:21:59 *SteamLUG Community Stuff*
+00:22:02 Events and Cast pages on the SteamLUG website are fixed http://steamlug.org/events
+00:22:13 Upcoming October events
+00:22:23 Possible additional events pending expressions of interest
+	Planetary Annihilation, Verdun, Oil Rush, Kerbal Space Programme, Amnesia, A Machine For Pigs
+00:22:53 Past events
+	TF2
+	Crusader Kings II
+00:23:36 Cheese waffles on about Guns of Icarus Online
+00:24:52 Cheese put out a call for Linux developers’ and porters’ opinions on audio libraries https://twitter.com/TwoLofBees/status/383386599284682752
+	FMOD http://www.fmod.org/
+	BASS http://www.un4seen.com/bass.html
+00:25:25 @flibitijibibo, FMOD critic
+00:25:74 Monogame http://www.monogame.net/
+00:26:13 List of Linux friendly audio libraries on FreeGameDev via @qubodup http://freegamedev.net/wiki/Game_libraries#Audio
+00:26:28 Wwise is apparently licenceable for developers who need Linux support now (though is not officially announced yet) https://twitter.com/decasteljau/status/383573594363527168
+00:28:50 Sauropod posted about upcoming Linux support for Wwise in May 2013 http://www.sauropodstudio.com/dev-diary-number-forty-six-linux-1st-attempt-and-bridges/
+	Correction: Later Sauropod posts clarify that beta access to Wwise for Linux was delayed and they pursued FMOD for Linux http://www.sauropodstudio.com/dev-diary-number-forty-seven-distant-islands-linux-and-flying-castles/
+00:29:28 Software Freedom Day http://softwarefreedomday.org
+	Cheese’s writeup of the Launceston SFD event http://www.taslug.org.au/modules/news/article.php?storyid=222
+00:30:06 Rift support for Neverball http://forum.nevercorner.net/viewtopic.php?pid=29214#p29214
+00:30:36 SuperTuxKart http://supertuxkart.sourceforge.net/
+00:30:47 @mimlofbees demonstrated some painting using the Gimp http://gimp.org
+
+00:33:00 *Steam and Valve News*
+00:33:06 Valve’s Living Room announcements http://store.steampowered.com/livingroom/
+00:33:30 Gabe Newell’s keynote speech at LinuxCon (mentioned in [s01e09]) http://arstechnica.com/gaming/2013/09/gabe-newell-linux-is-the-future-of-gaming-new-hardware-coming-soon/
+00:34:19 Living Room teaser page symbols appearing to spell Dota http://marlamin.com/u/combined.png
+00:35:48 SteamOS announcement http://store.steampowered.com/livingroom/SteamOS/
+00:38:24 Steam Machines announcement http://store.steampowered.com/livingroom/SteamMachines/
+00:44:38 Steam Controller announcement http://store.steampowered.com/livingroom/SteamController/
+00:45:26 Uber Entertainment devs tweet impressions of Steam Controller http://www.neogaf.com/forum/showpost.php?p=84478985&postcount=4391
+00:45:31 Tommy Refenes’ impressions of the Steam Controller for Super Meat Boy http://tommyrefenes.tumblr.com/post/62476523677/my-time-with-the-steam-controller
+00:45:58 Double Fine tested The Cave with a Steam Controller prototype in June https://twitter.com/chrisremo/statuses/383657630675116032
+00:46:27 Steam Controller support for The Fall?
+00:50:33 Steam Machines prototype specifications announcement http://steamcommunity.com/groups/steamuniverse#announcements/detail/2145128928746175450
+00:57:28 LibreOffice on SteamDB http://steamdb.info/app/217670/
+01:02:13 Steam Family Sharing http://store.steampowered.com/sharing/
+
+01:05:10 *Greenlight News*
+01:05:13 October Steam Greenlight titles http://steamcommunity.com/sharedfiles/filedetails/?id=182641731
+	Race the Sun http://steamcommunity.com/sharedfiles/filedetails/?id=92973632
+	Pulsar: Lost Colony http://steamcommunity.com/sharedfiles/filedetails/?id=174118903
+	Claire http://steamcommunity.com/sharedfiles/filedetails/?id=175717656
+	AdventurOS http://steamcommunity.com/sharedfiles/filedetails/?id=176185396
+	McDROID http://steamcommunity.com/sharedfiles/filedetails/?id=124474874
+	MouseCraft http://steamcommunity.com/sharedfiles/filedetails/?id=159305051
+
+01:10:09 *Our Gaming*
+01:10:19 @DerRidda has been playing Terraria on Windows, Dota 2, and crashing in Natural Selection 2
+01:12:06 Cheese has been playing Assault Android Cactus, Costume Quest, Solar 2, Superfrog HD, The Raven and Link’s Crossbow Training on Wii
+01:13:25 @johndrinkwater has been playing PixelJunk Monsters, Bit.Trip Runner 2, Electronic Super Joy, Rocketbirds, Mark of the Ninja, and some Humble QA titles
+01:15:14 John Warner has been playing Gone Home and some GTA 5
+
+01:16:40 *Gaming News*
+01:16:46 Deus Ex: Human Revolution Director’s Cut may be coming to additional platforms https://twitter.com/DavidAnfossi/status/385523262295261184
+01:18:41 Heistemup game Monaco Linux depots spotted on SteamDB http://steamdb.info/app/113020/
+01:22:29 Some specs for AMD hardware have been opened up http://www.botchco.com/agd5f/?p=58
+01:23:32 Nvidia is releasing GPU documentation too http://lists.freedesktop.org/archives/nouveau/2013-September/014481.html
+01:24:40 Valve encouraging hardware hacking on Steam Controller/Steam Machine, promising to provide hardware CAD files
+01:25:43 OUYA https://www.ouya.tv/
+01:28:32 Gamasutra interview with Ryan ‘Icculus’ Gordon http://www.gamasutra.com/view/news/200997/QA_Understanding_the_future_of_Linux_game_development.php
+01:30:18 Incomplete Deus Ex Linux port by Loki Software http://en.wikipedia.org/wiki/Deus_Ex#Game_versions
+01:30:40 Unreal Tournament 3 - a moment’s silence in remembrance of an announced title that was never delivered
+01:32:09 Does Google Trends show an increase in Linux prominence following the SteamOS announcement? http://www.google.com/trends/explore?q=linux#q=linux&date=today%203-m&cmpt=q
+01:32:50 Escape Goat Linux beta getting updates https://twitter.com/MagicalTimeBean/status/386202801811898370
+01:33:34 Red Orchestra 2 and Rising Storm look like they will finally be coming to Linux http://www.pcgamer.com/2013/09/30/tripwire-steamos-steam-machines-and-steam-controller-will-be-the-best-thing-to-happen-to-pc-gaming-since-digital-distribution
+01:35:03 Ryan Gordon suggesting Linux users should pick up RO2 ‘just in case’ https://twitter.com/icculus/statuses/320154602672627712
+
+01:36:37 *Crowdfunding News*
+01:36:39 The Fall - ‘It’s pretty sweet. You should check it out.’ http://www.kickstarter.com/projects/189665092/the-fall-dark-story-driven-exploration-in-an-alien
+01:37:02 Nowhere http://www.duangle.com/nowhere
+01:41:51 Pulsar: Lost Colony http://www.kickstarter.com/projects/leafygames/pulsar-lost-colony
+01:44:50 Citizens of Eden http://www.kickstarter.com/projects/499609193/citizens-of-earth-a-modern-rpg
+	Ryan Vandendyck from @edenindustries, @flibitijibio will be joining us for the next episode
+01:46:10 Neverending Nightmares http://www.kickstarter.com/projects/infinitap/neverending-nightmares
+01:47:50 Planetary Annihilation moves into beta on Steam Early Access http://store.steampowered.com/app/233250
+01:50:25 Light http://www.kickstarter.com/projects/1051741402/light-a-2d-tactical-stealth-hacking-game
+01:52:34 Emerald http://www.kickstarter.com/projects/kranggames/emerald
+01:55:44 The Maker’s Eden has a new demo and is available for pre-order http://makerseden.screwylightbulb.com/
+01:56:26 J.U.L.I.A. http://steamcommunity.com/sharedfiles/filedetails/?id=122116943
+
+01:56:00 *Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @TwoLofBees, Sword @swordfischer & John @johndrinkwater

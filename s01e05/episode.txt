@@ -1,0 +1,93 @@
+RECORDED: 2013-07-26
+PUBLISHED: 2013-08-01
+TITLE: Trine‐ity
+SEASON: 01
+EPISODE: 05
+DURATION: 01:01:08
+FILENAME: steamlugcast.s01e05.trine-ity
+DESCRIPTION: For our fifth episode we have a new member of the Frozenbyte team, Julius, joining our discussion about games on Linux, and Frozenbyte’s love for the Linux community. Cheese went to PAX Australia, John apparates and Sword groans! All this and more exciting stuff in this fortnightly Cast!
+HOSTS: @ValiantCheese, John (@johndrinkwater), @swordfischer
+GUESTS: Julius (@Frozenbyte)
+ADDITIONAL:
+
+00:00:09 *Introduction*
+00:00:27 Julius from @Frozenbyte
+
+00:00:45 *Interview w/ Julius from Frozenbyte*
+00:01:22 Splot http://thesplot.com/
+00:02:32 Trine 1 is coming for Linux
+00:02:41 Shadowgrounds for Linux is still unclear
+00:02:57 Alternative Games http://www.alternativegames.net/
+00:04:03 New Website http://frozenbyte.com/
+00:04:53 Thought on Steambox?
+00:05:22 How is Splot coming along?
+00:06:16 Trine 2 Linux Port development time
+00:07:05 Response from fans about previously unreleased DLC being released?
+00:08:01 Splot Linux support on release?
+00:08:26 Splot is being developed with Marmalade http://www.madewithmarmalade.com/
+00:08:34 Any comments from @Frozenbyte to the Linux community?
+00:08:59 Do you have any vacant positions at @Frozenbyte?
+00:09:18 Contact: jobs@frozenbyte.com
+00:10:00 Any specific skills you look for?
+00:11:14 Cheese received a package from @Frozenbyte http://www.flickr.com/photos/cheeseness/9265270973/in/set-72157632524265347
+00:12:05 Cheese might be giving away a signed copy of Trine 2 (Complete collection!)
+00:13:37 Linux has outsold Mac on Steam since February!
+00:15:42 Future Linux work might be done in‐house
+
+00:17:56 *SteamLUG Community Stuff*
+00:18:06 Super Crazy amount of Events added for SteamLUG http://steamlug.org/events
+00:18:25 Mid‐week events are EU friendly
+00:18:35 Moved mid‐week events from 1700 UTC to 1800 UTC
+00:19:30 We’d like some DOTA 2 Guild managers!
+00:19:53 DOTA 2 Bughunts
+00:21:30 Frozenbyte Trine 2 ‐ Meet the Makers http://steamcommunity.com/groups/steamlug#events/1603562738964389531
+00:22:24 We need suggestions for games http://steamcommunity.com/groups/steamlug/discussions/2/828934424146675833/
+00:22:39 Guns of Icarus maybe! http://gunsoficarus.com/
+00:23:16 @johndrinkwater magically reappears… why was he missing?
+00:24:20 7DFPS starting August 10th http://steamcommunity.com/groups/steamlug/discussions/0/864973123208333161/
+00:25:07 PAX Australia http://paxaustralia.com.au/
+00:26:04 Assault Android Cactus http://assaultandroidcactus.com/
+	Assault Anrdoid Cactus on Steam Greenlight http://steamcommunity.com/sharedfiles/filedetails/?id=134153777
+00:26:22 Wander http://www.wanderthegame.com/
+	On Steam Greenlight http://steamcommunity.com/sharedfiles/filedetails/?id=136830410
+00:28:25 Double Fine BBQ http://double-fine-game-club.github.io/bbq/
+00:28:25 Pictures from the Double Fine BBQ http://www.flickr.com/photos/cheeseness/sets/72157634700710074/
+00:30:07 Tweaks to the website http://steamlug.org
+00:30:50 Changed SteamLUG server page to use GameQ https://github.com/Austinb/GameQ
+00:31:14 Recently added a Russian server (CSS) to the list http://steamlug.org/servers
+	Russian Counterstrike Source server address steam://connect/sky-play.ru:27031
+
+00:31:38 *Steam News*
+00:32:01 Bugfixes for Steam for Linux client http://store.steampowered.com/news/11169
+00:32:59 Mim ( @MimLofBees ) will fill in for @swordfischer on the next cast!
+00:33:37 Steam Cards for Beat Hazard Ultra has in‐game goodies! http://www.coldbeamgames.com/3/post/2013/07/gold-dragons-steam-trading-cards.html
+00:35:50 A batch of new Greenlight titles has been added http://steamcommunity.com/games/765/announcements/detail/1586674964466039347
+00:36:37 Tripmine studios are doing a BlueShift: Source http://steamcommunity.com/groups/ts_public
+00:37:28 Left 4 Dead 2 (beta) ‐ beta, test, beta confusion?
+
+00:39:26 *General Gaming*
+00:39:38 @swordfischer played Awesomenauts, Strike Suit Zero Beta and DOTA 2
+00:40:06 @johndrinkwater played Strike Suit Zero Beta, Eversion, Kerbal Space Program, Rush and Toki Tori
+00:40:57 Toki Tori port by Urkle ( @outoforder_cc )
+00:41:17 @TwoLofBees played Faster Than Light
+00:42:46 Wine 1.6 was released http://www.winehq.org/announce/1.6
+00:43:49 OpenGL 4.4 http://tech.slashdot.org/story/13/07/23/1940248/opengl-44-and-opencl-20-specs-release
+00:44:33 Nuclear Dawn in jeopardy? http://forums.gameconnect.net/topic/19435-linux-version-eta/page-2#entry34231
+00:48:00 Worms: Reloaded for Linux appears in SteamDB http://steamdb.info/app/22600/#section_depots
+00:49:00 @johndrinkwater played some The Walking Dead in Wine
+00:51:43 The Raven: Legacy of a Master Thief http://store.steampowered.com/app/233370/
+
+00:52:16 *Crowdfunding*
+00:52:18 Lacuna Passage http://www.kickstarter.com/projects/tylerowen/lacuna-passage
+00:53:43 Satellite Reign funded http://www.kickstarter.com/projects/5livesstudios/satellite-reign
+00:54:22 Maker’s Eden nearly made half funding http://www.indiegogo.com/projects/the-maker-s-eden
+00:55:37 Mumble participants are inquireing about Ubuntu Edge http://www.indiegogo.com/projects/ubuntu-edge--39
+00:55:43 @swordfischer groans
+00:58:06 Liege is coming to Linux, and we discuss media news parity http://www.vg247.com/2013/07/25/liege-confirmed-for-ps4-and-vita-nintendo-greenlights-
+
+01:00:43 *Sign‐off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @TwoLofBees, Sword @swordfischer & John @johndrinkwater

@@ -1,0 +1,87 @@
+RECORDED: 2013-05-24
+PUBLISHED: 2013-06-05
+TITLE: Our Introduction
+SEASON: 01
+EPISODE: 01
+DURATION: 01:46:35
+FILENAME: steamlugcast.s01e01.our-introduction
+DESCRIPTION: Our launch podcast introducing ourselves, discussing recent history of the group, steam on linux and gaming. We intend to make a 45 minute to an hour cast every fortnight, this longer episode was expected as we find our footing in making these, please ‘tolerate’ our inexperience and contribute to improve it!
+HOSTS: @ValiantCheese, John (@johndrinkwater), @swordfischer
+GUESTS:
+ADDITIONAL:
+
+00:00:30 *Introduction*
+00:00:45 SteamLUG Cast http://steamlug.org/cast
+00:02:12 Linux Gaming Reddit http://www.reddit.com/r/linux_gaming/
+00:03:05 Stycil Tux Logo http://www.twolofbees.com/artwork.php?iid=870
+
+00:05:20 *Motivations*
+
+00:08:30 *SteamLUG happenings*
+	Props to meklu, swordfischer, danharibo, xpander69
+00:09:50 SteamLUG website http://steamlug.org
+00:11:10 PCGamingWiki http://pcgamingwiki.com/wiki/Home
+00:11:44 ‘SteamLinux’ website http://steamlinux.xpaw.ru/
+	SteamLinux GitHub repository https://github.com/SteamDatabase/SteamLinux
+00:12:15 SteamLUG IRC channel (#steamlug) irc://irc.freenode.net/steamlug
+00:15:20 Steam OpenID SSO http://steamcommunity.com/dev
+
+00:18:05 *Previous Events*
+00:19:30 Suggest an event http://steamcommunity.com/groups/steamlug/discussions/2/828934424146675833/
+00:20:04 L4D2 release party http://steamcommunity.com/groups/steamlug#events/1587793954850102672
+00:25:05 Amnesia http://steamcommunity.com/groups/steamlug#events/1585540098956062637
+	Stream http://steamlug.org/stream
+	Savegame http://archive.steamlug.org/AutoSave_WineCellar_2013_5_15_19_47_59_0.sav
+00:24:22 Red Orchestra http://steamcommunity.com/groups/steamlug#events/1585540098955998019
+00:27:00 Future Events http://events.steamlug.org/
+
+00:29:10 *Steam/Valve news*
+00:30:28 Steam’d Penguins http://blogs.valvesoftware.com/linux/steamd-penguins/
+00:30:40 Serious Sam 3 http://store.steampowered.com/app/41070/
+00:34:01 Remaining Valve titles to port http://steamcommunity.com/groups/steamlug#announcements/detail/1585543274178034926
+00:39:20 GitHub https://github.com/ValveSoftware/
+00:43:25 Client update fixed HL/HL2 mod support http://steamcommunity.com/groups/SteamClientBeta#announcements/detail/1623824498353615921
+00:43:40 SourceMods post http://steamcommunity.com/app/221410/discussions/0/828938532638150996/
+00:43:50 Running HL mods on Linux https://swordfischer.com/2013/01/27/Half-Life-Mods-for-Linux/
+00:44:01 Running HL2 mods on Linux https://swordfischer.com/2013/02/20/Half-Life-2-Deathmatch-on-Linux/
+00:44:25 Valve’s blog post that someone else linked to http://blogs.valvesoftware.com/linux/faster-zombies/
+00:45:40 another related link http://phoronix.com/scan.php?page=article&item=intel_valve_linux
+00:46:55 Valve’s GDC talk http://www.gdcvault.com/play/1017850/
+00:50:45 Half‐Life 2’s store page http://store.steampowered.com/app/220/
+00:51:40 IBM’s Prodigy advert http://www.youtube.com/watch?v=s7dTjpvakmA
+00:52:10 Steam trading card beta http://steamcommunity.com/tradingcards/
+
+00:56:45 *Linux gaming news*
+00:56:50 0ad non‐news http://play0ad.com/erik-johansson-steps-down-from-project-leadership-michael-d-hafer-assumes-role/
+00:57:20 OpenMW news https://openmw.org/2013/week-review-52/
+01:00:40 Wine 1.5.31 release http://www.winehq.org/announce/1.5.31
+01:04:15 Humble doublefine bundle http://blog.humblebundle.com/post/50032402607/humble-double-fine-bundle-now-with-bitcoin
+01:07:15 urkle http://www.outoforder.cc
+	GitHub http://github.com/urkle
+	Twitter http://twitter.com/outoforder_cc
+01:13:25 Thomas Was Alone Mocap http://www.youtube.com/watch?v=9Un9cX_OBfE
+01:14:10 Hotline Miami Linux beta password: hlm
+01:15:00 X³: Albion Prelude http://www.egosoft.com/games/x3ap/info_en.php
+01:15:40 gamingonlinux Unreal/RO2 article http://www.gamingonlinux.com/articles/tripwire-on-why-red-orchestra-2-and-rising-storm-wont-come-to-linux.2021
+01:23:20 Garry’s April :trollface: https://twitter.com/garrynewman/status/318628881957523456
+01:25:15 Latest Minecraft snapshot http://mojang.com/2013/05/snapshot-13w21a/
+
+01:27:50 *Crowd‐funding projects*
+01:28:00 Chasm http://www.kickstarter.com/projects/discordgames/chasm
+01:28:05 We had intended this to be 45 minutes long, at this point I was soo distracted writing
+	‘&lt;johndrinkwater&gt; holy crap how long is this’ in chat that I missed Cheese asking me this question which required a decent amount of editing to mask ;)
+01:34:05 Failing or failed crowdfunding campaigns:
+	Rawbots http://www.kickstarter.com/projects/rozgo/rawbots-multiplayer-sandbox
+	Son of Nor http://www.kickstarter.com/projects/stillalivestudios/son-of-nor-the-world-is-your-weapon
+	The Realm http://www.kickstarter.com/projects/995134339/the-realm-game
+01:35:35 That kickstarter we couldn’t remember, MaK http://www.kickstarter.com/projects/1125462381/mak
+01:39:40 Cheesetalks about Linux as a stretch goal http://cheesetalks.twolofbees.com/linuxStretchGoals.php
+01:43:05 Maia engine test http://forum.maiagame.com/viewtopic.php?f=8&t=268
+01:44:25 Planetary Annihilation survey https://docs.google.com/forms/d/1tVt3OASd52RWnceQLRm_NY7PxUHnnguof8oVs04glxY/viewanalytics
+
+01:44:00 *Sum‐up & Sign‐off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @TwoLofBees, Sword @swordfischer & John @johndrinkwater

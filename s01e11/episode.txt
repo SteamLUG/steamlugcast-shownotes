@@ -1,0 +1,163 @@
+RECORDED: 2013-10-18
+PUBLISHED: 2013-11-19
+TITLE: Citizens of Waveform
+SEASON: 01
+EPISODE: 11
+DURATION: 02:33:38
+FILENAME: steamlugcast.s01e11.citizens-of-waveform
+DESCRIPTION: Another special bumper episode of SteamLUG Cast for your listening pleasure! This time, we are joined by Ryan Vandendyck of Eden Industries and Linux/Mac porter Ethan ‘flibitijibibo’ Lee, chatting about Citizens of Earth, Waveform, Steam Greenlight, porting games and more! Enjoy!
+HOSTS: @ValiantCheese, John (@johndrinkwater)
+GUESTS: Ryan Vandendyck (@EdenIndustries), Ethan Lee (@flibitijibibo)
+ADDITIONAL:
+
+00:00:08 *Introduction*
+00:00:09 Cheese @ValiantCheese introduces
+00:00:16 @flibitijibibo attends the cast, also known as Ethan Lee http://flibitijibibo.com
+00:00:20 @johndrinkwater is also present
+00:00:23 Ryan Vandendyck, founder of @EdenIndustries http://www.edenindustries.ca/
+00:00:39 Waveform http://store.steampowered.com/app/204180/
+00:00:52 Citizens of Earth http://edenindustries.ca/blog/?page_id=233
+	Crowdfunding campaign http://www.kickstarter.com/projects/499609193/citizens-of-earth-a-modern-rpg
+00:01:18 How did Ethan and Ryan get in touch with each other?
+00:02:46 What was the initial reason for you wanting the audio work done?
+00:03:31 Are there still chances of that content for Waveform making an appearance at some stage?
+00:04:56 Ethan Lee, were you expecting to be doing any porting going into Waveform and going out of that?
+00:06:02 What kind of reception have you got from Linux users in regards to Waveform?
+00:06:59 How you find that has changed at all since Steam for Linux has been released?
+00:08:21 Does Ethan Lee think that there are any outstanding issues with the Steam for Linux client?
+00:10:45 Waveform’s interface mechanics seems intuitive, did it go through any polishing?
+00:13:58 Thoughts on the new Steam Controller
+00:18:12 Inspirations behind Citizens of Earth
+00:22:57 How long have you been working of Citizens of Earth?
+00:23:28 You launched a crowdfunding campaign now, how has that changed how you approach working on the game?
+00:25:28 Do you think the extra visibility that even a failed crowdfunding campaign has any downsides?
+00:32:12 Ryan reveals exclusive information on SteamLUG Cast!
+00:37:34 When Citizens of Earth is released, can we expect an simultaneous launch?
+00:38:06 Ethan talks about what he’s learned between porting Waveform and today
+00:41:14 Using F/OSS libraries made Waveform easier to develop and to port
+00:42:01 Open sourcing games
+	‘Dude, everybody’s code is terrible!’
+00:42:57 Ryan’s plans for the future
+	Android port of Waveform
+	Possible ports of Waveform and Citizens of Earth to Nintendo platforms
+	Eden Industries’ ‘Garden of Indie’ initiative http://edenindustries.ca/blog/?page_id=293
+00:47:08 Porting to new platforms and architectures takes work
+00:50:28 Ethan’s plans for the future.
+	Blueberry Garden’s Linux release. http://eriksvedang.com/blueberrygarden/
+	Currently working on 4 - 6 concurrent ports
+	One ‘Massive’ project for 2014
+	Citizens of Earth Linux port
+00:52:04 From a porting perspective, what makes a title big or small?
+00:52:59 Ryan’s work prior to Eden Industries’ founding in May 2010
+	Next Level Games http://www.nextlevelgames.com/
+	Tom Clancy’s Ghost Recon http://ghostrecon.us.ubi.com/wii/
+	Luigi’s Mansion: Dark Moon http://luigismansion.nintendo.com/
+	Mario Strikers Charged http://www.nintendo.com/sites/mariostrikerscharged/
+	Spiderman: Friend or Foe http://www.nextlevelgames.com/spiderman.php
+	Silicon Knights http://siliconknights.com/
+00:54:05 Ryan Vandendyck on Sup, Holmes? http://www.youtube.com/watch?v=CI_ibOTnscU
+00:54:15 Comparison between working on mainstream ‘AAA’ titles and working at Eden Industries
+	Exciting to work on original projects
+	Garden of Indie allows for a greater contribution to industry and gaming culture than individual work
+00:59:48 British Columbia Institute of Technology http://www.bcit.ca/
+01:00:42 Ethan’s ‘Astronomusic’ tech demo, which Cheese also worked on http://www.twolofbees.com/blog.php?pid=55
+01:02:11 Dust: An Elysian Tail http://www.noogy.com
+01:03:18 Do failed projects make moving onto the next project hard, or do they make you more determined?
+01:07:36 No Linux demo if Citizens of Earth yet, but it does run comfortably in Wine
+01:08:56 Eden Industries will continue working on Citizens of Earth regardless of the Kickstarter campaign
+	Announcements of exciting post-Kickstarter stuff will come soon!
+01:10:14 The sounds of Ryan working
+
+01:10:22 *SteamLUG Community Stuff*
+01:10:27 Recent Dota 2 event attracted some new faces http://steamcommunity.com/groups/steamlug#events/1586681944563787024
+01:11:11 Recent Left 4 Dead 2 event http://steamcommunity.com/groups/steamlug#events/1586681944563787024
+01:11:40 Upcoming Planetary Annihilation event http://steamcommunity.com/groups/steamlug#events/1533765913936875438
+	Planetary Annihilation pricing mentioned in [s01e02]
+01:12:59 Upcoming Legends of Aethereus event http://steamcommunity.com/groups/steamlug#events/1586681944563788918
+01:13:50 Possible events for November
+	Natural Selection 2 is more stable now
+	Left 4 Dead 2 has mic support on Linux http://store.steampowered.com/news/11611/
+	‘Late Rocktober’ Brütal Legend event
+	Team Fortress 2 Halloween
+	Killing Floor Halloween
+01:15:04 SteamLUG.org is now on GitHub https://github.com/SteamLUG/
+	Bugs and feature requests https://github.com/SteamLUG/steamlug.org/issues
+01:15:13 Epitron has added dynamic item highlighting for cast shownotes https://github.com/SteamLUG/steamlug.org/issues/41
+01:16:24 AMD vs Nvidia performance discussion thread http://steamcommunity.com/groups/steamlug/discussions/2/810938082040313570
+01:17:26 Cheese’s Assault Android Cactus review http://cheesetalks.twolofbees.com/aac.php
+	Assault Android Cactus mentioned in [s01e05]
+	@SanatanaMishra from Witchbeam Games, creators of Assault Android Cactus will be joining us for [s01e13]
+01:19:00 Cheese’s Game Club interview with Costume Quest lead, Tasha Harris http://cheesetalks.twolofbees.com/dfgc_tashaharris.php
+	Cheese’s Game Club interview with Ron Gilbert http://cheesetalks.twolofbees.com/dfgc_rongilbert.php
+	Game Club playing Costume Quest http://www.doublefine.com/forums/viewthread/10275/
+
+01:21:40 *Steam/Valve News*
+01:21:44 Steam client beta updates
+	Lots of big picture related changes
+	Steam will now better track games using launcher scripts http://steamcommunity.com/groups/SteamClientBeta/announcements/detail/1948097079891710787
+	Preparation for SteamOS related features
+01:22:26 SteamDB has been investigating recent client updates
+	Web server for handling remote control http://steamdb.info/blog/31/
+	Samba support for music streaming appears to have been removed http://steamdb.info/blog/30/
+	Looks like x264 codecs will be used for game streaming and vorbis and mp3 for audio
+01:30:39 Notable github happenings
+01:31:39 Minecraft Youtuber Coestar’s first impression of Steam for Linux was that it didn’t support his distro https://twitter.com/Coestar/status/390966282717122560
+01:33:52 Newer versions of Pulseaudio on some distros causing issues for some users
+01:37:43 Steam Developer Days http://www.steamdevdays.com/
+
+01:39:38 *October Greenlight Batch*
+01:39:43 18 of 37 titles offering Linux support http://steamcommunity.com/sharedfiles/filedetails/?id=184523004
+01:40:12 The Fall (congratulations to developer and recent guest, John Warner [s01e10]) http://steamcommunity.com/sharedfiles/filedetails/?id=177232316
+01:40:42 Neverending Nightmares http://steamcommunity.com/sharedfiles/filedetails/?id=173154732
+01:40:47 J.U.L.I.A. Enhanced Edition http://steamcommunity.com/sharedfiles/filedetails/?id=122116943
+01:40:54 Axis Game Factory http://steamcommunity.com/sharedfiles/filedetails/?id=183523867
+01:41:21 Fester Mudd: Curse of the Gold http://steamcommunity.com/sharedfiles/filedetails/?id=108161841
+01:41:48 Universum http://steamcommunity.com/sharedfiles/filedetails/?id=182740106
+01:43:18 Fotonica http://steamcommunity.com/sharedfiles/filedetails/?id=109260745
+01:45:16 Alien Swarm First Person http://steamcommunity.com/sharedfiles/filedetails/?id=158881815
+01:46:52 Stanley Parable developers having trouble getting cross platform compatibility but Linux is important http://steamcommunity.com/workshop/filedetails/discussion/95511356/864951022543260310/#c864951022560727533
+01:47:16 Alien Swarm vs Portal 2
+01:47:23 Portal 2 vs Portal
+
+01:52:33 *Our Gaming*
+01:52:34 @johndrinkwater has been playing Painkiller Hell & Damnation, Payday, Portal, Teleglitch and Euro Truck Simulator 2
+01:55:31 @flibitijibo has been playing Animal Crossing, The Legend of Zelda: Ocarina of Time, Rogue Legacy, Shadow Warrior and Escape Goat
+02:00:18 Ethan’s recent porting work
+02:01:50 Handling feedback and who should be responsible for customer facing interaction for Linux ports
+02:05:50 Escape Goat is now on Steam for Linux http://store.steampowered.com/app/251370
+02:09:41 Does the player play as a photon in Waveform?
+02:10:37 @ValiantCheese has been playing TF2, Worms: Reloaded, Costume Quest, Distance, Super Hexagon, The Fall (early prototype)
+
+02:13:25 *Gaming News*
+02:13:26 Humble Bundle with Android 7 http://blog.humblebundle.com/post/64128935736/drm-free-multiplatform-games-are-back-on-humble-bundle
+	Worms; Reloaded
+	The Bard’s Tale
+	Ticket To Ride
+	Greed Corp
+	Incredipede
+	Anodyne (not likely to be getting a native port) http://steamcommunity.com/app/234900/discussions/0/792923684171558319/#c792924412018222524
+02:14:56 Correction: Worms: Reloaded does not support cross platform play at all (Linux users can not play with Mac users)
+02:18:14 Rogue Legacy is now on Steam for Linux http://store.steampowered.com/app/241600/
+02:18:28 Monaco launching soon for Linux https://twitter.com/MonacoIsMine/status/390520580857819136
+02:19:30 The Dark Mod is now standalone http://www.thedarkmod.com/posts/free-standalone-tdm-2-0-now-available/
+02:20:09 Indie Royale’s Birthday Bundle includes Perfection for Linux http://www.indieroyale.com/newsletter/228
+02:21:28 Trine 2: Complete Story now available DRM free with Steam key from the Frozenbyte website http://frozenbyte.com/2013/10/small-updates-here-and-there/
+02:22:21 Dark Matter (mentioned in [s01e03]) is now available on Steam http://store.steampowered.com/app/251410/
+	Nuclear Dawn for Linux is still moving ahead http://forums.gameconnect.net/topic/19435-linux-version-eta/?p=34397
+02:23:18 Roundabout is on Steam Greenlight http://steamcommunity.com/sharedfiles/filedetails/?id=186357488
+02:24:47 Octodad: Deadliest Catch http://store.steampowered.com/app/224480/
+02:25:08 Xonotic Steam F.A.Q. http://www.xonotic.org/2013/10/about-xonotic-and-steam/
+
+02:26:17 *Crowdfunding News*
+02:26:19 Citizens of Earth http://www.kickstarter.com/projects/499609193/citizens-of-earth-a-modern-rpg
+02:26:34 New Double Fine crowdfunding project, Spacebase DF-9 http://www.spacebasedf9.com/
+	Project lead JP LeBreton @vectorpoem
+	Spacebase DF-9 introduction videos by Welshpixie (SteamLUG Cast guest from [s01e04]) http://www.youtube.com/watch?v=_4ekNtVDsfc
+02:30:02 Skyjacker has another crowdfunding campaign http://www.kickstarter.com/projects/digitilus/skyjacker-space-combat-sim
+
+02:32:38 *Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, Sword @swordfischer & John @johndrinkwater

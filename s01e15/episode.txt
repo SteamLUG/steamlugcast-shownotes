@@ -1,0 +1,97 @@
+RECORDED: 2013-12-13
+PUBLISHED: 2013-12-30
+TITLE: Gearing Up Your Kerbals
+SEASON: 01
+EPISODE: 15
+DURATION: 00:50:10
+FILENAME: steamlugcast.s01e15.gearing-up-your-kerbals
+DESCRIPTION: In this episode of SteamLUG Cast, Cheese is joined once again by Mim and DerRidda to chat about Steam updates, Steam Machine and SteamOS news, Humble Bundles, and hopefully #BringBackSteamChess.
+HOSTS: @ValiantCheese, @DerRidda, @MimLofBees
+GUESTS:
+ADDITIONAL:
+
+00:00:07 *Introduction*
+00:00:10 Cheese @twolofbees introduces
+00:00:16 Mim @MimLofBees
+00:00:18 DerRidda @DerRidda
+
+00:00:50 *SteamLUG Community Stuff*
+00:00:53 Past Events:
+	Nuclear Dawn bughunt event (following last cast [s01e14] with Nicholas Hastings) http://steamcommunity.com/groups/steamlug#events/1388529086683678181
+	Hammerwatch event http://steamcommunity.com/groups/steamlug#events/1388529086686443245
+	Gauntlet http://en.wikipedia.org/wiki/Gauntlet_%281985_video_game%29
+	Dota 2 http://steamcommunity.com/groups/steamlug#events/1388529086578680920
+	TF2 MvM http://steamcommunity.com/groups/steamlug#events/1389654443831009360
+	Valve updates TF2 in the middle of the match http://www.teamfortress.com/post.php?id=12026
+	Forced event http://steamcommunity.com/groups/steamlug#events/1389654443831012302
+	Secret of the Magic Crystals Stream http://steamcommunity.com/groups/steamlug#events/1389654443829961268
+00:05:40 Upcoming Events:
+	No More Room in Hell http://steamcommunity.com/groups/steamlug#events/1389654443831015753
+	Worms: Reloaded http://steamcommunity.com/groups/steamlug#events/1389654443833170292
+	Counter-Strike: Source http://steamcommunity.com/groups/steamlug#events/1389654443831017712
+	Secret of the Magic Crystals event http://steamcommunity.com/groups/steamlug#events/1371642038488229633
+	SoTMC jingle https://archive.steamlug.org/SteamLUG_-_SOTMC_Jingle.mp3
+	SoTMC VOD Part 1 of 2 http://www.youtube.com/watch?v=nQfIGvC0KJw
+	SoTMC VOD Part 2 of 2 http://www.youtube.com/watch?v=OADp0V-uGFM
+
+00:07:23 *Other Community Stuff*
+00:07:24 Help thread http://steamcommunity.com/groups/steamlug/discussions/0/648814213807127639/
+00:08:00 #BringBackSteamChess https://twitter.com/SteamDB/status/411053271298486272
+00:09:47 Kentucky Route Zero Act 2 with Jake Elliott this weekend for Game Club http://www.doublefine.com/forums/viewthread/11212/
+
+00:10:15 *Steam/Valve News*
+00:10:18 Big bunch of features moving out of beta into stable (breaks Steam in Wine) http://store.steampowered.com/news/11985/
+	Wine 1.7.8 http://www.winehq.org/announce/1.7.8
+	Red Orchestra 2 http://www.heroesofstalingrad.com/
+	Terraria http://www.terraria.org/
+00:13:37 Steam Machines only available to US beta participants http://steamcommunity.com/groups/steamuniverse#announcements/detail/1930088300965516570
+00:16:34 SteamOS beta launch http://store.steampowered.com/steamos/beta/
+00:17:18 Big Dota 2 update incoming http://www.dota2.com/news/updates/
+
+00:17:37 *Our Gaming*
+00:17:40 What have we been playing lately?
+00:17:42 Mim has been playing Team Fortress 2 (MvM event), finished Faster Than Light, Plants vs Zombies and The Room
+	Star Trek - Spock vs Kirk Battle Scene from the episode Amok Time http://www.youtube.com/watch?v=AphxyjrH4SE
+00:21:10 DerRidda has been playing Starbound and NEO Scavenger
+	He also mistakes Michigan with Massachusetts https://twitter.com/DerRidda/status/411783455899676672
+00:23:47 Cheese has been playing Gear Up, Battle Worlds: Kronos, Shuffle Puck Cantina, Particulars, Forced, TF2, Starbound, Hammerwatch, Worms: Reloaded and Nuclear Dawn
+
+00:25:51 *General Gaming News*
+00:25:55 Jagged Alliance - Back in Action, Betatest for Mac and Linux version http://steamcommunity.com/app/57740/discussions/0/648812916932163326/
+00:26:20 Telsagrad should be launched by the time we read this http://www.eurogamer.net/articles/2013-12-04-teslagrad-dated-for-pc-mac-and-linux-next-week
+	Steam page http://store.steampowered.com/app/249590/
+	Greenlight page http://steamcommunity.com/sharedfiles/filedetails/?id=144846288
+00:26:49 Humble Bundle stuff
+	Past Humble Weekly sale had Knytt Underground and Night Sky http://blog.humblebundle.com/post/69091447128/humble-weekly-sale-is-here-featuring-oddplanet-knytt
+	New Humble Weekly Sale has Dwarfs?! and Killing Floor http://blog.humblebundle.com/post/69804371760/rock-n-roll-with-rock-of-ages-killing-floor-in
+	New Humble Jumbo Bundle has Serious Sam 3, NS2, GMod http://blog.humblebundle.com/post/69608114607/humble-jumbo-bundle-adds-three-exceptional-titles
+00:32:06 New games on Steam
+00:32:15 Not The Robots on Steam http://store.steampowered.com/app/257120/?snr=1_230_linux__103
+00:32:40 Rust is available on Steam Early Access http://store.steampowered.com/app/252490/
+00:33:17 Entropy on Steam Early Access http://store.steampowered.com/app/255500/
+00:34:24 Particulars on Steam Early Access http://store.steampowered.com/app/259470
+00:35:31 Starbound on Steam Early Access http://store.steampowered.com/app/211820/
+00:35:57 Broken Sword 5 realeased on Steam http://store.steampowered.com/app/262940/
+00:36:14 Maia on Steam Early Access http://store.steampowered.com/app/252250/
+00:39:21 Double Fine announce Hack n Slash + ARG http://hacknslashthegame.com/
+	Forum thread http://www.doublefine.com/forums/viewthread/11309/
+00:40:36 Gear Up is now working again under Linux http://steamcommunity.com/app/214420/discussions/0/810922320134003674/#c630799905109803167
+00:41:32 Apotheon is available for preorder http://www.apotheongame.com/
+00:43:25 Kerbal Space Programme to get multiplayer thanks to community mods http://www.pcgamer.com/2013/12/12/kerbal-space-program-committed-to-multiplayer-career-and-sandbox-modes
+00:45:06 FTL: Advanced Edition http://www.ftlgame.com/?p=598
+	Meme mentioned by DerRidda http://i3.kym-cdn.com/entries/icons/original/000/000/128/slowpoke_pokemon.gif
+
+00:46:27 *Crowdfunding*
+00:46:31 Hand of Fate got funded http://www.kickstarter.com/projects/defiant/hand-of-fate-a-card-game-that-comes-to-life/
+00:46:38 Planetary Annihilation slips to “When it’s done” http://www.kickstarter.com/projects/659943965/planetary-annihilation-a-next-generation-rts/posts/685174
+00:47:03 Wasteland 2 is now in Beta http://www.kickstarter.com/projects/inxile/wasteland-2/posts/691853?ref=activity
+00:48:08 Elijah Wood Joins Cast of Double Fine’s Broken Age http://www.escapistmagazine.com/news/view/130329-Elijah-Wood-Joins-Cast-of-Double-Fines-Broken-Age#MLdAKSXETp1YsCuU.99
+	Backers-only thread http://www.doublefine.com/forums/viewthread/11260/
+	Animators AMA http://www.doublefine.com/forums/viewthread/11324/
+
+00:49:05 *Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @TwoLofBees, DerRidda @DerRidda & Mim @MimLofBees

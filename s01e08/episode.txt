@@ -1,0 +1,86 @@
+RECORDED: 2013-09-07
+PUBLISHED: 2013-10-07
+TITLE: Catching up on SteamLUG
+SEASON: 01
+EPISODE: 08
+DURATION: 00:38:27
+FILENAME: steamlugcast.s01e08.catching-up-on-steamlug
+DESCRIPTION: We’ve been busy recently, so we recorded a short cast on a Sunday evening, and you can hear us catch up on things… enjoy! (Please excuse our late posting of this, John has had less time to edit these together so things got a little backed up)
+HOSTS: @ValiantCheese, John (@johndrinkwater), @swordfischer
+GUESTS:
+ADDITIONAL:
+
+00:00:10 *Introduction*
+00:00:08 @TwoLofBees introduces…
+00:00:15 the return of @johndrinkwater along with…
+00:00:22 a surprise (yet regular) guest, @swordfischer
+
+00:00:45 *SteamLUG Community Stuff*
+00:00:53 Serious Sam 3 Jewel of the Nile DLC http://steamcommunity.com/groups/steamlug#events/1605816535260586214
+00:01:50 Natural Selection 2 http://steamcommunity.com/groups/steamlug#events
+00:03:02 Guns of Icarus http://steamcommunity.com/groups/steamlug#events/1603567902832124331
+00:04:10 Contact @swordfischer, @TwoLofBees or @johndrinkwater if you want to help out with Events
+00:04:10 Discussion Thread for Events http://steamcommunity.com/groups/steamlug/discussions/2/828934424146675833/
+
+00:06:12 *Steam and Valve News*
+00:06:16 Half-Life 1 SDK http://steamcommunity.com/games/70/announcements/detail/2199168953699017707
+00:07:26 Special weapons in CSCZDS were fixed. http://steamcommunity.com/games/100/announcements/detail/2146251573797336478
+
+00:10:10 *Greenlight News*
+00:10:14 100 Greenlight titles, er, Greenlit http://steamcommunity.com/sharedfiles/filedetails/?id=171260210
+00:11:22 Against The Wall http://steamcommunity.com/sharedfiles/filedetails/?id=102760280
+00:11:33 Legend of the Knightwasher http://steamcommunity.com/sharedfiles/filedetails/?id=92998873
+00:11:37 Son of Nor http://steamcommunity.com/sharedfiles/filedetails/?id=143053545
+00:11:46 Armikrog http://steamcommunity.com/sharedfiles/filedetails/?id=151640574
+00:11:55 Rawbots http://steamcommunity.com/sharedfiles/filedetails/?id=92987433
+00:12:00 Legends of Aethereus http://steamcommunity.com/sharedfiles/filedetails/?id=92957124
+00:12:07 Escape Goat http://steamcommunity.com/sharedfiles/filedetails/?id=92951461
+00:12:13 Reprisal http://steamcommunity.com/sharedfiles/filedetails/?id=141030686
+00:12:27 Knytt Underground http://steamcommunity.com/sharedfiles/filedetails/?id=113281105
+00:12:42 Megabyte Punch http://steamcommunity.com/sharedfiles/filedetails/?id=93137992
+00:12:46 Delver http://steamcommunity.com/sharedfiles/filedetails/?id=92982318
+00:12:54 The Plan http://steamcommunity.com/sharedfiles/filedetails/?id=123512321
+00:13:00 Teslagrad http://steamcommunity.com/sharedfiles/filedetails/?id=144846288
+
+00:13:24 *Our Gaming*
+00:13:32 Sword has been playing Counter-Strike: Condition Zero Deleted Scenes http://store.steampowered.com/app/80/
+00:14:15 Beat Hazard Ultra http://store.steampowered.com/app/49604/
+00:16:20 Serious Sam 3: Jewel of the Nile http://store.steampowered.com/app/41074/
+00:16:36 John has been playing… CS:GO (wined) http://store.steampowered.com/app/730/
+00:16:58 Postal http://store.steampowered.com/agecheck/app/232770/
+00:18:15 A Virus Named Tom beta testing http://store.steampowered.com/app/207650/
+00:18:43 Cheese has been playing Don’t Starve http://store.steampowered.com/app/219740/
+00:19:18 Distance Alpha http://survivethedistance.com/
+00:22:10 FTL: Faster Than Light http://store.steampowered.com/app/212680/
+00:22:30 Assault Android Cactus http://store.steampowered.com/app/250110/
+00:22:58 Kentucky Route Zero for Game Club http://store.steampowered.com/app/231200/
+00:23:53 Natural Selection 2 http://store.steampowered.com/app/4920/
+
+00:23:58 *Gaming News*
+00:24:00 Amnesia: A Machine for Pigs launch coming up 10th September https://www.humblebundle.com/store/amnesiaamachineforpigs/Skj382hsnblz
+00:24:55 John drops a Space: Above and Beyond reference and nobody got it :'(
+00:25:48 Metro: Last Light confirmed to be coming to Linux! http://www.joystiq.com/2013/08/27/metro-last-light-takes-a-ride-to-mac-linux/
+00:26:36 POSTAL 2 free DLC http://www.gamingonlinux.com/articles/time-to-go-postal-free-postal-2-dlc-on-its-way.2359
+00:26:58 Before https://twitter.com/Billowper/status/375625909296173056 http://www.beforegame.net/
+00:27:47 The Witness rendering http://the-witness.net/news/2013/09/on-the-rocks/
+00:27:40 Rime http://blog.eu.playstation.com/2013/09/03/your-first-look-at-stunning-ps4-adventure-rime/
+00:27:52 Proteus http://store.steampowered.com/app/219680/
+00:27:54 LOVE http://www.quelsolaar.com/love/
+00:29:56 Gravity Ghost preorders http://gravityghost.com/
+00:30:08 Boson X http://freegamer.blogspot.com.au/2013/09/boson-x-is-free-also.html
+
+00:30:58 *Crowdfunding News*
+00:31:00 0ad http://www.indiegogo.com/projects/support-0-a-d-an-open-source-strategy-game/x/686085
+00:32:44 Might No 9 http://www.kickstarter.com/projects/mightyno9/mighty-no-9
+00:34:00 Ittle Dew’s developer tweeted about licence costs for consoles https://twitter.com/reallyjoel/status/376334916507553792
+00:34:34 Secret of the Magic Crystals http://sotmc.artery-studios.com/wp/?page_id=83
+00:36:50 Battle World: Kronos mentioned on [s01e02] http://www.kickstarter.com/projects/kingartgames/battle-worlds-kronos-turn-based-strategy-revisited/
+00:37:14 Battle Isle reference http://en.wikipedia.org/wiki/Battle_Isle_%28series%29
+
+00:38:06 *Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @TwoLofBees, Sword @swordfischer & John @johndrinkwater
+

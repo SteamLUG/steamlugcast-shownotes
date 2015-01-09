@@ -1,0 +1,77 @@
+RECORDED: 2013-06-14
+PUBLISHED: 2013-06-17
+TITLE: Flowery Kickstarter
+SEASON: 01
+EPISODE: 02
+DURATION: 00:46:46
+FILENAME: steamlugcast.s01e02.flowery-kickstarter
+DESCRIPTION: We’re firmly into our stride now with our second podcast, we discuss past gaming events, Source getting bug fixes for save issues and go through a heap of new gaming news. And you certainly don’t hear the networking issues John was having…
+HOSTS: @ValiantCheese, John (@johndrinkwater), @swordfischer
+GUESTS:
+ADDITIONAL:
+
+00:00:31 *Introduction*
+00:01:10 Intro from @Xpander69 http://archive.steamlug.org/steamlugcast/steamlug_intro.ogg
+00:01:12 Outro from @Xpander69 http://archive.steamlug.org/steamlugcast/steamlug_outro.ogg
+
+00:01:50 *SteamLUG Community Stuff*
+00:01:57 Endomondo Group http://steamcommunity.com/groups/steamlug/discussions/0/864970587197350534/
+00:03:08 SteamLUG cast s01e01 http://steamlug.org/cast/s01e01
+00:03:53 Left 4 Dead 2 Event http://steamcommunity.com/groups/steamlug#events/1587795702092736398
+00:05:17 Killing Floor Event http://steamcommunity.com/groups/steamlug#events/1585540098956023444
+00:05:40 Amnesia Event http://steamcommunity.com/groups/steamlug#events/1587795702093282414
+00:06:30 Dungeon Defenders Event http://steamcommunity.com/groups/steamlug#events/1587795702092744075
+00:06:37 Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/1587795702092748040
+00:06:40 Counter‐Strike Source http://steamcommunity.com/groups/steamlug#events/1587795702092752815
+00:08:06 Discussion Thread for Events http://steamcommunity.com/groups/steamlug/discussions/2/828934424146675833
+
+00:08:08 *Steam/Valve News*
+00:08:15 Debian Testing Repository http://packages.debian.org/jessie/steam
+00:08:30 Debian Names http://en.wikipedia.org/wiki/Debian#Debian_release_code_names
+00:10:24 Valve Source Autosave bug http://steamcommunity.com/games/220/announcements/detail/2125978482864429012
+00:10:45 May Stats for Steam http://store.steampowered.com/hwsurvey?may13
+00:13:34 New Ubuntu Version http://www.ubuntu.com/download/desktop/install-desktop-latest
+
+00:14:49 *Gaming News*
+00:14:49 Humble Bundle 8 / Humble Weekly Serious Sam http://cheesetalks.twolofbees.com/humble/#Indie+8
+00:15:18 11Bit Bundle Weekly
+00:16:45 Dear Esther http://dear-esther.com/
+00:17:14 Little Inferno on Steam http://store.steampowered.com/app/221260/
+00:17:34 Serious Sam, Gaming on Linux article http://www.gamingonlinux.com/articles/serious-sam-4-is-going-to-come-to-linux.2067
+00:18:57 @swordfischer’s blog post about Steam tools for Linux https://swordfischer.com/2013/02/06/Steam-Tools-For-Linux/
+00:19:58 Arclight Bundle ‐ Great Permutator http://www.indieroyale.com/games/preview/great-permutator
+00:20:30 Great Permutator Greenlight http://steamcommunity.com/sharedfiles/filedetails/?id=141005475
+00:21:22 Trine 2 Dwarven Caverns http://store.steampowered.com/video/35720/
+00:22:10 Trading Cards for Trine 2 http://steamcommunity.com/groups/tradingcards#announcements/detail/1839999906566343136
+00:22:50 Card Bundles http://steamcommunity.com/groups/tradingcards/discussions/1/864969953748314145/
+00:24:22 Football Manager 2014 http://www.joystiq.com/2013/05/27/football-manager-2013-is-series-best-seller-fm2014-to-tackle-li/
+00:25:33 Poof http://www.polygon.com/2013/6/2/4389276/arkedo-studios-former-creative-director-announces-new-game-poof
+00:26:46 Drifter http://www.kickstarter.com/projects/celsiusgs/drifter-a-space-trading-game
+00:27:50 Incredipede https://twitter.com/ColinNorthway/status/345536690703720449
+00:28:20 @Sosowski creator of McPixel http://mcpixel.net/
+00:29:17 Alienware console‐like http://hothardware.com/Reviews/Dissecting-Dells-Haswell-Infused-Alienware-X51-R2-SFF-Gaming-PC/
+00:30:37 Rootgamer article from Verdun developer http://rootgamer.com/4659/news/interview-verdun-developers
+00:32:11 Wine 1.6 RC1 http://www.winehq.org/announce/1.6-rc1
+
+00:32:35 *Crowdfunding News*
+00:32:45 Makers Eden http://www.indiegogo.com/projects/the-maker-s-eden
+00:34:00 Double Fine Kickstarter: Massive Chalice http://www.kickstarter.com/projects/doublefine/double-fines-massive-chalice
+00:34:58 Indie Fund backing for 2 Double Fine titles http://www.gamasutra.com/view/news/194277/Double_Fine_receives_Indie_Fund_backing_for_two_new_titles.php
+00:35:20 Broken Age http://www.kickstarter.com/projects/doublefine/double-fine-adventure
+00:35:34 Dropchord http://www.dropchord.com/
+00:36:20 Son of Nor http://www.kickstarter.com/projects/stillalivestudios/son-of-nor-the-world-is-your-weapon
+00:37:08 Armikrog http://www.kickstarter.com/projects/1949537745/armikrog
+00:38:20 Battle Words: Kronos http://www.kickstarter.com/projects/kingartgames/battle-worlds-kronos-turn-based-strategy-revisited/posts/510220?ref=email&show_token=b637dac389d22490
+00:38:33 Race the Sun http://www.kickstarter.com/projects/flippfly/race-the-sun-endless-racer-with-mod-tools-and-mult/posts/491394
+00:38:55 Planetary Annihilation http://store.steampowered.com/app/233250/
+00:41:30 Akaneiro: Demon Hunters http://store.steampowered.com/app/230310/
+00:41:36 American McGee http://en.wikipedia.org/wiki/American_McGee
+00:43:08 Life of Pixel http://www.kickstarter.com/projects/1272313960/life-of-pixel
+00:45:15 Lugaru HD on Steam http://store.steampowered.com/app/25010/
+
+00:46:15 *Sign‐off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @TwoLofBees, Sword @swordfischer & John @johndrinkwater

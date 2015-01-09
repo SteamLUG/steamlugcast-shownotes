@@ -1,0 +1,61 @@
+RECORDED: 2013-08-24
+PUBLISHED: 2013-08-29
+TITLE: Cake Day {#steamlug is two}
+SEASON: 01
+EPISODE: 07
+DURATION: 00:38:19
+FILENAME: steamlugcast.s01e07.cake-day
+DESCRIPTION: It has been a busy few weeks, so both Cheese and John are exhausted and we draft in another member of the SteamLUG star chamber, Meklu to replace the AWOL Swordfischer. We have a rather shorter than usual chat about what has been happening in our community and on our platform. Enjoy!
+HOSTS: @ValiantCheese, John (@johndrinkwater), @mnarikka
+GUESTS:
+ADDITIONAL:
+
+00:00:10 *Introduction*
+00:00:15 @johndrinkwater returns
+00:00:18 @mnarikka joins us with confusion
+00:01:00 #steamlug’s second ‘cake day’
+
+00:01:33 *SteamLUG Community Stuff*
+00:01:42 Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/1605816535261281857
+00:02:08 Serious Sam 3 http://steamcommunity.com/groups/steamlug#events/1605816535260586214
+00:02:37 Counter-Strike: Source http://steamcommunity.com/groups/steamlug#events/1605816535261044158
+00:02:40 Killing Floor http://steamcommunity.com/groups/steamlug#events/1605816535260839649
+00:02:53 Contact @swordfischer, @TwoLofBees or @johndrinkwater if you want to help out with Events
+00:02:58 Discussion Thread for Events http://steamcommunity.com/groups/steamlug/discussions/2/828934424146675833/
+00:03:06 SteamLUG’s 7DFPS game Haunt mentioned in [s01e06]
+
+00:05:51 *Steam and Valve News*
+00:06:00 Counter-Strike: Condition Zero Deleted Scenes http://store.steampowered.com/app/100/
+00:06:33 Hate Plus http://store.steampowered.com/app/239700/
+00:06:50 Analogue: A Hate Story http://store.steampowered.com/app/209370/
+00:06:54 Ren’Py visual novel game engine http://www.renpy.org/
+
+00:08:14 *Gaming News*
+00:08:40 meklu has been playing Duke Nukem 3D: Megaton Edition http://store.steampowered.com/app/225140/
+00:10:36 Cheese played Rochard’s Hard Times DLC http://store.steampowered.com/app/107821/
+00:11:40 Cheese’s 7DFPS 2013 article with interviews on GOL http://www.gamingonlinux.com/articles/the-7dfps-challenge-2013-a-linux-perspective-part-one.2309
+00:12:12 Cheese’s tips of 7DFPS devs wanting to support Linux http://7dfps.com/?action=post&id=1017
+00:13:22 Part two of Cheese’s GOL article which lists Linux compatible 7DFPS titles http://www.gamingonlinux.com/articles/the-7dfps-challenge-2013-a-linux-perspective-part-two.2319
+00:14:04 GoG Indie dev push http://www.gog.com/indie
+00:17:00 Race The Sun http://flippfly.com/racethesun/
+00:18:22 Do a Barrel Roll! http://www.youtube.com/watch?v=wZ8z9FQEQiQ
+00:18:30 Gone Home http://store.steampowered.com/app/232430/
+00:19:46 New Legend Of The Knightwasher screenshots http://detocroix.blogspot.fi/2013/07/blog-and-legend-of-knightwasher.html
+00:20:21 ‘Go and vote for this [Knightwasher] on Greenlight! Go and vote right now.’ http://steamcommunity.com/sharedfiles/filedetails/?id=92998873
+00:21:59 Cannons Lasers Rockets http://www.desura.com/games/clr-cannons-lasers-rockets
+00:23:50 Against The Wall http://steamcommunity.com/sharedfiles/filedetails/?id=102760280
+00:24:54 Kairo http://store.steampowered.com/app/233230/
+00:25:03 Unity Asset Store https://www.assetstore.unity3d.com/
+00:26:10 Q.U.B.E. http://store.steampowered.com/app/203730/
+00:26:36 Don’t Starve http://store.steampowered.com/app/219740/
+00:33:30 Gravity Ghost http://livelyivy.com/gravityghost-com/
+00:34:50 Natural Selection 2 http://store.steampowered.com/app/4920/
+00:36:40 Nuclear Dawn http://store.steampowered.com/app/17710/
+
+00:37:50 *Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @TwoLofBees, Sword @swordfischer & John @johndrinkwater
+

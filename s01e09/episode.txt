@@ -1,0 +1,82 @@
+RECORDED: 2013-09-20
+PUBLISHED: 2013-10-08
+TITLE: We all need more Cardboard Cats
+SEASON: 01
+EPISODE: 09
+DURATION: 01:09:47
+FILENAME: steamlugcast.s01e09.we-all-need-more-cardboard-cats
+DESCRIPTION: Swordfischer and Cheeseness have been setup for this spectacular man‐date, where they discuss some pretty awesome FOSS related news on Steam. However Cheese can’t remember which license we use and swordfischer keeps lying to himself. All this, and more lovely news from your favourite cast!
+HOSTS: @ValiantCheese, @swordfischer
+GUESTS:
+ADDITIONAL:
+
+00:00:08 *Introduction*
+00:00:53 Software Freedom Day
+00:02:02 No Cheese, not CCNA ‐ CC‐BY‐SA.
+
+00:02:27 *SteamLUG Community Stuff*
+00:02:30 First Natural Selection 2 Event http://steamcommunity.com/groups/steamlug#events/1603567902832121500
+00:03:50 First Guns of Icarus Online Event http://steamcommunity.com/groups/steamlug#events/1603567902832124331
+00:05:59 Contact @swordfischer, @TwoLofBees or @johndrinkwater if you want to help out with Events
+00:05:59 Discussion Thread for Events http://steamcommunity.com/groups/steamlug/discussions/2/828934424146675833/
+00:07:32 SteamLUG Team Fortress 2 Event http://steamcommunity.com/groups/steamlug#events/1603567902832127204
+00:08:40 SteamLUG Crusader Kings II Event http://steamcommunity.com/groups/steamlug#events/1603567902832156202
+00:09:55 The Raven: Legacy of a Master Thief for Game Club http://www.doublefine.com/forums/viewthread/10199/
+
+00:10:48 *Steam/Valve News*
+00:10:59 Warsow Greenlit! http://steamcommunity.com/sharedfiles/filedetails/?id=125965803
+00:11:19 QFusion https://github.com/viciious/qfusion
+00:12:28 Hedgewars http://www.hedgewars.org/
+00:12:53 Steam Client Beta Update http://steamcommunity.com/groups/SteamClientBeta#announcements/detail/2001012563925261974
+00:13:01 Valve Living Room Reveal http://store.steampowered.com/livingroom/
+00:17:30 Motion Controlled Portal 2 Spin‐Off http://store.steampowered.com/app/247120/
+00:18:31 Independent Game Festival http://www.igf.com/
+	IGF, Valve re‐team to offer Steam agreements to 2014 Main Competition finalists http://www.gdconf.com/news/igf_valve_re-team_to_offer_ste.html
+00:19:43 Potato Sack Bundle http://en.wikipedia.org/wiki/Potato_Sack
+00:23:04 Steam Family Sharing http://store.steampowered.com/news/11436/
+00:27:24 Blender gets 2 parttime developers paid by Valve http://code.blender.org/index.php/2013/09/valve-steam-workshop-donations-2-devs-get-hired/
+00:30:50 Half‐Life: Source http://steamcommunity.com/games/280/announcements/detail/1999885868665690667
+00:32:10 Gabe’s keynote talk at LinuxCon http://arstechnica.com/gaming/2013/09/gabe-newell-linux-is-the-future-of-gaming-new-hardware-coming-soon/
+
+00:36:38 *Our Gaming*
+00:36:40 Sword
+	Condition Zero, Surgeon Simulator, Scrumbleship, Counter‐Strike: Condition Zero Deleted Scenes (completed!)
+00:42:30 Cheese
+	Battle Worlds: Kronos, Distance, Superfrog, Assault Android Cactus, The Raven, Guns of Icarus, Gun Monkeys, Another World, Serious Sam, Thomas Was Alone, Natural Selection 2
+
+00:48:40 *Gaming News*
+00:48:50 Nuclear Dawn http://forums.gameconnect.net/topic/19435-linux-version-eta/page-3#entry34331
+00:51:06 Wander now available for pre‐order http://sites.fastspring.com/wander/product/wander
+	http://steamcommunity.com/sharedfiles/filedetails/?id=136830410
+00:52:50 Unity Linux editor support highest requested feature http://feedback.unity3d.com/unity/all-categories/1/top/active
+00:55:00 Humble Indie Bundle Nine
+	Trine 2
+	Mark of the Ninja
+	Eets Munchies
+	Brutal Legend
+	FTL: Faster Than Light
+	Fez
+	Rocketbirds
+	A Virus Named Tom
+	Bastion
+	LIMBO
+01:00:40 Humble Weekly Sale ‐ Egosoft
+
+01:02:00 *Crowdfunding News*
+01:02:15 The Fall http://www.kickstarter.com/projects/189665092/the-fall-dark-story-driven-exploration-in-an-alien
+	The Fall on Greenlight http://steamcommunity.com/sharedfiles/filedetails/?id=177232316
+01:03:26 @swordfischer lies the first time.
+01:05:02 Neo Victorian Skirmish Squad http://www.kickstarter.com/projects/terncraftgames/neo-victorian-skirmish-squad
+	GamingonLinux article http://gamingonlinux.com/articles/terncraft-games-to-bring-their-latest-to-linux-help-fund-neovictorian-skirmish-squad.2436
+	Reddit post http://www.reddit.com/r/linux_gaming/comments/1ms9vl/my_studio_terncraft_games_will_be_developing_for/
+01:08:10 @swordfischer lies again.
+
+01:08:22 *Giveaway!*
+01:08:22 We’re giving away a gift of the current indiegala flashpoint bundle to a random person, who sends a suggestion to our cast email listed below!
+
+01:09:22 *Sign‐off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @TwoLofBees, Sword @swordfischer & John @johndrinkwater

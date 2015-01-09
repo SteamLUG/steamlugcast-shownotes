@@ -1,0 +1,78 @@
+RECORDED: 2013-11-01
+PUBLISHED: 2013-12-26
+TITLE: If Only We Could Find The Words
+SEASON: 01
+EPISODE: 12
+DURATION: 01:18:22
+FILENAME: steamlugcast.s01e12.if-only-we-could-find-the-words
+DESCRIPTION: We attempt to talk about games and events in our community, but we lose all sense of verbs.
+HOSTS: @ValiantCheese, John (@johndrinkwater), @swordfischer
+GUESTS:
+ADDITIONAL:
+
+00:00:08 *Introduction*
+00:00:10 Cheese @valiantcheese introduces
+00:00:14 John @johndrinkwater says hello
+00:00:16 Sword @swordfischer is back!
+
+00:00:39 *SteamLUG Community Stuff*
+00:00:43 Guns of Icarus Online http://steamcommunity.com/groups/steamlug#events/1586681944563790817
+00:01:41 Planetary Annihilation http://steamcommunity.com/groups/steamlug#events/1533765913936875438
+00:02:23 Upcoming events
+00:02:25 TF2 Halloween Event http://steamcommunity.com/groups/steamlug#events/1531515291225694518
+00:03:22 Left 4 Dead 2 http://steamcommunity.com/groups/steamlug#events/1531515291225696479
+00:03:30 Assault Android Cactus http://steamcommunity.com/groups/steamlug#events/1531515291225704796
+00:03:43 Monaco http://steamcommunity.com/groups/steamlug#events/1531515291225698679
+00:03:52 Painkiller H&D http://steamcommunity.com/groups/steamlug#events/1531515291225833787
+00:04:22 DOTA 2 http://steamcommunity.com/groups/steamlug#events/1531515291225701306
+00:05:15 Contact @swordfischer, @ValiantCheese or @johndrinkwater if you want to help out with Events
+00:05:15 Discussion Thread for Events http://steamcommunity.com/groups/steamlug/discussions/2/828934424146675833/
+00:05:20 Cheese wrote about the Steam Hardware and Software Survey http://cheesetalks.twolofbees.com/steamsurvey.php
+00:07:40 Sanatana Mishra of Witchbeam will be joining us for the next episode [s01e13]
+00:08:20 FORCED developers will be joining us for a future episode
+00:08:50 Painkiller H&D porter Leszek Godlewski will be joining us for a gaming event
+
+00:09:02 *Steam/Valve News*
+00:15:04 Left 4 Dead 2 now out of beta http://steamcommunity.com/gid/103582791430485503/announcements/detail/2198037436059778198
+00:16:22 Team Fortress 2 now has Rift support http://www.teamfortress.com/post.php?id=11746
+00:20:30 Steam’s OpenVR http://steamdb.info/app/250820
+00:22:53 SteamDB speculates a connection with ‘Vortex’? https://twitter.com/SteamDB/status/395287851656433664
+00:25:55 InfinitEye dual screen HMD demoed on Linux http://www.roadtovr.com/infiniteeye-worlds-first-ever-hands-210-fov-hmd-video/2
+00:31:25 Nixie Pixel’s ‘Why should I care about SteamOS?’ http://www.youtube.com/watch?v=aobrfsHqOlk
+00:32:25 (At this point in editing, I wanted to call the cast Citation Needed, but you’ll find out why I changed it later…)
+00:34:45 First HL2 non-Valve free mods
+	Synergy http://store.steampowered.com/app/17520/
+	No More Room in Hell http://store.steampowered.com/app/224260/
+00:36:38 Legendary Bibo made a ‘SteamOS’ boot theme for Grub 2 http://i.imgur.com/T4pbHXT.png https://github.com/LegendaryBibo/Steam-Big-Picture-Grub-Theme
+
+00:37:20 *Our Gaming*
+00:37:30 Cheese ‐ Another World, Worms Reloaded, Monaco, TF2, SpaceBase DF 9, Guns of Icarus, L4D2, Assault Android Cactus, Costume Quest, Super Hexagon
+00:40:28 Sword ‐ Legends of Aethereus, Killing Floor, FORCED
+00:47:00 John ‐ Team Fortress 2 for Halloween, Killing Floor, Ticket To Ride, Guns of Icarus event, The Bards Tale, Little Inferno, Monaco, Worms, FLIBITPORT
+
+00:49:30 *Gaming News*
+00:49:40 Cipher Prime (makers of Spice and Fractal) are hunting for testers https://twitter.com/cipherprime/status/394290702286213122
+00:52:10 FORCED is available for Linux http://store.steampowered.com/app/260880 http://imgur.com/gallery/yacucU1
+00:56:25 Inverto trying to get on Greenlight http://steamcommunity.com/sharedfiles/filedetails/?id=151983042 it is in http://groupees.com/bagb4
+00:58:10 Ryan sends word that he’s still working on Citizens of Earth following the unsuccessful Kickstarter campaign
+00:58:56 100 Greenlit Titles http://steamcommunity.com/games/765/announcements/detail/1515752692971060218
+	Particulars http://steamcommunity.com/sharedfiles/filedetails/?id=160936704
+	Flowstorm http://steamcommunity.com/sharedfiles/filedetails/?id=92912207
+	Drifter http://steamcommunity.com/sharedfiles/filedetails/?id=136694267
+	Shuffle Puck Cantina http://steamcommunity.com/sharedfiles/filedetails/?id=130001995
+	Zigfrak http://steamcommunity.com/sharedfiles/filedetails/?id=108218615
+
+01:08:00 *Crowdfunding*
+01:08:10 Knite & the Ghost Lights http://www.kickstarter.com/projects/2011341880/knite-and-the-ghost-lights http://imgur.com/gallery/Xm6bu
+01:08:57 7th Guest is getting a threequel! http://www.kickstarter.com/projects/1559170459/the-7th-guest-3-the-collector
+01:12:35 Red Baron came and went http://www.kickstarter.com/projects/madottergames/red-baron
+01:14:16 Secrets of Rætikon http://www.indiegogo.com/projects/secrets-of-raetikon
+01:16:00 Spine Features, a 2d graphics library for animations http://www.kickstarter.com/projects/esotericsoftware/spine-features
+01:16:26 Pulsar funded successfully http://www.kickstarter.com/projects/leafygames/pulsar-lost-colony
+
+01:17:35 *Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, Sword @swordfischer & John @johndrinkwater

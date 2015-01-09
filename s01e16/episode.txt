@@ -1,0 +1,91 @@
+RECORDED: 2013-12-27
+PUBLISHED: 2013-12-31
+TITLE: Casually Mature
+SEASON: 01
+EPISODE: 16
+DURATION: 01:05:43
+FILENAME: steamlugcast.s01e16.casually-mature
+DESCRIPTION: We return for the last episode of the season with more hosts! Less news! More gossip! We recap the events of the last fortnight, give you our predictions for the year ahead, and generally have a good natter. Enjoy!
+HOSTS: @ValiantCheese, @DerRidda, John (@johndrinkwater), @swordfischer, @MimLofBees
+GUESTS:
+ADDITIONAL:
+
+
+00:00:07 *Introduction*
+00:00:10 Cheese @ValiantCheese introduces the monkeys
+00:00:23 … and the monkeys reply:
+00:00:48 DerRidda @DerRidda
+00:01:10 John @johndrinkwater
+00:01:12 Sword @swordfischer
+00:01:14 Mim @MimLofBees
+
+00:01:58 *SteamLUG Community Stuff*
+00:02:00 Past Events:
+	No More Room in Hell http://steamcommunity.com/groups/steamlug#events/1389654443831015753
+	Secret of the Magic Crystals stream http://steamcommunity.com/groups/steamlug#events/1371642038488229633
+	Worms: Reloaded http://steamcommunity.com/groups/steamlug#events/1389654443833170292
+	Counter‐Strike: Source http://steamcommunity.com/groups/steamlug#events/1389654443831017712
+00:04:38 Upcoming Events:
+	Left 4 Dead 2 http://steamcommunity.com/groups/steamlug#events/1371642582314313265
+	Guns of Icarus Online http://steamcommunity.com/groups/steamlug#events/1389654443831020230
+00:04:58 John refers to Eskimos, sweets from a New Zealand friend http://www.lollyworld.com.au/index.php?main_page=product_info&products_id=626
+
+00:05:05 *Other Community Stuff*
+00:05:08 /r/Linux_Gaming goes Community Moderated for a month http://www.reddit.com/r/linux_gaming/comments/1t9e7o/testperiod_community_moderated_rlinux_gaming/
+00:06:02 SteamLinux (The Big List of Games for Steam on Linux.. or something similar) has been moved to JSON format https://github.com/SteamDatabase/SteamLinux
+00:07:26 John, Cheese and Robertoszek have been putting in a team effort to get the remaining cast archives ready. They are ready to go live by … now. Woo!
+
+00:08:14 *Steam/Valve News*
+00:08:15 SteamOS Discussion: Will SteamOS make developers adopt a trend of launching full‐screen and removing launchers in favour of Big Picture?
+00:12:18 SteamWorks API now allows Steam Controller support http://steamcommunity.com/groups/steamuniverse/announcements/detail/1927837135595731361
+00:14:42 Steam Family Options
+00:16:18 Steam Winter Sale
+
+00:17:28 *Our Gaming*
+00:17:30 What have we been playing lately?
+00:17:32 swordfischer ‐ Rogue Legacy, Secret of the Magic Crystals, Legends of Aethereus, Starbound, AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome, Prison Architect, FORCED, EDGE, Electronic Super Joy, Dwarfs?!
+00:20:25 Cheese ‐ Worms: Reloaded, Assault Android Cactus, Monaco, Spelunky, Planetary Annihilation, Gear Up, Poker Night 2
+00:21:00 DerRidda ‐ Shadowrun Returns, DOTA 2, Verdun
+00:22:58 Mim ‐ FTL, Slender
+00:25:06 John ‐ Gone Home, Legend of Dungeon, Overgrowth
+
+00:27:00 *General Gaming News*
+00:27:02 Assault Android Cactus got a big content update with new levels and new level dressings http://steamcommunity.com/games/250110/announcements/detail/1892934239046427103
+00:28:47 Torque 3D Linux port progress? http://freegamer.blogspot.com.au/2013/12/torque3d-seems-to-finally-get-linux-port.html
+00:29:53 Spacebase DF9 has had a major update http://spacebasedf9.com/post/70544152077/spacebase-df-9-alpha-3a-released
+00:32:55 Humble Indie Bundle PC with Android 8 http://humblebundle.com/
+
+00:40:18 *Crowdfunding*
+00:40:22 Mims: The Beginning http://www.indiegogo.com/projects/the-mims-beginning
+
+00:42:39 *SteamLUGcast Discussion*
+00:43:32 We’re ‘Casually Mature’
+00:44:50 Livestreaming?
+00:45:29 Twitch/YouTube Live
+00:46:40 Twitter cards
+00:47:04 John was right, Twitter wants AAC LC in MP4 ☹ https://dev.twitter.com/docs/cards/types/player-card
+
+00:49:25 *Predictions for 2014*
+00:48:30 CES is coming up, more machines?
+00:50:00 John predicts L4D3 news before summer?
+00:50:50 Sword hopes for Netflix and other streaming services
+00:51:15 zer0def wanted proof of sightings of Steam Machines in UK ‐ Codemasters https://twitter.com/Codemasters/status/413698110766854144 Introversion https://twitter.com/IVSoftware/status/415426505280196608
+00:52:27 Cheese predicts Volvo steam machine?!
+00:53:25 John predicts NVIDIA Shadowplay
+00:53:31 John predicts Twitch support
+00:53:47 Cheese predicts Torchlight 2
+00:53:52 DerRidda predicts AMD drivers are still going to be awful
+00:54:20 John hopes for BBC iPlayer
+00:54:33 Sword hopes for better Steam client skinning
+00:55:10 John predicts the client will get better caching and handling of offline support
+00:57:10 The cast thinks Mantle is going to be a dud
+00:57:50 John predicts Oculus will win the VR mindset war
+00:57:55 DerRidda predicts Sony is going to make a terrible HMD
+01:00:24 John asks the cast about motion control predictions (Leap Motion + DS4)
+
+01:05:10 *Sign‐off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, Sword @swordfischer & John @johndrinkwater

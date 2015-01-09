@@ -1,0 +1,90 @@
+RECORDED: 2013-11-29
+PUBLISHED: 2013-12-28
+TITLE: A Nuclear Dawn is upon us
+SEASON: 01
+EPISODE: 14
+DURATION: 01:01:31
+FILENAME: steamlugcast.s01e14.a-nuclear-dawn-is-upon-us
+DESCRIPTION: In this episode of SteamLUG Cast, Cheese, john and DerRidda are joined by InterWave developer and Nuclear Dawn porter psychonic! Listen on as we chat about working with the Source engine, Unity, Dark Matter, Nuclear Dawn, Black Mesa, the Linux Game Awards, and more!
+HOSTS: @ValiantCheese, John (@johndrinkwater), @DerRidda
+GUESTS: Nicholas Hastings (psychonic)
+ADDITIONAL:
+
+00:00:09 *Introduction*
+00:00:12 Cheese @ValiantCheese introduces
+00:00:15 @johndrinkwater attends to the cast
+00:00:17 @DerRidda is also present
+00:00:24 psychonic (http://github.com/psychonic) join us
+
+00:01:11 *Interview w/ Special Guest Nicholas Hastings (psychonic), porter of Nuclear Dawn*
+00:01:15 The basics of Nuclear Dawn
+	Nuclear Dawn http://www.nucleardawnthegame.com/
+00:03:54 Previous experience
+	SourceMod http://www.sourcemod.net
+00:04:36 Working with InterWave http://interwavestudios.com
+00:05:51 How long have you been working with InterWave?
+00:06:30 Has working with the Source SDK on Linux differed from working with it on Windows? http://source.valvesoftware.com/
+00:08:45 What aspects of Dark Matter did you work on?
+	Dark Matter http://www.darkmatterthegame.com/
+00:09:05 Pros and cons of Unity http://unity3d.com/
+00:10:20 Third-party audio libraries mentioned in [s01e10]
+00:11:04 What are your opinions of Dark Matter now that it is released?
+00:13:45 What sort of distros did you target when testing Dark Matter and Nuclear Dawn?
+00:15:06 Is been a pleasant experience porting Nuclear Dawn to Linux?
+00:17:02 Are there likely to be future InterWave games?
+00:19:00 Would you recommend Source Engine to any indie developer for licensing?
+00:20:40 Vampire: The Masquerade – Bloodlines http://en.wikipedia.org/wiki/Vampire:_The_Masquerade_%E2%80%93_Bloodlines
+00:21:26 Fistful of Frags http://www.fistful-of-frags.com
+
+00:23:20 *SteamLUG Community Stuff*
+00:23:21 Past events
+	Dota 2 http://steamcommunity.com/groups/steamlug#events/1531515291225701306
+	Painkiller with Linux porter Leszek Godlewski (@TheIneQuation) http://steamcommunity.com/groups/steamlug#events/1531515291225833787
+	Worms 18th Birthday Fun http://steamcommunity.com/groups/steamlug#events/1387402282390191689
+	Monaco http://steamcommunity.com/groups/steamlug#events/1531515291225698679
+00:29:03 Upcoming Events
+	Dota 2 http://steamcommunity.com/groups/steamlug#events/1388529086578680920
+	TF2 MvM (new maps) http://steamcommunity.com/groups/steamlug#events/1389654443831009360
+	Hammerwatch http://steamcommunity.com/groups/steamlug#events/1388529086686443245
+	Forced http://steamcommunity.com/groups/steamlug#events/1389654443831012302
+	Secret of the Magic Crystals http://steamcommunity.com/groups/steamlug#events/1389654443829961268
+
+00:31:26 *Steam/Valve News*
+00:31:32 Client update, overlay should restore gamma correctly now http://steamcommunity.com/groups/SteamClientBeta/announcements/detail/1801733269149197884
+00:32:17 Steam Reviews http://store.steampowered.com/reviews/
+00:33:38 Valve’s Anna Sweet says: ‘That would go against our whole philosophy, to launch something that’s exclusive to SteamOS or Steam machines.’ http://au.ign.com/articles/2013/11/04/valve-will-not-make-exclusive-games-for-steamos
+00:38:10 The second SteamOS console announcement (after Piston) http://www.theverge.com/2013/11/25/5146398/ibuypower-steam-machine-499-radeon-r9-270
+
+00:40:37 *Our Gaming*
+00:40:44 @DerRidda has been playing too much Dota 2, Hammerwatch and lots of Worms: Reloaded with Cheese and others
+00:41:23 @johndrinkwater has been playing three humble games, TF2, Dota2, Painkiller: Hell and Damnation
+	He also got a new controller, and also been probing it for support.
+00:42:04 Cheese has been playing Forced, Android Assault Cactus, Snapshot, Worms: Reloaded, Nuclear Dawn, Spacebase DF-9, TF2, Portal 2, The Cave, Superfrog HD, Glare, Monaco, Fez, finished Dark Matter
+	And he has been testing Air Conflics: Pacific Carriers and Gear Up
+00:44:55 Psychonic has been playing lots and lots of Dota 2
+
+00:45:37 *General Gaming News*
+00:45:40 Black Mesa getting a full commercial release, using an unannounced engine… http://steamcommunity.com/groups/BlackMesa/announcements/detail/1371639504554053878
+00:46:47 Hero-U demo is imminent (looks like they’ll be reworking the visual style of characters soon) http://www.youtube.com/watch?v=DRKycVbHce4
+00:48:39 Hammerfight now available https://twitter.com/icculus/status/405185250025668608
+00:48:47 Joe Danger officially announced http://www.hellogames.org/2013/11/joe-danger-coming-two-new-platforms/
+00:49:47 HOARD spotted on steamdb http://steamdb.info/app/63000/
+00:50:50 XCOM: EU depots spotted in steamdb http://steamdb.info/app/200510/#section_depots
+00:52:19 Linux Game Awards http://www.linuxgameawards.org/
+00:54:53 Assault Android Cactus has had a big update including a new character http://steamcommunity.com/games/250110/announcements/detail/1912072000319106072
+00:55:30 Steam keys for Battle Worlds: Kronos are now available for Kickstarter backers (and official site purchasers who bought the game pre-release) http://www.kickstarter.com/projects/kingartgames/battle-worlds-kronos-turn-based-strategy-revisited/posts/677947
+00:56:51 SCS Blender Tools http://steamcommunity.com/games/227300/announcements/detail/1388529086720387056
+
+00:57:19 *Crowdfunding*
+00:57:23 Second Mesa driver improvement campaign by Timothy Arceri http://www.indiegogo.com/projects/improve-opengl-support-for-the-linux-graphics-drivers-mesa
+	Previous campaign http://www.indiegogo.com/projects/help-improve-opengl-support-for-the-linux-graphics-drivers
+00:58:38 Red Baron failed kickstarter campaign http://www.kickstarter.com/projects/madottergames/red-baron
+	Wings Remastered Edition http://www.kickstarter.com/projects/850516062/wings-remastered-edition
+
+01:00:04 *Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, DerRidder @DerRidder & John @johndrinkwater
+

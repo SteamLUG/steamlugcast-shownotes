@@ -1,0 +1,89 @@
+RECORDED: 2013-07-12
+PUBLISHED: 2013-07-14
+TITLE: Maker’s Eden
+SEASON: 01
+EPISODE: 04
+DURATION: 00:55:08
+FILENAME: steamlugcast.s01e04.makers-eden
+DESCRIPTION: We’re into our fourth episode with a stab in the dark, an interview with the developers of a science‐fiction noir adventure game that’s currently going through crowd‐funding, Maker’s Eden. We also discuss the last fortnights’ events, an important announcement by Crytek, and we ponder @swordfischer’s obsession with horses. And John’s confusingly abnormal like of Bugzilla. We hope you enjoy!
+HOSTS: @ValiantCheese, @swordfischer, John (@johndrinkwater)
+GUESTS: Del (@WelshPixie), Jaco (@Warpgate9)
+ADDITIONAL:
+
+00:00:10 *Introduction*
+00:00:22 Del @WelshPixie
+00:00:24 Jaco @Warpgate9
+
+00:01:01 *Interview w/ Screwy Lightbulb*
+00:01:05 Screwy Lightbulb http://makerseden.screwylightbulb.com/
+00:01:48 Maker’s Eden Crowdfunding http://www.indiegogo.com/projects/the-maker-s-eden/x/686085
+00:01:54 Prototype/Demo http://screwylightbulb.com/community/viewtopic.php?f=3&t=35
+00:04:14 John’s reference to Killzone 2’s ‘Tilt’ http://youtu.be/bDr9mP1RsZk?t=3m52s
+00:04:35 Telltale’s Walking Dead http://store.steampowered.com/app/207610
+00:05:30 Story/Plot
+00:06:58 Inspirations
+00:07:42 Linux users?
+00:11:45 Other Screwy Lightbulb members
+00:15:14 Unity Cross‐Platform Development
+00:18:40 Campaign reminder ‐ Greenlight http://steamcommunity.com/sharedfiles/filedetails/?id=150210424
+
+00:19:24 *SteamLUG Community Stuff*
+00:19:30 Counter-Strike: Source Event http://steamcommunity.com/groups/steamlug#events/1587795702092752815
+00:19:43 Left 4 Dead 2 Event http://steamcommunity.com/groups/steamlug#events/1623827124404250263
+	Xpander’s recording http://www.youtube.com/watch?v=iyu4TGh2Kwo
+00:21:08 Serious Sam 3 Event http://steamcommunity.com/groups/steamlug#events/1603562738960428508
+00:21:47 Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/1623827124404253168
+00:22:08 DOTA2 testing, 14th Sunday, 16th Tuesday, 18th Thursday http://steamcommunity.com/groups/steamlug#events/1603563462061717382
+00:22:50 Killing Floor http://steamcommunity.com/groups/steamlug#events/1603562738925050071
+00:23:00 Half-Life 2 http://steamcommunity.com/groups/steamlug#events/1623827124404255106
+00:23:06 Left 4 Dead 2 http://steamcommunity.com/groups/steamlug#events/1623827124404256124
+00:23:14 Trine 2 (with FrozenByte) http://steamcommunity.com/groups/steamlug/events/1603562738964389531
+00:24:16 New GoldSrc Servers http://steamlug.org/servers/
+
+00:24:50 *Other Community Stuff*
+00:24:52 7DFPS 19th Aug http://steamcommunity.com/groups/steamlug/discussions/0/864973123208333161/
+
+00:26:30 *Steam/Valve News*
+00:26:36 Latest HWSurvey http://store.steampowered.com/hwsurvey
+00:27:45 GitHub activity
+00:31:20 L4D2 (Beta) beta http://steamcommunity.com/groups/steamlug#announcements/detail/1603562738523023021
+
+00:33:14 *Our Linux Gaming*
+00:33:22 Secret of the Magic Crystals (swordfischer) http://store.steampowered.com/app/45100/
+00:34:44 Dota 2 Test http://store.steampowered.com/app/570
+	TotalBiscuit’s ‘Welcome to Dota 2. You Suck.’ http://www.youtube.com/watch?v=yUcVxADBNeo
+00:35:08 Minecraft adds hay‐bales https://mojang.com/2013/06/minecraft-1-6-pre-release/
+00:35:40 Serious Sam 3 http://store.steampowered.com/app/41070/
+00:35:44 Left 4 Dead 2 http://store.steampowered.com/app/550/
+00:36:08 FTL: Faster Than Light http://store.steampowered.com/app/212680/
+
+00:36:54 *Gaming News*
+00:36:58 Crytek Linux Dev. Job Ad. http://www.crytek.com/career/offers/overview/frankfurt/programming-engineering/linux-programmer
+00:38:18 Nexuiz mentioned on [s01e03]
+00:39:10 Humble Weekly Sale: Two Tribes (RUSH debut) http://humblebundle.com/weekly
+00:39:22 John’s is thinking about Kula World http://www.youtube.com/watch?v=9yNvX2obxAk
+00:41:30 Twitter Storm https://twitter.com/TwoTribesGames/status/292044025643536384
+	And the finale https://twitter.com/TwoTribesGames/status/292295818122248192
+00:43:08 Rift Developer SDK https://developer.oculusvr.com/
+	Cheese’s Rift article/video http://www.gamingonlinux.com/articles/oculus-rift-first-impressions-and-official-linux-support.2133/
+00:43:54 Natural Selection 2 Linux screenies http://unknownworlds.com/ns2/state-of-development-june-2013/
+00:45:26 Desura bought by Linden Labs http://www.lindenlab.com/releases/linden-lab-acquires-desura
+00:46:16 SteamDB link to secondlife http://steamdb.info/app/209930/
+
+00:47:46 *Crowdfunding*
+00:47:50 Leadwerks http://www.kickstarter.com/projects/1937035674/leadwerks-build-linux-games-on-linux
+00:48:02 Double Fine Adventure taking as long as it takes http://www.kickstarter.com/projects/doublefine/double-fine-adventure/posts/527683
+00:48:40 Lacuna Passage http://www.kickstarter.com/projects/tylerowen/lacuna-passage
+00:49:30 Event Horizon http://www.imdb.com/title/tt0119081/
+00:51:54 Screwy Lightbulb’s Ludum Dare entry http://www.ludumdare.com/compo/ludum-dare-26/comment-page-1/?action=preview&uid=10871
+00:52:20 OpenSludge http://opensludge.sourceforge.net/
+00:53:00 Tesla Breaks The World http://www.kickstarter.com/projects/1660691250/tesla-breaks-the-world
+00:54:14 John’s lit building reference http://en.wikipedia.org/wiki/Joseph_Swan
+
+00:54:33 *Sign‐off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @TwoLofBees, Sword @swordfischer & John @johndrinkwater
+

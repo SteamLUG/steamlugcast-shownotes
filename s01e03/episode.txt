@@ -1,0 +1,66 @@
+RECORDED: 2013-06-28
+PUBLISHED: 2013-07-10
+TITLE: Oh Mer Gerd LerdWerks Fer Sterm
+SEASON: 01
+EPISODE: 03
+DURATION: 00:52:05
+FILENAME: steamlugcast.s01e03.oh-mer-gerd-lerdwerks-fer-sterm
+DESCRIPTION: Here it is, the third episode, covering our community events, gentle ribbing of Cheese with suggestions of PHP for an FPS, and discussing launch windows for future Valve titles ‐ all because we need their trading cards! You’re listening to SteamLUG cast, do enjoy…
+HOSTS: @swordfischer, John (@johndrinkwater), @ValiantCheese
+GUESTS:
+ADDITIONAL:
+
+00:00:38 *SteamLUG Community Stuff*
+00:00:44 Dungeon Defenders Event http://steamcommunity.com/groups/steamlug#events/1587795702092744075
+00:01:20 Team Fortress 2 Event http://steamcommunity.com/groups/steamlug#events/1587795702092748040
+00:02:10 Counter‐Strike: Source http://steamcommunity.com/groups/steamlug#events/1587795702092752815
+00:02:15 Left 4 Dead 2 http://steamcommunity.com/groups/steamlug#events/1623827124404250263
+00:02:16 Serious Sam 3 http://steamcommunity.com/groups/steamlug#events/1603562738960428508
+00:02:21 Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/1623827124404253168
+
+00:03:02 *Other Community Stuff*
+00:03:08 7DFPS http://7dfps.org/
+00:05:26 Broken Sword for Game Club http://www.doublefine.com/forums/viewthread/9677/
+
+00:07:50 *Steam/Valve News*
+00:08:00 Steam Client Beta Updates http://steamcommunity.com/groups/SteamClientBeta/announcements/detail/2035906576683229914
+00:09:35 GitHub activity
+00:09:50 Source SDK 2013 http://store.steampowered.com/news/10962/
+00:11:25 Half‐Life 2 is out of beta
+00:12:50 @swordfischer ’s Trading Card Habit http://steamcommunity.com/groups/tradingcards#announcements/detail/1819734886266652122
+
+00:13:45 *Greenlight News*
+00:13:50 Verdun http://steamcommunity.com/sharedfiles/filedetails/?id=148414779
+00:13:58 Cognition http://steamcommunity.com/sharedfiles/filedetails/?id=92915746
+00:13:59 Guncraft http://steamcommunity.com/sharedfiles/filedetails/?id=94212175
+00:14:00 Homesick http://steamcommunity.com/sharedfiles/filedetails/?id=120920423
+
+00:14:12 *Gaming News*
+00:14:32 @swordfischer was enjoying ‘Thomas Was Alone’ http://store.steampowered.com/app/220780/
+00:17:36 @johndrinkwater was enjoying ‘Trine 2’ http://store.steampowered.com/app/35720/
+00:18:06 Frozenbyte http://frozenbyte.com/
+00:18:30 @swordfischer was enjoying ‘Legends of Æthereus’ http://steamcommunity.com/sharedfiles/filedetails/?id=92957124
+00:19:18 Humble Bundle for Android 6 http://humblebundle.com/
+00:21:20 Fractal http://store.steampowered.com/app/61310/
+00:22:20 Klei Humble Weekly Sale (Shank + Shank 2) http://humblebundle.com/weekly
+00:26:18 Kentucky Route Zero: Act Two http://store.steampowered.com/news/10009/
+00:28:10 Xonotic 0.7 http://www.xonotic.org/2013/06/xonotic-0-7-release/
+00:31:00 Natural Selection 2 http://www.gamingonlinux.com/articles/natural-selection-2-is-looking-to-come-to-linux.2107
+
+00:32:40 *Crowdfunding News*
+00:32:52 Tesla Breaks The World http://www.kickstarter.com/projects/1660691250/tesla-breaks-the-world
+00:35:20 The Maker’s Eden http://www.indiegogo.com/projects/the-maker-s-eden/
+00:36:05 Leadwerks Game Engine http://www.kickstarter.com/projects/1937035674/leadwerks-build-linux-games-on-linux
+00:38:28 Satellite Reign http://www.kickstarter.com/projects/5livesstudios/satellite-reign
+00:40:02 Dark Matter http://www.kickstarter.com/projects/interwave/dark-matter-1
+00:42:03 Planetary Annihilation Linux Client http://www.gamingonlinux.com/articles/the-first-planetary-annihilation-rts-gameplay-and-alpha-information.1937
+00:43:35 Hero‐U: Rogue To Redemption http://www.hero-u.net/KS-store.php#storetop
+00:45:10 Armikrog (mentioned in [s01e02]) got funded - http://www.kickstarter.com/projects/1949537745/armikrog
+
+00:51:18 *Sign‐off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @TwoLofBees, Sword @swordfischer & John @johndrinkwater
+
