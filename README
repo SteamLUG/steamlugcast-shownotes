@@ -1,0 +1,36 @@
+_This description is a duplicate of https://github.com/SteamLUG/steamlug.org/wiki/SteamLUGcast-notes-format _
+
+All the episodes are stored in /var/www/archive.steamlug.org/steamlugcast/ under the naming pattern of s00e00/
+
+To upload a new episode, make a new directory, put whatever files you have ready in there. The site will not reflect the changes yet.
+Create a text file (unix line endings, and no fucking BOM please ‐ if you see Recorded date missing, you created the notes in a terrible editor) called episode.txt. The site will now think it needs to look at this episode, but without PUBLISHED date set, it will still hide it from RSS and the list on https://steamlug.org/cast/ _but_ you will still be able to visit that episodes specific page and it will be live.
+
+As the work borrowed from @swordfischer’s https://github.com/SteamLUG/steamlug.org/issues/52, you need to create this block of metadata at the start of the file.
+
+```
+RECORDED: 2014-05-30
+PUBLISHED: 2014-06-09
+TITLE: And Then There Were Two
+SEASON: 02
+EPISODE: 11
+DURATION: 00:45:46
+FILENAME: steamlugcast.s02e11.and-then-there-were-two
+DESCRIPTION: John and DerRidda discuss the last fortnight…
+HOSTS: John (@johndrinkwater), @DerRidda
+GUESTS:
+ADDITIONAL:
+
+00:00:10 *Introduction*
+```
+
+* Recorded and Published are ISO 8601 dates
+* Title is a human‐formatted sentence
+* Season and Episode are the deets for this recording
+* Duration is a HH:MM:SS format of the length of the edited episode. It can be produced easily with `avconv -i steamlugcast*.ogg 2>&1 | grep Duration`
+* Filename needs to be the cast basename without the extension. This is lame, but needed to avoid more pointless file i/o
+* Description is a paragraph of text that we previously started the notes off with…
+* Hosts and Guests, a comma‐separated list of people, of formats:
+`@twitterhandle, Real Name (@twitterhandle), handle` If any of the handles match a user we know of, we’ll include an avatar in the listings!
+* Additional is currently unused.
+
+Then a blank line, and then the real notes start, following the format we have always used ‐ and that now https://github.com/Cheeseness/transcriberer outputs!
