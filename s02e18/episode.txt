@@ -1,0 +1,128 @@
+RECORDED: 2014-09-05
+PUBLISHED: 2014-10-19
+TITLE: Devious Mevious
+SEASON: 02
+EPISODE: 18
+DURATION: 01:31:56
+FILENAME: steamlugcast.s02e18.devious-mevious
+DESCRIPTION: In this episode of SteamLUG Cast, we are joined by level designer and renown Portal mapper Mevious as we discuss his history, Portal Pro, Rexaura, the SteamLUG Portal 2 Mapping Challenge and more!
+HOSTS: @ValiantCheese, Nemoder, @Buckwangs
+GUESTS: @PortalMevious
+ADDITIONAL:
+
+00:00:10 *Introduction*
+00:00:16 Cheeseness @ValiantCheese introduces
+00:00:18 Nemoder
+00:00:21 Cockfight @Buckwangs
+00:00:24 and special guest Mevious @PortalMevious
+
+00:00:29 *Our Gaming*
+00:00:34 Nemoder has been playing Portal 2, Transportation Tycoon
+00:01:01 Cockfight puzzled through Hexcells Infinite, Left 4 Dead 2 and Portal 2
+00:01:30 Cheeseness enjoyed Portal 2 and Crypt of the NecroDancer
+00:02:02 Mevious spent Five Nights At Freddy's
+
+00:02:33 *Portal 2 Mapping Challenge & Mevious Interview*
+00:02:44 Turn out: 7 single player maps and 7 coop maps http://steamcommunity.com//sharedfiles/filedetails/?id=301747993
+00:03:02 Nemoder's favorites were Leo's map (SP) and Corben's map
+00:03:22 Cockfight liked Corben's map
+00:03:51 Mevious thought Brain Melter stood out
+00:04:32 Thoughts on difficulty and/or quality
+00:05:58 Limitations of Portal 2's in-game editor
+00:06:13 Opinions on the coop maps
+00:06:48 No nepotism in SteamLUG!
+00:07:03 Mevious' history in coop maps http://steamcommunity.com/profiles/76561197970484475/myworkshopfiles?appid=620&requiredtags[]=Cooperative
+00:07:57 Is Mevious just gifted or did he learn his puzzle-making skills?
+	Lemmings http://en.wikipedia.org/wiki/Lemmings_%28video_game%29
+	Lode Runner http://en.wikipedia.org/wiki/Lode_Runner
+	The Incredible Machine http://en.wikipedia.org/wiki/The_Incredible_Machine_%28series%29
+00:09:41 How did you become involved with Portal Pro? http://www.moddb.com/mods/portal-pro
+00:11:48 Cheeseness remembers that we should maybe ask our guest things
+00:12:02 Who is Mevious and what does he do?
+	Mevious' Steam Workshop profile http://steamcommunity.com/profiles/76561197970484475/myworkshopfiles
+00:12:30 He worked on the mod Rexaura http://steamcommunity.com/sharedfiles/filedetails/?id=265557293 which should come out on Steam soon.
+00:13:52 How did you come about working with Valve/being awarded the "Employee of the Moment" award? http://steamcommunity.com/sharedfiles/filedetails/?id=68462137
+00:15:25 How did the players respond to the DLC and your content?
+00:16:34 How important is public testing to map design?
+00:17:17 Should a puzzle have only one solution or multiple ways to solve it?
+00:19:43 Do you ever get the opportunity to watch other people play your maps?
+00:20:48 Your contributions to and opinion on Aperture Tag http://store.steampowered.com/app/280740
+00:22:05 Suggestions for SteamLUG mappers
+00:23:59 Elevator pitch for Rexaura http://steamcommunity.com/sharedfiles/filedetails/?id=265557293
+00:26:34 Opinion on the new version of Hammer that shipped with the Dota 2 SDK
+00:28:31 Advice for aspiring puzzle-makers
+00:31:33 Our resident firefighter asks: How did you feel when Valve approached you for beta testing?
+00:33:27 In which areas could the in-game editor be improved? And comments on BEEMOD http://portal2backstock.com/bee/
+00:37:34 What are you up to now?
+	Cardboard Sled http://cardboardsled.com/
+00:38:19 Mapping Challenge poll results and thoughts on the highest rated maps https://steamlug.org/poll-archive http://steamcommunity.com/groups/steamlug/discussions/2/35221031598904725/
+00:46:57 Closing thoughts on the challenge
+
+00:47:42 *Past Events*
+00:47:48 Garry’s Mod Prop Hunt http://steamcommunity.com/groups/steamlug#events/154565071659018225
+00:47:50 Dota 2 http://steamcommunity.com/groups/steamlug#events/154565071659019147 
+00:47:51 Guns of Icarus http://steamcommunity.com/groups/steamlug#events/154565071659019780 
+00:47:53 Running with Rifles http://steamcommunity.com/groups/steamlug#events/154565071659021972 
+
+00:48:41 *Upcoming Events*
+00:48:44 Post‐cast Event: Monaco http://steamcommunity.com/groups/steamlug#events/146686310026413929 
+00:48:52 6th Sat, Sanctum 2 http://steamcommunity.com/groups/steamlug#events/146686310026415258 
+00:49:08 12th Fri, TF2 http://steamcommunity.com/groups/steamlug#events/146686310026438490 
+00:49:10 13th Sat, Forced http://steamcommunity.com/groups/steamlug#events/146686310026440815 
+
+00:49:19 *Other Community Stuff*
+00:49:23 /r/linux_gaming got a theme change; many lives were lost. http://www.reddit.com/r/linux_gaming/comments/2fdbhp/new_stylesheet_for_rlinux_gaming/
+00:49:48 SteamLUG Mapping challenge https://steamcommunity.com/groups/steamlug/discussions/2/35221031598904725/
+00:49:52 Early poll support on the website, will open the door to a bunch of other projects https://steamlug.org/polls
+00:50:31 Cheese streamed The Maker’s Eden for Game Club http://www.doublefine.com/forums/viewthread/14637/
+00:51:14 Community videos from Lejoni, Nemoder and Hero of SteamLUG events and Portal 2 maps https://www.youtube.com/user/lejonicom/videos http://www.hitbox.tv/Nemoder https://www.youtube.com/user/HER001/videos
+
+00:52:07 *Steam/Valve News*
+00:52:10 Client updates: In‐home streaming has been restored http://steamcommunity.com/groups/SteamClientBeta#announcements/detail/211989137065361169 
+00:53:33 Debconf talk on SteamOS http://meetings-archive.debian.net/pub/debian-meetings/2014/debconf14/webm/SteamOS_and_Debian.webm
+00:53:57 Linus Torvalds talk http://meetings-archive.debian.net/pub/debian-meetings/2014/debconf14/webm/QA_with_Linus_Torvalds.webm
+00:55:22 In‐client music playback now supports Steam soundtracks http://store.steampowered.com/news/14358/
+
+00:56:01 *Tech News*
+00:56:06 Ryan Gordon on the Linux Action Show http://www.jupiterbroadcasting.com/65607/a-chat-with-icculus-linux-action-show-328/
+
+00:57:32 *Gaming News*
+00:57:33 Borderlands 2 confirmed for Linux http://www.gamingonlinux.com/articles/borderlands-2-also-looks-like-its-coming-to-linux-update-confirmed.4235
+00:59:04 Flockers has unused Linux depots http://steamdb.info/app/260330/history/
+	Worms: Reloaded http://store.steampowered.com/app/22600
+	Superfrog HD http://store.steampowered.com/app/234000
+	Worms Clan Wars http://steamdb.info/app/233840/#section_history
+01:01:02 Empire: Total War showing signs of Linux support http://steamdb.info/app/10500/history/
+01:02:05 This War of Mine coming to Linux at launch http://rootgamer.com/11568/news/this-war-mine-confirmed-linux-launch 
+01:02:57 The Vanishing of Ethan Carter devs looking into Linux support https://twitter.com/adrianchm/status/502519538672758784 
+01:03:26 Gauntlet Linux version will only support SteamOS and won’t ship until Steam machines are available https://twitter.com/ArtOfMalin/status/507193601630416896
+01:04:56 Altitude is now free http://store.steampowered.com/app/41300/ 
+01:05:17 Braid on Steam, port refreshed by Aaron Melcher of Knockout Games https://twitter.com/Jonathan_Blow/status/505117666701373440 https://twitter.com/knockoutgames/status/505228682303393793
+01:06:54 Robocraft has added Linux/Mac support http://store.steampowered.com/app/301520 http://robocraftgame.com/robocraft-adds-pflops-to-mac-and-linux/ 
+01:07:33 Screencheat is now available http://store.steampowered.com/app/301970/ 
+01:09:19 Book of Unwritten Takes 2 hits Steam Early Access http://store.steampowered.com/app/279940/
+01:11:07 Journey Down Chapter 2 is out (plus new trailer), raised half the money needed to help build a school in Tanzania http://www.thejourneydown.com/ https://twitter.com/theowaern/status/504008678325112836
+01:13:50 Firewatch trailer and gameplay footage from PAX http://blog.camposanto.com/post/96193204069/in-case-you-were-unable-to-join-us-live-in-seattle http://www.twitch.tv/pax2/b/563131781?t=23h16m50s
+01:15:59 New Civ: Beyond Earth trailer https://www.youtube.com/watch?v=S0Jx6GVxuPQ
+01:17:02 Double Fine News Bonanza
+01:17:14 Spacebase DF-9 Update + in-fiction leadup http://spacebasedf9.com/post/96592426710/spacebase-df-9-alpha-6-brig-ambitions-broken-dreams http://spacebasedf9.com/post/96545969130/case-file-101204-excerpt-index-07-06-05-04-03-02
+01:18:40 Grim Fandango Panel at PAX https://www.youtube.com/watch?v=s-LSMCYjHow http://www.twitch.tv/pax/c/5038825
+01:20:28 Hack ‘n’ Slash due for release on the 9th of September https://twitter.com/DoubleFine/status/502898958234947585
+01:20:53 Costume Quest 2 available for pre order, windsock guy confirmed http://store.steampowered.com/app/275180/ https://twitter.com/bburbank/status/505846403747160064
+01:21:55 Massive Chalice overview from PAX https://www.youtube.com/watch?v=FTVuVtahMBs
+01:22:24 Witcher 2, linux client download has appeared on GOG now as v 1.0.0 
+01:23:32 [discussion] Topic that came up on /r/linux_gaming, How is the performance of games on Linux? http://www.reddit.com/r/pcgaming/comments/2fchw6/people_that_game_on_linux_how_is_the_performance/
+01:25:48 Feral wants to know why people play games on Linux https://twitter.com/feralgames/status/507176386658721794
+
+01:27:52 *Crowdfunding*
+01:27:59 Pathologic https://www.kickstarter.com/projects/1535515364/pathologic 
+01:28:16 A Rite from the Stars was successfully funded (mentioned in S02E16) https://www.kickstarter.com/projects/risingoat/a-rite-from-the-stars-a-3d-graphic-adventure/posts/974664
+
+01:28:54 *Sign-off*
+01:28:58 Hexcells Infinite http://www.matthewbrowngames.com/hexcellsinfinite.html
+01:31:12 Feedback email cast@steamlug.org
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals @ValiantCheese & Cockfight @Buckwangs

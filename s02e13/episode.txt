@@ -1,0 +1,107 @@
+RECORDED: 2014-06-27
+PUBLISHED: 2014-07-16
+TITLE: Operation Bloody Future
+SEASON: 02
+EPISODE: 13
+DURATION: 01:09:18
+FILENAME: steamlugcast.s02e13.operation-bloody-future
+DESCRIPTION: Cheese, John and DerRidda discuss the last fortnight’s gaming news and releases. Apologies for DerRidda’s audio quality, where I could I cleaned it up, otherwise there are a few moments of static over his talking -- John.
+HOSTS: @ValiantCheese, John (@johndrinkwater), @DerRidda
+GUESTS:
+ADDITIONAL:
+
+00:00:33 *Introduction*
+00:00:09 Cheese @ValiantCheese introduces
+00:00:19 @johndrinkwater
+00:00:22 @DerRidda
+
+00:01:23 *Our Gaming*
+00:01:45 John has been playing LYNE and Circuits.
+00:02:26 DerRidda has been playing DOTA2, XCOM, Antichamber.
+00:02:43 Cheeseness has been testing The Fall, playing XCOM, Battle Block Theatre, Civ V, TF2, GoI:O.
+
+00:03:14 *SteamLUG Community Stuff*
+00:03:17 Past events:
+	Guns of Icarus: Online http://steamcommunity.com/groups/steamlug#events/1262444873166555033
+	Awesomenauts http://steamcommunity.com/groups/steamlug#events/1262444873166556184
+	Battle Block Theatre http://steamcommunity.com/groups/steamlug#events/1262444873166557458
+00:06:26 Upcoming events:
+	Starbound http://steamcommunity.com/groups/steamlug#events/1262444873166560778
+	Planetary Annihilation http://steamcommunity.com/groups/steamlug#events/1262444873166561904
+00:06:50 Event suggestions welcome via:
+	#SteamLUG IRC http://steamlug.org/irc
+	Twitter @SteamLUG
+	SteamLUG Mumble http://steamlug.org/mumble
+	Discussion thread http://steamcommunity.com/groups/steamlug/discussions/2/828934424146675833/
+	Email cast@steamlug.org
+00:06:53 Guns of Icarus: Online Clan
+00:08:04 We briefly discuss https://steamlug.org/projects and what we could do to expand the site.
+00:09:33 SteamLUG website updates thanks to @johndrinkwater @grinsekatze @mnarikka https://github.com/SteamLUG/steamlug.org/pull/86
+	More servers and support for further game types.
+	CSS and HTML tweaks.
+00:11:37 Soeb has written a port report for Civilisation V http://community.pcgamingwiki.com/page/blog/_/features/port-reports/pc-report-sid-meiers-civilization-v-on-linux-r150
+00:16:35 Game Club playing The Fall http://www.doublefine.com/forums/viewthread/14333/
+
+00:16:57 *Steam/Valve News*
+00:17:01 Client updates, Lots of nVidia streaming related tweaks
+00:17:43 Steam Summer Adventure Sale
+00:17:46 @swordfischer got drunk and bought lots of cards…
+00:18:10 DerRidda & Cheese grabbed XCOM in the sale, John picked up smaller LYNE, Circuits, HexCells
+
+00:20:37 *Tech Segment*
+00:20:39 @icculus’ SELF 2014 talk https://www.youtube.com/watch?v=n6A85exfRtA Linux Game Industry, it covers the early history of porting, glosses over the other porters but they are mentioned in his blog post that says its his point of view
+
+00:24:12 *Gaming News*
+00:24:15 Steam releases
+	XCOM: Unknown & XCOM: Enemy Within
+	Heroes Rise: The Hero Project
+	Heroes Rise: The Prodigy
+	World End Economica Episode.01
+	XenoRaptor
+	Fancy Skulls
+	A Wizard’s Lizard
+	Derrick The Deathfin
+	Knightmare Tower
+	Farm for your Life
+	Battle Group 2
+	Thinking With Time Machine
+	Limbo ‐ a new, native port
+00:34:17 John mentions Inside, PlayDead’s next game. They have confirmed it ‘debuting’ on Xbox, other platforms to come http://playdead.com/inside/
+00:34:37 GOL interview with Feral Interactive http://www.gamingonlinux.com/articles/gamingonlinux-interviews-feral-interactive-about-xcom-linux-game-development.3946/page=3#19985
+00:39:24 Thomas Was Alone Update, Benjamin’s Flight DLC
+00:41:17 Octodad Shorts http://octodadgame.com/shorts/
+00:42:26 Trine Enchanted Edition http://frozenbyte.com/2014/06/trine-enchanted-edition-enters-beta-on-steam/
+00:44:20 Assault Android Cactus Early Access update http://steamcommunity.com/games/250110/announcements/detail/1787116131660300667
+00:45:50 The Fall gets mouse capture following [s02e12] feedback http://steamcommunity.com/app/290770/discussions/0/522730701235367192/
+	New trailer http://www.youtube.com/watch?v=kHTYFqs4VnQ
+	Humble Store link https://www.humblebundle.com/store/p/thefall_storefront
+00:47:49 The Journey Down Chapter 2 is getting close to release http://www.thejourneydown.com/ http://www.skygoblin.com/
+00:50:47 Mount & Blade, Beta http://steamcommunity.com/games/mb_warband/announcements/detail/1534915349228263615
+	Xpander made a video https://www.youtube.com/watch?v=mED0irI8NIU
+00:52:23 Stanley Parable developer, GranPC, and some from the Linux community http://www.gamingonlinux.com/articles/trolling-delays-linux-release-of-the-stanley-parable.3938/
+	Timmy’s Harlem Shake got him a Steam Community ban http://istimmystillbanned.info/
+00:57:23 Goat Simulator, Beta http://steamcommunity.com/games/265930/announcements/detail/1694792339497096481
+00:58:25 Steam Greenlight batch approved with 37 games out of 75 featuring Linux support http://steamcommunity.com/sharedfiles/filedetails/?id=275489841
+	VoidSpace - The Dogecoin MMORPG http://steamcommunity.com/sharedfiles/filedetails/?id=269740803
+	RC Mini Racers http://steamcommunity.com/sharedfiles/filedetails/?id=94135470
+	Cheese mentioned it is very much like Re‐Volt http://en.wikipedia.org/wiki/Re-Volt
+	Sproggiwood http://steamcommunity.com/sharedfiles/filedetails/?id=268877801
+	John mentioned it is like Crypt of the NecroDancer http://necrodancer.com/
+
+01:02:16 *Crowdfunding*
+01:02:22 Valve have a kickstarter sale page http://store.steampowered.com/sale/kickstarter
+	…and the SteamLUG Cast get into a conversation about the age of kickstarting game projects
+
+01:05:35 *Sign-off*
+01:06:02 Our Starbound house http://steamcommunity.com/id/johndrinkwater/screenshot/595914029871640942
+01:06:08 John messing up the outro
+01:06:30 A wild xPaw arrives http://xpaw.me/
+01:06:42 SteamDB gains support for lowest sales price tracking http://steamdb.info/sales/
+01:07:15 xPaw’s userscript for owned games, Cepheus https://github.com/SteamDatabase/Cepheus
+01:06:24 John messing up the outro, again
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, DerRidda @DerRidda & John @johndrinkwater
+

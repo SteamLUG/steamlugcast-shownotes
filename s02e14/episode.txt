@@ -1,0 +1,129 @@
+RECORDED: 2014-06-11
+PUBLISHED: 2014-07-21
+TITLE: Mount and Gun
+SEASON: 02
+EPISODE: 14
+DURATION: 01:25:53
+FILENAME: steamlugcast.s02e14.mount-and-gun
+DESCRIPTION: We have four hosts to take you through the previous fortnight’s Linux Gaming News, and we discuss our kickstarter funded projects and expectations. Enjoy!
+HOSTS: @ValiantCheese, @swordfischer, John (@johndrinkwater), @DerRidda
+GUESTS:
+ADDITIONAL:
+
+00:00:10 *Introduction*
+00:00:11 @johndrinkwater introduces…
+00:00:17 @ValiantCheese
+00:00:20 @swordfischer and
+00:00:22 @DerRidda
+
+00:00:55 *Our Gaming*
+00:00:59 John has been playing more LYNE, watching DOTA’s TI4, Pivvot, and Three Dead Zed
+00:02:02 DerRidda played (and watched) DOTA, Broken Sword 2, and Pulsar
+00:04:46 Swordfischer played Block Storm, Fractal
+00:06:20 Cheese played Left 4 Dead 2, Guns of Icarus: Online, Hand of Fate, X‐Com, Planetary Annihilation, Starbound and testing BANG BANG BANG!
+
+00:07:52 *SteamLUG Community Stuff*
+00:07:58 Past Events:
+	Starbound http://steamcommunity.com/groups/steamlug#events/1262444873166560778
+	Planetary Annihilation http://steamcommunity.com/groups/steamlug#events/1262444873166561904
+	XCOM: Enemy Unknown http://steamcommunity.com/groups/steamlug#events/1262447672748968788
+	Deathmatch Classic http://steamcommunity.com/groups/steamlug#events/1262447672748970480
+	Regular Guns of Icarus events http://steamcommunity.com/groups/steamlug/discussions/2/558752449259869101/
+00:12:54 Upcoming Events:
+	11th Skulls of the Shogun http://steamcommunity.com/groups/steamlug#events/1262447672748971841
+	12th Left 4 Dead 2 http://steamcommunity.com/groups/steamlug#events/1262447672748972535
+	18th Civ V http://steamcommunity.com/groups/steamlug#events/1262447672748973507
+	19th Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/1262447672748974302
+00:13:00 Event suggestions welcome via:
+	#SteamLUG IRC http://steamlug.org/irc
+	Twitter @SteamLUG
+	SteamLUG Mumble http://steamlug.org/mumble
+	Discussion thread http://steamcommunity.com/groups/steamlug/discussions/2/828934424146675833/
+	Email cast@steamlug.org
+00:13:14 Other Community Stuff
+00:13:18 The Raven chapter 2 for Game Club http://www.doublefine.com/forums/viewthread/14388/
+00:13:43 Soeb’s XCOM article http://community.pcgamingwiki.com/page/blog/_/features/port-reports/pc-report-xcom-enemy-unknown-on-linux-r151
+00:15:38 PC Gaming Wiki PLUG HERE http://pcgamingwiki.com/
+00:16:10 SteamDB Linux’s crowd‐sourced repo has now confirmed 500 working titles on Steam Linux.
+00:17:09 John mentions Braid ‘We’re doing a from-scratch Braid/linux port, but there’s no ETA yet.’ https://twitter.com/icculus/status/486526723136446466
+00:18:30 Wry is keen to organise regular Starbound gatherings http://steamcommunity.com/groups/steamlug/discussions/2/46476145200059698/
+00:19:06 psymin has been experimenting with a SteamLUG group chat bot
+00:19:30 Upcoming Cast guests
+	Edwin Smith ‐ Feral Interactive
+	JP LeBreton ‐ Double Fine
+
+00:20:35 *Steam/Valve News*
+00:20:38 Steam Survey stats, up by 0.1% against other platforms
+	Slight growth from Mint 17, drop for Mint 16 and growth for ‘other’
+00:22:38 Steam Client updates
+	Fix performance issues for overlay for subscribed guides
+	On [s02e13] we mentioned better NV support for H/W acceleration, it’s been disabled now!
+	Mac/Win duplicate games are now hidden!
+00:23:30 Epic funded this research, ReVuln ‐ Steam VOIP Security http://revuln.com/files/ReVuln_Steam_Voip_Security.pdf
+
+00:24:10 *Tech News*
+00:24:12 Unity 4.5.2 released, includes fixes for mouse/freezing issues http://unity3d.com/unity/whats-new/unity-4.5.2
+00:25:02 Unreal Engine 4 Linux demos https://wiki.unrealengine.com/Linux_Demos
+00:27:30 John mentions issues at CrytekUK http://www.joystiq.com/2014/06/24/report-crytek-uk-in-trouble-staff-leaving/
+00:27:37 Sword is looking for a Single-Player First Person Shooter, can you recommend a title?
+00:29:49 Leszek mentioned that he is porting DarkSiders to Linux https://twitter.com/TheIneQuation/status/487612207149359104
+	Only the first one so far https://twitter.com/TheIneQuation/status/487622154880823296
+00:31:08 Epic sponsors Blender Development Fund to improve FBX export http://www.cgchannel.com/2014/07/epic-games-funds-blender-development/
+00:32:31 Oculus acquires RakNet and releases it under a simplified BSD licence https://www.kickstarter.com/projects/1523379957/oculus-rift-step-into-the-game/posts/902527
+00:33:39 OBS Studio is getting more usable, Nemoder has been streaming using it https://github.com/jp9000/obs-studio/
+
+00:37:05 *General Gaming News*
+00:37:09 Grim Fandango to get simultaneous Linux release www.gamingonlinux.com/articles/grim-fandango-will-be-reaping-its-way-onto-linux.4005
+00:40:13 Darksiders is being ported to Linux https://twitter.com/TheIneQuation/status/487612207149359104 It’s only the first one so far https://twitter.com/TheIneQuation/status/487622154880823296
+00:42:12 Dwarf Fortress update http://www.bay12games.com/dwarves/index.html
+00:43:11 Hand of Fate launches on Steam Early Access http://store.steampowered.com/app/266510
+00:46:38 Crawl release delayed http://steamcommunity.com/sharedfiles/filedetails/?id=230002412
+	That GIF http://www.powerhoof.com/wp-content/uploads/2014/07/powerhoof_VS_IRS_big.gif
+00:47:13 Team Fortress 2 Pre-Alpha map update http://www.teamfortress.com/post.php?id=13817
+00:48:35 Dragon’s Lair for Linux is ‘in the pipeline’ http://steamcommunity.com/app/227380/discussions/0/810924774427223517/#c45350244875719874
+00:49:39 Mountain is now available http://mountain-game.com/
+00:50:56 Virtual Programming have opened a beta channel on Steam with improvements to The Witcher 2 http://steamcommunity.com/app/20920/discussions/0/45350790916720011/
+00:53:02 Natural Selection development handed off to the ‘Community Development Team’. Linux devs wanted http://forums.unknownworlds.com/discussion/135095/we-need-you-linux-developers-to-join-the-cdt
+00:56:23 Humble
+	2K Bundle includes XCOM https://www.humblebundle.com/
+	Weekly Bundle: Gamepedia includes Stacking https://www.humblebundle.com/weekly
+	Store has its DRM Freedom Sale https://www.humblebundle.com/store/promo/drmfreedom
+	Eye Candy Weekly Sale is still available? https://www.humblebundle.com/store/p/eyecandy_weekly_storefront
+01:00:12 Steam releases
+	Sakura Spirit http://store.steampowered.com/app/313740/
+	Quest for Infamy http://store.steampowered.com/app/264560/
+	Deponia: The Complete Journey http://store.steampowered.com/app/292910/
+	Q*bert: Rebooted http://store.steampowered.com/app/285960/
+	Three Dead Zed (zombie platformer) http://store.steampowered.com/app/291390/
+	Hand of Fate http://store.steampowered.com/app/266510/
+	Mount and Blade: Warband http://store.steampowered.com/app/48700/
+	Cult of the Wind http://store.steampowered.com/app/293840/
+01:03:35 Greenlight http://steamcommunity.com//sharedfiles/filedetails/?id=283183175
+	Ionic Surge, Wipeout‐alike http://steamcommunity.com/sharedfiles/filedetails/?id=264374097
+	Attractio http://steamcommunity.com/sharedfiles/filedetails/?id=182738655
+	Bonetown, third-person fantasy-adventure http://steamcommunity.com/sharedfiles/filedetails/?id=277664705
+	Parcel, 3rd person maze puzzler http://steamcommunity.com/sharedfiles/filedetails/?id=275337301
+	Coloropus http://steamcommunity.com/sharedfiles/filedetails/?id=101886585
+
+01:07:48 *Crowdfunding*
+01:07:56 Nixie Pixel has a Patreon http://www.patreon.com/nixiepixel
+01:08:32 Cheese asks about our thoughts on Crowdfunding progress and experiences…
+01:08:56 John mentions Dyscourse http://store.steampowered.com/app/234920/, NOWHERE http://www.duangle.com/nowhere, Neverending Nightmares http://neverendingnightmares.com/
+01:10:51 Blender Open Movie Projects http://en.wikipedia.org/wiki/Blender_Foundation#Open_Projects
+01:12:54 Leadworks http://store.steampowered.com/app/251810/
+01:13:56 The Maker’s Eden (We interviewed them back in [s01e04]!) http://makerseden.screwylightbulb.com/
+01:14:58 Expeditions Conquistador http://store.steampowered.com/app/237430/
+01:15:10 Battle Worlds: Kronos http://store.steampowered.com/app/237470/
+01:15:25 The Fall http://store.steampowered.com/app/290770/
+01:15:31 Race The Sun http://store.steampowered.com/app/253030/
+01:16:24 Chasm http://steamcommunity.com/sharedfiles/filedetails/?id=116879147
+01:17:00 Wasteland 2 http://store.steampowered.com/app/240760/
+01:19:24 Cheese mentions Planetary Annihilation http://store.steampowered.com/app/233250/, Distance http://survivethedistance.com/, and Maia http://store.steampowered.com/app/252250/
+01:19:48 Star Citizen https://robertsspaceindustries.com/about-the-game
+
+01:23:43 *Sign‐off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, DerRidda @DerRidda, Sword @swordfischer & John @johndrinkwater

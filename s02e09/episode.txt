@@ -1,0 +1,147 @@
+RECORDED: 2014-05-02
+PUBLISHED: 2014-05-15
+TITLE: Leadwerks Steaming Ahead
+SEASON: 02
+EPISODE: 09
+DURATION: 01:21:07
+FILENAME: steamlugcast.s02e09.leadworks-steaming-ahead
+DESCRIPTION: In this cast we are joined by Josh Klint from Leadwerks to chat about his experience porting Leadwerks to Linux, all the challenges he had overcomed thus far, where his project will be heading in the future and the response he got from the Linux community. Then, Cheese, DerRidda and Nemoder will chat about some past events, Humble Bundles, Greenlight titles, interesting crowdfunding projects and more! Please note that during the recording of this episode, we experienced server difficulties. Apologies to those who tuned in live and for any remaining audio issues that we were unable to resolve during editing.
+HOSTS: @ValiantCheese, @DerRidda, Nemoder
+GUESTS: Josh Klint (@JoshKlint)
+ADDITIONAL:
+
+00:00:08 *Introduction*
+00:00:09 Cheese @ValiantCheese introduces
+00:00:16 DerRidda @DerRidda
+00:00:18 Nemoder http://steamcommunity.com/id/Nemoder
+00:00:20 Josh Klint @JoshKlint
+00:00:26 Our Mumble server misbehaved during the recording, apologies in advance for all of the issues you may encounter during the listening of this cast
+00:00:35 Sadly John @johndrinkwater couldn’t join us today (he passes on his apologies)
+
+00:00:43 *Our Gaming*
+00:00:46 DerRidda played Dota 2, FTL, Rising Storm
+00:00:57 Nemoder played Factorio, A Tale in the Desert, Guns of Icarus
+00:01:05 Cheese played The Fall, Crypt of the Necrodancer, Guns of Icarus Online, Sanctum 2, Worms: Reloaded, Synergy, FTL, Nuclear Dawn, Neverball.
+00:01:31 Josh played Amnesia: A Machine for Pigs, L4D2
+
+00:02:15 *Chat With Special Guest Josh Klint from Leadwerks*
+00:02:21 Leadwerks in a nutshell http://www.leadwerks.com/
+00:03:38 XCode https://developer.apple.com/xcode/
+	Code::Blocks http://www.codeblocks.org/
+	Visual Studio http://www.visualstudio.com/
+00:04:04 History of Leadwerks
+00:05:31 What made supporting Linux attractive?
+00:06:45 Leadwerks’ Kickstarter campaign (211% funded) https://www.kickstarter.com/projects/1937035674/leadwerks-build-linux-games-on-linux
+00:07:39 Crowdfunding response
+	Canonical http://www.canonical.com/
+	LinuxCon http://events.linuxfoundation.org/events/linuxcon-north-america
+00:09:21 Estimating your funding goal on Kickstarter
+00:09:57 Linux support
+	OpenGL 4 renderer for Leadwerks 3.1 http://www.leadwerks.com/werkspace/blog/1/entry-1142-tech-update-opengl-4-deferred-renderer/
+	AMD/ATi http://support.amd.com/en-us/download
+	NVIDIA http://www.nvidia.es/page/home.html
+	Intel HD Graphics http://www.intel.com/content/www/us/en/architecture-and-technology/hd-graphics/hd-graphics-developer.html
+00:11:21 Porting hurdles/pleasant surprises?
+	OpenGL http://www.opengl.org/
+	GTK+ http://www.gtk.org/
+	Qt http://qt-project.org/
+	GTK+ 3 https://developer.gnome.org/gtk3/3.0/
+00:13:44 Projects using Leadwerks engine
+	Steam page http://store.steampowered.com/app/251810/
+	Hoodwink http://www.hoodwinkgame.com/
+	Combat Helo http://www.combat-helo.com/
+	Dangerous Rays http://www.dangerousrays.com/
+00:14:55 Leadwerks availability
+	Leadwerks http://www.leadwerks.com
+	Steam page http://store.steampowered.com/app/251810/
+	Ubuntu Software Center https://apps.ubuntu.com/cat/
+00:16:21 Thoughts about the competition (UE3, CryEngine) changing to very aggressive pricing policies.
+	Unreal Engine https://www.unrealengine.com/
+	CryEngine http://cryengine.com/
+00:18:33 Blender Plug-in
+00:19:44 How do you approach the challenge of supporting a wide range of Linux distributions?
+00:21:32 Do you intend to target Steam Runtime in the near future?
+	Steam Runtime https://github.com/ValveSoftware/steam-runtime
+00:23:03 Taking advantage of Steam Workshop and the sharing capabilities within the Steam platform
+	Steam Workshop http://steamcommunity.com/workshop/
+00:30:23 Technical level required to approach Leadwerks Engine
+
+00:33:06 *SteamLUG Community Stuff*
+00:33:08 Past Events:
+	Guns of Icarus Online (post-cast event with over four full ships - played for 12 hours with people dropping in and out) http://steamcommunity.com/groups/steamlug#events/1280454197122386503
+	Little Racers STREET (fun event, some lag issues) http://steamcommunity.com/groups/steamlug#events/1280454197122387120
+	Worms: Reloaded http://steamcommunity.com/groups/steamlug#events/1280454197122387721
+	Synergy (full HL2 run plus some HLe1) http://steamcommunity.com/groups/steamlug#events/1280454197122388497
+00:35:43 Upcoming Events:
+	Post cast Dota 2 http://steamcommunity.com/groups/steamlug#events/1281581999424391636
+	Nuclear Dawn release celebration event http://steamcommunity.com/groups/steamlug#events/1281581999424272527
+	CS: Source http://steamcommunity.com/groups/steamlug#events/1281581999424394203
+
+00:36:13 *Other Community Stuff*
+00:36:14 A number of people participated in Ludum Dare http://www.ludumdare.com/
+	Tigge worked on a diving game http://www.ludumdare.com/compo/author/tigge/
+00:36:36 Game Club had Marco Rosenberg from King Art join us to chat about BoUT http://www.doublefine.com/forums/viewthread/13671/
+	The Book of Unwritten Tales http://bout.kingart-games.com/
+00:36:44 Game Club will be playing Spy Fox (kid oriented point and click adventure with Linux support) http://www.doublefine.com/forums/viewthread/13856/
+	Spy Fox in ‘Dry Cereal’ http://humongous.com/portfolio/spy-fox-in-dry-cereal/
+
+00:36:57 *Steam/Valve News*
+00:37:01 Large client update http://steamcommunity.com/groups/SteamClientBeta/announcements/detail/1694787904868150933
+00:37:42 Cheese had the opportunity to have a go of SteamVR
+	SteamVR http://steamcommunity.com/app/250820
+	Oculus Joins Facebook http://www.oculusvr.com/blog/oculus-joins-facebook/ (mentioned previously on [s02e07])
+	Facebook’s Oculus acquisition Press Release https://www.facebook.com/zuck/posts/10101319050523971
+
+00:45:57 *General Gaming News*
+00:46:03 HIB weekly sale http://blog.humblebundle.com/post/84438738302/the-humble-co-op-weekly-bundle-because-playing
+	Awesomenauts, Rocketbirds. Sanctum 2 has Linux beta but not listed in the sale
+00:46:27 Note: When Cheeseness says ‘There’s nothing in this bundle’, he actually said ‘There’s nothing *new* in this bundle’ but the ‘new’ got lost due to Mumble issues
+00:47:45 Shadowrun weekend Steam sale http://store.steampowered.com/news/13195/
+00:48:39 Hack ’n’ Slash trailer, Steam Early Access on 6th http://www.hacknslashthegame.com/
+00:51:29 Factorio trailer https://www.youtube.com/watch?v=9yDZM0diiYc
+00:52:21 Crypt of the NecroDancer will have Linux builds for pre-orderers super soon https://twitter.com/NecroDancerGame/status/461580532229214208
+	‘FYI,we support Linux because we <3 Linux. Linux games usually don’t sell enough to justify the extra effort but we do it anyway out of love!’ https://twitter.com/NecroDancerGame/status/461581553361899522
+00:54:29 The Fall will be released on June 1st http://www.overthemoongames.com/2014/launch-date-announced-june-1st/
+	Backer-only update https://www.kickstarter.com/projects/189665092/the-fall-dark-story-driven-exploration-in-an-alien/posts/828861
+00:56:14 Neverball has a new release soon (next week most likely) https://github.com/Neverball/neverball
+	Neverball 1.6.0 release notes https://github.com/Neverball/neverball/blob/master/doc/release-notes.md
+00:57:51 Escape Goat 2 has strong Linux stats after first month http://www.gamingonlinux.com/articles/escape-goat-2s-linux-sales-are-still-good-after-a-month.3604
+	Rust http://playrust.com/
+	Garry’s Mod http://www.garrysmod.com/
+01:02:19 Unreal 4.1 has Linux publishing support (editor still coming) https://www.unrealengine.com/blog/41-update-preview
+01:03:50 Borderlands 2 Linux hype https://twitter.com/DuvalMagic/status/457321493924306944 https://twitter.com/DuvalMagic/status/458705704610586624
+	Gearbox Software http://www.gearboxsoftware.com/
+01:05:41 Full Bore part 2 coming soon http://www.wholehog-games.com/fullbore/ http://www.polygon.com/2014/5/1/5672312/full-bore-part-2-coming-to-pc-and-linux-this-month
+
+01:06:01 *Steam releases*
+01:06:02 Freddi Fish and Luther’s Water Worries http://store.steampowered.com/app/294580/
+	Freddi Fish 2: The Cave of the Haunted Schoolhouse http://store.steampowered.com/app/294530/
+	Spy Fox 2 http://store.steampowered.com/app/292240/
+	Putt-Putt and Pep’s Dog on a Stick http://store.steampowered.com/app/294710/
+	The Last Federation http://store.steampowered.com/app/273070/
+	Wing IDE (python IDE) http://store.steampowered.com/app/244830/
+	Nekro entered Early Access http://store.steampowered.com/app/246400/
+	Jagged Alliance 1: Gold Edition http://store.steampowered.com/app/283270/
+	Out of the Park Baseball 15 http://store.steampowered.com/app/272670/
+	Broken Sword 5 Episode 2 http://store.steampowered.com/app/262940/
+01:11:13 Steam Greenlight April 29th Batch http://steamcommunity.com//sharedfiles/filedetails/?id=252983966
+	43 out of 75 titles mentioning Linux support
+	Flashout 2 http://steamcommunity.com/sharedfiles/filedetails/?id=244995815
+	Outcast Reboot HD (unlikely to meet its primary Kickstarter goal nor its Linux stretch goal) http://steamcommunity.com/sharedfiles/filedetails/?id=253011564
+	CHAOS - In the Darkness http://steamcommunity.com/sharedfiles/filedetails/?id=169707211
+	Nikki and the Robots http://steamcommunity.com/sharedfiles/filedetails/?id=107105028
+	Source http://steamcommunity.com/sharedfiles/filedetails/?id=252468293
+	The Universim http://steamcommunity.com/sharedfiles/filedetails/?id=250998536
+
+01:14:46 *Crowdfunding*
+01:14:48 The Universim https://www.kickstarter.com/projects/crytivogames/the-universim
+	Spore http://www.spore.com
+01:18:41 Last Life https://www.kickstarter.com/projects/1717469366/last-life/
+
+01:20:20 *Sign off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese & DerRidda @DerRidda
+

@@ -1,0 +1,112 @@
+RECORDED: 2014-01-10
+PUBLISHED: 2014-01-23
+TITLE: Breaking Down Steam Machines Specs
+SEASON: 02
+EPISODE: 01
+DURATION: 01:12:50
+FILENAME: steamlugcast.s02e01.breaking-down-steam-machines-specs
+DESCRIPTION: We’re back with a new season of SteamLUG Cast after a short holiday break. Cheese is joined once again by johndrinkwater and swordfischer to chat about the recent community events, Steam Machines unveiling at CES, new Humble Bundles and the credits interface present in Double Fine’s adventure game ‘Broken Age’! Enjoy!
+HOSTS: @ValiantCheese, @swordfischer, John (@johndrinkwater)
+GUESTS:
+ADDITIONAL:
+
+00:00:08 *Introduction*
+00:00:09 Cheese @ValiantCheese introduces
+00:00:16 Sword @swordfischer
+00:00:20 John @johndrinkwater
+
+00:00:56 *SteamLUG Community Stuff*
+00:01:01 Past Events:
+	Left 4 Dead 2 (free to own promotion) http://steamcommunity.com/groups/steamlug#events/1371642582314313265
+	Guns of Icarus Online http://steamcommunity.com/groups/steamlug#events/1389654443831020230
+	Team Fortress 2 Smissmas Event http://steamcommunity.com/groups/steamlug#events/1371642583203016431
+	Dota 2 http://steamcommunity.com/groups/steamlug#events/1371642583203019884
+00:04:55 Upcoming Events:
+	Guns of Icarus Online (post-cast) http://steamcommunity.com/groups/steamlug#events/1371642583203024214
+	Nuclear Dawn (servers being donated by Xeno Gamers) http://steamcommunity.com/groups/steamlug#events/1371642583203025979
+	Xeno Gamers Steam Group http://steamcommunity.com/groups/xenogamers
+	Xeno Gamers official site http://www.xenogamers.org
+	ND Battle Society Steam Group http://steamcommunity.com/groups/NDBattleSoc
+	RootGamer.com article http://rootgamer.com/9517/news/nuclear-dawn-bughunt-saturday
+	Nuclear Dawn event video courtesy of Xpander https://www.youtube.com/watch?v=gu15yeVjYkQ&list=UUNUOu9mkwysKsfLyPJF8YbQ&feature=c4-overview
+	Left 4 Dead 2 http://steamcommunity.com/groups/steamlug#events/1371642583203028622
+	No More Room In Hell http://steamcommunity.com/groups/steamlug#events/1371642583203030565
+	Brütal Legend (Early Rocktober) http://steamcommunity.com/groups/steamlug#events/1371642583203034023
+	Painkiller http://steamcommunity.com/groups/steamlug#events/1371642583203035621
+
+00:07:08 *Other Community Stuff*
+00:07:13 Recap end of year thank-you stuff http://steamcommunity.com/groups/steamlug#announcements/detail/1371642582903248297
+00:08:25 New SteamDB logo by Cheeseness http://steamdb.info/static/logos/
+00:09:06 Xpander has a video looking at the tools he uses in his gameplay videos http://www.youtube.com/watch?v=t-OOdkoohkQ
+00:09:47 HadBabbits has given us a copy of Surgeon Simulator to give away https://www.humblebundle.com/gift?key=m7RwNbtXrxrxKRyT
+00:11:18 Leadwerks Indie Edition http://store.steampowered.com/app/251810/
+00:11:56 Cheese’s Neverball ball tutorial http://www.youtube.com/watch?v=f6ed_BT3iR4
+	Github repo https://github.com/Cheeseness/neverball-ball-extras
+00:14:05 Reflections on /r/linux_gaming’s month of self moderation? (mentioned in [s01e16]) http://www.reddit.com/r/linux_gaming/comments/1t9e7o/testperiod_community_moderated_rlinux_gaming/
+	@swordfischer: ‘I dislike it a lot.’
+	Feedback post http://www.reddit.com/r/linux_gaming/comments/1vcob5/meta_the_testperiod_is_over_we_would_like_your/
+	swordfischer refers to this comment by rekonq http://www.reddit.com/r/linux_gaming/comments/1t9e7o/testperiod_community_moderated_rlinux_gaming/ce64s7p
+
+00:17:44 *Steam/Valve News*
+00:17:49 Steam Machines at CES (which stands for Consumer Electronic Show)
+	Valve news post http://store.steampowered.com/news/12175/
+	CES Press sheet PDF http://media.steampowered.com/store/steammachines/SteamMachinesBroc_WEB.PDF
+	SteamDB roundup http://steamdb.info/blog/39/
+00:34:14 Steam survey stats http://store.steampowered.com/hwsurvey
+	Minor increase on Linux platforms
+	Mint 16 64 bit is the biggest riser from the previous month’s results
+	No sign of SteamOS yet
+00:36:13 GitHub activity
+	A pretty quiet Christmas but theres a beta update coming soon that fixes overlay from not using custom themes, library issues with the runtime/overlay. The known issue about running non-steam games without the runtime is being considered. There’s a feature request to opt-in, per game, to use the runtime.
+	Steam Client Beta Updates http://steamcommunity.com/groups/SteamClientBeta#announcements
+00:37:17 Download Steam games not marked for Linux https://github.com/dotfloat/steam-appmanifest
+
+00:38:37 *Our Gaming*
+00:38:39 @swordfischer has been playing lots of Rogue Legacy.
+00:40:41 @ValiantCheese has been playing Gear Up, Runner 2, Joe Danger 2, Surgeon Simulator, Kairo, Spelunky, Assault Android Cactus, Fester Mudd (will be doing for Game Club next), SBDF9 and Worms: Reloaded.
+00:43:25 @johndrinkwater finished Thomas was Alone. He also has been playing Gravity Badgers, Hero Academy, TF2 and the Humble Bundle X games (To the Moon, Joe Danger 2, Papo & Yo, Reus and Surgeon Simulator)
+
+00:45:59 *Gaming News*
+00:46:01 Linux Game Award’s first Project of the Month Award goes to 0 A.D http://freegamer.blogspot.com.au/2014/01/happy-new-year-congrats-to-lga-jan-14.html
+00:47:42 Steam Releases
+	CID The Dummy released on Steam http://store.steampowered.com/app/45900
+	Out of the Park Baseball 14 released on Steam http://store.steampowered.com/app/263840/
+	Violett released on Steam http://store.steampowered.com/app/257830/
+	RaySupreme 3D released on Steam http://store.steampowered.com/app/262650/
+	Secrets of Rætikeon on Steam Early Access http://store.steampowered.com/app/246680/
+	Cities in Motion 2 http://store.steampowered.com/app/225420
+	Deadly 30 http://store.steampowered.com/app/264730
+	3089 http://store.steampowered.com/app/263360/
+00:49:24 Deadfall Adventures releases a Linux Beta http://steamcommunity.com/app/231330/discussions/0/648814844345682520/
+00:51:22 Farm 51 announces Get Even http://www.thefarm51.com/?module=projects&menu=6&id=3
+00:51:51 Humble Bundle X http://humblebundle.com
+	To The Moon, Joe Danger 2, Papo & Yo, Runner 2, Reus, Surgeon Simulator 2013, HOARD, Strike Suit Zero and Toki Tori 2+
+00:51:55 Drifter devs send word that they’re close to launching on Steam Early Access and have ports to other platforms progressing as well http://www.celsiusgs.com/blog/2014/01/briefly-looking-back-before-charging-forward/
+00:52:50 Desurium is no more (repo has been locked down and community admins have been removed) https://github.com/desura/Desurium/commit/2a2bf39ea6dba495e53f28fe0dcea7fcdeb15689
+00:53:12 Development is being continued as Linden Lab’s desura-app, which requires a CLA https://github.com/lindenlab/desura-app/blob/master/CONTRIBUTING.md
+00:54:31 TwoTribes suffers some setbacks. Assurances have been made that existing titles will continue to be available. http://twotribes.com/message/were-rebooting
+00:57:18 Devs talking about Linux providing good sales figures https://twitter.com/SimoRoth/statuses/420515523080638465
+
+01:02:23 *Crowdfunding*
+01:02:26 The Mims Beginning is nearly funded (mentioned previously in [s01e16]) http://www.indiegogo.com/projects/the-mims-beginning
+	Xpander’s video https://www.youtube.com/watch?v=0MGaL_ngvL8
+	GamingOnLinux article http://www.gamingonlinux.com/articles/the-mims-beginning-indiegogo-campaign.2924
+01:03:28 Hand of Fate http://defiantdev.com/handoffate.php
+01:04:12 Discussion point: How do we find out about crowdfunding projects and how do we personally decide what to back? Are we having to be more discerning now than this time last year?
+01:05:16 John refers to Pillow Castle’s The Museum of Simulation Technology http://pillowcastlegames.com
+	Tech Demo video http://www.youtube.com/watch?v=HOfll06X16c
+01:06:07 Greenlit titles supporting Linux http://www.gamingonlinux.com/articles/valve-has-greenlit-more-linux-games-for-steam.2910
+01:06:59 Broken Age is imminent (a few days away for backers, not too long after that for Steam Early Access). http://store.steampowered.com/app/232790/
+	Backer-only thread http://www.doublefine.com/forums/viewthread/11644/
+	Oliver Franzke @p1xelcoder will be joining us next Cast http://www.brokenagegame.com/
+	Correction: Broken Age part 1 will be available to the public on the 28th, not the 30th. http://www.doublefine.com/news/comments/broken_age_playable_for_backers_now_preorders_open_for_non-backers/
+	Correction: Only 13,500 or so of the 90,000 Broken Age backers are included in the credits.
+	Cheese deserves a slap on the wrist for talking about dates before they were publicly announced.
+	
+
+01:11:15 *Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, Sword @swordfischer & John @johndrinkwater

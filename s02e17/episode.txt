@@ -1,0 +1,69 @@
+RECORDED: 2014-08-22
+PUBLISHED: 2014-09-01
+TITLE: They Mostly Come Out at Night
+SEASON: 02
+EPISODE: 17
+DURATION: 00:57:38
+FILENAME: steamlugcast.s02e17.they-mostly-come-out-at-night
+DESCRIPTION: We have a terse update on the last fortnight’s Linux gaming news, we hear from our outside correspondent Corben covering Gamescom, and welcome some new voices to the cast, enjoy!
+HOSTS: @ValiantCheese, @DerRidda, @beansmyname, @Corben78
+GUESTS:
+ADDITIONAL:
+
+00:00:11 *Introduction*
+00:00:11 @ValiantCheese introduces
+00:00:20 @DerRidda
+00:00:21 @beansmyname
+00:00:24 @Corben78
+
+00:00:47 *Our Gaming*
+00:00:50 Bean has been playing Black Ice, XCOM: Enemy Unknown, TF2, Sanctum 2, Droid Assault and Ultratron.
+00:01:36 DerRidda has been in Dota 2, Among the Sleep, Leadwerks.
+00:02:06 Corben had a small amount of time to play Race the Sun, and The Witcher 2.
+00:03:45 Cheese hasn’t had much time either, but has been in Guns of Icarus: Online, Sanctum 2, and finally Fistful of Frags.
+
+00:04:02 *SteamLUG Community Stuff*
+00:04:04 Past events:
+	Trine 2 http://steamcommunity.com/groups/steamlug#events/154565071659014138
+	Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/154565071659015517
+	Portal 2 Mapping challenge http://steamcommunity.com/groups/steamlug#events/154565071659016829
+	Fistful of Frags http://steamcommunity.com/groups/steamlug#events/154565071659018198
+00:06:10 Upcoming Events
+	Post‐cast Gmod Prop Hunt http://steamcommunity.com/groups/steamlug#events/154565071659018225
+	Dota 2 http://steamcommunity.com/groups/steamlug#events/154565071659019147
+	Guns of Icarus: Online http://steamcommunity.com/groups/steamlug#events/154565071659019780
+	Running with Rifles http://steamcommunity.com/groups/steamlug#events/154565071659021972
+00:06:09 NeptNutz has Steam running on gNewSense http://steamcommunity.com/groups/steamlug/discussions/2/35220951703401746/
+00:07:44 Corben went to Gamescom and has written a report http://steamcommunity.com/groups/steamlug/discussions/0/35221031769196273/
+00:26:08 Mapping challenge has a few submissions already. Her0 and Nemoder have been doing video play‐throughs http://steamcommunity.com/groups/steamlug/discussions/2/35221031598904725/
+00:29:20 c3sk has reached out to ask if Linux users would be interested in Noct http://steamcommunity.com/groups/steamlug/discussions/2/35220951701382831/ http://steamcommunity.com/workshop/filedetails/discussion/298978414/34095131816292733/
+00:30:21 Cheese is streaming The Maker’s Eden for Game Club this weekend http://www.doublefine.com/forums/viewthread/14637/
+
+00:30:32 *Steam/Valve News*
+00:30:35 Steam Client got all the beta changes; improved visuals and many many updates
+	Beta has started again, more visual changes, VR gives better info for troubleshooting, music beta updates http://steamcommunity.com/groups/SteamClientBeta#announcements
+00:33:36 More things coming to Steam, new app types: film, TV series, video, plugin and music. https://twitter.com/SteamDB/status/498487122647846912
+
+00:33:58 *Tech News*
+00:34:01 Leszek Godlewski’s GDC slides: Advanced Linux Game Programming http://www.slideshare.net/LeszekGodlewski/advanced-linux-game-programming
+00:34:38 Leadwerks Game Engine is now available for Linux on Steam through public beta http://steamcommunity.com/games/251810/announcements/detail/239008199354759089
+
+00:38:57 *General Gaming News*
+00:38:59 Distance has moved up to beta status https://www.kickstarter.com/projects/1857884659/distance-a-next-generation-arcade-racer/posts/957504
+00:41:20 Lumino City has a new website and trailer http://www.luminocitygame.com
+00:42:33 Gunpoint is in beta for Linux http://www.pentadact.com/2014-08-18-gunpoint-mac-and-linux-ready-for-testing/
+00:43:26 Darksiders 2 coming to Linux (coming ‘really, really soon’ according to Leszek) http://www.joystiq.com/2014/08/13/not-the-right-time-for-red-faction-guerrilla-2-darksiders-2/ https://twitter.com/TheIneQuation/statuses/499891074417307649
+00:43:42 Sanctum 2 is finally released http://steamcommunity.com/games/210770/announcements/detail/216490925282534153
+00:46:56 The Witcher 2 update, release notes from unofficial repo https://github.com/KillaW0lf04/The-Witcher-2-Issues
+	poisond: If anyone has problems with it crashing at start‐up when pulseaudio is not installed, LD_PRELOAD your distro’s libasound.so
+00:48:51 Dead Island has an encrypted Linux depot now, is a VP port on Mac though http://steamdb.info/app/91310/depots/
+00:51:56 Wasteland 2 to be released on 19th September https://www.kickstarter.com/projects/inxile/wasteland-2/posts/959721
+00:52:52 Hack ‘n’ Slash to release on 9th September, mod tools later http://steamcommunity.com/games/246070/announcements/detail/281793664150411849
+00:54:23 Robocraft coming to Linux http://steamcommunity.com/games/301520/announcements/detail/201854770784767225
+
+00:56:21 *Sign‐off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals @ValiantCheese, @DerRidda, @beansmyname, @Corben78

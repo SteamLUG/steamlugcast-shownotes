@@ -1,0 +1,75 @@
+RECORDED: 2014-10-17
+PUBLISHED: 2014-12-12
+TITLE: Wonder Boy
+SEASON: 02
+EPISODE: 21
+DURATION: 00:48:04
+FILENAME: steamlugcast.s02e21.wonder-boy
+DESCRIPTION: We have four hosts to take you through the previous fortnight's Linux Gaming News, and we discuss our kickstarter funded projects and expectations. Enjoy!
+HOSTS: @ValiantCheese, @DerRidda, Nemoder, @Corben78
+GUESTS:
+ADDITIONAL:
+
+00:00:09 *Introduction*
+00:00:10 @Corben78 introduces...
+00:00:18 @ValiantCheese
+00:00:22 @DerRidda
+00:00:24 Nemoder
+
+00:00:30 *Our Gaming*
+00:00:33 @Corben78 played Alien: Isolation (on Windows) :(
+00:01:41 @ValiantCheese played Sanctum 2, Papo & Yo, Crypt of the NecroDancer, Pulsar
+00:02:33 @DerRidda has been playing Counter-Strike: Global Offensive, PULSAR: Lost Colony, A Golden Wake
+00:04:24 Nemoder played Crusader Kings 2, Guns of Icarus Online, Tropico 5, Factorio
+00:04:53 @Corben78 also played Left 4 Dead 2, Gas Guzzlers: Extreme
+
+00:05:52 *SteamLUG Community Stuff*
+00:06:03 Past Events:
+	Borderlands 2 http://steamcommunity.com/groups/steamlug#events/124171483566794324
+	CrusaderKings 2 http://steamcommunity.com/groups/steamlug#events/124171483566798299
+	Tropico 5 http://steamcommunity.com/groups/steamlug#events/124172228434791645
+	Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/124172228434890017
+00:07:45 Upcoming Events:
+	Counterstrike:GO http://steamcommunity.com/groups/steamlug#events/124172749616485522
+	Interstellar Marines http://steamcommunity.com/groups/steamlug#events/124172749617005786
+00:08:58 Steam event schedule notifications discussion http://steamcommunity.com/groups/steamlug/discussions/2/828934424146675833/
+00:10:59 7DFPS starts Nov 8th http://7dfps.com/
+	SteamLUG 7DFPS entry http://steamcommunity.com/groups/steamlug/discussions/0/619568074740603926/
+00:12:51 Soeb has published port reports for pcgamingwiki:
+	Borderlands 2 http://community.pcgamingwiki.com/page/blog/_/features/port-reports/pc-report-borderlands-2-on-linux-r160
+	Tropico 5 http://community.pcgamingwiki.com/page/blog/_/features/port-reports/pc-report-tropico-5-on-linux-r159 
+00:14:59 Cheese made a Costume Quest 2 bot that tweets Candy Corn combat lines https://twitter.com/cq2candycorn
+00:15:18 Game Club is playing Papo & Yo http://www.doublefine.com/forums/viewthread/15040/ 
+00:16:32 Concept art for Stacking was shared during the last Game Club session http://www.doublefine.com/forums/viewreply/360029/ 
+
+00:17:24 *Tech News*
+00:17:25 UnealEngine 4.5 released with experimental Linux editor https://forums.unrealengine.com/showthread.php?49302-Unreal-Engine-4-5-Released!
+00:18:42 Nvidia releases PhysX 3.3.2 which brings GPU acceleration to Linux http://physxinfo.com/news/12421/physx-sdk-3-3-2-arrives-adds-gpu-acceleration-support-on-linux/
+00:20:08 @flibitijibibo releases FNA to help port XNA games https://plus.google.com/+flibitijibibo/posts/9hkE87n3F4r
+
+00:21:33 *Gaming News*
+00:21:37 Borderlands: The Pre-Sequel has been released http://store.steampowered.com/app/261640/
+00:24:46 Eufloria HD for Linux is out https://twitter.com/RudolfKremers/status/522507069086519296
+00:25:49 Assault Android Cactus update brings in new boss and playable character http://steamcommunity.com/games/250110/announcements/detail/237888640206613641
+00:26:48 Brutal Legend gets a limited boxed edition that includes Linux builds https://theindiebox.com/brutal/
+00:30:01 Shovel Knight is available http://store.steampowered.com/app/250760
+00:32:14 GOG hits 100 titles http://www.gog.com/news/linux_update_weve_reached_the_100title_mark
+00:34:49 GOG dev stream confirms Galaxy for Linux (50:10), expression of interest in an open API (49:40) http://www.gog.com/news/ask_us_anything_on_twitch 
+00:35:29 Planetary Annihilation Offline mode added http://steamcommunity.com/games/233250/announcements/detail/130927679374116801
+00:35:55 TRI: Of Friendship and Madness is released http://ratking.de/2014/10/13/tri-its-done-o/ 
+00:36:17 Sigils of Elohim (Croteam) http://store.steampowered.com/app/321480/
+00:37:36 Linux beta of Scrolls (Mojang) is available for testing http://www.reddit.com/r/Scrolls/comments/2j3pxw/linux_client_experimental/
+00:40:55 Costume Quest 2 is out http://www.doublefine.com/news/comments/costume_quest_2_now_available_on_steam/
+00:42:05 Splot for Linux will be later than other desktop platforms https://twitter.com/Frozenbyte/status/519178167937146881
+00:42:39 Pixel Rift Linux build broken and removed for now http://www.pixelriftgame.com/ 
+00:43:30 Raven's Cry pirate themed RPG releases on November 27th https://www.gamingonlinux.com/articles/ravens-cry-the-openworld-action-rpg-has-a-new-release-date.4451
+
+00:44:52 *Crowdfunding*
+	4089: Ghost Within https://www.kickstarter.com/projects/phr00t/4089-ghost-within
+
+00:47:22 *Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, DerRidda @DerRidda and Corben @Corben78

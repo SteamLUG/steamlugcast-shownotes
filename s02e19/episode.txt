@@ -1,0 +1,110 @@
+RECORDED: 2014-09-19
+PUBLISHED: 2014-10-20
+TITLE: Lester Pixigon
+SEASON: 02
+EPISODE: 19
+DURATION: 01:29:49
+FILENAME: steamlugcast.s02e19.lester-pixigon
+DESCRIPTION: The SteamLUG cast is proud to have community member and Lead Maintainer/Developer for the Linux port of the Unity engine on the show.
+HOSTS: @ValiantCheese, @DerRidda
+GUESTS:  Levi Bard (Tak)
+ADDITIONAL: 
+
+00:00:10 *Introduction*
+00:00:12 @ValiantCheese introduces
+00:00:17 @DerRidda
+00:00:20 Levi Bard (Tak to the community)
+
+00:00:30 *Our Gaming*
+00:00:35 DerRidda has been playing Strife (S2 Games), Among the Sleep, Antichamber, Hexcells & Hexcells Plus, Shadowrun: Dragonfall (Director's Cut), Wasteland 2
+00:03:00 Cheese played Another World, Spacebase DF-9, Boson X, Space Run, Hack 'n' Slash, Thinking with Time Machine, Mark of the Ninja, Stranded
+00:04:33 Levi played Gang Beasts, Knight Squad, Assault Android Cactus and Broforce
+
+00:07:53 *Chat with special guest Levi Bard of Unity Technologies*
+00:08:13 Levi's history with Unity http://unity3d.com/
+00:08:51 What are you working on that you can share with the community?
+00:09:26 What kind of response did you get to the call for gamepad configurations? https://plus.google.com/104339689434081533648/posts/d3oBCgkthDT
+	Unity 5 will support SDL2 style gamepad profiles
+00:10:06 At what point did you decide you wanted to start bringing Unity to Linux?
+	Linux support was developed by Levi, Na'Tosha and others during Unity's internal "Fridays Are For Fun" flexible time http://blogs.unity3d.com/2009/11/18/fridays-are-for-fun/
+00:12:34 What kind of response did you get to Linux support in Unity?
+00:12:57 General reception from Linux users to the engine?
+00:13:37 Is publishing for Linux really a single-button export? http://unity3d.com/unity/multiplatform/desktop
+00:14:12 DerRidda notes the downsides of such easy export capabilities
+00:15:05 Any word on the Unity editor on Linux?
+00:15:31 Would the editor be born of Friday Fun time?
+00:15:51 Other engines targeting Linux for their editors could be incentive to Unity
+00:16:26 Biggest obstacles for Linux support for Unity?
+00:17:06 Is controller support a Linux-specific problem?
+00:18:17 Upcoming features in Unity 5 for Linux users? http://unity3d.com/5
+	Gamepad support and OpenGL improvements are not Linux specific but should be of value
+00:19:06 Cheese says thank you from the community for the Unity 4 fixes especially the mouse issues
+00:19:38 What two issues caused the mouse problems?
+00:20:22 What are some of the difficulties identifying issues?
+00:21:09 What can the community do to convince developers to update their games' build of Unity?
+00:21:37 Tips for developers who are reluctant to break existing games by upgrading?
+00:23:17 Levi's favorite game using the engine?
+	Shadowrun: Dragonfall - Director's Cut http://harebrained-schemes.com/shadowrun/dragonfall/
+	Wasteland 2 https://wasteland.inxile-entertainment.com/
+	Assault Android Cactus http://www.assaultandroidcactus.com/
+	Gang Beasts http://gangbeasts.com/
+00:24:50 Anything else to share with the community?
+00:25:08 DerRidda points out that Levi is a member of the community and can often be found in the #SteamLUG IRC channel https://steamlug.org/irc
+00:26:00 Community members bring up issues before developers in many cases
+00:27:33 Levi asks what the community would like
+00:29:12 Is there a Web Player for Linux?
+00:29:42 Will we see the WebGL version in Unity 5?
+	Unity WebGL announcement http://blogs.unity3d.com/2014/04/29/on-the-future-of-web-publishing-in-unity/
+00:30:29 Discussion of browser-based games ensues
+00:32:19 Chat conclusion
+
+00:32:33 *SteamLUG Community Stuff*
+00:32:37 Past Events
+	Monaco http://steamcommunity.com/groups/steamlug#events/146686310026413929
+	Sanctum 2 http://steamcommunity.com/groups/steamlug#events/146686310026415258
+	Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/146686310026438490
+	Forced http://steamcommunity.com/groups/steamlug#events/146686310026440815
+00:33:47 Upcoming Events
+	Frozen Synapse http://steamcommunity.com/groups/steamlug#events/124168944283321522
+	No More Room in Hell http://steamcommunity.com/groups/steamlug#events/124168944283322584
+	Planetary Annihilation http://steamcommunity.com/groups/steamlug#events/124168944283345986
+	Orbital Gear http://steamcommunity.com/groups/steamlug#events/124168944283347522
+00:35:31 DerRidda nudges Cheese to talk about getting an old favorite ported to Linux
+00:36:33 Another World launched for Linux http://store.steampowered.com/app/233550/
+00:36:49 Cheese jotted down some brief notes about the game http://cheesetalks.twolofbees.com/anotherworld.php
+00:39:27 Cheese waffles about his fanart for Another World http://twolofbees.com/artwork.php?iid=1275
+00:44:26 Fabien Sanglard's Another World code review http://fabiensanglard.net/anotherWorld_code_review/
+00:44:53 Cheese is looking for perspectives from players who like Another World for a follow up article cheese@twolofbees.com
+00:45:25 DoubleFine Game Club will be streaming Stacking with special guest Lee Petty http://double-fine-game-club.github.io
+	Live interview http://cheesetalks.twolofbees.com/dfgc_leepetty.php
+00:46:20 psymin posted some guidelines for giving useful feedback to developers http://steamcommunity.com/groups/steamlug/discussions/2/616187839465309235/
+
+00:47:35 *Valve News*
+00:47:38 SteamOS talk from DebConf 2014 http://meetings-archive.debian.net/pub/debian-meetings/2014/debconf14/webm/SteamOS_and_Debian.webm
+00:49:17 Is targeting one distro really necessary? Or could support be extended to any distro on which the Steam Runtime works?
+00:53:59 Valve opened a forum thread in the Steam Universe group regarding feedback on AMD graphics drivers http://steamcommunity.com/groups/steamuniverse/discussions/1/616187839533548192/
+
+00:55:22 *Tech News*
+00:55:26 NVidia releases driver 343.22 with support for latest cards https://devtalk.nvidia.com/default/topic/776025/unix-graphics-announcements-and-news/linux-solaris-and-freebsd-driver-343-22/
+
+00:57:00 *General Gaming News*
+00:57:10 Gaming on Linux article on Another World launch with quotes from @icculus http://www.gamingonlinux.com/articles/another-world-now-available-for-linux-plus-cheeses-thoughts-and-some-words-from-icculus.4303
+00:57:26 Spacebase DF-9 will be releasing next month http://spacebasedf9.com/post/97755808095/the-road-to-1-0
+01:02:42 Tropico 5 released for Linux http://store.steampowered.com/app/245620/
+01:04:22 Humble Indie Bundle 12 released https://en.wikipedia.org/wiki/List_of_Humble_Bundles
+01:09:05 Hack 'n' Slash was released with source http://www.gamingonlinux.com/articles/hack-n-slash-10-now-available-with-sources-and-workshop-support.4282
+01:11:27 Wasteland 2 released http://store.steampowered.com/app/240760/
+01:17:37 Starbound changes ahead https://twitter.com/Tiyuri/status/512590682914312192
+01:19:32 Chasm devs share Linux screenshots https://twitter.com/DiscordGames/status/508445720446513152
+01:21:03 Shadowrun: Dragonfall - Director's Cut released (free for owners of Shadowrun DLC) http://store.steampowered.com/app/300550
+01:22:12 Leadwerks Halloween Game Tournament II (ends October 31st) http://www.leadwerks.com/werkspace/page/tournament?tournamentbanner=1
+
+01:24:16 *Crowdfunding Items*
+01:24:18 Totem HMD has Linux support and on-board positional tracking https://www.kickstarter.com/projects/2091603040/totem-the-premium-full-featured-virtual-reality-he
+
+01:28:37 *Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals @ValiantCheese, @DerRidda

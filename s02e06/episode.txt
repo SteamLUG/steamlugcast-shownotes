@@ -1,0 +1,106 @@
+RECORDED: 2014-03-21
+PUBLISHED: 2014-04-09
+TITLE: Virtually VR
+SEASON: 02
+EPISODE: 06
+DURATION: 01:23:38
+FILENAME: steamlugcast.s02e06.virtually-vr
+DESCRIPTION: In this episode of SteamLUG Cast, Cheese, johndrinkwater and DerRidda get together to talk about the most exciting news coming from GDC 2014, Unreal Engine 4 coming to Linux, what they’ve been playing lately, past events, greenlit titles, crowdfunding campaigns and more!
+HOSTS: @ValiantCheese, John (@johndrinkwater), @DerRidda
+GUESTS:
+ADDITIONAL:
+
+00:00:07 *Introduction*
+00:00:08 Cheese @ValiantCheese introduces
+00:00:21 John @johndrinkwater
+00:00:24 DerRidda @DerRidda
+00:00:55 Bad Golf: Community Edition http://www.doublefine.com/forums/viewthread/13136/P0/ https://github.com/Double-Fine-Game-Club/bad-golf-community-edition
+
+00:01:42 *Our Gaming*
+00:01:47 Cheese has been playing Flashback, Hand of Fate, The Fall, Spelunky, FTL, Portal 2, Forced and Broken Age
+00:03:18 John has been playing The Plan, Type:Rider (Gutenberg http://en.wikipedia.org/wiki/Johannes_Gutenberg Garamont http://en.wikipedia.org/wiki/Claude_Garamont), Cargo Commander and FORCED
+00:04:23 DerRidda has been playing Dota 2, Portal 2 (12 Angry Tests http://steamcommunity.com/sharedfiles/filedetails/?id=68540935) and Thief Gold
+
+00:06:53 *SteamLUG Community Stuff*
+00:06:55 Past Events:
+	Post-cast FORCED became Synergy http://steamcommunity.com/groups/steamlug#events/1279325135413794019
+	Left 4 Dead 2 http://steamcommunity.com/groups/steamlug#events/1279325135413911673
+	Dota 2 http://steamcommunity.com/groups/steamlug#events/1279325135413960512
+	Natural Selection 2 still crashes a lot http://steamcommunity.com/groups/steamlug#events/1279325135414022610
+00:10:07 Upcoming Events:
+	Post-cast TF2 http://steamcommunity.com/groups/steamlug#events/1279325135414105380
+	Killing Floor tomorrow http://steamcommunity.com/groups/steamlug#events/1279325135414156910
+	HOARD http://steamcommunity.com/groups/steamlug#events/1279325135414205703
+	Serious Sam 3 http://steamcommunity.com/groups/steamlug#events/1279325135414259438
+
+00:11:07 *Other Community Stuff*
+00:11:09 SteamLUG YouTube channel https://www.youtube.com/user/SteamLUG
+00:11:35 A call for Linux users using the Portal 2 in-game map editor http://steamcommunity.com/groups/steamlug/discussions/2/558751179412264830/
+00:13:35 Double Fine Game Club is doing Broken Age (with live Tim Schafer interview) http://www.doublefine.com/forums/viewthread/13589/ http://www.twitch.tv/dfgameclub/b/513397398?t=5m20s
+
+00:13:59 *Steam/Valve News*
+00:14:01 Dota 2 fixes ready up sound https://github.com/ValveSoftware/Dota-2/issues/979
+00:14:15 Losing sound ingame https://github.com/ValveSoftware/Dota-2/issues/770
+00:14:45 vogl https://github.com/ValveSoftware/vogl
+00:14:54 ToGL https://github.com/ValveSoftware/ToGL
+00:16:21 World Wine News http://www.winehq.org/wwn/365
+00:18:06 March 19th Greenlight Batch (41 of 75 titles showing signs of Linux support)
+	Full list http://steamcommunity.com//sharedfiles/filedetails/?id=238293262
+	Beans Quest http://steamcommunity.com/sharedfiles/filedetails/?id=93030406
+	Boson X http://steamcommunity.com/sharedfiles/filedetails/?id=187020242
+	Classroom Aquatic http://steamcommunity.com/sharedfiles/filedetails/?id=227768957
+	Glitchspace http://steamcommunity.com/sharedfiles/filedetails/?id=227931365
+	Proven Lands http://steamcommunity.com/sharedfiles/filedetails/?id=236563162
+	Strata http://steamcommunity.com/sharedfiles/filedetails/?id=150702907
+	Tabletop Simulator (mentioned in [s02e04]) http://steamcommunity.com/sharedfiles/filedetails/?id=225493724
+
+00:21:10 *Gaming News*
+00:21:11 Recent Steam Releases:
+	LUFTRAUSERS http://store.steampowered.com/app/233150/
+	LYNE http://store.steampowered.com/app/266010/
+	Powerpuff Girls: Defenders of Townsville (mentioned in [s02e05]) http://store.steampowered.com/app/274450/
+	Running With Rifles http://store.steampowered.com/app/270150/
+	Science Girls http://store.steampowered.com/app/269010/ Ren’Py Visual Novel Engine http://www.renpy.org/
+00:24:50 Cheese is talking about Stranded http://www.petermoorhead.com/stranded/
+	Influent http://store.steampowered.com/app/274980/ DLC for Influent http://store.steampowered.com/dlc/274980
+	Geekbench 3 http://store.steampowered.com/app/264020/
+00:29:00 GOG to support Linux with at least 100 launch titles http://www.gog.com/news/gogcom_soon_on_more_platforms http://www.rockpapershotgun.com/2014/03/19/another-crack-in-windows-gog-lines-up-linux-support/
+00:31:51 The Witcher 2 Linux Beta spotted in SteamDB http://steamdb.info/sub/40356/#section_history
+	NeoGAF discusses it… mostly positively! http://www.neogaf.com/forum/showthread.php?t=787490
+	CD Projekt RED http://cdpred.com/
+	Cyberpunk 2077 http://cyberpunk.net/
+00:35:36 Gauntlet remake http://www.polygon.com/2014/3/17/5514850/gauntlet-returns-this-summer-to-pc-see-its-brand-new-look-in-this https://www.gauntlet.com/
+	Original Gauntlet http://en.wikipedia.org/wiki/Gauntlet_%281985_video_game%29
+	Arrowhead Game Studios http://arrowheadgamestudios.com/
+	Magicka http://www.magickagame.com/
+00:38:22 Campo Santo’s first game gets announced: Firewatch http://www.firewatchgame.com/ http://blog.camposanto.com/
+00:41:01 Game Developers Conference 2014:
+	OpenGL talk from NV/AMD/Intel http://www.geeks3d.com/20140321/opengl-approaching-zero-driver-overhead/
+	CryEngine http://cryengine.com/news/new-cryengine-update-offers-developers-more-power-and-platforms-than-ever
+	Unreal Engine 4 to support Linux deployment and authoring https://www.unrealengine.com/blog/welcome-to-unreal-engine-4 https://twitter.com/RCL/statuses/446349095318618112 https://www.unrealengine.com/ue4-on-github
+00:51:37 Opening up Linux: Is the OS becoming ripe for game development? http://www.develop-online.net/tools-and-tech/opening-up-linux-is-the-os-becoming-ripe-for-game-development/0190717
+	Leadwerks http://www.leadwerks.com/werkspace/page/home
+	Unity3D https://unity3d.com/
+	Unreal Engine 4 Blueprints https://www.unrealengine.com/blog/blueprint-basics
+00:55:32 Oculus Rift DK2 http://www.oculusvr.com/blog/announcing-the-oculus-rift-development-kit-2-dk2/
+	PenTile subpixel matrix http://en.wikipedia.org/wiki/PenTile_matrix_family http://www.nouvoyance.com/images/rgb-v-rgbw-circle-chart.png
+	UE4 Couch Knight http://s3.amazonaws.com/static.oculusvr.com/website/2014/03/ScreenShot0001400015-3.jpg https://www.youtube.com/watch?v=CoyjO-etC30
+01:01:52 Project Morpheus http://www.scei.co.jp/corporate/release/140319_e.html
+01:09:37 AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome http://store.steampowered.com/app/15560/
+01:14:20 VR experiences impossible to emulate using any other medium http://www.techadvisor.co.uk/news/game/knightmare-style-vr-system-combines-oculus-rift-with-motion-capture/ https://www.youtube.com/watch?v=OkzF56tGYSg
+01:14:47 Papers, Please won some awards
+	Game Developers Choice Awards for Innovation and Best Downloadable Game http://www.gamechoiceawards.com/winners/index.html
+	BAFTA for Strategy and Simulation http://youtu.be/0quW0ctABO0?t=1m21s
+
+01:15:13 *Crowdfunding*
+01:15:16 Chaos Reborn https://www.kickstarter.com/projects/1206403106/chaos-reborn-from-the-creator-of-the-original-x-co
+01:16:13 Sinister cancelled due to component supply issues https://www.kickstarter.com/projects/1306431579/sinister-immerse-yourself-in-the-pc-experience/posts/771719
+01:17:22 New Satellite Reign video http://satellitereign.com/dev-diary-06/
+01:18:41 jMonkeyEngine Summer of Code http://www.indiegogo.com/projects/jmonkeyengine-summer-of-code
+
+01:20:27 *Sign off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, Sword @swordfischer & John @johndrinkwater

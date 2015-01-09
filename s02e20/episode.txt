@@ -1,0 +1,79 @@
+RECORDED: 2014-10-03
+PUBLISHED: 2014-12-12
+TITLE: Freedom Cheese
+SEASON: 02
+EPISODE: 20
+DURATION: 01:08:57
+FILENAME: steamlugcast.s02e20.freedom-cheese
+DESCRIPTION: In this episode, Cheese, DerRidda and Nemoder chat about the Steam Discovery update, the Saxxies, Virtual Reality, Civilisation: Beyond Earth and more!
+HOSTS: @ValiantCheese, Nemoder, @DerRidda
+GUESTS:
+ADDITIONAL:
+
+00:00:10 *Introduction*
+00:00:17 @ValiantCheese introduces
+00:00:19 @DerRidda
+00:00:22 Nemoder
+
+00:00:40 *Our Games*
+00:00:41 @DerRidda has been lost in Wasteland 2, DotA 2, Strife, Tropico 5, HL2: Ep1 & Ep2, CS:GO, Borderlands 2
+00:07:48 Nemoder played some Tropico 5, Guns of Icarus Online, Descent 1 via Rebirth: http://www.dxx-rebirth.com/sdldevil-level-editor/
+00:09:17 @ValiantCheese has been playing some Chasm, Guns of Icarus Online, Crypt of the Necrodancer
+
+00:13:30 *SteamLUG Community Stuff*
+00:13:33 Our past events:
+	Frozen Synapse http://steamcommunity.com/groups/steamlug#events/124168944283321522
+	No More Room in Hell http://steamcommunity.com/groups/steamlug#events/124168944283322584
+	Planetary Annihilation http://steamcommunity.com/groups/steamlug#events/124168944283345986
+	Orbital Gear http://steamcommunity.com/groups/steamlug#events/124168944283347522
+00:15:01 Upcoming events:
+	Borderlands 2 http://steamcommunity.com/groups/steamlug#events/124171483566794324
+	Crusader Kings 2 http://steamcommunity.com/groups/steamlug#events/124171483566798299
+	Semi-Weekly Guns of Icarus Online Practice events http://steamcommunity.com/groups/steamlug/discussions/2/558752449259869101/
+00:16:41 Cheese has a chat with Lee Petty ( @leepetty ) during Double Fine Game Club's playthrough of Stacking http://cheesetalks.twolofbees.com/dfgc_leepetty.php http://www.doublefine.com/forums/viewthread/14908/
+00:21:03 Should SteamLUG be a Steam curator? http://steamcommunity.com/groups/steamlug/discussions/2/616188677755298516/
+00:24:26 Trading/Giveaway Subforum added http://steamcommunity.com/groups/steamlug/discussions/3/
+00:25:13 Cheese talks about Software Freedom Day http://www.softwarefreedomday.org/
+
+00:26:53 *Steam/Valve News*
+00:26:55 Steam Discovery Update http://store.steampowered.com/about/newstore
+	Curators http://store.steampowered.com/about/curators/
+	Discovery Queue http://store.steampowered.com/explore/
+00:33:06 Steam Music is out of beta http://steamcommunity.com/groups/steammusic#announcements/detail/162451444036256368
+00:34:02 Steam client updates http://steamcommunity.com/groups/SteamClientBeta#announcements/detail/211991676259283159
+	"Changed Steam Cloud file paths to be preserve case instead of converting to lowercase. This will not retroactively affect files already synced to the cloud."
+00:35:22 Saxxies are over, winner announced http://www.sourcefilmmaker.com/saxxyawards2014/
+
+00:36:58 *Tech News*
+00:37:02 Oculus
+	@ValiantCheese has received the DK2
+	Rift DK1 firmware and schematics released https://github.com/OculusVR/RiftDK1
+	Video of HL2 and VR-Mode http://youtu.be/-RehCTRrWM0
+00:44:32 AMD's John Byrne posts driver survey http://www.amdsurveys.com/se.ashx?s=5A1E27D26C60C805&spMailingID=21506523&spUserID=NzI2NzcyNDE4NjQS1&spJobID=401628065&spReportId=NDAxNjI4MDY1S0
+
+00:46:04 *General Gaming News*
+00:46:10 CounterStrike:GO is out http://blog.counter-strike.net/index.php/2014/09/10291/
+00:47:24 Borderlands 2 is out http://www.gamingonlinux.com/articles/borderlands-2-released-for-linux-with-a-sale.4360
+00:48:59 Dota 2 6.82 update introduces balance changes, changes to the map and mechanics tweaks http://blog.dota2.com/2014/09/the-rekindling-soul-update/
+00:51:34 Tropico 5 Linux/Mac announcements are out http://steamcommunity.com/games/245620/announcements/detail/202983413090261138
+00:53:53 Interstellar Marines gets some Linux performance updates http://steamcommunity.com/games/236370/announcements/detail/171458643428805690
+00:55:00 New Civ: BE trailer https://www.youtube.com/watch?v=p_jp88pnNzE
+00:58:11 Pre-alpha gameplay footage of Satellite Reign http://satellitereign.com/pre-alpha-gameplay-demo/
+01:00:13 Stronghold 3 is out, uses eON http://store.steampowered.com/app/47400/
+01:02:28 Natural Selection 2 Combat trailer https://www.youtube.com/watch?v=Z1PqHArylEM
+01:03:37 New TF2 comic (possibly hints at story for the asteroid beta map?) http://www.teamfortress.com/tf04_blood_in_the_water/
+01:04:25 Humble Bundle for PC and Android 11 https://www.humblebundle.com/
+01:04:44 Blackwell series is now on Linux (debuting in the Humble Bundle for PC and Android 11) http://www.gamingonlinux.com/articles/blackwell-games-make-their-debut-on-linux-in-humble-bundle-pc-and-android-11.4351/
+
+01:05:10 *Crowdfunding News*
+01:05:22 Duke Grabowski, Mighty Swashbuckler https://www.kickstarter.com/projects/venture-moon/duke-grabowski-mighty-swashbuckler-point-and-click
+01:06:59 Battle Chef Brigade https://www.kickstarter.com/projects/trinket/battle-chef-brigade
+01:07:51 Tesla Breaks The World is released https://www.kickstarter.com/projects/1660691250/tesla-breaks-the-world
+01:08:06 Chasm alpha has gone out to backers https://www.kickstarter.com/projects/discordgames/chasm
+
+01:08:25 *Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals @ValiantCheese, @DerRidda, Nemoder

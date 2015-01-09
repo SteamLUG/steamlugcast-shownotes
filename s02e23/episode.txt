@@ -1,0 +1,74 @@
+RECORDED: 2014-11-15
+PUBLISHED: 2014-12-12
+TITLE: The Children Need to Learn the Hard Truth
+SEASON: 02
+EPISODE: 23
+DURATION: 01:13:16
+FILENAME: steamlugcast.s02e23.the-children-need-to-learn-the-hard-truth
+DESCRIPTION: We have a terse look at the last fortnight's gaming news, discuss some recent crowdfunding campaigns of interest, chat about programmers doing livestreams, and Cheese reports on PAX Australia.
+HOSTS: @johndrinkwater, @DerRidda, @ValiantCheese  
+GUESTS:
+ADDITIONAL:
+
+00:00:10 *Introduction*
+00:00:18 @johndrinkwater introduces...
+00:00:20 @DerRidda
+00:00:22 @ValiantCheese
+
+00:00:32 *Our Gaming*
+00:00:33 @DerRidda has played a little CS:GO, some FTL
+00:00:53 @johndrinkwater played some Borderlands 2 (Offline) and some CS:GO
+00:02:00 @ValiantCheese played Crypt of the Necrodancer and a little Massive Chalice
+
+00:02:28 *SteamLUG Community Stuff*
+00:02:33 Past Events
+	Killing Floor http://steamcommunity.com/groups/steamlug#events/124173382130984203 
+	TF2 http://steamcommunity.com/groups/steamlug#events/124174026597916300
+	Dead Island http://steamcommunity.com/groups/steamlug#events/124174026598362516
+	Guns of Icarus Online http://steamcommunity.com/groups/steamlug#events/124174663433896983
+	Hoard http://steamcommunity.com/groups/steamlug#events/124174663433900398
+00:05:20 Upcoming Events
+	Double Action: Boogaloo http://steamcommunity.com/groups/steamlug#events/124174663434645900
+	Worms Reloaded http://steamcommunity.com/groups/steamlug#events/124174663434648019
+	Sanctum 2 http://steamcommunity.com/groups/steamlug#events/124174663437119227
+
+00:09:19 *Other Community Stuff*
+00:09:31 Nuclear Dawn Battle Society welcomes Linux users http://steamcommunity.com/groups/NDBattleSoc
+00:11:35 SteamLUG members participated in the 7dfps http://itch.io/jam/7dfps
+00:14:09 Double Fine Game Club doing The Journey Down Chapter Two with devs Theodor Waern @theowaern and Henrik Englund @henrik_englund http://www.doublefine.com/forums/viewthread/15304/
+00:14:45 Cheese visited PAX Australia and was blown away by the overwhelming support for Linux https://twitter.com/ValiantCheese/status/528818386415779841
+	Satellite Reign http://store.steampowered.com/app/268870/
+	Assault Android Cactus http://store.steampowered.com/app/250110/
+	Particulars http://store.steampowered.com/app/259470/
+	Square Heroes http://steamcommunity.com/sharedfiles/filedetails/?id=284888452
+	Swordy http://swordygame.com/
+	Star Citizen FPS reveal http://youtu.be/cir3w-wIx9U
+	Double Fine Fan Meetup and BBQ with Ron Gilbert http://www.doublefine.com/forums/viewreply/363961/
+
+00:24:14 *Tech News*
+00:24:16 Nvidia released 346.16 beta driver which brings hw encoding for some proprietary codecs, hw-accelerated VP8 decoding for some devices and should increase performance for FBOs https://devtalk.nvidia.com/default/topic/788791
+00:25:05 Former Valve developer Rich Geldreich wrote a blog post noting a port report by @soeb_ http://richg42.blogspot.co.uk/2014/11/state-of-linux-gaming.html http://community.pcgamingwiki.com/tags/ccs/Linux%2Bport%2Breport/
+
+00:34:42 *General Gaming News*
+00:34:45 Trine Enchanted Edition is now live on Steam for Linux in beta http://steamcommunity.com/app/35700/discussions/0/624075036324295290/
+00:35:48 War Thunder, a F2P tank & airplane combat game set in WW2 is now out for Linux http://warthunder.com/ http://store.steampowered.com/app/236390/
+00:36:20 Leszek Godlewski no longer doing Linux ports. Darksiders is still happening but being held up by graphical glitches https://twitter.com/TheIneQuation/status/533274961293881344
+00:38:41 Insurgency for Linux seems to be delayed because of Valve https://www.gamingonlinux.com/articles/insurgency-fps-is-waiting-on-valve-so-it-can-come-to-linux.4564
+00:40:18 Massive Chalice is out on Steam Early Access http://www.doublefine.com/forums/viewthread/15581/
+00:46:14 This War of Mine released http://store.steampowered.com/app/282070/
+00:47:37 Bad Juju Games buys Desura from Linden Labs http://www.badjuju.com/bad-juju-games-acquires-desura-from-linden-lab/
+00:51:28 Clockwork Empires is progressing towards a Linux release https://community.gaslampgames.com/threads/mac-and-linux-status-update.10371/ https://twitter.com/icculus/status/533363535414566912
+
+00:53:39 *Crowdfunding*
+00:53:43 The Interactive Adventures of Dog Mendonça & Pizzaboy reaches its funding goal https://www.kickstarter.com/projects/942343365/the-interactive-adventures-of-dog-mendonca-and-piz
+00:57:16 GOG releases a few classic LucasArts titles available for Linux https://www.cdprojekt.com/en/Press_Room/Aktualnosci,news_id,2330
+01:01:19 Handmade Hero, a project to code a complete game, one hour a night, live via Twitch http://handmadehero.org
+01:03:10 Jonathan Blow has been streaming video discussing and coding a programming language from scratch http://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO
+01:06:12 Crystal Picnic source release crowdfunding campaign by Nooskewl https://www.indiegogo.com/projects/crystal-picnic-open-source-action-rpg
+
+01:12:18 *Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals @johndrinkwater, @DerRidda, @ValiantCheese

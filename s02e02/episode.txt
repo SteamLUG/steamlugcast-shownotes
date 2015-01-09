@@ -1,0 +1,161 @@
+RECORDED: 2014-01-24
+PUBLISHED: 2014-01-29
+TITLE: May Mog Chothra Protect Us All
+SEASON: 02
+EPISODE: 02
+DURATION: 01:28:03
+FILENAME: steamlugcast.s02e02.may-mog-chothra-protect-us-all
+DESCRIPTION: In this episode of SteamLUG Cast, we are joined by Oliver Franzke of Double Fine to chat about Broken Age, adventure games, open development and supporting Linux. Afterward, Cheese, sword and DerRidda ramble on about Ye Olde SteamOSe, Steam Dev Days, In-home Streaming, Humble Bundles, game releases, VR and more!
+HOSTS: @ValiantCheese, @swordfischer, @DerRidda
+GUESTS: Oliver Franzke (@p1xelcoder)
+ADDITIONAL:
+
+00:00:09 *Introduction*
+00:00:10 Cheese @ValiantCheese introduces
+00:00:17 DerRidda @DerRidda
+00:00:20 Sword @swordfischer
+00:00:24 Oliver Franzke @p1xelcoder
+
+00:00:37 *Chat w/ Special Guest Oliver Franzke of Double Fine, Broken Age’s Lead Programmer*
+00:00:49 Broken Age, Act 1 will be publicly released on Steam on Tuesday the 28th of January http://store.steampowered.com/app/232790/
+00:01:15 Oliver’s development history
+	Stacking http://www.stackingvideogame.com/
+	Technical Engineer on Once Upon A Monster http://www.onceuponamonstergame.com/
+	Lead Graphics Programmer on The Cave http://thecavegame.com/
+	Autonomous http://www.autonomousgame.com/
+	Lead Programmer on Broken Age http://brokenagegame.com/
+00:02:03 Secret of Monkey Island: Special Edition http://www.lucasarts.com/games/monkeyisland/
+00:03:44 Changes in point-and-click adventures over the past 20 years
+00:04:14 Hugo’s House of Horrors http://en.wikipedia.org/wiki/Hugo%27s_House_of_Horrors
+00:04:27 Machinarium http://machinarium.net/
+00:05:24 Amnesia: The Dark Descent http://www.amnesiagame.com/
+00:05:41 Colossal Cave Adventure? (text based adventure game) http://en.wikipedia.org/wiki/Colossal_Cave_Adventure
+00:06:34 Gobliiins http://en.wikipedia.org/wiki/Gobliiins
+00:07:03 A typical day at Double Fine
+00:08:50 Double Fine’s Flash Games http://www.doublefine.com/games
+	Tasha’s Game http://www.doublefine.com/games/tashas_game
+	Host Master http://www.doublefine.com/games/host_master
+	Host Master Deux http://www.doublefine.com/games/host_master_deux
+	My Game About Me http://www.doublefine.com/games/my_game_about_me
+	Epic Saga http://www.doublefine.com/games/extreme_fighter/
+00:09:04 Middle Manager of Justice http://middlemanagerofjustice.com/
+00:09:09 Moai http://getmoai.com/
+00:09:19 Plans for a PC port of Middle Manager of Justice are uncertain, but ‘One can always hope!’
+00:09:58 Engine selection considerations for Broken Age
+00:10:23 Double Fine’s internally developed 3D engine ‘Buddha’
+00:10:28 Brutal Legend http://www.doublefine.com/brutallegend/
+00:10:31 Costume Quest http://store.steampowered.com/app/115100/
+00:11:49 Amnesia Fortnight http://en.wikipedia.org/wiki/Double_Fine_Productions#Amnesia_Fortnight
+00:13:00 Contributing upstream to Moai
+00:13:24 Zipline Games http://ziplinegames.com/
+00:14:52 Double Fine’s experiences with supporting an increasing number of platforms
+00:16:49 GDB (GNU Project Debugger) https://www.gnu.org/software/gdb/
+00:17:02 ‘But yeah, overall, I’m super happy with Linux.’
+00:17:12 Linux support for Spacebase DF-9 http://spacebasedf9.com/
+	‘We certainly, like, benefitted from that as well - for the company, we’re collectively learning how to support a certain platform.’
+00:17:51 Double Fine’s internally developed ‘2HB’ editor
+00:20:08 2HB still aiming to be released as an Open Source project
+	Original mention of 2HB’s open sourcing plans (requires backer access) http://www.doublefine.com/forums/viewthread/6947/
+	‘We do want to make this happen, absolutely’
+00:22:11 Experiences with community interaction in an open project
+00:22:21 Massive Chalice http://massivechalice.com/
+00:22:23 Amnesia Fortnight 2012 http://www.doublefine.com/fortnight
+00:24:31 Mass Effect http://masseffect.bioware.com
+00:25:55 Halo http://www.halowaypoint.com
+00:25:57 Assassins Creed http://assassinscreed.ubi.com
+00:26:46 Programming Update 1: Early Engine Work (requires backer access) http://www.doublefine.com/forums/viewthread/6688
+00:27:38 Open development is something that players are coming to terms with as well
+00:30:43 Getting used to working with 90,000 people ‘looking over your shoulder’
+00:31:37 2 Player Productions http://www.2playerproductions.com/
+00:32:10 Massive Chalice fortnightly ‘Teamstreams’ http://www.twitch.tv/doublefine/profile/pastBroadcasts
+00:33:28 The impact of such a broad pre-release audience on bug prioritisation
+00:35:27 Redbot’s future
+	Amnesia Fortnight 2012 pitch thread http://www.doublefine.com/forums/viewthread/7880/
+00:36:13 Linux support for Amnesia Fortnight titles
+	(this question was more about the post-AF2012 Leap Motion version of Autonomous, but Oliver’s answer is still interesting)
+00:37:55 Autonomous’ chances of becoming a larger game
+00:38:25 https://www.leapmotion.com/
+00:38:54 What is Amnesia Fortnight?
+00:44:37 What is Broken Age?
+
+00:48:11 *SteamLUG Community Stuff*
+00:48:17 Past events
+	Guns of Icarus Online http://steamcommunity.com/groups/steamlug#events/1371642583203024214
+	Nuclear Dawn ‘bughunt’ event http://steamcommunity.com/groups/steamlug#events/1371642583203025979
+	ND event video by @Xpander69 http://www.youtube.com/watch?v=gu15yeVjYkQ
+	ND event servers provided by Xeno Gamers http://steamcommunity.com/groups/xenogamers
+	Left 4 Dead 2 http://steamcommunity.com/groups/steamlug#events/1371642583203028622
+	No More Room In Hell http://steamcommunity.com/groups/steamlug#events/1371642583203030565
+00:51:33 Upcoming events
+	‘Early Rocktober’ Brütal Legend event http://steamcommunity.com/groups/steamlug#events/1371642583203034023
+	Panikiller Hell & Damnation http://steamcommunity.com/groups/steamlug#events/1371642583203035621
+	Februrary Events TBA
+00:53:21 Event suggestions welcome via:
+	#SteamLUG IRC http://steamlug.org/irc
+	Twitter @SteamLUG
+	SteamLUG Mumble http://steamlug.org/mumble
+	Discussion thread
+	Email cast@steamlug.org
+
+00:53:44 *Other Community Stuff*
+00:53:50 Double Fine Game Club is playing Fester Mudd: Curse of the Gold with developers Josh Mandel and Paavo Härkönen http://www.doublefine.com/forums/viewthread/11634/
+00:54:13 Cheese’s Toki Tori 2+ Linu port fan art http://steamcommunity.com/sharedfiles/filedetails/?id=218364648
+00:54:46 SteamLUG community member @directhex has been maintaining a SteamOS fork called Ye Olde SteamOSe https://github.com/directhex/steamos-installer
+00:55:22 SteamOS gets a non-UEFI installer thanks to downstream community contribution http://steamcommunity.com/groups/steamuniverse/discussions/1/648817378243644036/
+
+00:55:52 *Steam/Valve News*
+00:55:56 Steam Dev Days http://steamdevdays.com/
+00:56:02 #SteamDevDays hashtag https://twitter.com/search?q=%23SteamDevDays
+00:56:21 SteamLUG Steam Dev Days summary http://steamcommunity.com/groups/steamlug#announcements/detail/1279322033591261985
+00:56:31 Steam Controller removing touch screen? https://twitter.com/TheIneQuation/status/423578712148164608
+	Original Steam Controller announcement http://store.steampowered.com/livingroom/SteamController/
+00:57:53 VOGL OpenGL Debugger/Tracer http://richg42.blogspot.de/2014/01/vogl-opengl-tracerdebugger-bonus-content.html
+	Comment confirming open source committment http://richg42.blogspot.com.br/2014/01/vogl-opengl-tracerdebugger-bonus-content.html?showComment=1389950449081#c343074267754586249
+00:59:04 New OpenGL/OpenGL Es reference compiler http://www.khronos.org/opengles/sdk/tools/Reference-Compiler/
+00:59:40 Valve’s VR demo
+01:01:09 Garry Newman’s impressions from Valve’s VR demo https://twitter.com/DaveOshry/status/423955183538671616
+01:01:38 Gigabyte Brix Steam Machine given to each Steam Dev Days attendee https://twitter.com/SteamDB/statuses/423526787167961088
+01:02:40 In-home Streaming Beta invites have been going out. @swordfischer and @ValiantCheese have been testing.
+01:06:39 Debian developers offered copies of all Valve’s past and future titles https://lists.debian.org/debian-devel-announce/2014/01/msg00006.html
+01:08:15 SteamVR, a new HMD friendly mode for Big Picture launched in the Steam client beta http://steamcommunity.com/app/250820/discussions/0/630802344730488459/
+	Update: The post linked to has since been updated to say that Mac and Linux support are ‘on the way’
+
+01:08:37 *Our Gaming*
+01:08:43 @swordfischer has been playing Savant: Ascent, Rogue Legacy, In-home Streaming testing
+01:09:49 @DerRidda has been playing Dota 2, Dungeons of Dredmor, Red Orchestra: Ostfront/Darkest Hour mod
+01:11:01 @ValiantCheese has been playing FTL, Broken Age, Toki Tori 2+, Worms: Reloaded, Osmos, Strike Suit Zero, AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome, Surgeon Simulator 2013
+
+01:12:50 *Gaming News*
+01:12:53 Towerfall will ‘probably hit Linux at some point, but not at launch’ https://twitter.com/MattThorson/status/422881575819169792
+01:13:21 Shadowgrounds games will be heading to Linux eventually http://steamcommunity.com/app/2500/discussions/0/846945579759868213/#c630802344822334049
+01:14:01 Blueberry Garden releasing for Linux this weekend http://eriksvedang.com/2014/01/25/blueberry-garden-on-linux-and-mac/
+01:14:29 Tori Tori 2+ developers, Two Tribes are ‘rebooting’ http://twotribes.com/message/were-rebooting
+	Cheese’s summary on GamingOnLinux.com http://www.gamingonlinux.com/articles/toki-tori-2--two-tribes-and-linux.2975
+01:15:31 Humble Bundle X gets bonus titles http://humblebundle.com
+	Bonus titles: HOARD, Strike Suit Zero, Toki Tori 2+
+	Original titles: To The Moon, Joe Danger 2, Papo & Yo, Runner2, Reus, Surgeon Simulator 2013
+01:17:24 Papo & Yo appears to be the first native Linux Wwise title (Wwise Linux support was previously mentioned in [s01e10])
+01:17:59 Octodad: Deadliest Catch slated for 30th of January http://www.youtube.com/watch?v=-Ol3ZxZSEhY
+01:18:11 Humble Weekly Sale features 5 out of 6 games for Linux http://humblebundle.com/weekly
+	Paranautical Activity, Dungeons of Dredmor, The Binding of Isaac, Teleglitch and Hack, Slash, Loot
+01:19:07 AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome gets Rift support on Linux http://www.gamingonlinux.com/articles/aaaaaaaaaaaaaaaaaaaaa-for-the-awesome-gets-rift-support-on-linux.2941/
+01:20:12 Don’t Starve DLC gets a teaser trailer http://www.dontstarvegame.com/blog/new-dlc-teaser-trailer-reign-of-giants
+01:20:58 Steam releases
+	Galcon Legends http://store.steampowered.com/app/201040/
+	Loren The Amazon Princess http://store.steampowered.com/app/257970
+	Estranged: Act 1 http://store.steampowered.com/app/261820/
+	Steam Bandits: Outposts http://store.steampowered.com/app/261350/
+	140 http://store.steampowered.com/app/242820/
+
+01:22:39 *Crowdfunding*
+01:22:43 The Mims reaches its funding target http://www.indiegogo.com/projects/the-mims-beginning
+01:22:57 Kingdom Come: Deliverance (CryEngine title promising Linux support) http://www.kickstarter.com/projects/1294225970/kingdom-come-deliverance
+01:24:41 Cradle (another CryEngine title with Linux support ‘intended’) http://www.kickstarter.com/projects/1324765189/cradle
+01:25:52 Massive Chalice fortnightly ‘Teamstream’ http://www.twitch.tv/doublefine/b/497873014
+
+01:27:50 *Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, Sword @swordfischer & DerRidda @DerRidda

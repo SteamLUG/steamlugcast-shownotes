@@ -1,0 +1,84 @@
+RECORDED: 2014-03-07
+PUBLISHED: 2014-04-06
+TITLE: This Snowball is Rolling
+SEASON: 02
+EPISODE: 05
+DURATION: 00:35:50
+FILENAME: steamlugcast.s02e05.this-snowball-is-rolling
+DESCRIPTION: In this episode of SteamLUG Cast, johndrinkwater is joined by DerRidda and Nemoder to chat about the most recent SteamLUG events, Leadwerks, NVIDIA’s Gameworks, Greenlight titles, Humble Bundles and more!
+HOSTS: John (@johndrinkwater), @DerRidda, Nemoder
+GUESTS:
+ADDITIONAL:
+
+00:00:07 *Introduction*
+00:00:09 John @johndrinkwater introduces
+00:00:18 DerRidda @DerRidda
+00:00:20 Nemoder http://steamcommunity.com/id/Nemoder
+
+00:00:31 *Our Gaming*
+00:00:32 DerRidda has been playing more Dota 2, “Papers, Please” and Rising Storm/Red Orchestra 2 under Windows
+00:01:07 Nemoder has been playing Guns of Icarus Online, Heroes of Newerth
+00:01:16 John has been playing Rogue Legacy, ETS2, DeadFall Adventures (free weekend), NMRIH and Portal 2
+
+00:05:38 *SteamLUG Community Stuff*
+00:05:39 Upcoming events:
+	FORCED after cast http://steamcommunity.com/groups/steamlug#events/1279325135413794019
+	Friday 14 08:00pm DOTA 2 http://steamcommunity.com/groups/steamlug#events/1279325135413960512
+	Saturday 15 08:00pm Natural Selection 2 http://steamcommunity.com/groups/steamlug#events/1279325135414022610
+	Friday 21 09:30pm (after cast) Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/1279325135414105380
+
+00:06:52 *Steam/Valve News*
+00:06:53 New Steam hardware survey numbers for February show no significant changes, Valve finally lists platforms properly http://store.steampowered.com/hwsurvey
+00:10:20 Gabe Newell AMA http://www.valvetime.net/threads/gabe-newells-reddit-ama-round-up.244362/
+	CS:GO is being worked on but no ETA
+	Gabe himself uses Debian
+	Valve seems to have no plans concerning (better) Wine integration
+	Says that there is “surprisingly little” trouble getting developers to add Linux support
+	see also http://steamdb.info/blog/44/
+00:14:01 Client Beta http://steamcommunity.com/groups/SteamClientBeta/announcements/detail/1693656930444357511
+00:14:50 Steam Family Sharing is available for everyone http://store.steampowered.com/sharing/
+00:15:56 Greenlight titles http://steamcommunity.com//sharedfiles/filedetails/?id=232455855
+	Crawl http://steamcommunity.com/sharedfiles/filedetails/?id=230002412
+	Decadance http://steamcommunity.com/sharedfiles/filedetails/?id=163254099
+	Livalink http://steamcommunity.com/sharedfiles/filedetails/?id=114464371
+	Lost Squad http://steamcommunity.com/sharedfiles/filedetails/?id=203492867
+	NOWHERE http://steamcommunity.com/sharedfiles/filedetails/?id=219516796 https://twitter.com/paniq
+	Star Rift http://steamcommunity.com/sharedfiles/filedetails/?id=137643526
+	Vendetta Online http://steamcommunity.com/sharedfiles/filedetails/?id=124255217
+	Volt http://steamcommunity.com/sharedfiles/filedetails/?id=197455169
+	ZED http://steamcommunity.com/sharedfiles/filedetails/?id=93160018
+	Backstage Pass http://steamcommunity.com/sharedfiles/filedetails/?id=206398309
+	Curse of Blackwater http://steamcommunity.com/sharedfiles/filedetails/?id=155648620
+	Crio-Dead:Memory http://steamcommunity.com/sharedfiles/filedetails/?id=172676408
+	Fall Weiss http://steamcommunity.com/sharedfiles/filedetails/?id=213776994
+	Fleish & Cherry in Crazy Hotel http://steamcommunity.com/sharedfiles/filedetails/?id=147168486
+	Gang Beasts http://steamcommunity.com/sharedfiles/filedetails/?id=223877465
+	Memories of a Fisherman http://steamcommunity.com/sharedfiles/filedetails/?id=182466072
+	Monstrum http://steamcommunity.com/sharedfiles/filedetails/?id=227960559
+	My Lands http://steamcommunity.com/sharedfiles/filedetails/?id=225045988
+	Paper Dungeons http://steamcommunity.com/sharedfiles/filedetails/?id=131599760
+	ReVeN http://steamcommunity.com/sharedfiles/filedetails/?id=219697279
+	Telepath Tactics http://steamcommunity.com/sharedfiles/filedetails/?id=111308792
+	Super Chibi Knight http://steamcommunity.com/sharedfiles/filedetails/?id=152710075
+
+00:24:21 *Gaming News*
+00:24:24 Leadwerks for Linux should release later this month https://www.kickstarter.com/projects/1937035674/leadwerks-build-linux-games-on-linux/posts/768157
+00:25:05 Tropico 5 shows first gameplay trailer http://gamingonlinux.com/articles/tropico-5-city-builder-gameplay-trailer-available-will-be-on-linux.3214 https://www.youtube.com/watch?feature=player_detailpage&v=QfApWzKSOpk#t=82
+00:26:15 Shelter and Pid are getting ported to Linux “Not my badger babies!” http://www.gamingonlinux.com/articles/shelter-pid-from-might-and-delight-are-being-ported-to-linux.3198
+00:26:45 Independent WebGL based city builder Citybound will not simulate individual poop blops but kindly asks for donations http://www.rockpapershotgun.com/2014/03/04/citybound-is-an-indie-simcity/ http://cityboundsim.com/
+00:27:57 Powerpuff Girls game to release on Linux on March 14th, Linux gaming has now reached its ultimate peak http://www.gamingonlinux.com/articles/sugar-spice-and-everything-nice-powerpuff-girls-game-heads-to-linux.3211
+00:29:11 NVIDIA bringing GameWorks to Linux http://www.reddit.com/r/linux_gaming/comments/1zsu4i/nvidia_gameworks_will_be_available_on_linux/ http://youtu.be/YZoKWoftaIs?t=1m33s
+00:30:34 Frictional Games show in-engine trailer for SOMA http://www.rockpapershotgun.com/2014/03/05/fear-in-a-handful-of-rust-soma/ https://www.youtube.com/watch?v=AH4y2tZei2o
+00:31:18 Humble Bundles:
+	Past Bundles:
+	Humble Indie Bundle 11 http://blog.humblebundle.com/post/77824255605/just-added-even-more-great-games-in-humble-indie-bundle
+	Current bundles:
+	Devolver Digital, 5 games 5 films (2 on Linux: Duke Nukem 3D & Shadow Warrior Classic Redux) https://www.humblebundle.com/devolver
+	Humble Mobile Bundle 4 http://blog.humblebundle.com/post/78565791174/never-stop-playing-get-humble-mobile-bundle-4
+
+00:35:24 *Sign off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, Sword @swordfischer & John @johndrinkwater

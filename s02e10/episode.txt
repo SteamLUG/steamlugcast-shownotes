@@ -1,0 +1,149 @@
+RECORDED: 2014-05-16
+PUBLISHED: 2014-05-22
+TITLE: Nordic Penguins
+SEASON: 02
+EPISODE: 10
+DURATION: 01:19:31
+FILENAME: steamlugcast.s02e10.nordic-penguins
+DESCRIPTION: In this episode of SteamLUG Cast, we are joined by game developer and Linux porter Leszek Godlewski of Nordic Games to chat about porting Painkiller Hell & Damnation and Deadfall Adventures, working with Unreal Engine 3, and what the future may hold. Afterward, Cheese, DerRidda and Nemoder go on to discuss recent SteamLUG community happenings, new game releases and more!
+HOSTS: @ValiantCheese, @DerRidda, Nemoder
+GUESTS: Leszek Godlewski (@TheIneQuation)
+ADDITIONAL:
+
+00:00:08 *Introduction*
+00:00:09 Cheese @ValiantCheese introduces
+00:00:21 DerRidda @DerRidda
+00:00:24 Nemoder http://steamcommunity.com/id/Nemoder
+00:00:25 Special guest Leszek Godlewski @TheIneQuation
+
+00:00:35 *Our Gaming*
+00:00:40 DerRidda has been playing Dota 2, Hammerwatch, Nekro and Broken Sword
+00:01:25 Nemoder has been playing Nuclear Dawn, Frozen Synapse and Factorio
+00:01:37 Leszek has been playing Battlefield 4 (plus the game he has been working on)
+00:02:06 Cheese has been playing Guns of Icarus Online, Battleblock Theater, Spelunky and Kentucky Route Zero Act III
+00:02:23 Kentucky Route Zero runs well on Linux, but has had Unity freezing issues for some players http://steamcommunity.com/app/231200/discussions/0/864961175403011280/
+
+00:03:20 *Chat With Special Guest Leszek Godlewski From Nordic Games*
+00:03:37 Unannounced Linux related work at Nordic Games http://www.nordicgames.at
+00:03:53 The Farm 51 http://www.thefarm51.com
+	Painkiller Hell & Damnation http://www.painkillergame.com
+	Deadfall Adventures http://www.deadfall-game.com
+	Contracted to work on Linux ports after leaving
+00:04:53 Game development lecturing
+00:05:41 Leszek’s LinkedIn profile http://www.linkedin.com/in/lgodlewski
+00:06:09 Response from Linux gamers to Painkiller H&D was ‘Overwhelmingly positive.’
+00:08:00 Outstanding issues with Painkiller H&D
+00:10:52 What vintage UE3 does Painkiller H&D use?
+00:12:51 Support from Epic and/or other UE3 Linux porters
+00:13:08 Ryan C. Gordon @icculus
+00:13:20 Dungeon Defenders http://dungeondefenders.com/
+00:13:30 Ryan’s initial unreleased UE3 port http://icculus.org/cgi-bin/finger/finger.pl?user=icculus&date=2008-09-18&time=06-38-30
+00:14:46 Surprises and hurdles in porting UE3 titles
+00:15:26 Valgrind http://valgrind.org/
+00:16:21 APITrace http://apitrace.github.io/
+00:17:42 Thoughts on community comments that porting Unreal Engine 3 is easy
+00:18:00 Digital Dragons 2013, Linux As A Gaming Platform, Ideology Aside http://www.slideshare.net/LeszekGodlewski/linuxgames (errata http://www.slideshare.net/LeszekGodlewski/linuxgames-errata )
+	‘The relative engineering cost of a Linux port is low’
+00:19:45 Unreal Engine 3 shader system is ‘totally unfit for use with OpenGL’
+	Digital Dragons 2014, One Year Of Porting http://www.slideshare.net/LeszekGodlewski/lg-dd20141yop
+00:20:39 ‘Hey, Ryan Gordon ported Dungeon Defenders and it didn’t have those problems.’
+00:22:44 Future work at Nordic Games
+00:24:31 Grimlore Games http://grimloregames.com/
+00:25:04 ‘The very fact that Nordic Games decided to hire me, I think it really speaks for their intent for publishing games for Linux’
+00:25:55 Thoughts on publishers’ role in Linux porting in the future
+00:27:18 Ethan Lee @flibitijibibo
+00:29:12 GOG are recruiting Linux oriented developers http://www.gog.com/work#linux_tech_specialist http://www.gog.com/work#senior_software_engineer_desktop
+00:31:37 Battlefield 4 http://www.battlefield.com/battlefield-4
+00:32:13 AMD Mantle http://www.amd.com/en-us/innovations/software-technologies/mantle#overview
+00:33:12 Telltale’s The Walking Dead https://www.telltalegames.com/walkingdead/
+00:34:08 Linux is ‘on the radar’ for Telltale http://www.gamingonlinux.com/articles/linux-is-on-the-radar-for-telltale-games.2670
+	Sam & Max http://www.telltalegames.com/samandmax/
+	Tales of Monkey Island http://www.telltalegames.com/talesofmonkeyisland/
+	Strong Bad’s Cool Game for Attractive People http://www.telltalegames.com/strongbad/
+00:36:43 Steam Dev Days http://www.steamdevdays.com/
+00:37:50 Doubts about Mantle
+00:39:49 Thoughts on OpenGL vs Direct3D 12
+00:40:51 ‘Aikidō development’
+00:41:07 Turning your Steam Machine into a devkit http://gamasutra.com/blogs/LeszekGodlewski/20140201/209839/Turning_your_Steam_Machine_into_a_devkit.php
+	Building for Linux, the smart way http://gamasutra.com/blogs/LeszekGodlewski/20140403/209842/Building_for_Linux_the_smart_way.php
+00:41:48 Steam Dev Days atmosphere
+00:42:10 ‘I kind of am afraid that SteamOS will become to Linux gaming what Android is to Linux mobile phones’
+
+00:45:28 *SteamLUG Community Stuff*
+00:45:32 Past Events:
+	Post-cast Dota 2 http://steamcommunity.com/groups/steamlug#events/1281581999424391636
+	Nuclear Dawn Release Celebration http://steamcommunity.com/groups/steamlug#events/1281581999424272527
+	Frozen Synapse http://steamcommunity.com/groups/steamlug#events/1281581999424392811
+	Counter Strike: Source http://steamcommunity.com/groups/steamlug#events/1281581999424394203
+00:47:12 Upcoming Events:
+	Post-cast Left 4 Dead 2 http://steamcommunity.com/groups/steamlug#events/1281581999424395946
+	Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/1281581999424396750
+	Sanctum 2 beta, possibly falling back to Fistful of Frags http://steamcommunity.com/groups/steamlug#events/1281581999424397313
+	Gear Up http://steamcommunity.com/groups/steamlug#events/1281581999424398221
+
+00:48:01 *Other Community Stuff*
+00:48:02 Cheese wrote a first impressions article on Crypt of The NecroDancer http://www.gamingonlinux.com/articles/crypt-of-the-necrodancer-first-impressions.3700
+	Devs undecided on pre-release availability https://twitter.com/NecroDancerGame/status/465920784154624001
+	Details of NecroDancer giveaways are being disseminated via their newsletter http://necrodancer.com/
+	NecroDancer themed dance mats http://blog.braceyourselfgames.com/post/74811879792/feast-your-eyes-on-our-beautiful-new-prototype
+00:51:08 SteamLUG Fistful of Frags thanks to Spacepope http://steamlug.org/servers
+00:51:25 The SteamLUG IRC bot has !time and !seen commands and relays new game announcements thanks to Norbert https://github.com/SteamLUG/steamlug-bot/
+00:51:48 Cheese wrote preview of The Fall with some thoughts on what it’s like to be a crowdfunding backer projects http://www.gamingonlinux.com/articles/episode-1-of-the-fall-to-be-released-on-june-1st.3646
+	Release has been rescheduled for May 30th since recording
+00:52:10 Corben attended LinuxTag and has written a summary in the forums http://steamcommunity.com/groups/steamlug/discussions/0/558756255813716390/
+00:52:41 Factorio sales increase http://www.factorio.com/blog/post/fff-34
+
+00:53:09 *Steam/Valve News*
+00:53:14 Steam Hadware and Software Survey stats don’t show significant platform shifts http://store.steampowered.com/hwsurvey
+	Big shift towards Ubuntu 14.04 within Linux numbers
+00:55:22 Steam client updates http://steamcommunity.com/groups/SteamClientBeta#announcements/detail/1695914435885906826 http://steamcommunity.com/groups/SteamClientBeta#announcements/detail/1695914435337259731
+00:56:22 Source SDK Update http://steamcommunity.com/gid/103582791434412888/announcements/detail/1749958360445449289
+00:56:33 Dota 2 International 4 American Qualifiers have begun http://www.dota2.com/international
+	Compendium offers rewards http://www.dota2.com/international/compendium/
+00:57:41 Rich Geldreich’s OpenGL blog posts
+	The Truth on OpenGL Driver Quality http://richg42.blogspot.de/2014/05/the-truth-on-opengl-driver-quality.html
+	Things That Drive Me Nuts About OpenGL http://richg42.blogspot.de/2014/05/things-that-drive-me-nuts-about-opengl.html
+
+00:58:17 *General Gaming News*
+00:58:21 Community developers have beaten internal porting efforts to get initial UE4 editor Linux support https://twitter.com/UnrealEngine/statuses/464832839616569345
+00:59:17 Kentucky Route Zero Act III is out http://cardboardcomputer.com/2014/05/06/act-iii-available-now/
+01:00:17 Large Assault Android Cactus update http://steamcommunity.com/games/250110/announcements/detail/1804000826659734472
+01:00:45 Correction: Team Liquid were runners up in the Dota 2 TI4 qualifiers http://www.dota2.com/international/announcement/
+01:00:59 Killing Floor 2 for Linux has been confirmed http://www.gamingonlinux.com/articles/killing-floor-2-fps-announced-with-steamos-linux-support-right-in.3657
+	Port being done by Terry Hendrix II http://forums.tripwireinteractive.com/showpost.php?p=1306892&postcount=11
+01:01:50 Krautscape now has Linux support on Steam Early Access http://krautscape.net/
+01:02:58 Stanley Parable Announcer Pack for Dota 2 http://www.dota2.com/store/itemdetails/20505
+01:03:32 Tesla Effect launches, Linux client to come soon http://en.wikipedia.org/wiki/Tesla_Effect:_A_Tex_Murphy_Adventure
+01:04:26 Don’t Starve Together http://forums.kleientertainment.com/topic/35989-don%E2%80%99t-starve-together-multiplayer-officially-coming-summer-2014/
+01:06:37 Humble Weekly Bundle Platforming http://blog.humblebundle.com/post/85834189066/i-will-take-this-platform-and-i-shall-jump-on-it-1
+01:07:09 Humble Daily Bundle
+	Re-Bundle 8 http://blog.humblebundle.com/post/85929146935/the-8-is-back-for-another-go-around
+	Deep Silver Rebundle http://blog.humblebundle.com/post/85639653840/two-weeks-only-the-humble-daily-bundles
+	Other Space Bundle http://blog.humblebundle.com/post/85737144530/this-next-daily-bundle-is-from-outer
+	Banner Saga Bundle http://blog.humblebundle.com/post/85834188996/no-time-for-winter-is-coming-jokes-the-daily-bundles
+01:08:57 Steam releases
+01:09:08 Fistful of Frags http://store.steampowered.com/app/265630/ (Smokin’ Guns http://www.smokin-guns.org/ )
+01:10:12 BattleBlock Theater http://store.steampowered.com/app/238460/
+01:10:41 Hack ’n’ Slash http://store.steampowered.com/app/246070
+01:12:15 Paragon http://store.steampowered.com/app/291250 (mentioned in [s02e07] )
+01:12:31 Elite http://en.wikipedia.org/wiki/Elite_%28video_game%29
+01:12:52 X3 http://www.egosoft.com/games/x3
+01:13:11 May 14th Greenlight Batch (37 our of 75 with signs of Linux support) http://steamcommunity.com//sharedfiles/filedetails/?id=257742716
+	NAEV http://steamcommunity.com/sharedfiles/filedetails/?id=93971156
+	Zero-K http://steamcommunity.com/sharedfiles/filedetails/?id=247032802
+	Dogfight Elite http://steamcommunity.com/sharedfiles/filedetails/?id=140669104
+	The Maker’s Eden http://steamcommunity.com/sharedfiles/filedetails/?id=150210424
+	Unpossible http://steamcommunity.com/sharedfiles/filedetails/?id=252179831 (Proun http://www.proun-game.com/ )
+	Whitewash http://steamcommunity.com/sharedfiles/filedetails/?id=238382054 (GOL article http://www.gamingonlinux.com/articles/whitewash-first-person-puzzleshooter-plans-to-come-to-linux-made-in-unity3d.3480 )
+
+01:17:26 *Crowdfunding News*
+01:17:29 SUPERHOT https://www.kickstarter.com/projects/375798653/superhot
+	Linux prototype http://superhotgame.com/SUPERHOT_Prototype_Linux.zip
+	SUPERHOT’s 7DFPS profile http://7dfps.com/?action=games&id=290
+
+01:19:09 *Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese & DerRidda @DerRidda

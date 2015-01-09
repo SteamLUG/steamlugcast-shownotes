@@ -1,0 +1,73 @@
+RECORDED: 2014-09-31
+PUBLISHED: 2014-10-01
+TITLE: For The Gourd
+SEASON: 02
+EPISODE: 22
+DURATION: 00:27:34
+FILENAME: steamlugcast.s02e22.for-the-gourd
+DESCRIPTION: We get together for a brief conversation about the last fortnight’s releases, try to guess what Aspyr is up to and … get out before our tea is cold.
+HOSTS: @johndrinkwater, @DerRidda, Nemoder
+GUESTS:
+ADDITIONAL:
+
+00:00:11 *Introduction*
+00:00:11 @johndrinkwater introduces
+00:00:18 @DerRidda
+00:00:21 Nemoder
+
+00:00:46 *Our Gaming*
+00:00:51 DerRidda has been playing some CS:GO and Dead Island
+00:01:03 Nemoder with Crusader Kings 2, Civilization 5, Guns of Icarus: Online, Insanely Twisted Shadow Planet, and finally Spacebase DF-9
+00:01:32 John got through CS:GO, Neverending Nightmares, Gunpoint, and plenty of Dead Island
+
+00:02:16 *SteamLUG Community Stuff*
+00:02:16 Past events:
+	Project Zomboid http://steamcommunity.com/groups/steamlug#events/124173382130781733
+	Nekro http://steamcommunity.com/groups/steamlug#events/124173382130659089
+	Interstellar Marines http://steamcommunity.com/groups/steamlug#events/124172749617005786
+	Counter-Strike: Global Offensive http://steamcommunity.com/groups/steamlug#events/124172749616485522
+00:04:09 Upcoming Events
+	Killing Floor http://steamcommunity.com/groups/steamlug#events/124173382130984203
+	Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/124174026597916300
+	Dead Island http://steamcommunity.com/groups/steamlug#events/124174026598362516
+00:04:53 Soeb’s Linux Port reports http://community.pcgamingwiki.com/page/blog/_/features/port-reports/pc-report-borderlands-the-pre-sequel-on-linux-r162
+00:06:19 Slashdot article http://linux.slashdot.org/story/14/10/24/1426240/pcgamingwiki-looks-into-linux-gaming-with-port-reports 
+
+00:06:30 *Steam/Valve News*
+00:06:32 Hallowe’en Sale
+00:07:22 Greenlight batches no longer seem to be a thing
+
+00:08:05 *Tech News*
+00:08:10 Oculus Rift DK2 SDK now supports Linux http://vrfocus.com/archives/8139/oculus-releases-sdk-v0-4-3-beta/
+
+00:08:45 *General Gaming News*
+00:08:49 Transistor http://steamcommunity.com/app/237930
+00:10:35 Dead Island https://www.gamingonlinux.com/articles/dead-island-zombie-game-now-available-on-linux-for-some-updated.4494
+00:11:56 Icewind Dale: Enhanced Edition http://store.steampowered.com/app/321800/
+00:13:19 else Heart.Break() http://elseheartbreak.com/
+00:13:51 Volgarr the Viking http://store.steampowered.com/app/247240
+00:14:39 Humble Indie Bundle 13 https://www.humblebundle.com/
+	OlliOlli, Insanely Twisted Shadow Planet, Tower of Guns
+	Beat the Average: Amnesia: A Machine for Pigs, Jazzpunk, Risk of Rain
+	Shadowrun Returns
+00:16:42 Humble: You helped bring over 100 games to Linux http://blog.humblebundle.com/post/101186281150/you-helped-bring-over-100-games-to-linux
+00:18:12 Aspyr suggests what they are up to on Reddit https://www.reddit.com/r/linux_gaming/comments/2j6gyb/lets_guess_what_aspyrs_secret_project_is/clh5q0c
+00:20:56 GOG has added FTL and Race the Sun
+00:21:08 GOG partners with Disney to bring some Lucasarts classics to their store http://www.gog.com/news/new_publisher_disney_interactivelucasfilm
+	Sam & Max http://www.gog.com/game/sam_max_hit_the_road
+00:21:47 Spacebase DF-9 1.0 http://steamcommunity.com/news/post/521616685272817516
+00:22:41 Crusader Kings 2 update http://steamcommunity.com/games/203770/announcements/detail/1859168652048880680
+00:23:39 Civ 5 update http://steamcommunity.com/games/CivilizationV/announcements/detail/237889527460399289
+00:24:06 Oddworld: New ‘n’ Tasty release coming in a few months http://www.oddworld.com/2014/10/update-new-n-tasty/
+
+00:24:57 *Crowdfunding*
+00:25:09 The Interactive Adventures of Dog Mendonça & Pizza Boy https://www.kickstarter.com/projects/942343365/the-interactive-adventures-of-dog-mendonca-and-piz
+00:25:51 SteamLUG 7DFPS team https://github.com/orgs/SteamLUG/teams/7dfps-2014
+
+00:26:32 *Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals @johndrinkwater and @DerRidda
+

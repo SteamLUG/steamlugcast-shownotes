@@ -1,0 +1,67 @@
+RECORDED: 2014-11-28
+PUBLISHED: 2014-12-12
+TITLE: A Brief Autumn Breeze
+SEASON: 02
+EPISODE: 24
+DURATION: 00:33:56
+FILENAME: steamlugcast.s02e24.a-brief-autumn-breeze
+DESCRIPTION: In this episode, Cheese, DerRidda and Nemoder chat about the Steam Exploration Sale, the Jolla Tablet, Thimbleweed Park, adult games on Steam and more!
+HOSTS: @ValiantCheese, Nemoder, @DerRidda
+GUESTS:
+ADDITIONAL:
+
+00:00:09 *Introduction*
+00:00:17 Cheeseness (@VailiantCheese) introduces himself
+00:00:19 Nemoder
+00:00:20 and DerRidda (@DerRidda) 
+
+00:00:32 *Our Gaming*
+00:00:34 Nemoder has been playing Factorio, GoIO, Crypt of Necrodancer, Powerpuff Girls and rymdkapsel
+00:01:33 DerRidda has been playing Doom 3 BFG via https://github.com/RobertBeckebans/RBDOOM-3-BFG and CS:GO
+00:03:07 Cheeseness has been playing Prince Of Persia 1, Sanctum 2, Crypt of the NecroDancer and GOI Online
+
+00:04:16 *SteamLUG Community Stuff*
+00:04:19 Past Events
+00:04:20 Sanctum 2 http://steamcommunity.com/groups/steamlug#events/124174663437119227
+00:04:31 Worms Reloaded http://steamcommunity.com/groups/steamlug#events/124174663434648019
+00:04:39 (Post-Cast) Double Action: Boogaloo http://steamcommunity.com/groups/steamlug#events/124174663434645900
+00:05:36 Hoard http://steamcommunity.com/groups/steamlug#events/124174663433900398
+00:05:47 Upcoming Events
+00:05:50 (Post-Cast) Altitude http://steamcommunity.com/groups/steamlug#events/124174663437122206
+00:06:25 Screencheat http://steamcommunity.com/groups/steamlug#events/124174663437618719
+00:07:10 Other Community Stuff
+00:07:12 Linux game unboxing: Brutal Legend Limited Edition IndieBox https://www.youtube.com/watch?v=OsWkNlsiWRs 
+00:07:30 sulix (Dave Gow, Linux game porter) has been doing a Linux port of Handmade Hero alongside the recent streams http://davidgow.net/handmadepenguin/default.html 
+
+00:07:53 *Steam/Valve News*
+00:07:54 Steam "Exploration Sale" is on! November 26 till December 2. The usual rules apply https://imgur.com/gallery/3lKhnEm
+00:08:50 Valve will be at GDC 2015 with Steam machines http://www.techradar.com/news/gaming/consoles/valve-won-t-be-at-ces-2015-large-steam-machine-presence-planned-for-gdc-1273542
+
+00:12:15 *Tech News*
+00:12:18 Jolla Tablet is up for crowdfunding and has already crushed its initial goal https://www.indiegogo.com/projects/jolla-tablet-world-s-first-crowdsourced-tablet
+00:13:15 GameCube controller adapter for WiiU works on Linux https://github.com/ToadKing/wii-u-gc-adapter https://vine.co/v/O1t5Zbq3tdv
+
+00:14:35 *General Gaming News*
+00:14:38 Civilization: Beyond Earth should come out in two to three weeks http://blog.gameagent.com/civilization-beyond-earth-successfully-lands-mac/
+00:16:10 Geometry Wars 3 out now on Steam http://store.steampowered.com/app/310790/
+00:17:13 The Binding of Isaac: Rebirth to receive an expansion http://bindingofisaac.com/post/103530708659/after-birth
+00:17:33 Goat Simulator has received a free pretend MMO DLC http://store.steampowered.com/app/265930/
+00:18:14 Daedalic Entertainment signs publishing deal that explicitly mentions Linux for a new stealth game https://www.gamingonlinux.com/articles/daedalic-entertainment-announces-publishing-deal-with-mimimi-productions.4634 and...
+00:18:40 The Whispered World now has a Linux depot https://steamdb.info/app/268540/depots/
+00:19:01 Is Everlasting Summer the first game on Steam to feature full on adult scenes? http://store.steampowered.com/agecheck/app/331470/
+
+00:20:46 *Crowdfunding*
+00:20:48 Thimbleweed Park Point & Click Adventure by Ron Gilbert has already reached its funding goal with 20 days to go https://www.kickstarter.com/projects/thimbleweedpark/thimbleweed-park-a-new-classic-point-and-click-adv
+00:26:13 Johnny Rocketfingers (suggested by norbert) https://www.kickstarter.com/projects/1504145860/johnny-rocketfingers-3-hand-drawn-point-and-click/
+00:27:26 Innerspace flying/exploration game https://www.kickstarter.com/projects/2074789246/innerspace
+00:28:33 Hollow Knight https://www.kickstarter.com/projects/11662585/hollow-knight 
+00:29:03 Distance is getting a Steam Early Access launch http://store.steampowered.com/app/233610/
+00:29:58 Out of content error
+00:31:59 Suggest events here! http://steamcommunity.com/groups/steamlug/discussions/2/828934424146675833/
+
+00:33:17 *Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese and DerRidda @DerRidda

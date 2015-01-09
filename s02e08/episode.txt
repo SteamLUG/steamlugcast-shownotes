@@ -1,0 +1,96 @@
+RECORDED: 2014-04-18
+PUBLISHED: 2014-04-21
+TITLE: We’ll buy 2 copies of Civilization!
+SEASON: 02
+EPISODE: 08
+DURATION: 00:50:37
+FILENAME: steamlugcast.s02e08.we-will-buy-two-copies-of-civ
+DESCRIPTION: We sheepishly cover the latest news and events in Linux gaming as two hosts are feeling under the weather, and the third comes in late. So we added a fourth! Why not have a listen? Caution: this cast does contain one swear out of frustration at 23:13. While we try to keep things clean and edited so we can be listened to when and wherever, removing it would have left the conversation rather damp.
+HOSTS: John (@johndrinkwater), @DerRidda, Nemoder
+GUESTS:
+ADDITIONAL:
+
+00:00:09 *Introduction*
+00:00:10 @johndrinkwater introduces
+00:00:18 @DerRidda and
+00:00:21 Nemoder
+00:00:24 @ValiantCheese has slept in :&lt;
+
+00:00:31 *Our Gaming*
+00:00:36 Nemoder played Guns of Icarus: Online, Bridge Constructor, Journey of a Roach, and non‐Steam: A Tale in the Desert, Factorio
+00:00:52 DerRidda played Dota 2, FTL, System Shock 2, Broken Sword 1, and finally Diaspora: Shattered Armistice
+	That Diaspora patch http://www.hard-light.net/forums/index.php?board=175.0
+00:02:48 John played Bridge Constructor, Sanctum 2 (Beta), attended Starbound, Oil Rush & Duke Nukem events, and got his platinum in inFAMOUS
+
+00:03:42 *SteamLUG Community Stuff*
+00:03:45 Previous fortnight’s events:
+	Starbound, Oil Rush, Duke Nukem, Team Fortress 2, Serious Sam 3, and Guns of Icarus: Online
+	DerRidda playing with his banjo in Starbound http://steamcommunity.com/id/johndrinkwater/screenshot/612796458789161163
+00:05:38 Upcoming Events:
+	Worms: Reloaded http://steamcommunity.com/groups/steamlug#events/1280454197122387721
+	Synergy http://steamcommunity.com/groups/steamlug#events/1280454197122388497
+	GOI Online Practice Sessions (Tuesdays and Thursdays at 2am UTC)
+	Nuclear Dawn
+00:06:09 Event suggestions welcome via:
+	#SteamLUG IRC http://steamlug.org/irc
+	Twitter @SteamLUG
+	SteamLUG Mumble http://steamlug.org/mumble
+	Discussion thread http://steamcommunity.com/groups/steamlug/discussions/2/828934424146675833/
+	Email cast@steamlug.org
+
+00:06:17 *Other Community Stuff*
+00:06:18 Swordfischer has patched our web host in response to Heartbleed https://twitter.com/swordfischer/status/453495574017622016
+
+00:06:34 *Steam/Valve News*
+00:06:39 Valve on holiday in Hawaii
+00:06:51 ‘Valve resets partner logins as result of someone exploiting the “Heartbleed” bug’ http://facepunch.com/showthread.php?t=1384118
+	‘South Park: The Stick of Truth’ http://steamdb.info/app/213670/#section_history
+00:08:07 Steam Client Beta Update http://steamcommunity.com/groups/SteamClientBeta#announcements/detail/1695912623978579770
+
+00:08:28 *Gaming News*
+00:08:34 Cheese awakens from slumber
+00:08:44 Star Citizen announced for Linux during PAX East panel
+	‘Future of PC Gaming’ panel https://www.youtube.com/watch?v=FYp38vTFpW8&t=20m15s
+	Cheese created a SteamLUG group https://robertsspaceindustries.com/orgs/STEAMLUG
+00:49:33 Palmer Lucky’s said 2014 is Year of the Linux Desktop https://twitter.com/pcgamer/status/454660533216903168
+00:12:30 Nuclear Dawn moving out of beta http://steamcommunity.com/app/17710/discussions/3/648811852606424192/#c540739405508340795 http://www.gamingonlinux.com/articles/nuclear-dawn-linux-support-moving-out-of-beta-soon.3515/
+00:13:47 FRACT has Linux ‘at the top of their TODO list’ https://twitter.com/FRACTgame/status/456613208271253504
+00:15:11 Q.U.B.E. Director’s Cut may be coming to Linux https://twitter.com/qubegame/status/457056560980975616
+00:16:39 28 Humongous Entertainment titles are heading to Steam http://humongous.com/2014/04/humongous-entertainment-gets-the-steam-treatment/
+00:21:20 Flibit’s port of Fist Puncher isn’t far away - launching some time this month http://store.steampowered.com/app/238630/ https://twitter.com/flibitijibibo/statuses/456500177797251072
+00:22:30 Civilization: Beyond Earth, a spirital successor to Alpha Centauri, coming to Linux http://www.gamingonlinux.com/articles/firaxis-games-new-ip-civilization-beyond-earth-will-come-to-linux-confirmed.3474
+	John mentions listening to Idle Thumbs, episode 154 ‘Super Good’ https://www.idlethumbs.net/idlethumbs/episodes/super-good
+00:26:48 Free Weekend for Frozen Synapse (by developers, Mode 7)
+	We discuss Mode 7’s in‐development Frozen Endzone game http://store.steampowered.com/app/237350/
+00:28:24 Greenlight, 36 of 75 http://steamcommunity.com//sharedfiles/filedetails/?id=242499467
+	Get Even [s02e01] http://steamcommunity.com/sharedfiles/filedetails/?id=244669840
+	Hunted http://steamcommunity.com/sharedfiles/filedetails/?id=176195786
+	NeonXSZ http://steamcommunity.com/sharedfiles/filedetails/?id=111075014
+	Lumo http://steamcommunity.com/sharedfiles/filedetails/?id=237539942
+	Magnetic By Nature http://steamcommunity.com/sharedfiles/filedetails/?id=236263227
+	Positron http://steamcommunity.com/sharedfiles/filedetails/?id=93056424
+00:31:17 Steam releases:
+00:31:31 Circuits http://store.steampowered.com/app/282760/
+00:31:53 Humongous Humongous package http://store.steampowered.com/sub/42723/
+00:32:36 Glitchspace http://store.steampowered.com/app/290060/
+00:33:18 Earth: Year 2066 http://www.amazon.co.uk/Andrex-White-Toilet-Tissue-Roll/dp/B003YKWWEK
+	Jim Sterling’s Squirty Play https://www.youtube.com/watch?v=KHhbvDhPU7U
+	Jimquisition http://www.escapistmagazine.com/videos/view/jimquisition
+	{Monday edit} Jim’s fine video http://www.escapistmagazine.com/videos/view/jimquisition/9075-Salt-Of-The-Earth-A-Steam-Fail-Story
+00:35:54 Wasteland 2 (Beta) http://store.steampowered.com/app/240760/
+00:36:39 Broken Sword 1, 2, 5 http://store.steampowered.com/app/57640/ http://store.steampowered.com/app/33600/ http://store.steampowered.com/app/262940/
+00:40:49 T.E.C. 3001 http://store.steampowered.com/app/280910/
+00:41:30 Tabletop Simulator http://store.steampowered.com/app/286160/
+00:41:49 Evolution RTS http://store.steampowered.com/app/291150/ http://springrts.com/
+00:43:48 Nuclear Throne http://store.steampowered.com/app/242680/ http://nuclearthrone.com/
+
+00:46:21 *Crowdfunding*
+00:46:48 Vektropolis https://www.kickstarter.com/projects/294543873/vektropolis http://www.rockpapershotgun.com/2014/04/10/vektropolis-kickstarter/
+	John has been watching this for years ‐ July 2012 https://twitter.com/johndrinkwater/status/230266711952207872 and then it vanished.
+
+00:47:59 *Sign‐off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, Sword @swordfischer & John @johndrinkwater

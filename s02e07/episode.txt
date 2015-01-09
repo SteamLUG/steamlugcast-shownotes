@@ -1,0 +1,96 @@
+RECORDED: 2014-04-04
+PUBLISHED: 2014-04-10
+TITLE: Two Beeellion Dollars
+SEASON: 02
+EPISODE: 07
+DURATION: 01:07:46
+FILENAME: steamlugcast.s02e07.two-beeellion-dollars
+DESCRIPTION: We, er, are still flabber‐ghasted at the Facebook Oculus acquisition but we barrel on through the show without it derailing us too much, we dip into our thoughts on Open Source bundles and projects, and cover the latest Steam gaming news, why not have a listen?
+HOSTS: @ValiantCheese, John (@johndrinkwater), @DerRidda
+GUESTS:
+ADDITIONAL:
+
+00:00:07 *Introduction*
+00:00:08 Cheese @ValiantCheese introduces
+00:00:20 John @johndrinkwater
+00:00:23 DerRidda @DerRidda
+
+00:00:47 *Our Gaming*
+00:00:55 Cheese played Octodad, Bridge Constructor, Spacebase DF9, Spelunky, Euro Truck Simulator 2, Solar Flux, Serious Sam 3 (event), Stealth Bastard Deluxe, FTL: Faster Than Light, Monaco and Portal 2.
+00:01:44 John watched Free To Play (again) and DOTA 2 TI2 replays, poked Eclipse, played System Shock 2, and tested some Humble QA stuff.
+00:02:55 DerRidda played Monaco, FTL: Faster Than Light Advanced Edition, System Shock 2.
+
+00:05:17 *SteamLUG Community Stuff*
+00:05:19 Previous fortnight’s events:
+	TF2, Killing Floor, HOARD, Serious Sam 3 co‐op.
+00:07:01 Upcoming Events:
+	TF2 (post-cast) http://steamcommunity.com/groups/steamlug#events/1280454197122382665
+	Duke Nukem 3D http://steamcommunity.com/groups/steamlug#events/1280454197122446412
+	Oil Rush http://steamcommunity.com/groups/steamlug#events/1280454197122384576
+	Starbound http://steamcommunity.com/groups/steamlug#events/1280454197122385798 server thanks to Nemoder http://steamcommunity.com/groups/steamlug/discussions/2/558752449258110480/
+	Regular GoI Online events outside of the normal schedule http://steamcommunity.com/groups/steamlug/discussions/2/558752449259869101/
+	Other new-for-SteamLUG events in April: Little Racers STREET, Synergy
+00:08:46 Request for US‐based gamers to manage events for that timezone (North and South America)
+
+00:09:23 *Other Community Stuff*
+00:09:25 Cheese interviewed Tim Schafer “since our first Humble Bundle, we’ve always been really committed to Linux”
+	Expecting future PC release titles to have simultaneous launches. http://cheesetalks.twolofbees.com/dfgc_timschafer.php
+00:10:22 norbert_ has been working on a new steamlug-bot. Code is up on github. https://github.com/SteamLUG/steamlug-bot/
+00:11:10 John wrote a quick blog at SteamDB to explain how steam works and why some new ports launch ‘broken’ http://steamdb.info/blog/46/
+00:13:21 Game Club will be doing The Book of Unwritten Tales starting this week http://www.doublefine.com/forums/viewthread/13671/
+00:13:54 Cheese released a new F/OSS project called Transcriberer which we’re using to assist with SteamLUGcast shownotes http://transcriberer.jbushproductions.com/
+
+00:15:40 *Steam/Valve News*
+00:15:43 Client updates: in-home streaming is disabled *from* Linux, Mac, some Windows http://steamcommunity.com/groups/SteamClientBeta#announcements/detail/1693658919198520123
+00:16:46 Following on from their GDC talk, John McDonald, Cass Everitt and Graham Sellers held a Reddit AMA http://www.reddit.com/r/gamedev/comments/21mbo8/we_are_the_authors_of_approaching_zero_driver/
+00:17:52 Valve GitHub news, some new repos:
+	SteamOS Mesa https://github.com/ValveSoftware/steamos_mesa
+	SteamOS kernel https://github.com/ValveSoftware/steamos_kernel
+00:18:38 New Steam Greenlight bunch, 42 out of 75 offering Linux support
+	Full list http://steamcommunity.com//sharedfiles/filedetails/?id=244440590
+	Chaos Reborn [s02e06] http://steamcommunity.com/sharedfiles/filedetails/?id=243002096
+	Wander [s01e09] http://steamcommunity.com/sharedfiles/filedetails/?id=136830410
+	Windward http://steamcommunity.com/sharedfiles/filedetails/?id=93552173
+	Paragon http://steamcommunity.com/sharedfiles/filedetails/?id=173941881
+	Impulse http://steamcommunity.com/sharedfiles/filedetails/?id=100399066
+	True Combat: Elite http://steamcommunity.com/sharedfiles/filedetails/?id=93422342
+
+00:23:21 *Gaming News*
+00:23:24 FTL Advanced Edition is out http://store.steampowered.com/app/212680/
+00:28:31 Steam Releases:
+	Escape Goat 2 http://store.steampowered.com/app/255340/
+	SYSTEM bloody SHOCK bloody 2 http://store.steampowered.com/app/238210/
+00:30:04 Tele42 mentions that Braid is wine‐wrapped. http://i.imgur.com/ha5Exmh.jpg
+00:31:03 We then get into an archival / preservation / DRM conversation
+00:34:02 GameSpy servers to be shutdown next month http://www.eurogamer.net/articles/2014-04-04-gamespy-servers-to-shut-down-next-month
+00:36:22 Back to Steam Releases:
+	FaeVerse Alchemy http://store.steampowered.com/app/282880/ http://www.reddit.com/r/linux_gaming/comments/21wwi7/steam_keys_for_linux_testers/
+	Breach & Clear http://store.steampowered.com/app/266130/
+00:37:34 Humble Bundle
+00:37:40 PC and Android 9
+	Broken Sword 2, Bridge Constructor, Type:Rider [s02e06], Ravensword: Shadowlands, Kingdom Rush, Knights of Pen & Paper
+00:38:51 Weekly - Destructoid
+	Little Inferno, Super Hexagon, Natural Selection 2, PixelJunk Monsters Ultimate, Hotline Miami
+00:41:32 ‘Open Source’ bundle, Cheese gives us his thoughts, after we encourage him to share.
+00:45:45 Facebook buys Oculus for $2 billion dollars, http://www.oculusvr.com/blog/oculus-joins-facebook http://newsroom.fb.com/news/2014/03/facebook-to-acquire-oculus
+	Quite a few Valve developers are migrating, Michael Abrash being the most prominent
+00:54:40 Notch voices his opinion, as a large backer http://notch.net/2014/03/virtual-reality-is-going-to-change-the-world
+00:54:41 That tweet: ‘@minliangtan@notch perhaps we can help out. Will be in touch.’ https://twitter.com/minliangtan/statuses/448606945272803328
+	John mentions TruePlayerGear http://www.trueplayergear.com/
+	Sony’s VR HMD http://blog.eu.playstation.com/2014/03/19/introducing-project-morpheus/
+00:55:42 UE 4.1 has gained partial export to linux/steamos ‐ thanks community! https://www.unrealengine.com/blog/41-update-preview
+00:57:50 VOGL supports UE4 http://richg42.blogspot.de/2014/04/vogl-support-for-unreal-engine-4.html
+00:58:10 Big bunch of TF2 fixes, hints at new ‘moonbase’ game mode http://www.teamfortress.com/post.php?id=12828
+01:00:31 Linux Game Awards open for voting for this month’s nominees http://www.linuxgameawards.org/award-instance/project-of-the-month-may-2014
+
+01:04:20 *Crowdfunding*
+01:04:22 Tom Sparks and the Quakes of Ruin - a Ratchet & Clank-alike action/platformer about exploration, crazy weapons and smashing things https://www.kickstarter.com/projects/1969025851/tom-sparks-and-the-quakes-of-ruin
+	John honestly does mean Clank, he just cannot get the words out for some reason…
+01:05:02 Cult County ‐ first-person survival horror game that blends the episodic story‐telling of The Walking Dead with the classic tension‐filled exploration and action of Silent Hill and Resident Evil https://www.kickstarter.com/projects/2029149553/cult-county-by-renegade-kid
+
+01:06:09 *Sign‐off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, Sword @swordfischer & John @johndrinkwater

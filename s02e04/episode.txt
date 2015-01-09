@@ -1,0 +1,117 @@
+RECORDED: 2014-02-21
+PUBLISHED: 2014-03-17
+TITLE: Amusing Games Online
+SEASON: 02
+EPISODE: 04
+DURATION: 01:34:36
+FILENAME: steamlugcast.s02e04.amusing-games-online
+DESCRIPTION: In this episode of SteamLUG Cast, we are joined by Howard Tsao and Matthew Hartman of Muse Games to chat about Guns of Icarus Online and the challenges they came across in the process of deploying it to Linux. Afterwards, Cheese, Sword and John discuss the most recent SteamLUG events, Steam for Linux¿s 1st Anniversary, Greenlight titles, Bad Golf CE and more!
+HOSTS: @ValiantCheese, @swordfischer, John (@johndrinkwater)
+GUESTS: Matthew Howard (@Keyvias), Howard Tsao (@howardctsao)
+ADDITIONAL:
+
+00:00:09 *Introduction*
+00:00:14 Cheese @ValiantCheese introduces
+00:00:15 Sword @swordfischer
+00:00:17 John @johndrinkwater
+00:00:22 Matthew Hartman @Keyvias Public relations specialist of Muse Games
+00:00:25 Howard Tsao @howardctsao CEO of Muse Games
+
+00:00:27 *Chat w/ Howard Tsao and Matthew Hartman of Muse Games, Guns of Icarus: Online*
+00:00:30 What is Muse Games? http://musegames.com/
+00:03:46 Evolution of Unity over time (usability, robustness, platform compatibility)
+00:05:49 Experience with deploying Unity games on other platforms
+00:07:00 Exporting Linux builds in Unity
+00:08:43 Unity Issue Tracker http://issuetracker.unity3d.com/
+00:09:45 Crowdfunding experiences
+00:11:09 Guns of Icarus Online (352% funded) https://www.kickstarter.com/projects/musegames/guns-of-icarus-online
+00:11:33 GoIO Adventure Mode (198% funded) https://www.kickstarter.com/projects/musegames/guns-of-icarus-onlineadventure-mode
+00:12:23 Guns of Icarus Online Adventure Mode
+00:15:34 Development timeframe
+00:16:38 Any chance of CreaVures or Guns of Icarus Classic coming to Linux?
+00:17:34 Feedback from Linux players regarding GoIO
+00:20:39 GoIO Flash Sale (66% off) on the Steam Holiday Sale Day 1 http://store.steampowered.com/news/12138/
+	PewDiePie’s video about Guns of Icarus Online http://www.youtube.com/watch?v=LQ94jIowzf8
+	Daily Deal http://store.steampowered.com/news/12435/
+	Be Mine 11 http://groupees.com/bm11
+00:21:44 New types of combat/encounters
+00:22:51 PAX East http://east.paxsite.com/
+00:23:22 PAX Australia http://aus.paxsite.com/
+00:23:47 Eurogamer Expo http://www.egxlondon.net/
+00:25:18 gamescom http://www.gamescom-cologne.com/en/gamescom/home/index.php
+00:26:26 Working remotely at Muse Games
+00:27:12 How to reward and encourage teamwork among players
+00:32:33 Steam Dev Days http://steamdevdays.com/
+00:36:32 Oculus Rift support for Guns of Icarus Online
+
+00:38:26 *Our Gaming*
+00:38:30 Cheese has been playing Little Racers STREET, Guns of Icarus, Spelunky, The Plan, Hoard, Starbound, Surgeon Simulator, Octodad, Papers Please
+00:41:00 Sword has been playing Rogue Legacy, CS:GO (using Steam In-Home streaming)
+00:45:31 John has been playing TF2 and DOTA 2, Estranged Act 1, Guacamelee, Pixeljunk Shooter, Toki Tori, Hoard, Painkiller: Hell & Damnation, Portal 2, and CS BombGame with Xpoo
+
+00:47:13 *SteamLUG Community Stuff*
+00:47:17 Past Events:
+	Post-cast Dota 2 http://steamcommunity.com/groups/steamlug#events/1279323227643834358
+	Overview of the matches http://dotabuff.com/matches/508660258 http://dotabuff.com/matches/508728020 http://dotabuff.com/matches/508761388
+	L4D2 http://steamcommunity.com/groups/steamlug#events/1279323227643836526
+	CS: S http://steamcommunity.com/groups/steamlug#events/1279323227643837816
+	Hoard http://steamcommunity.com/groups/steamlug#events/1279323227643914704
+00:47:46 Upcoming Events:
+	Post-cast Guns of Icarus Online http://steamcommunity.com/groups/steamlug#events/1279323227643840091
+	Worms: Reloaded http://steamcommunity.com/groups/steamlug#events/1279323227643846934
+	No More Room In Hell http://steamcommunity.com/groups/steamlug#events/1279323227643849734
+
+00:48:08 *Other Community Stuff:*
+00:48:09 Cheese wrote an article about managing LUGs and community groups http://cheesetalks.twolofbees.com/usergroups.php
+00:48:51 SteamLUG Starbound server on the way thanks to Nemoder http://steamcommunity.com/id/Nemoder
+00:49:38 Cheese is coordinating a Double Fine community project to bring one of the unsuccessful Amnesia Fortnight pitches into reality (targeting Linux) https://github.com/Double-Fine-Game-Club/bad-golf-community-edition
+
+00:51:33 *Steam/Valve News*
+00:51:34 Steam for Linux turns one! (57 titles on launch, 230 in November to over 300) http://steamcommunity.com/groups/steamlug#announcements/detail/1280449762432418904 https://twitter.com/johndrinkwater/status/434342017574125568
+00:52:44 GitHub activity
+00:52:53 Steamworks VR API https://github.com/ValveSoftware/steamworks-vr-api/
+00:55:35 Steam Dev Days videos now available http://steamdevdays.com/
+	Steam Dev Days YouTube playlist http://www.youtube.com/playlist?list=PLckFgM6dUP2hc4iy-IdKFtqR9TeZWMPjm
+00:57:16 Steam tags http://store.steampowered.com/tag
+00:58:26 Steam Tags: The Game http://tags.steamdb.info/
+01:00:22 Linux/SteamOS removed from Steam Store main menu bar
+01:01:23 Client update includes fixes some streaming crashes http://steamcommunity.com/groups/SteamClientBeta/announcements/detail/1694780928425439769
+01:01:31 SteamOS updates http://steamcommunity.com/groups/steamuniverse/announcements/detail/1838896116745319944
+	Mysterious upcoming feature http://steamcommunity.com/groups/SteamClientBeta/announcements/detail/1697033460734996625
+
+01:02:49 *Greenlight News*
+01:02:50 February 19th Greenlight titles http://steamcommunity.com//sharedfiles/filedetails/?id=228033300
+01:02:55 Krita (GPL2 paint program) http://krita.org/item/213-krita-on-steam http://steamcommunity.com/sharedfiles/filedetails/?id=225403385
+01:03:33 Circuits http://steamcommunity.com/sharedfiles/filedetails/?id=227032988
+01:03:57 TRI http://steamcommunity.com/sharedfiles/filedetails/?id=181319200
+01:04:34 Hover: Revolt of Gamers http://steamcommunity.com/sharedfiles/filedetails/?id=219856897
+
+01:04:57 *General Gaming News*
+01:05:00 New Steam Releases:
+	Guacamelee http://store.steampowered.com/app/214770/
+	The Swapper http://store.steampowered.com/app/231160/
+	Little Racers STREET http://store.steampowered.com/app/262690/
+	Papers Please http://store.steampowered.com/app/239030/
+	Journal http://store.steampowered.com/app/261680/
+01:17:00 NS2 update {contains linux fixes for OOM + gtk errors on non-gtks} http://unknownworlds.com/ns2/dropship-update-released/
+01:17:19 Nuclear Dawn stuck in beta, InterWave went out of business http://steamcommunity.com/app/17710/discussions/3/540733523949864013/
+01:20:05 Mysterious Crytek SDK depot http://steamdb.info/app/220980/
+01:22:38 Godot Engine has now been open sourced (MIT licenced) http://www.godotengine.org/wp/
+01:23:51 Broken Age DRM free downloads are now available to backers/Humble purchasers https://www.kickstarter.com/projects/doublefine/double-fine-adventure/posts/746289
+01:25:05 Mode details on FTL’s upcoming expansion (new systems, ‘Hard’ mode) http://www.ftlgame.com/?p=647
+01:26:55 Humble stuff
+	Last Humble Weekly Sale: IndieCade; half supported linux, And Yet It Moves, Luxuria Superbia, Dear Esther http://blog.humblebundle.com/post/76549417011/indiecades-best-comes-to-the-humble-weekly-sale
+	Current Humble Weekly Sale: Adventure Company and Friends (3 out of 12 titles support Linux); The Raven, BoUT and BoUT:CC http://blog.humblebundle.com/post/77296177520/time-for-a-virtual-venture-with-the-adventure-company
+	Humble Indie Bundle 11: Guacamelee, Dust, The Swapper, Antichamber, Monaco and Giana Sisters (Linux port coming ¿later this year¿) http://blog.humblebundle.com/post/77088386352/humble-indie-bundle-11-monaco-guacamelee-and-more
+
+01:29:05 *Crowdfunding*
+01:29:07 StarCrawlers - sci-fi first person roguelike https://www.kickstarter.com/projects/125859261/starcrawlers
+01:29:47 Tabletop Simulator https://www.kickstarter.com/projects/274930865/tabletop-simulator
+01:32:07 Book of Unwritten Tales 2 https://www.kickstarter.com/projects/kingartgames/the-book-of-unwritten-tales-2
+
+01:32:57 *Sign off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, Sword @swordfischer & John @johndrinkwater

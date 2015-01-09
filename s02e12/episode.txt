@@ -1,0 +1,140 @@
+RECORDED: 2014-06-13
+PUBLISHED: 2014-07-04
+TITLE: SteamBoy Over The Moon
+SEASON: 02
+EPISODE: 12
+DURATION: 01:34:55
+FILENAME: steamlugcast.s02e12.steamboy-over-the-moon
+DESCRIPTION: In this episode of SteamLUG Cast, Johndrinkwater, DerRidda, Nemoder and Cheese are joined again by John Warner from Over The Moon games to chat about The Fall's launch, Greenlight, demo and commentaries. We then go on to discuss Steam VR mode, GOG Galaxy, The Witcher, SteamBoy, Civilization V and Civilization: Beyond Earth. Holy poop!
+HOSTS: @ValiantCheese, @johndrinkwater, @DerRidda, Nemoder
+GUESTS: John Warner (@OverTheMoonGms)
+ADDITIONAL:
+
+
+00:00:06 *Introduction*
+00:00:07 Cheese @ValiantCheese introduces...
+00:00:19 DerRidda @DerRidda
+00:00:21 johndrinkwater @johndrinkwater
+00:00:24 Nemoder http://steamcommunity.com/id/Nemoder
+00:00:27 Special guest John Warner @OverTheMoonGms, who previously joined us for [s01e10]
+00:00:50 9 months is how long it takes to hatch a game... and babies
+
+00:01:17 *Our Gaming*
+00:01:18 DerRidda has been playing The Fall, Civilization V and Shadowrun: Dragonfall!
+00:02:09 johndrainkwater has been playing Civilization V and No More Room In Hell!
+00:02:30 Cheese has been testing VVVVVV, Overgrowth, Snapshot, Sanctum 2, Hand of Fate and Crypt of the NecroDancer as well as playing Guns of Icarus Online, Spelunky, The Fall, The Plan, Kentucky Route Zero, TF2, BattleBlock Theatre, SpaceBase DF-9 and Shufflepuck Cantina!
+00:03:57 Nemoder has been playing Factorio, Civilization V, Guns of Icarus Online, Planetary Annihilation and Papers, Please!
+00:06:20 John Warner has been playing Kentucky Route Zero, Shadowrun and Uncharted 2!
+
+00:08:45 *Chat With Special Guest John Warner From Over The Moon Games*
+00:08:54 Development history of The Fall
+	The Fall on Kickstarter https://www.kickstarter.com/projects/189665092/the-fall-dark-story-driven-exploration-in-an-alien/
+00:10:20 Harmony Arcade https://twitter.com/harmonyarcade
+00:09:41 Cheese lent a hand during development to identify and address Linux specific issues
+00:10:46 The Fall is coming to the Wii U
+00:11:40 Unity 4.5.1 release http://unity3d.com/unity/whats-new/unity-4.5.1
+00:12:25 Launching a game on Steam
+00:12:43 Air Control http://store.steampowered.com/app/295810/
+00:16:48 Earth: Year 2066 http://steamcommunity.com/app/290750/discussions/0/540740501406063338/
+00:18:10 The Fall was released on Steam on the 6th of June http://store.steampowered.com/news/13496/
+00:19:14 The Fall on Humble Store https://www.humblebundle.com/store/p/thefall_storefront
+00:19:22 New trailer for The Fall https://www.youtube.com/watch?v=kHTYFqs4VnQ
+00:19:27 "An experiment in narrative design - how we created The Fall" http://gamasutra.com/blogs/JohnWarner/20140617/219266/An_experiment_in_narrative_design__how_we_created_The_Fall.php
+00:19:40 Wii U specific interface concerns
+00:21:50 Receptions to The Fall
+00:22:29 "... is a modern classic" http://thatnerdshow.com/fearandgaminginnewvegas/the-fall-mac-review/
+00:22:32 "...one of the best games I've played" http://indiegamemag.com/the-fall-descending-into-greatness/
+00:23:00 The Fall on Metacritic http://www.metacritic.com/game/pc/the-fall
+00:23:29 PCGamesN have since posted their review http://www.pcgamesn.com/fall/fall-episode-1-pc-review-mainframing-secret-truth-universe
+00:23:35 The Fall suffered some launch bugs
+00:24:52 How is input from backers and post-launch players being handled?
+00:26:38 Press interest helped shift the Kickstarter pitch focus toward Asimov style rules
+00:28:35 Do you feel that over the last 8 to 9 months The Fall has taken directions that you didn't expect?
+00:31:48 Was there much you had to cut out of the first part?
+00:33:56 DeRidda worked on the revamped German localisation of The Fall
+00:35:11 Elance https://www.elance.com/
+00:37:18 What post-launch plans do you have for The Fall and its successor(s)?
+00:38:42 Discussion of controls and input schemes
+00:40:44 The Swapper http://facepalmgames.com/the-swapper/
+00:42:28 "Did we just hear the ball pen clicking?"
+00:42:59 Retrospectively, how do you feel that Greenlight went?
+	http://steamcommunity.com/sharedfiles/filedetails/?id=177232316 The Fall on Steam Greenlight
+00:43:55 Launch timing and collisions
+	The Forest http://survivetheforest.com/
+	Stomping Land http://thestompingland.com/
+00:47:04 DGMurdockIII asks in chat if a demo is planned for The Fall
+00:48:11 Half-Life Uplink http://en.wikipedia.org/w/index.php?title=Half-Life:_Uplink
+00:48:20 Blocks That Matter demo http://www.swingswingsubmarine.com/games/blocks-that-matter/
+00:48:34 The Stanley Parable Demo http://store.steampowered.com/app/221910/
+00:50:40 More controls discussion
+00:55:45 Cheese asks about a dangling plot thread
+00:57:27 John asks what we think of creators giving commentary on their work
+01:00:49 Portal http://store.steampowered.com/app/400/
+	Half-Life 2 http://store.steampowered.com/app/220/
+
+01:02:37 *SteamLUG Community Stuff*
+01:02:40 Past events:
+	Worms Reloaded http://steamcommunity.com/groups/steamlug#events/1281581999424398914
+	Serious Sam 3 survival mode http://steamcommunity.com/groups/steamlug#events/1281581999424400085
+	Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/1262444873166552378
+	No More Room in Hell http://steamcommunity.com/groups/steamlug#events/1262444873166552924
+	Regular Guns of Icarus Online practice sessions http://steamcommunity.com/groups/steamlug/discussions/2/558752449259869101/
+01:06:01 Upcoming events
+	Post-cast Guns of Icarus Online event http://steamcommunity.com/groups/steamlug#events/1262444873166555033
+	Awesomenauts http://steamcommunity.com/groups/steamlug#events/1262444873166556184
+	BattleBlock Theatre http://steamcommunity.com/groups/steamlug#events/1262444873166557458
+	Hammerwatch http://steamcommunity.com/groups/steamlug#events/1262444873166558454
+01:08:33 SteamLUG Cast's first anniversary! Season 1, Episode 1 was recorded on the 24th of May and published on June 5th [s01e01]
+01:10:18 Half-Shot's second article on the F/OSS Radeon drivers http://gamingonlinux.com/articles/games-on-amd-foss-drivers-2.3883
+01:11:59 Cheese finished streaming Kentucky Route Zero, Act III for the Double Fine Game Club http://www.doublefine.com/forums/viewthread/14032/
+01:12:46 SteamLUG website updates thanks to @johndrinkwater @swordfischer @ValiantCheese and @MikaelMaison
+	Twitter feed is on the news page again
+	iTunes feed should work again
+	Cast index page has been revamped
+	Cast pages have been revamped
+
+01:13:34 *Steam/Valve News*
+01:13:35 Client beta update allows pre-loading to any Steam library http://steamcommunity.com/groups/SteamClientBeta#announcements/detail/1679027838694399448
+01:13:53 VR mode has been made available for Linux users http://steamcommunity.com/groups/SteamClientBeta#announcements/detail/1679028562739589702
+
+01:15:48 *Linux Tech News*
+01:15:51 Unreal Engine 4.2 release allows some dev tools to be build on Linux https://www.unrealengine.com/blog/unreal-engine-42-release
+01:16:09 SteamBoy http://cdn.escapistmagazine.com/media/global/images/library/deriv/750/750191.jpg http://www.escapistmagazine.com/news/view/135381-SteamBoy-Aims-To-Be-The-Handheld-Steam-Machine
+
+01:17:59 *General Gaming News*
+01:17:02 Age of Wonders III to be ported to Linux http://steamcommunity.com/app/226840/discussions/0/522729901197554107/#c522729901198015649
+01:18:33 The Witcher 3: Wild Hunt is "coming to SteamOS" https://www.gamingonlinux.com/articles/the-witcher-3-wild-hunt-confirmed-for-linux-steamos.3861
+	E3 gameplay footage http://youtu.be/BivVXw-NLTw
+01:19:11 Homefront: The Revolution is coming to Linux https://www.gamingonlinux.com/articles/cryteks-cryengine-powered-homefront-the-revolution-fps-coming-to-linux.3823
+	E3 gameplay footage http://youtu.be/tujh2fnATK4
+01:20:15 GOG have announced GOG Galaxy, an optional Steam-like client http://www.gog.com/galaxy
+	"Galaxy is being done with PC, Mac and Linux in mind." http://www.gog.com/forum/general/cd_projekt_red_gogcom_summer_conference/post801
+01:22:04 Holy poop! Civilization V launches on Linux! http://www.aspyr.com/news_articles/sid-meiers-civilization-v-officially-available-on-linux-for-steamos--2
+	Porting AMA http://www.reddit.com/r/linux_gaming/comments/27w10q/amaa_programmer_on_civilization_5_steamos
+01:23:16 The Witcher 2 http://store.steampowered.com/app/20920/
+01:24:36 Gameplay footage of Civilization: Beyond Earth http://youtu.be/Uex9KqITM2Q
+01:25:51 Pandora First Contact http://store.steampowered.com/app/287580/
+01:26:04 Alienware announces a non-Steam Machine "Alienware Alpha" https://www.gamingonlinux.com/articles/alienwares-steam-machine-fully-announced-they-arent-using-steamos.3877
+01:27:33 Nordic Games have renamed themselves to THQ http://www.polygon.com/2014/6/12/5805074/thq-trademark-acquired-nordic-games
+01:29:34 Leszek Godlewski from Nordic Games joined us for [s02e10]
+01:29:42 New Steam Greenlight batch has been approved with 30 games out of 74 featuring Linux support http://steamcommunity.com//sharedfiles/filedetails/?id=269177587
+01:30:14 New Steam releases
+	Tex Murphy http://store.steampowered.com/app/302350 http://store.steampowered.com/app/302360 http://store.steampowered.com/app/302340
+	VVVVVV update includes a level editor, SDL2 support thanks to @flibitijibibo http://distractionware.com/blog/2014/06/outer-space/
+	MMMMMM soundtrack http://www.souleye.se/m
+	Floating Point http://store.steampowered.com/app/302380/
+	Crea http://store.steampowered.com/app/280520/
+	Secret of the Magic Crystals - The Race DLC http://store.steampowered.com/app/305570/
+	TowerFall Ascention http://store.steampowered.com/app/251470/
+01:33:42 DGMurdockIII mentions Will Fight For Food getting greenlit http://steamcommunity.com/sharedfiles/filedetails/?id=92917414
+	Will Fight For Food is already available for Linux on a number of other stores http://pyrodactyl.com/will-fight-for-food/
+
+01:33:55 *Crowdfunding News*
+01:33:56 FranknJohn https://www.kickstarter.com/projects/bitsmithgames/franknjohn
+
+01:34:30 *Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, DerRidda @DerRidda & John @johndrinkwater

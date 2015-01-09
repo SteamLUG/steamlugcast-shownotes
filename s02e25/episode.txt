@@ -1,0 +1,75 @@
+RECORDED: 2014-12-12
+PUBLISHED: 2015-01-08
+TITLE: Two Professionals One Cast
+SEASON: 02
+EPISODE: 25
+DURATION: 00:34:45
+FILENAME: steamlugcast.s02e25.two-professionals-one-cast
+DESCRIPTION: In this episode, Cheese and DerRidda deftly step past a recording hiccough and discuss Handmade Penguin, the Steam Holiday Auction, BioShock Infinite, Civilization: Beyond Earth, 7DFPS and more!
+HOSTS: @ValiantCheese, @DerRidda
+GUESTS:
+ADDITIONAL:
+
+00:00:09 *Introduction*
+00:00:18 Cheese @ValiantCheese introduces
+00:00:20 @DerRidda
+00:00:22 Once more, with feeling...
+
+00:00:30 *Our Gaming*
+00:00:32 @DerRidda has been playing CS:GO, Deponia and The Last Federation
+00:00:47 @ValiantCheese has been playing some 7dfps games, Satellite Reign, Crypt of the Necrodancer, Distance and Shovel Knight
+
+00:01:13 *SteamLUG Community News*
+00:01:16 Altitude event http://steamcommunity.com/groups/steamlug#events/124174663437122206
+00:01:36 Screencheat http://steamcommunity.com/groups/steamlug#events/124174663437618719
+00:01:48 TF2 http://steamcommunity.com/groups/steamlug#events/125303093049615137
+00:01:49 CS:GO http://steamcommunity.com/groups/steamlug#events/125303093049623562
+00:01:56 Upcoming post-cast No More Room in Hell http://steamcommunity.com/groups/steamlug#events/125303093052447837
+00:02:04 Upcoming Mount & Blade Warband http://steamcommunity.com/groups/steamlug#events/125303093052457096
+00:02:08 Upcoming Synergy HL2 http://steamcommunity.com/groups/steamlug#events/125303093056753480
+00:02:19 Upcoming X:COM Enemy Unknown http://steamcommunity.com/groups/steamlug#events/125303093056768384
+00:03:07 Upcoming First attempt at a long-form event with Civilization V http://steamcommunity.com/groups/steamlug#events/125303093040332884
+00:03:51 Upcoming DotA 2 for Beginners event run by community members sakuramboo and dougie187 http://steamcommunity.com/groups/steamlug#events/125303093040337515
+00:04:43 Double Fine Game Club is playing Maniac Mansion with special guests Ron Gilbert and Gary Winnick http://www.doublefine.com/forums/viewthread/15881/
+	Ron and Gary join DFGC during their Kickstarter campaign for Thimbleweed Park https://www.kickstarter.com/projects/thimbleweedpark/thimbleweed-park-a-new-classic-point-and-click-adv
+	Maniac Mansion was first to use SCUMM engine from which the open source reimplementation takes its name http://scummvm.org/faq/#1_2
+00:05:54 Cheese @ValiantCheese has been looking at games from 7dfps http://7dfps.com/
+	About 40% of the games had Linux builds
+	Cheese took some time to talk to some of the developers using Linux http://www.gamingonlinux.com/articles/the-7dfps-challenge-2014-a-linux-perspective.4686/
+	DerRidda @DerRidda played a bit of The Cabin http://an0nx.itch.io/the-cabin
+	Cheese enjoyed the stealth title Adams Drive 32 http://primaerfunktion.itch.io/adams-drive-32
+	Photobomb, a highly-polished entry, has the player use multiple time-sequenced photos to identify a bomber http://milkbaggames.itch.io/photobomb
+00:11:53 Community member Sulix has been creating a companion site to Casey Muratori's Handmade Hero https://davidgow.net/handmadepenguin/ https://handmadehero.org
+00:13:46 The backlog of SteamLUG casts has been cleared!
+
+00:14:29 *Steam/Valve News*
+00:14:32 Steam Broadcasting has now hit beta http://steamcommunity.com/updates/broadcasting
+00:17:00 Steam's Holiday Auction didn't start quite as planned http://www.rockpapershotgun.com/2014/12/12/new-games-for-old-drops-theres-to-be-a-steam-auction/
+00:20:45 Portal (no number) receives an update that includes some performance fixes for Linux http://steamcommunity.com/games/Portal/announcements/detail/239018984038934996
+00:21:23 TF2 has another community-created game mode: End of the Line http://www.teamfortress.com/endoftheline/
+
+00:21:58 *Tech News*
+00:22:01 AMD releases OMEGA to disappointing reviews http://support.amd.com/en-us/download http://www.phoronix.com/scan.php?page=article&item=amd_catalyst_1412
+
+00:23:10 *General Gaming News*
+00:23:17 Bioshock: Infinite is getting a Linux port https://www.gamingonlinux.com/articles/bioshock-infinite-looks-set-for-a-linux-release-confirmed.4668
+00:24:51 Feral's GameRadar now shows Linux support http://www.feralinteractive.com/en/upcoming/
+00:25:28 Empire: Total War's multiplayer is Linux-to-Linux only http://store.steampowered.com/app/10500/
+00:26:34 Upcoming gorefest Killing Floor 2 shows off during a PS4 event http://youtu.be/C6C2czPIV3A
+00:27:27 Aspyr has been discussing issues getting Civilization: Beyond Earth to Linux http://blog.gameagent.com/civilization-beyond-earth-mac-linux-dev-update-7/
+00:28:22 Double Fine announce two upcoming titles for Linux: Grim Fandango Remastered and Day of the Tentacle Special Edition http://www.doublefine.com/news/comments/playstation_experience_news_wrapup/
+00:30:16 Mevious @portalmevious, a guest on [s02e18], has released Rexaura on Steam http://store.steampowered.com/app/317790/
+00:30:45 The Metro Redux games arrive on Linux http://store.steampowered.com/sub/44169
+00:31:24 Trine: Enchanted Edition comes to Linux, bringing online multiplayer http://store.steampowered.com/app/35700
+00:32:06 Croteam's first-person puzzler The Talos Principle has been released http://store.steampowered.com/app/257510/
+00:32:42 Satellite Reign is available on Steam Early Access http://store.steampowered.com/app/268870
+00:33:27 NEO Scavenger is out of Early Access http://bluebottlegames.com/main/node/4003
+	James from Extra Credits talks about NEO Scavenger http://youtu.be/51lG-Ulvf2A
+
+00:34:06 *Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese & DerRidda @DerRidda
+

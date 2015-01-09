@@ -1,0 +1,84 @@
+RECORDED: 2014-05-30
+PUBLISHED: 2014-06-09
+TITLE: And Then There Were Two
+SEASON: 02
+EPISODE: 11
+DURATION: 00:45:46
+FILENAME: steamlugcast.s02e11.and-then-there-were-two
+DESCRIPTION: John and DerRidda discuss the last fortnights gaming news and releases, and when depression sets in, they pulled through it by discussing the latest Greenlight approvals… it’s going to be one of those casts, enjoy!
+HOSTS: John (@johndrinkwater), @DerRidda
+GUESTS:
+ADDITIONAL:
+
+00:00:10 *Introduction*
+00:00:14 johndrinkwater @johndrinkwater introduces…
+00:00:17 DerRidda @DerRidda
+00:00:24 Cheese (@ValiantCheese) has slept in :&lt;
+
+00:00:27 *Our Gaming*
+00:00:33 DerRidda played Witcher 2, Breach & Clear, Shadowrun Returns: Dragonfall.
+00:01:38 John QAed Skulls of the Shogun (for the past few months), Symphony, some unmentionable titles and the odd PS3 game.
+
+00:03:18 *SteamLUG Community Stuff*
+00:03:21 Gear Up http://steamcommunity.com/groups/steamlug#events/1281581999424398221
+00:03:41 Fistful of Frags http://steamcommunity.com/groups/steamlug#events/1281581999424397313
+00:04:13 TF2 http://steamcommunity.com/groups/steamlug#events/1281581999424396750
+	Left 4 Dead 2 http://steamcommunity.com/groups/steamlug#events/1281581999424395946
+00:04:19 Event suggestions welcome via:
+	#SteamLUG IRC http://steamlug.org/irc
+	Twitter @SteamLUG
+	SteamLUG Mumble http://steamlug.org/mumble
+	Discussion thread http://steamcommunity.com/groups/steamlug/discussions/2/828934424146675833/
+	Email cast@steamlug.org
+
+00:05:33 *Steam/Valve News*
+00:05:38 Alienware discusses Steam Machines profits http://www.pcgamesn.com/alienware-predict-their-steam-machine-will-be-least-profitable-system-we-ever-sell http://www.pcgamer.com/2014/05/19/alienware-says-its-steam-machine-will-be-its-least-profitable-system/
+00:06:46 Valve delays Steam Controller http://www.rockpapershotgun.com/2014/05/28/valve-steam-machines-2015/
+00:07:26 Do we need a Tech segment?
+
+00:07:58 *Tech News*
+00:07:58 Crytek releases some source from CryEngine http://www.crydev.net/viewtopic.php?f=40&p=1216858#p1216858
+00:08:35 CryEngine audio middleware costs https://twitter.com/glassbottommeg/status/472045319669432320
+	Coherent UI for @UnrealEngine 4 costs more than the engine https://twitter.com/CoherentLabs/status/475231740491866112
+	@icculus mentions Patreon https://twitter.com/icculus/status/464484659142070275
+	Patreon http://www.patreon.com/
+00:10:39 Unity 4.5 Release announcement http://unity3d.com/unity/whats-new/unity-4.5
+
+00:11:29 *Gaming News*
+00:11:32 Humble Bundle: PC and Android 10 https://www.humblebundle.com/?androidbundle10
+	Symphony, Draw a Stickman: Epic, Galcon Fusion, Galcon Legends, Skulls of the Shogun, Breach &amp; Clear, Metal Slug 3, Fieldrunners 2
+	John mispoke here and said 11, oops, embarassing.
+00:14:24 GOG job posting http://www.gog.com/work#linux_tech_specialist
+00:15:33 Metro: Redux, a bundle of 2033 & Last Light http://enterthemetro.com/us/news/game_information/return_to_post_apocalyptic_moscow_us/ http://store.steampowered.com/sub/44169/
+00:17:50 Feral Interactive announced a Linux port of XCOM: Enemy Unknown plus add-on content http://www.feralinteractive.com/en/news/424/
+00:19:50 John confesses that he bought a MacBook Pro (8,3 Late 2011, 2<sup>nd</sup> hand)
+
+00:20:13 *Steam Releases*
+00:20:14 Among the Sleep http://store.steampowered.com/app/250620 https://i.imgur.com/CAPaUuS.png
+00:22:29 Anomaly Defenders http://store.steampowered.com/app/294750
+00:23:15 Pandora: First Contact http://store.steampowered.com/app/287580/
+00:23:45 White Noise Online http://store.steampowered.com/app/293860/
+00:24:09 The Witcher 2 http://store.steampowered.com/app/20920/
+	Steam discussion thread http://steamcommunity.com/app/20920/discussions/0/522728086957775869/
+	Lengthy conversion about eON by Virtual Programming http://www.vpltd.com/services/
+	Kotaku AU (sorry for the link) http://www.kotaku.com.au/2014/05/the-witcher-2-just-made-a-bunch-of-linux-gamers-very-very-angry/
+00:33:54 Greenlight (35 of 75 titles offering Linux support) http://steamcommunity.com//sharedfiles/filedetails/?id=263961759
+	Tibia http://steamcommunity.com/sharedfiles/filedetails/?id=257622182
+	Roundabout http://steamcommunity.com/sharedfiles/filedetails/?id=186357488
+	Project After http://steamcommunity.com/sharedfiles/filedetails/?id=253464757
+00:36:10 Project Zomboid, Copyrights, Trolls and Diplomacy http://www.gamingonlinux.com/articles/defenders-of-the-gnugpl-threaten-project-zomboid.3721
+00:39:46 Flagship http://www.rockpapershotgun.com/2014/05/21/flagship-trailer/
+
+00:41:20 *Crowdfunding*
+00:41:24 Shinness https://www.kickstarter.com/projects/438269196/shiness
+00:42:48 Northern Shadow http://steamcommunity.com/sharedfiles/filedetails/?id=264849384
+	Kingdom Come: Deliverance https://www.kickstarter.com/projects/1294225970/kingdom-come-deliverance
+
+00:43:39 *Sign‐off*
+00:43:41 TrueCrypt question asked by the audience http://truecrypt.sourceforge.net/
+00:43:59 Cheese pops in to say hellobye
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, DerRidda @DerRidda & John @johndrinkwater

@@ -1,0 +1,150 @@
+RECORDED: 2014-08-08
+PUBLISHED: 2014-08-20
+TITLE: Touching Spacebase
+SEASON: 02
+EPISODE: 16
+DURATION: 01:21:06
+FILENAME: steamlugcast.s02e16.touching-spacebase
+DESCRIPTION: In this episode of SteamLUG Cast, we are joined by game developer/designer and Linux user JP LeBreton of Double Fine to chat about the status of gaming on Linux and the various projects he has worked on (including The Cave and Spacebase DF-9). We then go on to discuss the new Steam client, the appearance of the Source 2 engine, and tons of new games.
+HOSTS: @ValiantCheese, @MimLofBees, Nemoder
+GUESTS: JP LeBreton (@vectorpoem)
+ADDITIONAL: Event details for this cast: http://steamcommunity.com/groups/steamlug#events/154565071600349016
+
+00:00:09 *Introduction*
+00:00:16 Cheese @ValiantCheese</a> introduces
+00:00:17 Nemoder http://steamcommunity.com/id/Nemoder
+00:00:20 Mim @MimLofBees
+00:00:23 JP LeBreton @vectorpoem
+
+00:00:40 *Our Gaming*
+00:00:47 Mim has been playing Don't Starve, The Cave, and Alien Swarm
+	Mim would like to highlight that she's been playing The Cave since release
+00:01:28 Nemoder has been playing Spacebase DF-9, PULSAR: Lost Colony, Guns of Icarus Online
+00:02:05 JP has been playing Lovely Planet, Doom, Spacebase DF-9
+00:02:56 Cheese has been playing Orbital Gear, Alien Swarm, The Maker's Eden, Guns of Icarus Online, The Fall, Don't Starve, Mark of the Ninja, Crypt of the NecroDancer, and an unannounced title.
+
+00:03:37 *Chat With Special Guest JP LeBreton From Double Fine*
+00:03:52 JP lives in San Francisco and works at Double Fine http://doublefine.com
+00:03:55 14 years of professional game development
+00:04:03 Made an exhaustive list of games he has worked on https://www.dropbox.com/s/6kotxh61506gpnk/games_worked_on.txt
+	15 released games, 8 released mods/maps, 6 unreleased professional works, 2 finished but unreleased maps, 13 unfinished games, and 18 unfinished mods/maps
+	Currently working on Spacebase DF-9 http://www.spacebasedf9.com/
+00:04:31 Previous employers include Human Head Studios http://www.humanhead.com/
+	Blue Fang Games http://wikipedia.org/wiki/Blue_Fang_Games
+	Irrational Games http://irrationalgames.com/ , worked on BioShock http://irrationalgames.com/studio/projects/bioshock/ as a level designer
+	2K Marin http://www.2kmarin.com/ , worked on BioShock 2 http://www.bioshock2game.com/ and XCOM: The Bureau http://www.thebureau-game.com/
+00:05:16 Working on spare-time indie games for 10 years
+00:05:32 Cheese misheared XCOM: The Bureau as "XCOM"
+00:05:57 UFO: Enemy Unknown (X-COM: UFO Defense) http://en.wikipedia.org/wiki/UFO:_Enemy_Unknown
+00:06:19 XCOM: Enemy Unknown http://www.xcom.com/enemyunknown
+00:06:45 Massive Chalice http://massivechalice.com/
+	HOFs ("Hour Of Fun") are Double Fine's internal playtesting sessions
+00:07:28 JP has been using Ubuntu since 2006, about 8 years
+00:08:57 Thoughts on the experience of migrating to Linux
+00:10:30 Cheese stopped using Windows in 2006
+00:10:40 Thoughts on how things have improved for new Linux users
+00:13:04 Microsoft's research highlighting that Doom was widely installed software on MS DOS http://www.gamification.co/2013/05/10/a-lesson-in-the-importance-of-innovation/
+00:14:01 Games are helping push Linux performance and driver support forward
+00:14:20 Gamers are usually power users, which may positively influence Linux mind share
+00:15:04 JP manages some open source projects
+00:15:31 Firefox was JP's gateway into open source http://mozilla.org/firefox
+00:15:37 His game Purity was his first public project http://vectorpoem.com/purity/
+	Uses ioQuake3 http://ioquake3.org/
+00:15:53 Correction: It appears that Purity was an IGF 2009 entrant http://www.igf.com/php-bin/entry2009.php?id=440
+00:16:06 JP posts all his code on Bitbucket https://bitbucket.org/JPLeBreton
+00:17:13 In past year has been making twitter bots
+00:18:14 @SteamDB_Linux is a bot maintained by JP https://bitbucket.org/JPLeBreton/steamdblinuxbot
+00:19:16 Wanting notification should Spelunky ever appear on Linux was a motivator for @SteamDB_Linux http://spelunkyworld.com
+00:19:46 Thoughts on the value of SteamDB for Linux gamers
+00:21:03 JP noticed a problem with the Spacebase DF-9 Steam Linux depot thanks to SteamDB
+00:22:25 Thoughts on Double Fine's growth over the past 3 years
+00:22:46 Amnesia Fortnight is Double Fine's internal game jam/prototyping event
+00:23:16 Using Kickstarter was a turning point for Double Fine http://www.kickstarter.com/projects/doublefine/double-fine-adventure
+00:26:35 Double Fine now thinks of PC as Linux, Windows, and OSX
+00:28:43 Thoughts on project concurrency at Double Fine
+00:29:32 Costume Quest 2 http://www.doublefine.com/news/comments/double_fine_and_midnight_city_team_up/ is aimed to release around Halloween 2014
+00:31:29 Iron Brigade will be affected by GFWL's closure http://steamcommunity.com/app/115120/discussions/0/864976115762321353/
+00:33:07 Double Fine hired JP to be a designer on The Cave http://thecavegame.com/
+00:34:10 JP had never worked on a platformer or adventure game before The Cave
+00:37:07 The Cave "clown nose honking" details
+00:38:00 Spacebase DF-9 http://spacebasedf9.com/
+	Info on Spacebase DF-9's conception by JP at the first public Amnesia Fortnight http://www.doublefine.com/fortnight
+	Video pitch https://www.youtube.com/watch?v=fsaBYCBx7Jk
+00:39:04 Spacebase was inspired partially by Dwarf Fortress http://www.bay12games.com/dwarves/
+00:43:01 Tutorials and better progression, including objectives, are big features which will be added to Spacebase DF-9 before it is released
+00:47:30 Thoughts on balancing emergent gameplay and crafting a polished gaming experience
+00:49:25 JP's Buried Metropolis (Amnesia Fortnight 2014) retrospective
+	Video pitch https://www.youtube.com/watch?v=GAz91rgvhog
+	Pitch notes https://www.humblebundle.com/static/pdfs/amnesiafortnight2014/buried_metropolis.pdf
+00:50:56 JP's thoughts on working on Dear Leader (Amnesia Fortnight 2014)
+	Video pitch https://www.youtube.com/watch?v=o3Db2MoCrGY
+00:51:41 JP would definitely like to exclusively use Linux for work, though he doesn't believe that Double Fine will switch entirely to Linux any time soon
+00:52:06 Jeremy Mitchell, Spacebase DF-9's Lead Artist https://twitter.com/floatvoid/
+00:52:16 JP already uses Gimp http://gimp.org and Krita https://krita.org/ for minor art work
+	 The bulk of his other development tools are open source as well
+00:52:33 2HB is Double Fine's Moai integrated authoring and debigging tool
+00:52:45 Brandon Dillon @Noughtceratops is also lead developer on Hack 'n' Slash http://www.hacknslashthegame.com/
+00:54:15 "...if I ever founded my own game studio someday, not that I really have much of an intention to, you know, I would be using Linux and I would probably make it a priority so that people could [use Linux] in developing whatever kind of games we were making."
+00:55:54 JP would like to see Spelunky http://spelunkyworld.com and Abyss Odyssey http://abyssodyssey.com/abysspage.html on Linux
+00:57:02 JP's experiences with Wine http://winehq.org
+00:58:20 Comments on popular game creation platforms working on Linux
+00:58:54 Thoughts on Unreal Engine 4's Linux support
+01:00:31 Eldrich http://www.eldritchgame.com/
+	NEON STRUCT: Die Augen der Welt http://neonstruct.com/
+01:01:18 There's opportunity for Linux communities help with initial ports of games, allowing developers to simply maintain Linux support
+
+01:02:49 *SteamLUG Community Stuff*
+01:02:51 Past events:
+	XCOM after the last cast http://steamcommunity.com/groups/steamlug#events/162445111934228053
+	Worms Reloaded http://steamcommunity.com/groups/steamlug#events/1262447672748976017
+	Steel Storm: Burning Retribution http://steamcommunity.com/groups/steamlug#events/162445111934699687
+	HER0 recorded a video during the Steel Storm event http://youtu.be/y9iRp8c1TEI
+	We had our first Mount & Blade: Warband event http://steamcommunity.com/groups/steamlug#events/154565071659011935
+01:04:00 Upcoming events:
+	Trine 2 after the cast http://steamcommunity.com/groups/steamlug#events/154565071659014138
+	Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/154565071659015517
+	Portal 2 Mapping Challenge with Portal mapper and modder Mevious http://steamcommunity.com/groups/steamlug#events/154565071659016829
+	Fistful of Frags http://steamcommunity.com/groups/steamlug#events/154565071659018198
+	As well as our regular Guns of Icarus Online events http://steamcommunity.com/groups/steamlug/discussions/2/558752449259869101/
+
+01:04:48 *Steam/Valve News*
+01:04:51 Beta client update for Steam which introduces new features as well as a new theme, including hiding games in your library http://steamcommunity.com/groups/SteamClientBeta#announcements/detail/243511798498996676
+01:05:30 Dota 2 Workshop Tools update uses Valve's Source 2 engine (Windows only for now) http://www.reddit.com/r/DotA2/comments/2cv5os/so_the_workshop_tools_isnt_just_a_modding/
+	Video of the new Hammer tool in action https://www.youtube.com/watch?v=byePJbjTosI
+
+01:06:48 *General Gaming News*
+01:06:50 Assault Android Cactus received a large update with infinity mode and new character voice-overs http://steamcommunity.com/games/250110/announcements/detail/269406862320958068
+01:07:13 Crypt of the NecroDancer launched on Steam Early Access http://store.steampowered.com/app/247080/
+	Necrothon raised $25k which was donated to six charities http://necrodancer.com/necrothon/
+01:08:03 NecroDancer Soundtrack http://store.steampowered.com/app/314680/
+01:08:56 XCOM: Enemy Unknown updated with some Linux fixes http://steamcommunity.com/app/200510/discussions/0/34093781672243819
+01:09:22 Orbital Gear is now available on Steam http://store.steampowered.com/app/298520/
+01:10:28 Borderlands: The Pre-Sequel had a Linux port mentioned in a financial report http://ir.take2games.com/phoenix.zhtml?c=86428&p=irol-newsArticle&ID=1955544&highlight 
+	The port was confirmed by IGN http://www.ign.com/articles/2014/08/06/borderlands-the-pre-sequel-coming-to-linux
+01:11:23 Dungeons 2 was announced for Linux http://www.dungeons-game.com/en/index.php
+01:12:08 Devinity: Original Sin http://www.divinityoriginalsin.com/
+01:12:32 Act of Aggression was announced for Linux http://www.actofaggression-game.com/
+	Teaser Trailer https://www.youtube.com/watch?v=BfRqrxGQQg4
+01:13:03 Steam releases:
+	Crawl (mentioned in [s02e14] ) http://store.steampowered.com/app/293780/
+	The Maker's Eden http://store.steampowered.com/app/313360/
+01:13:23 New batch of Greenlight titles with 28 out of 50 supporting Linux http://steamcommunity.com//sharedfiles/filedetails/?id=291342035
+	Rexaura, a Portal mod by Mevious http://steamcommunity.com/sharedfiles/filedetails/?id=265557293
+	Absolute Drift, minimalistic top down stunt driving game http://steamcommunity.com/sharedfiles/filedetails/?id=282391130
+	Ninja Pizza Girl, interesting platformer http://steamcommunity.com/sharedfiles/filedetails/?id=285800181
+01:14:32 Screencheat beta is on Steam, split screen FPS where everyone is invisible http://screencheat.com
+
+01:15:51 *Crowdfunding News*
+01:16:00 A Rite From the Stars, an upcoming point and click adventure https://www.kickstarter.com/projects/risingoat/a-rite-from-the-stars-a-3d-graphic-adventure http://steamcommunity.com/sharedfiles/filedetails/?id=230466606
+01:17:10 Bolt Riley, another point and click adventure with a 7 day Kickstarter campaign (which was successful) https://www.kickstarter.com/projects/soundguy/bolt-riley-a-reggae-adventure-game-chapter-1
+
+01:18:20 *Final Comments*
+01:18:29 JP was regaining his energy by eating a sandwich
+01:19:20 For those interested in GoI Online, we're very welcoming of newcomers in our events http://steamcommunity.com/groups/steamlug/discussions/2/558752449259869101/
+
+01:19:04 *Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese & Mim @MimLofBees

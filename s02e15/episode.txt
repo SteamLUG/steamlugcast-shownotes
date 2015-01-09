@@ -1,0 +1,138 @@
+RECORDED: 2014-07-25
+PUBLISHED: 2014-07-29
+TITLE: Fera Avis Pinguis
+SEASON: 02
+EPISODE: 15
+DURATION: 02:04:34
+FILENAME: steamlugcast.s02e15.fera-avis-pinguis
+DESCRIPTION: The SteamLUG cast is back with a conversation with production manager Edwin Smith from Feral Interactive, a well‐known Mac porting house, about their first Linux port XCOM. We then move onto the topics of the last fortnight.
+HOSTS: @ValiantCheese, John (@johndrinkwater), @DerRidda
+GUESTS: Edwin Smith (feralgames)
+ADDITIONAL:
+
+00:00:09 *Introduction*
+00:00:14 Cheese @ValiantCheese introduces himself and…
+00:00:19 DerRidda @DerRidda
+00:00:21 johndrinkwater @johndrinkwater
+00:00:25 and special guest Edwin Smith @feralgames
+00:00:31 Is everyone busy?
+00:00:35 Let’s hope so!
+
+00:00:46 *Our Gaming*
+00:00:51 John has been playing Dota 2, Skulls of the Shogun, XCOM, LYNE and Things™
+00:01:16 DerRidda has been playing Dota 2, NEO Scavenger, Half‐Life: Blue Shift
+00:01:53 Cheese has been playing Guns of Icarus Online, Crypt of the NecroDancer, TF2, Civ V, Hand of Fate, XCOM. Testing The Fall, The Maker’s Eden, The Journey Down Chapter 2 and an unannounced title
+00:02:31 Edwin was not too busy to play XCOM, Football Manager, in development titles like Shogun 2, Half‐Life, LEGO games
+00:03:29 Aren’t LEGO games lovely?
+
+00:04:53 *Interview with Edwin*
+00:05:02 Who are Feral and what do you do?
+00:06:19 Does porting to Linux benefit the Mac side of things?
+00:07:44 Did porting to Linux meet your expectations and how did the heterogeneous nature of Linux affect you?
+00:10:25 Did the Steam‐Runtime help?
+00:11:00 How was the feedback from the Linux community?
+00:12:38 Is the Linux community’s level of vocality different from the Mac community?
+00:14:54 Does Linux make you a nerd or do nerds gravitate towards Linux?
+00:16:12 What does your testing environment look like?
+00:18:35 Do you change your testing hardware in order to reproduce issues?
+00:19:41 Has this kind of thorough testing become rare in the industry?
+00:21:54 How do you approach your licensees about porting to Linux/ do they approach you?
+00:23:18 Is demand by Linux users going to influence which games are going to be ported in the future?
+00:24:59 (How) do external porting houses interact with upstream developers?
+00:27:16 How do you handle support requests that are platform specific and those that are platform independent?
+00:29:48 What were the stand‐out issues you encountered with your first Linux port?
+00:32:25 What about X11 and case sensitive file systems?
+00:33:57 Any information about future updates/patches?
+00:38:08 Are we likely to see new Linux ports from within you existing Mac catalog or completely new ones?
+00:39:48 If you could license and port any title you want, which one would it be?
+00:41:32 Swordfischer wants a first person shooter and DerRidda agrees.
+00:41:46 Linux gamers are gamers.
+00:42:50 Edwin answers a question about Deus Ex from the mumble chat.
+	John: We were chatting about Deus Ex (1), Loki’s defunct port, and it being an early Unreal build.
+00:43:05 What was the experience of moving your development environment to Linux like?
+00:44:23 Do you expect OS X and Linux to drift apart more in the future (Clang vs GCC)?
+00:45:51 XCOM, Y U no push‐to‐talk?
+00:47:16 Send feedback about issues like that to Feral! steamsupport@feralinteractive.com
+00:47:48 Is there anything that you would like to ask of the community?
+00:51:06 Have you read soeb’s PCGW port report on XCOM? http://community.pcgamingwiki.com/page/blog/_/features/port-reports/pc-report-xcom-enemy-unknown-on-linux-r151
+00:54:44 Everybody is excited about new games on Linux!
+00:55:46 XCOM RNG can be a bit of a pain.
+00:58:01 Do you use internal or external testers?
+00:58:34 Edwin answers Tele42 chat question about the age of the testers.
+00:59:54 Interview conclusion
+01:02:34 Cheese’s closing comments
+
+01:02:54 *SteamLUG Community Stuff*
+01:02:58 Past Events:
+	Skulls of the Shogun http://steamcommunity.com/groups/steamlug#events/1262447672748971841
+	Left 4 Dead 2 http://steamcommunity.com/groups/steamlug#events/1262447672748972535
+	Civ V http://steamcommunity.com/groups/steamlug#events/1262447672748973507
+	TF2 http://steamcommunity.com/groups/steamlug#events/1262447672748974302
+	Regular Guns of Icarus Events
+01:05:55 Upcoming Events:
+	Post‐cast XCOM http://steamcommunity.com/groups/steamlug#events/162445111934228053
+	Worms Reloaded http://steamcommunity.com/groups/steamlug#events/1262447672748976017
+	Steel Storm http://steamcommunity.com/groups/steamlug#events/162445111934699687
+	August events TBD
+01:06:35 Random thoughts on Dota 2 The International 4
+01:08:45 Other Community Stuff
+01:08:49 steamlug‐bot updates thanks to Norbert https://github.com/SteamLUG/steamlug‐bot/
+	Notifications for Humble promotions, imgur links and tweet ids – we forgot to mention this in [s02e13], plus steamstat.us checking http://steamstat.us
+01:09:20 SteamDB open letter to Valve about security + response http://steamdb.info/blog/47/ John and Swordfischer signed it.
+01:13:16 Cheese did a short interview with Frozenbyte about Trine and Linux http://www.gamingonlinux.com/articles/trine-enchanted-edition-for-linux-delayed-plus-a-short-interview.4079/
+01:16:11 John has been creating and uploading videos of the previous casts onto YouTube!
+	Season 1 playlist https://www.youtube.com/watch?v=SkdNF6rmNsQ&list=PL6S8WuxT3Rt_f71l7woYaTjvz8fMHco22
+
+01:20:01 *Steam/Valve News*
+01:20:03 Steam client updates https://steamcommunity.com/groups/SteamClientBeta#announcements/detail/246888230388336240 https://steamcommunity.com/groups/SteamClientBeta/announcements/detail/246888230425328172
+	Browser update
+	Games can be applied to multiple categories, this makes John very happy
+01:20:51 Launching games from SteamVR now works properly
+01:21:22 Music beta is now available in desktop mode
+01:22:39 New Steam Controller look https://twitter.com/SteamDB/status/492005914862288896
+01:28:13 Animated GIF showing possible screen behind blur http://imgur.com/a/k6oge/layout/horizontal#48
+01:29:19 Saxxies are on again http://www.sourcefilmmaker.com/saxxyawards2014/guidelines/
+01:30:19 Cheese forgot to tell you about our Portal 2 mapping competition coming up!
+
+01:31:22 *Tech News*
+01:31:26 Unity devs hunting for game pad profiles to supplement Unity 5 input changes https://plus.google.com/104339689434081533648/posts/d3oBCgkthDT
+01:31:34 Unity 5 will be supporting SDL style mappings. It will also be supporting SDL_GAMECONTROLLERCONFIG
+01:32:02 Unreal 4.3 https://www.unrealengine.com/blog/unreal-engine-43-release
+01:32:10 Open Broadcaster Software are looking for feedback from Linux users who’ve been building it from source https://obsproject.com/forum/list/linux-support.34/ https://github.com/jp9000/obs-studio/
+01:32:44 Nemoder hops in to tell us about his experience with OBS on Linux with soothing music in the background
+01:35:08 Valve hunting for a Software Engineer for the SteamOS team http://www.valvesoftware.com/jobs/job_postings.html?j=software_engineer_steamos
+01:35:38 SCUMMVM has had a new update, highlights below http://sourceforge.net/projects/scummvm/files/scummvm/1.7.0/ReleaseNotes/view
+	Added support for Chivalry is Not Dead, Return to Ringworld, The Neverhood, Mortville Manor, Voyeur.
+	Added support for Steam versions of Indiana Jones and the Last Crusade, Indiana Jones and the Fate of Atlantis, Loom and The Dig.
+
+01:38:04 *General Gaming News*
+01:38:10 GOG.com now supports Linux http://www.gog.com/news/gogcom_now_supports_linux
+	Gaming on Linux did a short interview http://www.gamingonlinux.com/articles/gog-com-now-officially-support-linux-games.4076
+01:39:26 But no The Witcher 2
+01:40:10 Whining about Wine
+01:42:09 Worms: Clan Wars appears on SteamDB again http://steamdb.info/app/233840/#section_history
+	…as does Torchlight and Torchlight 2 Linux related activity on SteamDB http://steamdb.info/app/41500/history/ http://steamdb.info/app/200710/history/
+01:43:31 Terraria is very likely being ported https://twitter.com/Cennxx/statuses/491691425592279040
+01:44:33 Starbound devs reflect on early access experiences and ‘1.0’ tagging http://playstarbound.com/some-thoughts-on-early-access-release-dates-the-big-1-0/
+	Follow up: http://www.reddit.com/r/starbound/comments/2bbb4n/july_21st_tiys_thoughts_on_early_access_and/cj4bh34
+01:44:44 DerRidda goes into full rant mode, sorry :(
+01:47:34 BANG BANG BANG! is released http://www.gamingonlinux.com/articles/bang-bang-bang-released-with-linux-support.4036
+01:48:08 Light is now available (previously mentioned is [s01e10]. Cancelled Kickstarter campaign, now published by Team 17) https://store.steampowered.com/app/271730/
+01:48:59 Crypt of the NecroDancer due for Steam Early Access release on 30th July https://twitter.com/NecroDancerGame/status/489917692732661760
+01:49:37 Orbital Gear beta Linux builds soon https://twitter.com/OrbitalGear/status/491219930189414402
+01:50:26 Frozen Endzone is now ‘Frozen Cortex’ and has a new trailer + Linux beta https://www.youtube.com/watch?v=mD08aDe0F8U
+01:51:06 GOL interview with Aspyr http://www.gamingonlinux.com/articles/interview-with-aspyr-media-about-civilization-v-linux-gaming.4071
+01:53:23 Linux Game Awards’ Project Of The Month goes to Unvanquished http://www.linuxgameawards.org/news/project-of-the-month-july-2014-winner
+01:54:08 Guns of Icarus Online is going to become an MLG game http://gunsoficarus.com/blog/weekly-progress-report-7182014/
+01:55:41 The Maker’s Eden planned for release on 31st July
+01:56:26 Native Prince of Persia 1 based on Apple ][ source release (thanks to Norbert for the heads up on this - he also runs popot.org! ) http://forum.princed.org/viewtopic.php?f=69&t=3512
+01:57:23 The Journey Down chapter 2 is available for pre-order (coming 25th August). https://www.youtube.com/watch?v=_qYDv766guM
+	50% of pre-order revenue will got to help the construction of a Mavuno Project girl’s school in Tanzania in partnership with Engineers Without Borders http://www.mavunoproject.org/
+01:59:16 Humble Weekly Bundle: Plug In Digital has 2 Linux games, Finding Teddy and Kill The Bad Guy (+more coming) https://www.humblebundle.com/weekly
+
+02:00:30 *Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, DerRidda @DerRidda, & John @johndrinkwater

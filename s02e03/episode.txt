@@ -1,0 +1,80 @@
+RECORDED: 2014-02-08
+PUBLISHED: 2014-02-14
+TITLE: Background Music
+SEASON: 02
+EPISODE: 03
+DURATION: 00:41:44
+FILENAME: steamlugcast.s02e03.background-music
+DESCRIPTION: In this episode of SteamLUG Cast, swordfischer, johndrinkwater and DerRidda get together once again to talk about what they’ve been playing, discuss some Valve news, interesting crowdfunding campaigns, Greenlit titles and more! Thanks to the wonderful http://steamcommunity.com/id/robertoszek for editing the casts so far this season.
+HOSTS: John (@johndrinkwater), @swordfischer, @DerRidda
+GUESTS:
+ADDITIONAL:
+
+00:00:06 *Introduction*
+00:00:10 John @johndrinkwater introduces
+00:00:16 DerRidda @DerRidda
+00:00:19 Sword @swordfischer
+
+00:00:30 *Our Linux Gaming*
+00:00:34 Sword has been playing Rogue Legacy, Savant - Ascend, RUST, Gravity Badgers
+00:03:57 DerRidda has been playing Dota 2, NEO Scavenger, Starbound and a bit of Cities In Motion 2
+00:07:43 John has been playing lots of Minecraft, Serena, TF2, ETS2, FORCED, Worms: Reloaded
+
+00:09:02 *SteamLUG Community Stuff*
+00:09:04 Past events:
+	Painkiller: H&D http://steamcommunity.com/groups/steamlug#events/1371642583203035621
+	Worms: Reloaded http://steamcommunity.com/groups/steamlug#events/1281574564868181773
+	TF2 http://steamcommunity.com/groups/steamlug#events/1281574564868184437
+00:10:19 Upcoming events:
+	CS:S http://steamcommunity.com/groups/steamlug#events/1279323227643837816
+	HOARD http://steamcommunity.com/groups/steamlug#events/1279323227643914704
+
+00:11:12 *Steam/Valve News*
+00:11:16 Client Betas shipped with more Music backend in big picture, though currently disabled.
+	Steam Music Community Group http://steamcommunity.com/groups/steammusic
+	If you launch the Steam client with the flag -steamos you get direct access to the beta
+00:11:37 A further update yesterday adjusted package, meaning smaller deltas between updates
+	The same update officially moved to the latest runtime version, which removes libs, and disables some libs support for some audio codecs, very few games used them but there may be breakage if game devs haven’t patched yet
+00:13:40 TF2 just got a patch, removing exploits and adjusting weapons; also adds some server features for better supporting their new gameserver stuffage http://www.teamfortress.com/post.php?id=12360
+00:14:05 Oniken, second Wine‐bottle shipped on Steam http://store.steampowered.com/app/252010/
+	Has some awful chmod’s for OSX as well http://steamdb.info/app/252010/#section_install
+	Other bottle is CID the dummy http://store.steampowered.com/app/45900
+00:16:05 Source code for System Shock 2 and Thief 2 for the Dreamcast http://www.segaforums.com/hosted/psoarchive/dc/
+00:16:30 Dark Reign 2’s source code https://code.google.com/p/darkreign2/
+	Info about the leak http://en.wikipedia.org/wiki/Dark_Reign_2#Source_code_leak
+00:16:47 Jim Sterling’s Jimquisition video that John refers to http://www.escapistmagazine.com/videos/view/jimquisition/8753-Steam-Needs-Quality-Control
+	Dwarfs!? bundles some broken libraries that need user interaction to launch the game http://store.steampowered.com/app/213650
+
+00:22:37 *Gaming News*
+00:22:41 New batch of Greenlight titles http://steamcommunity.com//sharedfiles/filedetails/?id=219673058
+	Kromaia, arcade shooter with eye‐melting visuals http://steamcommunity.com/sharedfiles/filedetails/?id=181741121
+	The Mims Beginning (discussed previously on [s02e02]) http://steamcommunity.com/sharedfiles/filedetails/?id=136239549
+	CATDAMMIT!, an arcadey action game where you destroy eveything http://steamcommunity.com/sharedfiles/filedetails/?id=202783840
+00:25:34 Glitchspace http://spacebudgie.com/games/glitchspace
+00:26:50 Port dates
+	Papers Please due 12th Feb https://twitter.com/dukope/status/431452266764062720
+	Gunpoint FAQ updated with extra details on Linux port + workshop addition http://www.pentadact.com/2014-02-07-the-gunpoint-faq/
+	Newly announced sequel to Space Pirates and Zombies to support Linux http://minmax-games.com/SpacePiratesAndZombies/
+00:28:51 Octodad: Dadliest Catch launched http://store.steampowered.com/app/224480/
+00:29:50 Some articles on Linux development, either porting to, or dev‐ing on:
+	Porting ‘You Have to Win the Game’ detailing some frustrations http://www.piratehearts.com/blog/2014/02/03/becoming-cross-platform/
+	Porting from Windows to Linux, bringing up a port natively first with stubbing https://anteru.net/2014/02/05/2272/
+	Leszek’s article on enabling remote debug on steam machines http://www.gamasutra.com/blogs/LeszekGodlewski/20140201/209839/
+00:31:49 Oculus have released their latency tester as an open hardware project with open licences (firmware, schematics and STL files for 3D printing + STEP files for injection mold) https://github.com/OculusVR/LatencyTester
+	Cross platform input lib for Unity https://github.com/pbhogan/InControl
+00:33:39 Double Fine Humble Weekly Sale (all titles support Linux) http://blog.humblebundle.com/post/75815492301/the-humble-weekly-sale-featuring-double-fine-amnesia
+	Double Fine Amnesia Fortnight 2014 http://humblebundle.com/doublefine
+
+00:35:33 *Crowdfunding*
+00:35:36 Sinister - cross platform modular handpad with haptic feedback and mouse passthrough https://www.kickstarter.com/projects/1306431579/sinister-immerse-yourself-in-the-pc-experience
+	Razer Nostromo https://www.razerzone.com/gaming-keyboards-keypads/razer-nostromo
+00:38:50 NOWHERE, is 79% of the way to the Top 100, https://twitter.com/sylvia_ritter/status/431182432256004097
+00:39:41 Distance has a new alpha gameplay video out, its looking great http://www.youtube.com/watch?v=E2fE4tYau0c
+
+00:40:26 *Sign‐off*
+
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @TwoLofBees, Sword @swordfischer & John @johndrinkwater
