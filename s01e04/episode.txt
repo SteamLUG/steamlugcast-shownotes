@@ -7,8 +7,9 @@ DURATION: 00:55:08
 FILENAME: steamlugcast.s01e04.makers-eden
 DESCRIPTION: We’re into our fourth episode with a stab in the dark, an interview with the developers of a science‐fiction noir adventure game that’s currently going through crowd‐funding, Maker’s Eden. We also discuss the last fortnights’ events, an important announcement by Crytek, and we ponder @swordfischer’s obsession with horses. And John’s confusingly abnormal like of Bugzilla. We hope you enjoy!
 HOSTS: @ValiantCheese, @swordfischer, John (@johndrinkwater)
-GUESTS: Del (@WelshPixie), Jaco (@Warpgate9)
-ADDITIONAL:
+GUESTS: Del (@WelshPixie) {http://i.imgur.com/8YkJva1.jpg}, Jaco (@Warpgate9) {http://screwylightbulb.com/makerseden/uploads/jaco.jpg}
+ADDITIONAL: 313360
+YOUTUBE: Acidux2pFXM
 
 00:00:10 *Introduction*
 00:00:22 Del @WelshPixie
