@@ -1,0 +1,22 @@
+RECORDED: 2013-07-12
+PUBLISHED:
+TITLE: We Call This… TEST DATA!
+SEASON: 11
+EPISODE: 11
+DURATION: 00:55:08
+FILENAME: steamlugcast.s11e11.test-data
+DESCRIPTION: Blah blah, whatever
+HOSTS: John, Johndrinkwater, John Drinkwater (Beta), John Drinkwater (@johndrinkwater), @johndrinkwater, John Drinkwater {//img.pandawhale.com/post-6493-Jennifer-Lawrence-okay-thumbs-ilbJ.gif}, (@johndrinkwater)
+GUESTS: John Drinkwater {//img.pandawhale.com/post-6493-Jennifer-Lawrence-okay-thumbs-ilbJ.gif} @johndrinkwater, {//img.pandawhale.com/post-6493-Jennifer-Lawrence-okay-thumbs-ilbJ.gif} (@johndrinkwater), No‐one, Not me, More Test Data (@ValiantCheese), swordfischer, MimLofBees
+ADDITIONAL: 313360, 33333, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/251810/12754bbc4112b48a7fb3051adf38d70ba983d302.jpg
+YOUTUBE: Acidux2pFXE
+
+00:00:10 *Introduction*
+
+00:53:33 *Sign‐off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @TwoLofBees, Sword @swordfischer & John @johndrinkwater
+
