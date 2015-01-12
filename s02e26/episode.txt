@@ -1,0 +1,110 @@
+RECORDED: 2014-12-26
+PUBLISHED: 2015-01-12
+TITLE: Steamy Regards
+SEASON: 02
+EPISODE: 26
+DURATION: 01:44:28
+FILENAME: steamlugcast.s02e26.steamy-regards.ogg
+DESCRIPTION: The SteamLUG Cast hosts recap recent Linux gaming happenings and then take you on a reflective journey through the wonderous 2014 with all the seriousness and reverence it deserves.
+HOSTS: @ValiantCheese, @DerRidda, @mnarikka, @beansmyname, @MimLofBees, @Corben78
+ADDITIONAL:
+
+
+00:00:09 *Introduction*
+00:00:28 Cheeseness (@ValiantCheese) forgets to introduce himself
+00:00:30 DerRidda (@DerRidda)
+00:00:34 Meklu (@mnarikka)
+00:00:37 Bean (@beansmyname)
+00:00:40 Mim (@MimLofBees)
+
+00:01:02 *Our Gaming*
+00:01:04 DerRidda played Counterstrike:GO, Metro 2033 Redux, NEO Scavenger, Natural Selection 2, Starbound, The Binding of Isaac: Rebirth
+00:03:05 Mim played Dead Island, Sword & Sworcery, Guns of Icarus, Appointment with F.E.A.R, Don't Starve
+00:04:24 Meklu fell in love with Lovely Planet, played lots of Counterstrike:GO, also some Binding of Isaac: Rebirth, FOTONICA, The Talos Principle, Little Racers STREET
+00:08:34 Bean played Borderlands: The Pre-Sequel, Guns of Icarus Online, Binding of Isaac:Rebirth, Beat Hazard, Costume Quest 2, Democracy 3, Little Racers STREET, Cosmochoria, Jets'n'Guns Gold
+00:10:12 Cheeseness played Crypt of the Necrodancer, Guns of Icarus, Satellite Reign, Civ: Beyond Earth, Space Run, XCOM: EU
+00:13:43 Corben78 (@Corben78) is stuck in a blizzard
+
+00:14:29 *SteamLUG Community Stuff*
+00:14:30 Past Events
+00:14:32 Civ5 Longplay attempted but postponed due to bugs
+00:14:48 No More Room in Hell almost victorious.
+00:16:04 Mount & Blade Warband
+00:16:05 Synergy (HL2 mod) fun but buggy.
+	dscharrer has a workaround for Synergy crashes https://gist.github.com/dscharrer/14dcaa7b8df85d2a3441
+00:17:52 XCOM:EU
+
+00:18:15 *Upcoming Events*
+00:18:16 Orbital Gear (post cast)
+00:18:34 Planetary Annihilation
+00:18:42 Dota2 Beginners Training from sakuramboo and Dougie187 http://steamcommunity.com/groups/steamlug/discussions/2/624076851038420585/
+00:19:44 Event suggestions welcome http://steamcommunity.com/groups/steamlug/discussions/2/828934424146675833/
+00:20:21 @johndrinkwater sends his warm steamy regards
+
+00:21:12 *Other Community Stuff*
+00:21:14 Kaia has been putting together a guide to finding help and information for new Linux users http://steamcommunity.com/groups/steamlug/discussions/1/626329820875068176/
+00:22:15 grinsekatze/spacepope has put up a TF2 Mannpower server steam://connect/gs2.de.steamlug.org:27505
+00:22:33 soeb has done another Port Report, this time looking at Civ: BE http://community.pcgamingwiki.com/page/blog/_/features/port-reports/pc-report-civilization-beyond-earth-on-linux-r170
+
+00:23:10 *Steam/Valve News*
+00:23:15 Holiday Sales drain wallets from everyone
+00:27:23 Valve introduces region locking across the board for some countries to combat abuse http://www.ign.com/articles/2014/12/17/steams-region-locks-games-to-fight-currency-exploits
+00:29:12 CS:GO VAC Ban wave https://www.reddit.com/r/GlobalOffensive/comments/2q7flx/biggest_vac_ban_wave_in_the_history_of_csgo/
+
+00:33:58 *Tech News*
+00:34:00 Desura Client is now GPLv3 again. Linux support will be more of a priority moving forward https://github.com/desura/desura-app/commit/fd5c87acd283f14da0d1bd13ba4159a9b223e04e https://twitter.com/Desura/status/548492058323718145
+
+00:37:48 *General Gaming News*
+00:37:51 TF2 Smissmas update Includes new beta game mode http://www.teamfortress.com/post.php?id=15304 http://www.teamfortress.com/post.php?id=15300
+00:38:47 Distance is on Steam Early Access now http://store.steampowered.com/app/233610/
+00:40:55 Corben78 (@Corben78) survived the blizzard and his newborn son and joins the cast
+00:41:48 Sportsfriends is released http://store.steampowered.com/app/277850/ (Joust component is Linux only since controller support in windows is broken)
+00:43:55 OpenMW 0.34 is released https://openmw.org/2014/openmw-0-34-0-released/
+00:45:46 GamingOnLinux.com GOTY awards accepting nominations http://www.gamingonlinux.com/articles/gamingonlinux-goty-section-nominations-now-open.4735
+00:46:30 Natural Selection 2 fixed Linux sound crash http://unknownworlds.com/ns2/build-272-live-steam/ http://forums.unknownworlds.com/discussion/comment/2224956/#Comment_2224956
+
+00:48:59 *2014 Recap*
+00:49:47 This year's Cast guests:
+	Oliver Franzke (Double Fine) [s02e02]
+	Matt Hartman & Howard Tsao (Muse Games) [s02e04]
+	Josh Klint (Leadwerks) [s02e09]
+	Leszek Godlewski (The Farm 51/independent) [s02e10]
+	John Warner (Over The Moon) [s02e12]
+	Edwin Smith (Feral) [s02e15]
+	JP LeBreton (Double Fine) [s02e16]
+	Mevious (Rexaura) [s02e18]
+	Tak (Unity) [s02e19]
+00:52:05 How the mac and linux communities respond to ports and porting companies
+00:53:49 Valve's Greenlight's rise and fade
+00:58:30 SteamOSe project merged upstream http://directhex.github.io/steamos-installer/
+00:58:37 GOG supporting Linux http://www.gog.com/news/gogcom_now_supports_linux
+01:00:03 Desura changes hands again and promises better Linux support and Humble Bundle's proportional decline in Linux support
+01:01:53 More Unreal Engine 3 Linux ports, and UE4 ported by community
+01:02:48 Mac porting houses Aspyr, Feral, Virtual Programming embrace Linux
+01:03:15 Crowdfunding and early access hits and misses
+01:05:22 Vintage gaming on Linux
+01:14:09 SteamLUG Community stuff: Events, streamers, youtubers, writers, mapping challenge, clans and guilds, game jam partici-pants pants pants
+
+01:16:12 *Favourite games of 2014*
+01:16:12 Corben: Alien Isolation
+	 Bean: Borderlands 2
+	 Meklu: Lovely Planet
+	 Mim: Don't Starve
+	 DerRidda: Wasteland 2
+	 Cheeseness: Another World
+
+01:27:49 *Predictions/speculation for 2015*
+01:27:51 Most anticipated games
+	 Corben: Evolve
+	 Bean: Darksiders
+	 Meklu: Kingdom Come
+	 Mim: Star Citizen
+	 DerRidda: Witcher 3
+	 Cheeseness: Guns of Icarus Adventure Mode
+
+01:40:53 *Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, DerRidda @DerRidda, meklu @mnarikka, bean @beansmyname, Mim @MimLofBees and Corben @Corben78
