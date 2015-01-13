@@ -6,7 +6,7 @@ EPISODE: 01
 DURATION: 01:46:35
 FILENAME: steamlugcast.s01e01.our-introduction
 DESCRIPTION: Our launch podcast introducing ourselves, discussing recent history of the group, steam on linux and gaming. We intend to make a 45 minute to an hour cast every fortnight, this longer episode was expected as we find our footing in making these, please ‘tolerate’ our inexperience and contribute to improve it!
-HOSTS: @ValiantCheese, John (@johndrinkwater), @swordfischer
+HOSTS: @ValiantCheese, @johndrinkwater, @swordfischer
 GUESTS:
 ADDITIONAL:
 

@@ -6,7 +6,7 @@ EPISODE: 03
 DURATION: 00:41:44
 FILENAME: steamlugcast.s02e03.background-music
 DESCRIPTION: In this episode of SteamLUG Cast, swordfischer, johndrinkwater and DerRidda get together once again to talk about what they’ve been playing, discuss some Valve news, interesting crowdfunding campaigns, Greenlit titles and more! Thanks to the wonderful http://steamcommunity.com/id/robertoszek for editing the casts so far this season.
-HOSTS: John (@johndrinkwater), @swordfischer, @DerRidda
+HOSTS: @johndrinkwater, @swordfischer, @DerRidda
 GUESTS:
 ADDITIONAL:
 

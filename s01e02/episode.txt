@@ -6,7 +6,7 @@ EPISODE: 02
 DURATION: 00:46:46
 FILENAME: steamlugcast.s01e02.flowery-kickstarter
 DESCRIPTION: We’re firmly into our stride now with our second podcast, we discuss past gaming events, Source getting bug fixes for save issues and go through a heap of new gaming news. And you certainly don’t hear the networking issues John was having…
-HOSTS: @ValiantCheese, John (@johndrinkwater), @swordfischer
+HOSTS: @ValiantCheese, @johndrinkwater, @swordfischer
 GUESTS:
 ADDITIONAL:
 

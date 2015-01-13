@@ -6,7 +6,7 @@ EPISODE: 07
 DURATION: 01:07:46
 FILENAME: steamlugcast.s02e07.two-beeellion-dollars
 DESCRIPTION: We, er, are still flabber‐ghasted at the Facebook Oculus acquisition but we barrel on through the show without it derailing us too much, we dip into our thoughts on Open Source bundles and projects, and cover the latest Steam gaming news, why not have a listen?
-HOSTS: @ValiantCheese, John (@johndrinkwater), @DerRidda
+HOSTS: @ValiantCheese, @johndrinkwater, @DerRidda
 GUESTS:
 ADDITIONAL:
 

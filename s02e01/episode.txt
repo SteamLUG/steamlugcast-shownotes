@@ -6,7 +6,7 @@ EPISODE: 01
 DURATION: 01:12:50
 FILENAME: steamlugcast.s02e01.breaking-down-steam-machines-specs
 DESCRIPTION: We’re back with a new season of SteamLUG Cast after a short holiday break. Cheese is joined once again by johndrinkwater and swordfischer to chat about the recent community events, Steam Machines unveiling at CES, new Humble Bundles and the credits interface present in Double Fine’s adventure game ‘Broken Age’! Enjoy!
-HOSTS: @ValiantCheese, @swordfischer, John (@johndrinkwater)
+HOSTS: @ValiantCheese, @swordfischer, @johndrinkwater
 GUESTS:
 ADDITIONAL:
 

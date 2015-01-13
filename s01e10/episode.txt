@@ -6,7 +6,7 @@ EPISODE: 10
 DURATION: 01:58:44
 FILENAME: steamlugcast.s01e10.falling-out-of-control-to-steamos
 DESCRIPTION: We have a bumper episode of SteamLUG Cast for you to listen to, we interview the developer of The Fall, discuss crowdfunding, greenlight, Valve’s Living Room plans around SteamOS. Steam Machines and their controller design that they plan to share with the world. We hope you enjoy listening!
-HOSTS: @ValiantCheese, John (@johndrinkwater), @DerRidda
+HOSTS: @ValiantCheese, @johndrinkwater, @DerRidda
 GUESTS: John Warner (@OverTheMoonGms)
 ADDITIONAL:
 

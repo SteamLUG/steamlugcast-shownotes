@@ -6,7 +6,7 @@ EPISODE: 12
 DURATION: 01:18:22
 FILENAME: steamlugcast.s01e12.if-only-we-could-find-the-words
 DESCRIPTION: We attempt to talk about games and events in our community, but we lose all sense of verbs.
-HOSTS: @ValiantCheese, John (@johndrinkwater), @swordfischer
+HOSTS: @ValiantCheese, @johndrinkwater, @swordfischer
 GUESTS:
 ADDITIONAL:
 

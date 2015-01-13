@@ -6,7 +6,7 @@ EPISODE: 16
 DURATION: 01:05:43
 FILENAME: steamlugcast.s01e16.casually-mature
 DESCRIPTION: We return for the last episode of the season with more hosts! Less news! More gossip! We recap the events of the last fortnight, give you our predictions for the year ahead, and generally have a good natter. Enjoy!
-HOSTS: @ValiantCheese, @DerRidda, John (@johndrinkwater), @swordfischer, @MimLofBees
+HOSTS: @ValiantCheese, @DerRidda, @johndrinkwater, @swordfischer, @MimLofBees
 GUESTS:
 ADDITIONAL:
 

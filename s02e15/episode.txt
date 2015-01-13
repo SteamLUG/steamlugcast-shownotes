@@ -6,7 +6,7 @@ EPISODE: 15
 DURATION: 02:04:34
 FILENAME: steamlugcast.s02e15.fera-avis-pinguis
 DESCRIPTION: The SteamLUG cast is back with a conversation with production manager Edwin Smith from Feral Interactive, a well‐known Mac porting house, about their first Linux port XCOM. We then move onto the topics of the last fortnight.
-HOSTS: @ValiantCheese, John (@johndrinkwater), @DerRidda
+HOSTS: @ValiantCheese, @johndrinkwater, @DerRidda
 GUESTS: Edwin Smith (feralgames)
 ADDITIONAL:
 

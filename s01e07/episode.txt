@@ -6,7 +6,7 @@ EPISODE: 07
 DURATION: 00:38:19
 FILENAME: steamlugcast.s01e07.cake-day
 DESCRIPTION: It has been a busy few weeks, so both Cheese and John are exhausted and we draft in another member of the SteamLUG star chamber, Meklu to replace the AWOL Swordfischer. We have a rather shorter than usual chat about what has been happening in our community and on our platform. Enjoy!
-HOSTS: @ValiantCheese, John (@johndrinkwater), @mnarikka
+HOSTS: @ValiantCheese, @johndrinkwater, @mnarikka
 GUESTS:
 ADDITIONAL:
 

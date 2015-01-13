@@ -6,7 +6,7 @@ EPISODE: 06
 DURATION: 01:23:38
 FILENAME: steamlugcast.s02e06.virtually-vr
 DESCRIPTION: In this episode of SteamLUG Cast, Cheese, johndrinkwater and DerRidda get together to talk about the most exciting news coming from GDC 2014, Unreal Engine 4 coming to Linux, what they’ve been playing lately, past events, greenlit titles, crowdfunding campaigns and more!
-HOSTS: @ValiantCheese, John (@johndrinkwater), @DerRidda
+HOSTS: @ValiantCheese, @johndrinkwater, @DerRidda
 GUESTS:
 ADDITIONAL:
 

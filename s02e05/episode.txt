@@ -6,7 +6,7 @@ EPISODE: 05
 DURATION: 00:35:50
 FILENAME: steamlugcast.s02e05.this-snowball-is-rolling
 DESCRIPTION: In this episode of SteamLUG Cast, johndrinkwater is joined by DerRidda and Nemoder to chat about the most recent SteamLUG events, Leadwerks, NVIDIA’s Gameworks, Greenlight titles, Humble Bundles and more!
-HOSTS: John (@johndrinkwater), @DerRidda, Nemoder
+HOSTS: @johndrinkwater, @DerRidda, Nemoder
 GUESTS:
 ADDITIONAL:
 

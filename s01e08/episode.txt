@@ -6,7 +6,7 @@ EPISODE: 08
 DURATION: 00:38:27
 FILENAME: steamlugcast.s01e08.catching-up-on-steamlug
 DESCRIPTION: We’ve been busy recently, so we recorded a short cast on a Sunday evening, and you can hear us catch up on things… enjoy! (Please excuse our late posting of this, John has had less time to edit these together so things got a little backed up)
-HOSTS: @ValiantCheese, John (@johndrinkwater), @swordfischer
+HOSTS: @ValiantCheese, @johndrinkwater, @swordfischer
 GUESTS:
 ADDITIONAL:
 

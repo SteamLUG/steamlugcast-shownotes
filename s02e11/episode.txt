@@ -6,7 +6,7 @@ EPISODE: 11
 DURATION: 00:45:46
 FILENAME: steamlugcast.s02e11.and-then-there-were-two
 DESCRIPTION: John and DerRidda discuss the last fortnights gaming news and releases, and when depression sets in, they pulled through it by discussing the latest Greenlight approvals… it’s going to be one of those casts, enjoy!
-HOSTS: John (@johndrinkwater), @DerRidda
+HOSTS: @johndrinkwater, @DerRidda
 GUESTS:
 ADDITIONAL:
 

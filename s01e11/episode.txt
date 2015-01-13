@@ -6,7 +6,7 @@ EPISODE: 11
 DURATION: 02:33:38
 FILENAME: steamlugcast.s01e11.citizens-of-waveform
 DESCRIPTION: Another special bumper episode of SteamLUG Cast for your listening pleasure! This time, we are joined by Ryan Vandendyck of Eden Industries and Linux/Mac porter Ethan ‘flibitijibibo’ Lee, chatting about Citizens of Earth, Waveform, Steam Greenlight, porting games and more! Enjoy!
-HOSTS: @ValiantCheese, John (@johndrinkwater)
+HOSTS: @ValiantCheese, @johndrinkwater
 GUESTS: Ryan Vandendyck (@EdenIndustries), Ethan Lee (@flibitijibibo)
 ADDITIONAL:
 

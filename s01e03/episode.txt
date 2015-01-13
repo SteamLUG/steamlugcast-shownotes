@@ -6,7 +6,7 @@ EPISODE: 03
 DURATION: 00:52:05
 FILENAME: steamlugcast.s01e03.oh-mer-gerd-lerdwerks-fer-sterm
 DESCRIPTION: Here it is, the third episode, covering our community events, gentle ribbing of Cheese with suggestions of PHP for an FPS, and discussing launch windows for future Valve titles ‐ all because we need their trading cards! You’re listening to SteamLUG cast, do enjoy…
-HOSTS: @swordfischer, John (@johndrinkwater), @ValiantCheese
+HOSTS: @swordfischer, @johndrinkwater, @ValiantCheese
 GUESTS:
 ADDITIONAL:
 

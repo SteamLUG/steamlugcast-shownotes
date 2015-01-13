@@ -6,7 +6,7 @@ EPISODE: 13
 DURATION: 01:45:02
 FILENAME: steamlugcast.s01e13.assault-android-cactus
 DESCRIPTION: In this lengthy, but exciting episode of SteamLUGCast, @johndrinkwater overcomes router problems, guest hosts @MimLofBees and @DerRidda join in, and special guest @SanatanaMishra from Witchbeam Games chats with us about Assault Android Cactus, SteamOS and more!
-HOSTS: @ValiantCheese, @DerRidda, @MimLofBees, John (@johndrinkwater)
+HOSTS: @ValiantCheese, @DerRidda, @MimLofBees, @johndrinkwater
 GUESTS: Sanatana Mishra (@SanatanaMishra)
 ADDITIONAL:
 

@@ -6,7 +6,7 @@ EPISODE: 04
 DURATION: 01:34:36
 FILENAME: steamlugcast.s02e04.amusing-games-online
 DESCRIPTION: In this episode of SteamLUG Cast, we are joined by Howard Tsao and Matthew Hartman of Muse Games to chat about Guns of Icarus Online and the challenges they came across in the process of deploying it to Linux. Afterwards, Cheese, Sword and John discuss the most recent SteamLUG events, Steam for Linux¿s 1st Anniversary, Greenlight titles, Bad Golf CE and more!
-HOSTS: @ValiantCheese, @swordfischer, John (@johndrinkwater)
+HOSTS: @ValiantCheese, @swordfischer, @johndrinkwater
 GUESTS: Matthew Howard (@Keyvias), Howard Tsao (@howardctsao)
 ADDITIONAL:
 

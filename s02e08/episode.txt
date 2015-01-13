@@ -6,7 +6,7 @@ EPISODE: 08
 DURATION: 00:50:37
 FILENAME: steamlugcast.s02e08.we-will-buy-two-copies-of-civ
 DESCRIPTION: We sheepishly cover the latest news and events in Linux gaming as two hosts are feeling under the weather, and the third comes in late. So we added a fourth! Why not have a listen? Caution: this cast does contain one swear out of frustration at 23:13. While we try to keep things clean and edited so we can be listened to when and wherever, removing it would have left the conversation rather damp.
-HOSTS: John (@johndrinkwater), @DerRidda, Nemoder
+HOSTS: @johndrinkwater, @DerRidda, Nemoder
 GUESTS:
 ADDITIONAL:
 

@@ -6,7 +6,7 @@ EPISODE: 13
 DURATION: 01:09:18
 FILENAME: steamlugcast.s02e13.operation-bloody-future
 DESCRIPTION: Cheese, John and DerRidda discuss the last fortnight’s gaming news and releases. Apologies for DerRidda’s audio quality, where I could I cleaned it up, otherwise there are a few moments of static over his talking -- John.
-HOSTS: @ValiantCheese, John (@johndrinkwater), @DerRidda
+HOSTS: @ValiantCheese, @johndrinkwater, @DerRidda
 GUESTS:
 ADDITIONAL:
 
