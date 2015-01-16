@@ -9,6 +9,7 @@ DESCRIPTION: Here it is, the third episode, covering our community events, gentl
 HOSTS: @swordfischer, @johndrinkwater, @ValiantCheese
 GUESTS:
 ADDITIONAL:
+YOUTUBE:
 
 00:00:38 *SteamLUG Community Stuff*
 00:00:44 Dungeon Defenders Event http://steamcommunity.com/groups/steamlug#events/1587795702092744075

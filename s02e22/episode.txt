@@ -9,6 +9,7 @@ DESCRIPTION: We get together for a brief conversation about the last fortnightâ€
 HOSTS: @johndrinkwater, @DerRidda, Nemoder
 GUESTS:
 ADDITIONAL:
+YOUTUBE:
 
 00:00:11 *Introduction*
 00:00:11 @johndrinkwater introduces

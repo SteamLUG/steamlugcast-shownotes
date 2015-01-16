@@ -9,6 +9,7 @@ DESCRIPTION: In this episode of SteamLUG Cast, we are joined by Howard Tsao and 
 HOSTS: @ValiantCheese, @swordfischer, @johndrinkwater
 GUESTS: Matthew Howard (@Keyvias), Howard Tsao (@howardctsao)
 ADDITIONAL:
+YOUTUBE:
 
 00:00:09 *Introduction*
 00:00:14 Cheese @ValiantCheese introduces

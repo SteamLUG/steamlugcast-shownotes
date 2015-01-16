@@ -9,6 +9,7 @@ DESCRIPTION: In this episode of SteamLUG Cast, we are joined by Oliver Franzke o
 HOSTS: @ValiantCheese, @swordfischer, @DerRidda
 GUESTS: Oliver Franzke (@p1xelcoder)
 ADDITIONAL:
+YOUTUBE:
 
 00:00:09 *Introduction*
 00:00:10 Cheese @ValiantCheese introduces

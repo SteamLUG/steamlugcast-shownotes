@@ -9,6 +9,7 @@ DESCRIPTION: In this episode of SteamLUG Cast, swordfischer, johndrinkwater and 
 HOSTS: @johndrinkwater, @swordfischer, @DerRidda
 GUESTS:
 ADDITIONAL:
+YOUTUBE:
 
 00:00:06 *Introduction*
 00:00:10 John @johndrinkwater introduces

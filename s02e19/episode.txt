@@ -9,6 +9,7 @@ DESCRIPTION: The SteamLUG cast is proud to have community member and Lead Mainta
 HOSTS: @ValiantCheese, @DerRidda
 GUESTS:  Levi Bard (Tak)
 ADDITIONAL: 
+YOUTUBE:
 
 00:00:10 *Introduction*
 00:00:12 @ValiantCheese introduces

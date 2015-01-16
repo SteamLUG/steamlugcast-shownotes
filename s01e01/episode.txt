@@ -9,6 +9,7 @@ DESCRIPTION: Our launch podcast introducing ourselves, discussing recent history
 HOSTS: @ValiantCheese, @johndrinkwater, @swordfischer
 GUESTS:
 ADDITIONAL:
+YOUTUBE:
 
 00:00:30 *Introduction*
 00:00:45 SteamLUG Cast http://steamlug.org/cast

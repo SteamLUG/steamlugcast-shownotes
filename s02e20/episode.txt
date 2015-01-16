@@ -9,6 +9,7 @@ DESCRIPTION: In this episode, Cheese, DerRidda and Nemoder chat about the Steam 
 HOSTS: @ValiantCheese, Nemoder, @DerRidda
 GUESTS:
 ADDITIONAL:
+YOUTUBE:
 
 00:00:10 *Introduction*
 00:00:17 @ValiantCheese introduces

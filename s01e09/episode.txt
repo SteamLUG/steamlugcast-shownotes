@@ -9,6 +9,7 @@ DESCRIPTION: Swordfischer and Cheeseness have been setup for this spectacular ma
 HOSTS: @ValiantCheese, @swordfischer
 GUESTS:
 ADDITIONAL:
+YOUTUBE:
 
 00:00:08 *Introduction*
 00:00:53 Software Freedom Day

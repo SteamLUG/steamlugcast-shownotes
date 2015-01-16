@@ -9,6 +9,7 @@ DESCRIPTION: We attempt to talk about games and events in our community, but we 
 HOSTS: @ValiantCheese, @johndrinkwater, @swordfischer
 GUESTS:
 ADDITIONAL:
+YOUTUBE:
 
 00:00:08 *Introduction*
 00:00:10 Cheese @valiantcheese introduces

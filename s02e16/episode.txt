@@ -9,6 +9,7 @@ DESCRIPTION: In this episode of SteamLUG Cast, we are joined by game developer/d
 HOSTS: @ValiantCheese, @MimLofBees, Nemoder
 GUESTS: JP LeBreton (@vectorpoem)
 ADDITIONAL: Event details for this cast: http://steamcommunity.com/groups/steamlug#events/154565071600349016
+YOUTUBE:
 
 00:00:09 *Introduction*
 00:00:16 Cheese @ValiantCheese</a> introduces

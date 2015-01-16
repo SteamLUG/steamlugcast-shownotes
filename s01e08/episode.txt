@@ -9,6 +9,7 @@ DESCRIPTION: We’ve been busy recently, so we recorded a short cast on a Sunday
 HOSTS: @ValiantCheese, @johndrinkwater, @swordfischer
 GUESTS:
 ADDITIONAL:
+YOUTUBE:
 
 00:00:10 *Introduction*
 00:00:08 @TwoLofBees introduces…

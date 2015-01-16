@@ -9,6 +9,7 @@ DESCRIPTION: John and DerRidda discuss the last fortnights gaming news and relea
 HOSTS: @johndrinkwater, @DerRidda
 GUESTS:
 ADDITIONAL:
+YOUTUBE:
 
 00:00:10 *Introduction*
 00:00:14 johndrinkwater @johndrinkwater introduces…

@@ -9,6 +9,7 @@ DESCRIPTION: Cheese, John and DerRidda discuss the last fortnight’s gaming new
 HOSTS: @ValiantCheese, @johndrinkwater, @DerRidda
 GUESTS:
 ADDITIONAL:
+YOUTUBE:
 
 00:00:33 *Introduction*
 00:00:09 Cheese @ValiantCheese introduces

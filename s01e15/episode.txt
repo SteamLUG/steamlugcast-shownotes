@@ -9,6 +9,7 @@ DESCRIPTION: In this episode of SteamLUG Cast, Cheese is joined once again by Mi
 HOSTS: @ValiantCheese, @DerRidda, @MimLofBees
 GUESTS:
 ADDITIONAL:
+YOUTUBE:
 
 00:00:07 *Introduction*
 00:00:10 Cheese @twolofbees introduces

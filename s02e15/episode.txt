@@ -9,6 +9,7 @@ DESCRIPTION: The SteamLUG cast is back with a conversation with production manag
 HOSTS: @ValiantCheese, @johndrinkwater, @DerRidda
 GUESTS: Edwin Smith (feralgames)
 ADDITIONAL:
+YOUTUBE:
 
 00:00:09 *Introduction*
 00:00:14 Cheese @ValiantCheese introduces himself and…

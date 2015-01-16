@@ -9,6 +9,7 @@ DESCRIPTION: In this episode of SteamLUG Cast, we are joined by level designer a
 HOSTS: @ValiantCheese, Nemoder, @Buckwangs
 GUESTS: @PortalMevious
 ADDITIONAL:
+YOUTUBE:
 
 00:00:10 *Introduction*
 00:00:16 Cheeseness @ValiantCheese introduces
