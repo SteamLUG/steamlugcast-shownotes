@@ -1,0 +1,71 @@
+RECORDED: 2015-01-09
+PUBLISHED: 2015-01-14
+TITLE: Ghost Whisperers
+SEASON: 03
+EPISODE: 01
+DURATION: 00:36:28
+FILENAME: steamlugcast.s03e01.ghost-whisperers
+DESCRIPTION: In this episode of SteamLUG Cast, Corben, Bean and Cheese discuss the last fortnight's gaming news and SteamLUG community happenings including the new Team Fortress 2, community stats, OSVR, GOL's GOTY awards, Steam machines, Skullgirls, Broken Age, Gunpoint and more!
+HOSTS: @ValiantCheese, @Corben78, @beansmyname
+GUESTS:
+ADDITIONAL:
+
+00:00:09 *Introduction*
+00:00:18 Cheeseness ( @ValiantCheese ) is joined by
+00:00:20 Corben ( @Corben78 ) and
+00:00:21 Bean ( @beansmyname )
+
+00:00:31 *Our Gaming*
+00:00:34 Corben has been playing Counter-Strike: Global Offensive, Call of Duty:Modern Warfare (wine), Guns of Icarus Online, Anomaly Warzone Earth, Castle Crashers and Dynablaster Revenge
+00:02:19 Bean found time for Borderlands: The Pre-Sequel, Flashout 2, Cosmochoria, Insanely Twisted Shadow Planet and Guns of Icarus Online
+00:02:43 Cheese had fun with Flashout 2, Shovel Knight, Guns of Icarus Online and Violett
+
+00:05:06 *SteamLUG Community Stuff*
+00:05:08 Past Events
+00:05:10 Planetary Annihilation http://steamcommunity.com/groups/steamlug#events/125303093058564859
+00:05:24 DotA 2 for Beginners http://steamcommunity.com/groups/steamlug#events/125303093040337515
+	Video archive courtesy of sakuramboo http://www.hitbox.tv/video/361868
+00:05:35 Team Fortress 2 Mannpower http://steamcommunity.com/groups/steamlug#events/127557409969033768
+00:07:10 Borderlands: The Pre-Sequel http://steamcommunity.com/groups/steamlug#events/127557409969455649
+00:07:13 Crusader Kings 2 long-form event http://steamcommunity.com/groups/steamlug#events/127557410128680718
+00:07:21 Upcoming Events
+00:07:23 (Post-cast) Left 4 Dead 2 http://steamcommunity.com/groups/steamlug#events/127557410118787093
+00:07:26 Trine Enchanted Edition http://steamcommunity.com/groups/steamlug#events/127557410118789725
+00:07:30 Empire: Total War http://steamcommunity.com/groups/steamlug#events/127557410119389129
+00:07:31 Natural Selection 2 http://steamcommunity.com/groups/steamlug#events/127557410119395043
+00:08:04 Other Community Stuff
+00:08:07 xpander https://soundcloud.com/xpander69/ has made us a new SteamLUG Cast theme for Season 3
+00:08:16 xpander is also still releasing videos of games running natively on Linux and under Wine https://www.youtube.com/watch?v=PywwQ4UB7rI
+00:08:43 Nemoder has been collecting data on the most installed games in the SteamLUG community over the past 7 months https://docs.google.com/spreadsheets/d/1eKYq8W-tqWBufKjGXEANhOTmWQQk54lDcWJOVMcr-fM
+	TF2, Portal, L4D2, HL2: Lost Coast, Dota 2 Test and Half-Life 2 have held the most installed positions
+	Civilization V, Metro 2033 and CS: GO have had the greatest increase in installs
+	Of the top 20, Payday 2 and RPG Maker VX Ace have had the greatest decrease in installs
+00:15:57 wry has written a steamcmd howto for installing Windows versions of games from Linux via SteamCMD http://steamcommunity.com/groups/steamlug/discussions/1/627456486926897369/
+00:17:39 @swordfischer has migrated the steamlug.org site to use Bootstrap (feedback on the dev site is always welcome) https://staging.steamlug.org/
+00:18:42 New community poll "Most wanted genres" http://steamlug.org/polls
+00:20:32 Some community end-of-year thoughts http://steamcommunity.com/groups/steamlug#announcements/detail/127557410250969153
+
+00:21:01 *Steam/Valve News*
+00:21:04 Steam survey http://store.steampowered.com/hwsurvey?platform=linux
+00:22:08 Final Steam controller to be shown at GDC and Valve refutes that Steam Machines are dead http://www.valvetime.net/threads/report-steam-controller-is-going-to-production.245669/
+00:23:23 Steam beta update brings FPS counter http://steamcommunity.com/groups/SteamClientBeta#announcements/detail/213126457326090062
+
+00:24:17 *Tech News*
+00:24:33 Razer, Sensics and a group of other partners have announced OSVR (Open Source Virtual Reality) http://www.osvr.com http://www.techradar.com/news/gaming/razer-ups-virtual-reality-game-with-osvr-and-new-head-mounted-display-1278399
+	Razer are shipping $199 "Hacker dev kit" in July http://www.razerzone.com/osvr-hacker-dev-kit
+	Will be Apache 2 licenced and is confrimed to be running on Linux https://twitter.com/rpavlik/status/552838879359672320
+
+00:28:03 *General Gaming News*
+00:28:05 Skullgirls devs are owning up their mistakes http://labzerogames.com/skullgirls-linux-version-update-152015/
+00:29:12 TF2 "Arena: Respawn" tournament open to all players http://www.teamfortress.com/post.php?id=15402
+00:29:53 Broken Age is getting a Linux retail release https://twitter.com/DoubleFine/status/552938846959050752
+00:30:30 Gunpoint achievements are now working properly on Linux, thanks @johndrinkwater http://steamcommunity.com/app/206190/discussions/2/619568192812179983/?tscn=1420643101#c622954023414460856
+00:31:49 Caribbean Odyssey on Greenlight http://steamcommunity.com/sharedfiles/filedetails/?id=297179649
+00:32:36 GamingOnLinux.com is running their first Game Of The Year awards http://www.gamingonlinux.com/goty.php
+
+00:35:01 *Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, Corben @Corben78 and Bean @beansmyname
