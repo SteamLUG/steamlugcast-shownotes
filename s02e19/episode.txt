@@ -8,9 +8,9 @@ FILENAME: steamlugcast.s02e19.lester-pixigon
 DESCRIPTION: The SteamLUG cast is proud to have community member and Lead Maintainer/Developer for the Linux port of the Unity engine on the show.
 HOSTS: @ValiantCheese, @DerRidda
 GUESTS:  Levi Bard (Tak)
-ADDITIONAL: 
+ADDITIONAL:
 YOUTUBE:
-NOTESCREATOR:
+NOTESCREATOR: @beansmyname
 
 00:00:10 *Introduction*
 00:00:12 @ValiantCheese introduces

@@ -10,7 +10,7 @@ HOSTS: @ValiantCheese, @johndrinkwater, @DerRidda
 GUESTS: Edwin Smith (feralgames)
 ADDITIONAL:
 YOUTUBE:
-NOTESCREATOR:
+NOTESCREATOR: @DerRidda
 
 00:00:09 *Introduction*
 00:00:14 Cheese @ValiantCheese introduces himself and…

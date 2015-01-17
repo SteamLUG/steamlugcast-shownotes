@@ -10,7 +10,7 @@ HOSTS: @ValiantCheese, Nemoder, @Buckwangs
 GUESTS: @PortalMevious
 ADDITIONAL:
 YOUTUBE:
-NOTESCREATOR:
+NOTESCREATOR: @DerRidda
 
 00:00:10 *Introduction*
 00:00:16 Cheeseness @ValiantCheese introduces

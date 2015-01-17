@@ -6,11 +6,11 @@ EPISODE: 23
 DURATION: 01:13:16
 FILENAME: steamlugcast.s02e23.the-children-need-to-learn-the-hard-truth
 DESCRIPTION: We have a terse look at the last fortnight's gaming news, discuss some recent crowdfunding campaigns of interest, chat about programmers doing livestreams, and Cheese reports on PAX Australia.
-HOSTS: @johndrinkwater, @DerRidda, @ValiantCheese  
+HOSTS: @johndrinkwater, @DerRidda, @ValiantCheese
 GUESTS:
 ADDITIONAL:
 YOUTUBE:
-NOTESCREATOR:
+NOTESCREATOR: @beansmyname
 
 00:00:10 *Introduction*
 00:00:18 @johndrinkwater introduces...
