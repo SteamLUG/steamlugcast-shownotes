@@ -10,6 +10,7 @@ HOSTS: @johndrinkwater, @DerRidda
 GUESTS:
 ADDITIONAL:
 YOUTUBE:
+NOTESCREATOR:
 
 00:00:10 *Introduction*
 00:00:14 johndrinkwater @johndrinkwater introduces…

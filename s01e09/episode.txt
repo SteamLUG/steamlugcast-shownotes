@@ -10,6 +10,7 @@ HOSTS: @ValiantCheese, @swordfischer
 GUESTS:
 ADDITIONAL:
 YOUTUBE:
+NOTESCREATOR:
 
 00:00:08 *Introduction*
 00:00:53 Software Freedom Day

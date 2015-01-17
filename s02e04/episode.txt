@@ -10,6 +10,7 @@ HOSTS: @ValiantCheese, @swordfischer, @johndrinkwater
 GUESTS: Matthew Howard (@Keyvias), Howard Tsao (@howardctsao)
 ADDITIONAL:
 YOUTUBE:
+NOTESCREATOR:
 
 00:00:09 *Introduction*
 00:00:14 Cheese @ValiantCheese introduces

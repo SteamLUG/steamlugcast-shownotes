@@ -10,6 +10,7 @@ HOSTS: @ValiantCheese, @DerRidda, Nemoder, @Corben78
 GUESTS:
 ADDITIONAL:
 YOUTUBE:
+NOTESCREATOR:
 
 00:00:09 *Introduction*
 00:00:10 @Corben78 introduces...

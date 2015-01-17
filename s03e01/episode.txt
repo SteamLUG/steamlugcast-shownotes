@@ -10,6 +10,7 @@ HOSTS: @ValiantCheese, @Corben78, @beansmyname
 GUESTS:
 ADDITIONAL:
 YOUTUBE:
+NOTESCREATOR: @DerRidda
 
 00:00:09 *Introduction*
 00:00:18 Cheeseness ( @ValiantCheese ) is joined by

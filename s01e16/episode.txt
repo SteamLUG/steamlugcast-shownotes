@@ -10,6 +10,7 @@ HOSTS: @ValiantCheese, @DerRidda, @johndrinkwater, @swordfischer, @MimLofBees
 GUESTS:
 ADDITIONAL:
 YOUTUBE:
+NOTESCREATOR:
 
 00:00:07 *Introduction*
 00:00:10 Cheese @ValiantCheese introduces the monkeys

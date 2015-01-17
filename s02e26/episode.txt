@@ -9,6 +9,7 @@ DESCRIPTION: The SteamLUG Cast hosts recap recent Linux gaming happenings and th
 HOSTS: @ValiantCheese, @DerRidda, @mnarikka, @beansmyname, @MimLofBees, @Corben78
 ADDITIONAL:
 YOUTUBE:
+NOTESCREATOR:
 
 
 00:00:09 *Introduction*

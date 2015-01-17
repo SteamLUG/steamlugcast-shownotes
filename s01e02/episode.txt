@@ -10,6 +10,7 @@ HOSTS: @ValiantCheese, @johndrinkwater, @swordfischer
 GUESTS:
 ADDITIONAL:
 YOUTUBE:
+NOTESCREATOR:
 
 00:00:31 *Introduction*
 00:01:10 Intro from @Xpander69 http://archive.steamlug.org/steamlugcast/steamlug_intro.ogg
