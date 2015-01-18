@@ -11,6 +11,7 @@ GUESTS: John Warner (@OverTheMoonGms)
 ADDITIONAL:
 YOUTUBE:
 NOTESCREATOR:
+EDITOR:
 
 00:00:06 *Introduction*
 00:00:07 Cheese @ValiantCheese introduces...

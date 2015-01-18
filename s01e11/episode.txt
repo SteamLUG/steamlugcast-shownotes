@@ -11,6 +11,7 @@ GUESTS: Ryan Vandendyck (@EdenIndustries) {//pbs.twimg.com/profile_images/191531
 ADDITIONAL:
 YOUTUBE:
 NOTESCREATOR:
+EDITOR:
 
 00:00:08 *Introduction*
 00:00:09 Cheese @ValiantCheese introduces

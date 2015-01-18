@@ -11,6 +11,7 @@ GUESTS:
 ADDITIONAL:
 YOUTUBE:
 NOTESCREATOR:
+EDITOR:
 
 00:00:08 *Introduction*
 00:00:53 Software Freedom Day

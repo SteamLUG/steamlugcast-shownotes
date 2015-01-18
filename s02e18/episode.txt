@@ -11,6 +11,7 @@ GUESTS: @PortalMevious
 ADDITIONAL:
 YOUTUBE:
 NOTESCREATOR: @DerRidda
+EDITOR:
 
 00:00:10 *Introduction*
 00:00:16 Cheeseness @ValiantCheese introduces

@@ -20,6 +20,8 @@ HOSTS: John (@johndrinkwater), @DerRidda
 GUESTS:
 ADDITIONAL:
 YOUTUBE:
+NOTESCREATOR:
+EDITOR:
 
 00:00:10 *Introduction*
 ```
@@ -35,5 +37,6 @@ YOUTUBE:
 * To include avatars before we have a db, use {URL} to link to an image, please no http though! {//domain/path/image.png}
 * Additional contains the game appids for the group we are talking to
 * Youtube should be the value from watch?v=
+* Notescreator and editor should be a person following the host/guests format
 
 Then a blank line, and then the real notes start, following the format we have always used ‐ and that now https://github.com/Cheeseness/transcriberer outputs!

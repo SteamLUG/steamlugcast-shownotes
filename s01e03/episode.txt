@@ -11,6 +11,7 @@ GUESTS:
 ADDITIONAL:
 YOUTUBE:
 NOTESCREATOR:
+EDITOR:
 
 00:00:38 *SteamLUG Community Stuff*
 00:00:44 Dungeon Defenders Event http://steamcommunity.com/groups/steamlug#events/1587795702092744075

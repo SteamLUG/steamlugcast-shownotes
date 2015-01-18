@@ -10,6 +10,7 @@ HOSTS: @ValiantCheese, @DerRidda, @mnarikka, @beansmyname, @MimLofBees, @Corben7
 ADDITIONAL:
 YOUTUBE:
 NOTESCREATOR: Nemoder
+EDITOR:
 
 00:00:09 *Introduction*
 00:00:28 Cheeseness (@ValiantCheese) forgets to introduce himself

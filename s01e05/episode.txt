@@ -11,6 +11,7 @@ GUESTS: Julius (@Frozenbyte) {//pbs.twimg.com/profile_images/526653958987591680/
 ADDITIONAL: 35700, 35720
 YOUTUBE:
 NOTESCREATOR:
+EDITOR:
 
 00:00:09 *Introduction*
 00:00:27 Julius from @Frozenbyte
