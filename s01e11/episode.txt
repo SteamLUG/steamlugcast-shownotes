@@ -9,7 +9,7 @@ DESCRIPTION: Another special bumper episode of SteamLUG Cast for your listening 
 HOSTS: @ValiantCheese, @johndrinkwater
 GUESTS: Ryan Vandendyck (@EdenIndustries) {//pbs.twimg.com/profile_images/1915317948/Logo_on_white_square.png}, Ethan Lee (@flibitijibibo) {//flibitijibibo.com/images/icon.png}
 ADDITIONAL:
-YOUTUBE:
+YOUTUBE: sjNfO-Q7eqk
 NOTESCREATOR:
 EDITOR:
 

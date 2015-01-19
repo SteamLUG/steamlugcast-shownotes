@@ -9,7 +9,7 @@ DESCRIPTION: It has been a busy few weeks, so both Cheese and John are exhausted
 HOSTS: @ValiantCheese, @johndrinkwater, @mnarikka
 GUESTS:
 ADDITIONAL:
-YOUTUBE:
+YOUTUBE: d6G8n7qEjS4
 NOTESCREATOR:
 EDITOR:
 

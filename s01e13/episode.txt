@@ -9,7 +9,7 @@ DESCRIPTION: In this lengthy, but exciting episode of SteamLUGCast, @johndrinkwa
 HOSTS: @ValiantCheese, @DerRidda, @MimLofBees, @johndrinkwater
 GUESTS: Sanatana Mishra (@SanatanaMishra)
 ADDITIONAL:
-YOUTUBE:
+YOUTUBE: 1yHWYOWDPxA
 NOTESCREATOR:
 EDITOR:
 
