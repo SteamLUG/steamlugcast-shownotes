@@ -10,8 +10,8 @@ HOSTS: @swordfischer, @johndrinkwater, @ValiantCheese
 GUESTS:
 ADDITIONAL:
 YOUTUBE: 3U9a6S6ogW8
-NOTESCREATOR:
-EDITOR:
+NOTESCREATOR: @johndrinkwater
+EDITOR: @johndrinkwater
 
 00:00:38 *SteamLUG Community Stuff*
 00:00:44 Dungeon Defenders Event http://steamcommunity.com/groups/steamlug#events/1587795702092744075

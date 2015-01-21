@@ -10,8 +10,8 @@ HOSTS: @ValiantCheese, @swordfischer, @johndrinkwater
 GUESTS: Del (@WelshPixie) {http://i.imgur.com/8YkJva1.jpg}, Jaco (@Warpgate9) {http://screwylightbulb.com/makerseden/uploads/jaco.jpg}
 ADDITIONAL: 313360
 YOUTUBE: Acidux2pFXM
-NOTESCREATOR:
-EDITOR:
+NOTESCREATOR: @johndrinkwater
+EDITOR: @johndrinkwater
 
 00:00:10 *Introduction*
 00:00:22 Del @WelshPixie

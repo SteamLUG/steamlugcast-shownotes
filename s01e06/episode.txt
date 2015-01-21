@@ -6,12 +6,12 @@ EPISODE: 06
 DURATION: 01:07:39
 FILENAME: steamlugcast.s01e06.secret-of-the-magic-replacements
 DESCRIPTION: We’re back, with Cheese, Mimness and DerRidda discussing the fortnight in Linux gaming, Sword’s obsession with Magical Horses and games of yore in gaming news.
-HOSTS: @ValiantCheese, Mim (@MimLofBees), DerRidda (@DerRidda)
+HOSTS: @ValiantCheese, Mim (@MimLofBees), @DerRidda
 GUESTS:
 ADDITIONAL:
 YOUTUBE: km0sUt_TeRQ
-NOTESCREATOR:
-EDITOR:
+NOTESCREATOR: @swordfischer
+EDITOR: @johndrinkwater
 
 00:00:10 *Introduction*
 00:00:20 DerRidda @DerRidda

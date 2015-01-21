@@ -11,7 +11,7 @@ GUESTS:
 ADDITIONAL:
 YOUTUBE: f3qGq0K9FZU
 NOTESCREATOR:
-EDITOR:
+EDITOR: @johndrinkwater
 
 00:00:08 *Introduction*
 00:00:10 Cheese @valiantcheese introduces

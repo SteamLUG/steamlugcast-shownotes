@@ -10,8 +10,8 @@ HOSTS: @ValiantCheese, @DerRidda, @MimLofBees, @johndrinkwater
 GUESTS: Sanatana Mishra (@SanatanaMishra)
 ADDITIONAL:
 YOUTUBE: 1yHWYOWDPxA
-NOTESCREATOR:
-EDITOR:
+NOTESCREATOR: @ValiantCheese
+EDITOR: @ValiantCheese
 
 00:00:08 *Introduction*
 00:00:11 Cheese @ValiantCheese introduces

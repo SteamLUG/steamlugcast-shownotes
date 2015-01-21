@@ -10,8 +10,8 @@ HOSTS: @ValiantCheese, @johndrinkwater, @DerRidda
 GUESTS: John Warner (@OverTheMoonGms) {//pbs.twimg.com/profile_images/378800000366318685/e6d011b4997539de6f9ff783bbba2778.jpeg}
 ADDITIONAL: 290770
 YOUTUBE: umg8hCwvUVI
-NOTESCREATOR:
-EDITOR:
+NOTESCREATOR: @ValiantCheese
+EDITOR: @johndrinkwater
 
 00:00:10 *Introduction*
 00:00:10 Cheese @twolofbees introduces

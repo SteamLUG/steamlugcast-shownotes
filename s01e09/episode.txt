@@ -10,8 +10,8 @@ HOSTS: @ValiantCheese, @swordfischer
 GUESTS:
 ADDITIONAL:
 YOUTUBE: Uzd-THmKnMc
-NOTESCREATOR:
-EDITOR:
+NOTESCREATOR: @swordfischer
+EDITOR: @johndrinkwater
 
 00:00:08 *Introduction*
 00:00:53 Software Freedom Day

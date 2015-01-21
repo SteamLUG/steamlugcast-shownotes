@@ -11,7 +11,7 @@ GUESTS:
 ADDITIONAL:
 YOUTUBE: DZt5YsqMwIE
 NOTESCREATOR:
-EDITOR:
+EDITOR: @robertoszek
 
 00:00:07 *Introduction*
 00:00:10 Cheese @twolofbees introduces
