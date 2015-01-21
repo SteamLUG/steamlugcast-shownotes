@@ -10,8 +10,8 @@ HOSTS: @ValiantCheese, @johndrinkwater, @DerRidda
 GUESTS:
 ADDITIONAL:
 YOUTUBE:
-NOTESCREATOR:
-EDITOR:
+NOTESCREATOR: @robertoszek
+EDITOR: @johndrinkwater
 
 00:00:07 *Introduction*
 00:00:08 Cheese @ValiantCheese introduces

@@ -11,7 +11,7 @@ GUESTS:
 ADDITIONAL:
 YOUTUBE:
 NOTESCREATOR: @johndrinkwater
-EDITOR:
+EDITOR: @johndrinkwater
 
 00:00:11 *Introduction*
 00:00:11 @johndrinkwater introduces

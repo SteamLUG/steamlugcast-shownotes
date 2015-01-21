@@ -11,7 +11,7 @@ GUESTS:
 ADDITIONAL:
 YOUTUBE:
 NOTESCREATOR: @DerRidda
-EDITOR:
+EDITOR: @Corben78
 
 00:00:09 *Introduction*
 00:00:18 Cheeseness ( @ValiantCheese ) is joined by
