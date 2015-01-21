@@ -126,7 +126,3 @@ EDITOR: @robertoszek
 
 01:23:43 *Sign‐off*
 
-  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
-  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
-  Email us feedback, questions, tips and suggestions to cast@steamlug.org
-  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, DerRidda @DerRidda, Sword @swordfischer & John @johndrinkwater

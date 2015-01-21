@@ -103,8 +103,3 @@ EDITOR: @johndrinkwater
 01:07:15 xPaw’s userscript for owned games, Cepheus https://github.com/SteamDatabase/Cepheus
 01:06:24 John messing up the outro, again
 
-  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
-  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
-  Email us feedback, questions, tips and suggestions to cast@steamlug.org
-  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, DerRidda @DerRidda & John @johndrinkwater
-

@@ -125,7 +125,3 @@ EDITOR: @johndrinkwater
 01:28:58 Hexcells Infinite http://www.matthewbrowngames.com/hexcellsinfinite.html
 01:31:12 Feedback email cast@steamlug.org
 
-  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
-  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
-  Email us feedback, questions, tips and suggestions to cast@steamlug.org
-  We can be followed on Twitter @steamlug, or as individuals @ValiantCheese & Cockfight @Buckwangs

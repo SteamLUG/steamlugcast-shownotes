@@ -81,7 +81,3 @@ EDITOR: @johndrinkwater
 00:43:41 TrueCrypt question asked by the audience http://truecrypt.sourceforge.net/
 00:43:59 Cheese pops in to say hellobye
 
-  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
-  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
-  Email us feedback, questions, tips and suggestions to cast@steamlug.org
-  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, DerRidda @DerRidda & John @johndrinkwater
