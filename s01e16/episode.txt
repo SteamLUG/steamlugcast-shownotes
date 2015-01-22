@@ -10,7 +10,7 @@ HOSTS: @ValiantCheese, @DerRidda, @johndrinkwater, @swordfischer, @MimLofBees
 GUESTS:
 ADDITIONAL:
 YOUTUBE:
-NOTESCREATOR:
+NOTESCREATOR: her001
 EDITOR: @johndrinkwater
 
 00:00:07 *Introduction*
