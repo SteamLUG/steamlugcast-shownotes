@@ -11,7 +11,7 @@ GUESTS:
 ADDITIONAL:
 YOUTUBE:
 NOTESCREATOR: @beansmyname
-EDITOR:
+EDITOR: @ValiantCheese
 
 00:00:10 *Introduction*
 00:00:18 @johndrinkwater introduces...
