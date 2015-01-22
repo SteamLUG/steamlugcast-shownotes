@@ -11,7 +11,7 @@ GUESTS: Nicholas Hastings (psychonic)
 ADDITIONAL:
 YOUTUBE: MdqFCb6KVSA
 NOTESCREATOR:
-EDITOR:
+EDITOR: @robertoszek
 
 00:00:09 *Introduction*
 00:00:12 Cheese @ValiantCheese introduces

@@ -11,7 +11,7 @@ GUESTS: Oliver Franzke (@p1xelcoder)
 ADDITIONAL:
 YOUTUBE:
 NOTESCREATOR:
-EDITOR:
+EDITOR: @robertoszek
 
 00:00:09 *Introduction*
 00:00:10 Cheese @ValiantCheese introduces
