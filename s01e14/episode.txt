@@ -7,8 +7,8 @@ DURATION: 01:01:31
 FILENAME: steamlugcast.s01e14.a-nuclear-dawn-is-upon-us
 DESCRIPTION: In this episode of SteamLUG Cast, Cheese, john and DerRidda are joined by InterWave developer and Nuclear Dawn porter psychonic! Listen on as we chat about working with the Source engine, Unity, Dark Matter, Nuclear Dawn, Black Mesa, the Linux Game Awards, and more!
 HOSTS: @ValiantCheese, @johndrinkwater, @DerRidda
-GUESTS: Nicholas Hastings (psychonic)
-ADDITIONAL:
+GUESTS: Nicholas Hastings (psychonic) {//avatars0.githubusercontent.com/u/844118?s=128}
+ADDITIONAL: 17710
 YOUTUBE: MdqFCb6KVSA
 NOTESCREATOR:
 EDITOR: @robertoszek

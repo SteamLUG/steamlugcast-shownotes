@@ -7,8 +7,8 @@ DURATION: 01:19:31
 FILENAME: steamlugcast.s02e10.nordic-penguins
 DESCRIPTION: In this episode of SteamLUG Cast, we are joined by game developer and Linux porter Leszek Godlewski of Nordic Games to chat about porting Painkiller Hell & Damnation and Deadfall Adventures, working with Unreal Engine 3, and what the future may hold. Afterward, Cheese, DerRidda and Nemoder go on to discuss recent SteamLUG community happenings, new game releases and more!
 HOSTS: @ValiantCheese, @DerRidda, Nemoder
-GUESTS: Leszek Godlewski (@TheIneQuation)
-ADDITIONAL:
+GUESTS: Leszek Godlewski (@TheIneQuation) {//pbs.twimg.com/profile_images/459305411728793600/vjOPaMtG_400x400.jpeg}
+ADDITIONAL: 214870, 231330
 YOUTUBE:
 NOTESCREATOR:
 EDITOR: @robertoszek
