@@ -60,7 +60,7 @@ EDITOR: @ValiantCheese
 00:37:48 *General Gaming News*
 00:37:51 TF2 Smissmas update Includes new beta game mode http://www.teamfortress.com/post.php?id=15304 http://www.teamfortress.com/post.php?id=15300
 00:38:47 Distance is on Steam Early Access now http://store.steampowered.com/app/233610/
-00:40:55 Corben78 (@Corben78) survived the blizzard and his newborn son and joins the cast
+00:40:55 Corben78 survived the blizzard and his newborn son and joins the cast
 00:41:48 Sportsfriends is released http://store.steampowered.com/app/277850/ (Joust component is Linux only since controller support in windows is broken)
 00:43:55 OpenMW 0.34 is released https://openmw.org/2014/openmw-0-34-0-released/
 00:45:46 GamingOnLinux.com GOTY awards accepting nominations http://www.gamingonlinux.com/articles/gamingonlinux-goty-section-nominations-now-open.4735
@@ -90,20 +90,20 @@ EDITOR: @ValiantCheese
 
 01:16:12 *Favourite games of 2014*
 01:16:12 Corben: Alien Isolation
-	 Bean: Borderlands 2
-	 Meklu: Lovely Planet
-	 Mim: Don't Starve
-	 DerRidda: Wasteland 2
-	 Cheeseness: Another World
+	Bean: Borderlands 2
+	Meklu: Lovely Planet
+	Mim: Don't Starve
+	DerRidda: Wasteland 2
+	Cheeseness: Another World
 
 01:27:49 *Predictions/speculation for 2015*
 01:27:51 Most anticipated games
-	 Corben: Evolve
-	 Bean: Darksiders
-	 Meklu: Kingdom Come
-	 Mim: Star Citizen
-	 DerRidda: Witcher 3
-	 Cheeseness: Guns of Icarus Adventure Mode
+	Corben: Evolve
+	Bean: Darksiders
+	Meklu: Kingdom Come
+	Mim: Star Citizen
+	DerRidda: Witcher 3
+	Cheeseness: Guns of Icarus Adventure Mode
 
 01:40:53 *Sign-off*
 
