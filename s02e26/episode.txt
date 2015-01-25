@@ -4,7 +4,7 @@ TITLE: Steamy Regards
 SEASON: 02
 EPISODE: 26
 DURATION: 01:44:28
-FILENAME: steamlugcast.s02e26.steamy-regards.ogg
+FILENAME: steamlugcast.s02e26.steamy-regards
 DESCRIPTION: The SteamLUG Cast hosts recap recent Linux gaming happenings and then take you on a reflective journey through the wonderous 2014 with all the seriousness and reverence it deserves.
 HOSTS: @ValiantCheese, @DerRidda, @mnarikka, @beansmyname, @MimLofBees, @Corben78
 GUESTS:
