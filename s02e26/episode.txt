@@ -16,14 +16,14 @@ EDITOR: @ValiantCheese
 00:00:09 *Introduction*
 00:00:28 Cheeseness (@ValiantCheese) forgets to introduce himself
 00:00:30 DerRidda (@DerRidda)
-00:00:34 Meklu (@mnarikka)
+00:00:34 meklu (@mnarikka)
 00:00:37 Bean (@beansmyname)
 00:00:40 Mim (@MimLofBees)
 
 00:01:02 *Our Gaming*
 00:01:04 DerRidda played Counterstrike:GO, Metro 2033 Redux, NEO Scavenger, Natural Selection 2, Starbound, The Binding of Isaac: Rebirth
 00:03:05 Mim played Dead Island, Sword & Sworcery, Guns of Icarus, Appointment with F.E.A.R, Don't Starve
-00:04:24 Meklu fell in love with Lovely Planet, played lots of Counterstrike:GO, also some Binding of Isaac: Rebirth, FOTONICA, The Talos Principle, Little Racers STREET
+00:04:24 meklu fell in love with Lovely Planet, played lots of Counterstrike:GO, also some Binding of Isaac: Rebirth, FOTONICA, The Talos Principle, Little Racers STREET
 00:08:34 Bean played Borderlands: The Pre-Sequel, Guns of Icarus Online, Binding of Isaac:Rebirth, Beat Hazard, Costume Quest 2, Democracy 3, Little Racers STREET, Cosmochoria, Jets'n'Guns Gold
 00:10:12 Cheeseness played Crypt of the Necrodancer, Guns of Icarus, Satellite Reign, Civ: Beyond Earth, Space Run, XCOM: EU
 00:13:43 Corben78 (@Corben78) is stuck in a blizzard
@@ -91,7 +91,7 @@ EDITOR: @ValiantCheese
 01:16:12 *Favourite games of 2014*
 01:16:12 Corben: Alien Isolation
 	Bean: Borderlands 2
-	Meklu: Lovely Planet
+	meklu: Lovely Planet
 	Mim: Don't Starve
 	DerRidda: Wasteland 2
 	Cheeseness: Another World
@@ -100,7 +100,7 @@ EDITOR: @ValiantCheese
 01:27:51 Most anticipated games
 	Corben: Evolve
 	Bean: Darksiders
-	Meklu: Kingdom Come
+	meklu: Kingdom Come
 	Mim: Star Citizen
 	DerRidda: Witcher 3
 	Cheeseness: Guns of Icarus Adventure Mode
