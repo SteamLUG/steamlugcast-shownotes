@@ -129,7 +129,7 @@ EDITOR: @johndrinkwater
 01:12:32 Act of Aggression was announced for Linux http://www.actofaggression-game.com/
 	Teaser Trailer https://www.youtube.com/watch?v=BfRqrxGQQg4
 01:13:03 Steam releases:
-	Crawl (mentioned in [s02e14] ) http://store.steampowered.com/app/293780/
+	Crawl (mentioned in [s02e14]) http://store.steampowered.com/app/293780/
 	The Maker's Eden http://store.steampowered.com/app/313360/
 01:13:23 New batch of Greenlight titles with 28 out of 50 supporting Linux http://steamcommunity.com//sharedfiles/filedetails/?id=291342035
 	Rexaura, a Portal mod by Mevious http://steamcommunity.com/sharedfiles/filedetails/?id=265557293

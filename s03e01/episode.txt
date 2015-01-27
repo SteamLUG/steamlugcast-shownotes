@@ -14,9 +14,9 @@ NOTESCREATOR: @DerRidda
 EDITOR: @Corben78
 
 00:00:09 *Introduction*
-00:00:18 Cheeseness ( @ValiantCheese ) is joined by
-00:00:20 Corben ( @Corben78 ) and
-00:00:21 Bean ( @beansmyname )
+00:00:18 Cheeseness (@ValiantCheese) is joined by
+00:00:20 Corben (@Corben78) and
+00:00:21 Bean (@beansmyname)
 
 00:00:31 *Our Gaming*
 00:00:34 Corben has been playing Counter-Strike: Global Offensive, Call of Duty:Modern Warfare (wine), Guns of Icarus Online, Anomaly Warzone Earth, Castle Crashers and Dynablaster Revenge

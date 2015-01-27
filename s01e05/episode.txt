@@ -62,7 +62,7 @@ EDITOR: @johndrinkwater
 
 00:31:38 *Steam News*
 00:32:01 Bugfixes for Steam for Linux client http://store.steampowered.com/news/11169
-00:32:59 Mim ( @MimLofBees ) will fill in for @swordfischer on the next cast!
+00:32:59 Mim (@MimLofBees) will fill in for @swordfischer on the next cast!
 00:33:37 Steam Cards for Beat Hazard Ultra has in‐game goodies! http://www.coldbeamgames.com/3/post/2013/07/gold-dragons-steam-trading-cards.html
 00:35:50 A batch of new Greenlight titles has been added http://steamcommunity.com/games/765/announcements/detail/1586674964466039347
 00:36:37 Tripmine studios are doing a BlueShift: Source http://steamcommunity.com/groups/ts_public
@@ -71,7 +71,7 @@ EDITOR: @johndrinkwater
 00:39:26 *General Gaming*
 00:39:38 @swordfischer played Awesomenauts, Strike Suit Zero Beta and DOTA 2
 00:40:06 @johndrinkwater played Strike Suit Zero Beta, Eversion, Kerbal Space Program, Rush and Toki Tori
-00:40:57 Toki Tori port by Urkle ( @outoforder_cc )
+00:40:57 Toki Tori port by Urkle (@outoforder_cc)
 00:41:17 @TwoLofBees played Faster Than Light
 00:42:46 Wine 1.6 was released http://www.winehq.org/announce/1.6
 00:43:49 OpenGL 4.4 http://tech.slashdot.org/story/13/07/23/1940248/opengl-44-and-opencl-20-specs-release

@@ -45,7 +45,7 @@ EDITOR: @robertoszek
 00:15:26 Valgrind http://valgrind.org/
 00:16:21 APITrace http://apitrace.github.io/
 00:17:42 Thoughts on community comments that porting Unreal Engine 3 is easy
-00:18:00 Digital Dragons 2013, Linux As A Gaming Platform, Ideology Aside http://www.slideshare.net/LeszekGodlewski/linuxgames (errata http://www.slideshare.net/LeszekGodlewski/linuxgames-errata )
+00:18:00 Digital Dragons 2013, Linux As A Gaming Platform, Ideology Aside http://www.slideshare.net/LeszekGodlewski/linuxgames (errata http://www.slideshare.net/LeszekGodlewski/linuxgames-errata)
 	‘The relative engineering cost of a Linux port is low’
 00:19:45 Unreal Engine 3 shader system is ‘totally unfit for use with OpenGL’
 	Digital Dragons 2014, One Year Of Porting http://www.slideshare.net/LeszekGodlewski/lg-dd20141yop
@@ -125,10 +125,10 @@ EDITOR: @robertoszek
 	Other Space Bundle http://blog.humblebundle.com/post/85737144530/this-next-daily-bundle-is-from-outer
 	Banner Saga Bundle http://blog.humblebundle.com/post/85834188996/no-time-for-winter-is-coming-jokes-the-daily-bundles
 01:08:57 Steam releases
-01:09:08 Fistful of Frags http://store.steampowered.com/app/265630/ (Smokin’ Guns http://www.smokin-guns.org/ )
+01:09:08 Fistful of Frags http://store.steampowered.com/app/265630/ (Smokin’ Guns http://www.smokin-guns.org/)
 01:10:12 BattleBlock Theater http://store.steampowered.com/app/238460/
 01:10:41 Hack ’n’ Slash http://store.steampowered.com/app/246070
-01:12:15 Paragon http://store.steampowered.com/app/291250 (mentioned in [s02e07] )
+01:12:15 Paragon http://store.steampowered.com/app/291250 (mentioned in [s02e07])
 01:12:31 Elite http://en.wikipedia.org/wiki/Elite_%28video_game%29
 01:12:52 X3 http://www.egosoft.com/games/x3
 01:13:11 May 14th Greenlight Batch (37 our of 75 with signs of Linux support) http://steamcommunity.com//sharedfiles/filedetails/?id=257742716
@@ -136,8 +136,8 @@ EDITOR: @robertoszek
 	Zero-K http://steamcommunity.com/sharedfiles/filedetails/?id=247032802
 	Dogfight Elite http://steamcommunity.com/sharedfiles/filedetails/?id=140669104
 	The Maker’s Eden http://steamcommunity.com/sharedfiles/filedetails/?id=150210424
-	Unpossible http://steamcommunity.com/sharedfiles/filedetails/?id=252179831 (Proun http://www.proun-game.com/ )
-	Whitewash http://steamcommunity.com/sharedfiles/filedetails/?id=238382054 (GOL article http://www.gamingonlinux.com/articles/whitewash-first-person-puzzleshooter-plans-to-come-to-linux-made-in-unity3d.3480 )
+	Unpossible http://steamcommunity.com/sharedfiles/filedetails/?id=252179831 (Proun http://www.proun-game.com/)
+	Whitewash http://steamcommunity.com/sharedfiles/filedetails/?id=238382054 (GOL article http://www.gamingonlinux.com/articles/whitewash-first-person-puzzleshooter-plans-to-come-to-linux-made-in-unity3d.3480)
 
 01:17:26 *Crowdfunding News*
 01:17:29 SUPERHOT https://www.kickstarter.com/projects/375798653/superhot

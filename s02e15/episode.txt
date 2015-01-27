@@ -128,7 +128,7 @@ EDITOR: @johndrinkwater
 01:53:23 Linux Game Awards’ Project Of The Month goes to Unvanquished http://www.linuxgameawards.org/news/project-of-the-month-july-2014-winner
 01:54:08 Guns of Icarus Online is going to become an MLG game http://gunsoficarus.com/blog/weekly-progress-report-7182014/
 01:55:41 The Maker’s Eden planned for release on 31st July
-01:56:26 Native Prince of Persia 1 based on Apple ][ source release (thanks to Norbert for the heads up on this - he also runs popot.org! ) http://forum.princed.org/viewtopic.php?f=69&t=3512
+01:56:26 Native Prince of Persia 1 based on Apple ][ source release (thanks to Norbert for the heads up on this - he also runs popot.org !) http://forum.princed.org/viewtopic.php?f=69&t=3512
 01:57:23 The Journey Down chapter 2 is available for pre-order (coming 25th August). https://www.youtube.com/watch?v=_qYDv766guM
 	50% of pre-order revenue will got to help the construction of a Mavuno Project girl’s school in Tanzania in partnership with Engineers Without Borders http://www.mavunoproject.org/
 01:59:16 Humble Weekly Bundle: Plug In Digital has 2 Linux games, Finding Teddy and Kill The Bad Guy (+more coming) https://www.humblebundle.com/weekly
