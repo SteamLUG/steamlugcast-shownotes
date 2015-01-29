@@ -76,7 +76,7 @@ EDITOR: @robertoszek
 00:33:39 OBS Studio is getting more usable, Nemoder has been streaming using it https://github.com/jp9000/obs-studio/
 
 00:37:05 *General Gaming News*
-00:37:09 Grim Fandango to get simultaneous Linux release www.gamingonlinux.com/articles/grim-fandango-will-be-reaping-its-way-onto-linux.4005
+00:37:09 Grim Fandango to get simultaneous Linux release http://www.gamingonlinux.com/articles/grim-fandango-will-be-reaping-its-way-onto-linux.4005
 00:40:13 Darksiders is being ported to Linux https://twitter.com/TheIneQuation/status/487612207149359104 It’s only the first one so far https://twitter.com/TheIneQuation/status/487622154880823296
 00:42:12 Dwarf Fortress update http://www.bay12games.com/dwarves/index.html
 00:43:11 Hand of Fate launches on Steam Early Access http://store.steampowered.com/app/266510
