@@ -11,7 +11,7 @@ GUESTS:
 ADDITIONAL:
 YOUTUBE:
 NOTESCREATOR: Nemoder
-EDITOR: @robertoszek
+EDITOR: @ValiantCheese
 
 00:00:09 *Introduction*
 00:00:10 @Corben78 introduces...
