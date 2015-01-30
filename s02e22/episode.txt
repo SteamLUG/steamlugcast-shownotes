@@ -34,7 +34,7 @@ EDITOR: @johndrinkwater
 	Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/124174026597916300
 	Dead Island http://steamcommunity.com/groups/steamlug#events/124174026598362516
 00:04:53 Soeb’s Linux Port reports http://community.pcgamingwiki.com/page/blog/_/features/port-reports/pc-report-borderlands-the-pre-sequel-on-linux-r162
-00:06:19 Slashdot article http://linux.slashdot.org/story/14/10/24/1426240/pcgamingwiki-looks-into-linux-gaming-with-port-reports 
+00:06:19 Slashdot article http://linux.slashdot.org/story/14/10/24/1426240/pcgamingwiki-looks-into-linux-gaming-with-port-reports
 
 00:06:30 *Steam/Valve News*
 00:06:32 Hallowe’en Sale

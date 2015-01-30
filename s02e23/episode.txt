@@ -25,7 +25,7 @@ EDITOR: @ValiantCheese
 
 00:02:28 *SteamLUG Community Stuff*
 00:02:33 Past Events
-	Killing Floor http://steamcommunity.com/groups/steamlug#events/124173382130984203 
+	Killing Floor http://steamcommunity.com/groups/steamlug#events/124173382130984203
 	TF2 http://steamcommunity.com/groups/steamlug#events/124174026597916300
 	Dead Island http://steamcommunity.com/groups/steamlug#events/124174026598362516
 	Guns of Icarus Online http://steamcommunity.com/groups/steamlug#events/124174663433896983

@@ -16,7 +16,7 @@ EDITOR: @ValiantCheese
 00:00:09 *Introduction*
 00:00:17 Cheeseness (@VailiantCheese) introduces himself
 00:00:19 Nemoder
-00:00:20 and DerRidda (@DerRidda) 
+00:00:20 and DerRidda (@DerRidda)
 
 00:00:32 *Our Gaming*
 00:00:34 Nemoder has been playing Factorio, GoIO, Crypt of Necrodancer, Powerpuff Girls and rymdkapsel
@@ -33,8 +33,8 @@ EDITOR: @ValiantCheese
 00:05:50 (Post-Cast) Altitude http://steamcommunity.com/groups/steamlug#events/124174663437122206
 00:06:25 Screencheat http://steamcommunity.com/groups/steamlug#events/124174663437618719
 00:07:10 Other Community Stuff
-00:07:12 Linux game unboxing: Brutal Legend Limited Edition IndieBox https://www.youtube.com/watch?v=OsWkNlsiWRs 
-00:07:30 sulix (Dave Gow, Linux game porter) has been doing a Linux port of Handmade Hero alongside the recent streams http://davidgow.net/handmadepenguin/default.html 
+00:07:12 Linux game unboxing: Brutal Legend Limited Edition IndieBox https://www.youtube.com/watch?v=OsWkNlsiWRs
+00:07:30 sulix (Dave Gow, Linux game porter) has been doing a Linux port of Handmade Hero alongside the recent streams http://davidgow.net/handmadepenguin/default.html
 
 00:07:53 *Steam/Valve News*
 00:07:54 Steam "Exploration Sale" is on! November 26 till December 2. The usual rules apply https://imgur.com/gallery/3lKhnEm
@@ -57,7 +57,7 @@ EDITOR: @ValiantCheese
 00:20:48 Thimbleweed Park Point & Click Adventure by Ron Gilbert has already reached its funding goal with 20 days to go https://www.kickstarter.com/projects/thimbleweedpark/thimbleweed-park-a-new-classic-point-and-click-adv
 00:26:13 Johnny Rocketfingers (suggested by norbert) https://www.kickstarter.com/projects/1504145860/johnny-rocketfingers-3-hand-drawn-point-and-click/
 00:27:26 Innerspace flying/exploration game https://www.kickstarter.com/projects/2074789246/innerspace
-00:28:33 Hollow Knight https://www.kickstarter.com/projects/11662585/hollow-knight 
+00:28:33 Hollow Knight https://www.kickstarter.com/projects/11662585/hollow-knight
 00:29:03 Distance is getting a Steam Early Access launch http://store.steampowered.com/app/233610/
 00:29:58 Out of content error
 00:31:59 Suggest events here! http://steamcommunity.com/groups/steamlug/discussions/2/828934424146675833/

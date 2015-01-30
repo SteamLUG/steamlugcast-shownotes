@@ -40,10 +40,10 @@ EDITOR: @ValiantCheese
 	SteamLUG 7DFPS entry http://steamcommunity.com/groups/steamlug/discussions/0/619568074740603926/
 00:12:51 Soeb has published port reports for pcgamingwiki:
 	Borderlands 2 http://community.pcgamingwiki.com/page/blog/_/features/port-reports/pc-report-borderlands-2-on-linux-r160
-	Tropico 5 http://community.pcgamingwiki.com/page/blog/_/features/port-reports/pc-report-tropico-5-on-linux-r159 
+	Tropico 5 http://community.pcgamingwiki.com/page/blog/_/features/port-reports/pc-report-tropico-5-on-linux-r159
 00:14:59 Cheese made a Costume Quest 2 bot that tweets Candy Corn combat lines https://twitter.com/cq2candycorn
-00:15:18 Game Club is playing Papo & Yo http://www.doublefine.com/forums/viewthread/15040/ 
-00:16:32 Concept art for Stacking was shared during the last Game Club session http://www.doublefine.com/forums/viewreply/360029/ 
+00:15:18 Game Club is playing Papo & Yo http://www.doublefine.com/forums/viewthread/15040/
+00:16:32 Concept art for Stacking was shared during the last Game Club session http://www.doublefine.com/forums/viewreply/360029/
 
 00:17:24 *Tech News*
 00:17:25 UnealEngine 4.5 released with experimental Linux editor https://forums.unrealengine.com/showthread.php?49302-Unreal-Engine-4-5-Released!
@@ -57,14 +57,14 @@ EDITOR: @ValiantCheese
 00:26:48 Brutal Legend gets a limited boxed edition that includes Linux builds https://theindiebox.com/brutal/
 00:30:01 Shovel Knight is available http://store.steampowered.com/app/250760
 00:32:14 GOG hits 100 titles http://www.gog.com/news/linux_update_weve_reached_the_100title_mark
-00:34:49 GOG dev stream confirms Galaxy for Linux (50:10), expression of interest in an open API (49:40) http://www.gog.com/news/ask_us_anything_on_twitch 
+00:34:49 GOG dev stream confirms Galaxy for Linux (50:10), expression of interest in an open API (49:40) http://www.gog.com/news/ask_us_anything_on_twitch
 00:35:29 Planetary Annihilation Offline mode added http://steamcommunity.com/games/233250/announcements/detail/130927679374116801
-00:35:55 TRI: Of Friendship and Madness is released http://ratking.de/2014/10/13/tri-its-done-o/ 
+00:35:55 TRI: Of Friendship and Madness is released http://ratking.de/2014/10/13/tri-its-done-o/
 00:36:17 Sigils of Elohim (Croteam) http://store.steampowered.com/app/321480/
 00:37:36 Linux beta of Scrolls (Mojang) is available for testing http://www.reddit.com/r/Scrolls/comments/2j3pxw/linux_client_experimental/
 00:40:55 Costume Quest 2 is out http://www.doublefine.com/news/comments/costume_quest_2_now_available_on_steam/
 00:42:05 Splot for Linux will be later than other desktop platforms https://twitter.com/Frozenbyte/status/519178167937146881
-00:42:39 Pixel Rift Linux build broken and removed for now http://www.pixelriftgame.com/ 
+00:42:39 Pixel Rift Linux build broken and removed for now http://www.pixelriftgame.com/
 00:43:30 Raven's Cry pirate themed RPG releases on November 27th https://www.gamingonlinux.com/articles/ravens-cry-the-openworld-action-rpg-has-a-new-release-date.4451
 
 00:44:52 *Crowdfunding*

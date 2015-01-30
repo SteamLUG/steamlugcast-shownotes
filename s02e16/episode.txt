@@ -84,7 +84,7 @@ EDITOR: @johndrinkwater
 00:51:41 JP would definitely like to exclusively use Linux for work, though he doesn't believe that Double Fine will switch entirely to Linux any time soon
 00:52:06 Jeremy Mitchell, Spacebase DF-9's Lead Artist https://twitter.com/floatvoid/
 00:52:16 JP already uses Gimp http://gimp.org and Krita https://krita.org/ for minor art work
-	 The bulk of his other development tools are open source as well
+	The bulk of his other development tools are open source as well
 00:52:33 2HB is Double Fine's Moai integrated authoring and debigging tool
 00:52:45 Brandon Dillon @Noughtceratops is also lead developer on Hack 'n' Slash http://www.hacknslashthegame.com/
 00:54:15 "...if I ever founded my own game studio someday, not that I really have much of an intention to, you know, I would be using Linux and I would probably make it a priority so that people could [use Linux] in developing whatever kind of games we were making."
@@ -122,7 +122,7 @@ EDITOR: @johndrinkwater
 01:08:03 NecroDancer Soundtrack http://store.steampowered.com/app/314680/
 01:08:56 XCOM: Enemy Unknown updated with some Linux fixes http://steamcommunity.com/app/200510/discussions/0/34093781672243819
 01:09:22 Orbital Gear is now available on Steam http://store.steampowered.com/app/298520/
-01:10:28 Borderlands: The Pre-Sequel had a Linux port mentioned in a financial report http://ir.take2games.com/phoenix.zhtml?c=86428&p=irol-newsArticle&ID=1955544&highlight 
+01:10:28 Borderlands: The Pre-Sequel had a Linux port mentioned in a financial report http://ir.take2games.com/phoenix.zhtml?c=86428&p=irol-newsArticle&ID=1955544&highlight
 	The port was confirmed by IGN http://www.ign.com/articles/2014/08/06/borderlands-the-pre-sequel-coming-to-linux
 01:11:23 Dungeons 2 was announced for Linux http://www.dungeons-game.com/en/index.php
 01:12:08 Devinity: Original Sin http://www.divinityoriginalsin.com/
