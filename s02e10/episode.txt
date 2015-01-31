@@ -9,7 +9,7 @@ DESCRIPTION: In this episode of SteamLUG Cast, we are joined by game developer a
 HOSTS: @ValiantCheese, @DerRidda, Nemoder
 GUESTS: Leszek Godlewski (@TheIneQuation) {//pbs.twimg.com/profile_images/459305411728793600/vjOPaMtG_400x400.jpeg}
 ADDITIONAL: 214870, 231330
-YOUTUBE:
+YOUTUBE: 8_9fGYEVY9U
 NOTESCREATOR:
 EDITOR: @robertoszek
 

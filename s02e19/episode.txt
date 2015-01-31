@@ -9,7 +9,7 @@ DESCRIPTION: The SteamLUG cast is proud to have community member and Lead Mainta
 HOSTS: @ValiantCheese, @DerRidda
 GUESTS:  Levi Bard (Tak)
 ADDITIONAL: TODO fix this, //localhost:4000/unity-logo.png
-YOUTUBE:
+YOUTUBE: 9T93uDzCrYs
 NOTESCREATOR: @beansmyname
 EDITOR: @robertoszek
 

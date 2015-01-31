@@ -9,7 +9,7 @@ DESCRIPTION: In this cast we are joined by Josh Klint from Leadwerks to chat abo
 HOSTS: @ValiantCheese, @DerRidda, Nemoder
 GUESTS: Josh Klint (@JoshKlint) {//pbs.twimg.com/profile_images/3512332047/92cd2a99faa4b3d713c2d753d4b3abe6_400x400.jpeg}
 ADDITIONAL: 251810
-YOUTUBE:
+YOUTUBE: _K5LR88yLHE
 NOTESCREATOR:
 EDITOR: @johndrinkwater
 

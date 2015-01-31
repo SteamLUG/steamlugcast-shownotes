@@ -9,7 +9,7 @@ DESCRIPTION: In this episode, Cheese and DerRidda deftly step past a recording h
 HOSTS: @ValiantCheese, @DerRidda
 GUESTS:
 ADDITIONAL:
-YOUTUBE:
+YOUTUBE: ExqdQqsnP3Y
 NOTESCREATOR: @beansmyname
 EDITOR: @Corben78
 

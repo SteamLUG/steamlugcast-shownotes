@@ -9,7 +9,7 @@ DESCRIPTION: We’re back with a new season of SteamLUG Cast after a short holid
 HOSTS: @ValiantCheese, @swordfischer, @johndrinkwater
 GUESTS:
 ADDITIONAL:
-YOUTUBE:
+YOUTUBE: dzp_ZR7y090
 NOTESCREATOR:
 EDITOR: @johndrinkwater
 
