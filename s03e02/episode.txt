@@ -1,0 +1,67 @@
+RECORDED: 2015-01-23
+PUBLISHED: 2015-02-01
+TITLE: First Person Shooter Racer RPG Simulation Games
+SEASON: 03
+EPISODE: 02
+DURATION: 00:37:33
+FILENAME: steamlugcast.s03e02.first-person-shooter-racer-rpg-simulation-games
+DESCRIPTION: In this episode of SteamLUG Cast, DerRidda, Bean and Nemoder discuss the last fortnight’s gaming news and SteamLUG community happenings including Steam bugs, GOG.com, SteamOS, Oddworld New 'N' Tasty, Dying Light, AudioSurf 2, Shadowrun Hong Kong and more!
+HOSTS: @DerRidda, @beansmyname, Nemoder
+GUESTS:
+ADDITIONAL:
+YOUTUBE: EKTxVis_e9s
+EDITOR: @Corben78
+NOTESCREATOR: Raynier
+
+00:00:10 *Introduction*
+00:00:20 DerRidda (@DerRidda)
+00:00:23 Bean (@beansmyname)
+00:00:25 Nemoder (http://steamcommunity.com/id/Nemoder)
+
+00:00:29 *Our Gaming*
+00:00:32 Beans has been playing Borderlands: Pre-Sequel, Natural Selection 2, Cosmochoria, Assault Android Cactus, Left 4 Dead 2
+00:01:30 Nemoder has been playing Guns of Icarus, Natural Selection 2, Rexaura, Dwarf Fortress, Crypt of the Necrodancer, Civ: BE, Space Farmers, Escape Goat 2
+00:02:23 DerRidda has been playing CS:GO, Star Wars: Dark Forces, The Witcher 2
+
+00:04:25 *SteamLUG Community Stuff*
+00:04:28 Past events
+	Left 4 Dead 2 http://steamcommunity.com/groups/steamlug#events/127557410118787093
+	Trine http://steamcommunity.com/groups/steamlug#events/127557410118789725
+	Empire: Total War 2 http://steamcommunity.com/groups/steamlug#events/127557410119389129
+	Natural Selection 2 http://steamcommunity.com/groups/steamlug#events/127557410119395043
+00:08:21 Upcoming events
+	Little Racers STREET http://steamcommunity.com/groups/steamlug#events/127557410120029943
+	Serious Sam 3 http://steamcommunity.com/groups/steamlug#events/127557410120191873
+	Starbound http://steamcommunity.com/groups/steamlug#events/127557410120901763
+	Dota 2 http://steamcommunity.com/groups/steamlug#events/127557410120905013
+00:10:06 SteamLUG genre poll https://steamlug.org/polls
+	Edwin Smith from @feralgames mentioned a suspected preference for strategy titles on Linux in [s02e15]
+
+00:10:32 *Steam/Valve News*
+00:10:35 Valve removed OAuth Key Redemption, Humble Bundle are going back to their previous system. http://blog.humblebundle.com/post/107906804069/changes-in-steam-key-redemption
+00:12:37 SteamOS Update 153 is out http://steamcommunity.com/groups/steamuniverse#announcements/detail/248029977916540942
+00:13:40 Steam launch script bug potentially deleting files has been fixed https://github.com/ValveSoftware/steam-for-linux/issues/3671 http://store.steampowered.com/news/15512/
+
+00:16:16 *Tech News*
+00:16:27 GOG.com removes password protection in .rar files again https://www.gog.com/forum/general/on_gnulinux_has_anyone_be_able_to_extract_the_rar_innosetup_installers/post470
+00:17:21 Nvidia releases GTX 960 mid-range card http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-960
+00:19:05 New stable Nvidia driver 346.35 released, fixes issues with Metro Redux games on highest settings http://www.geforce.com/drivers/results/81252
+
+00:20:27 *General Gaming News*
+00:20:28 Civilization: Beyond Earth for Mac/Linux is back in sync with Windows on Steam. https://twitter.com/AspyrMedia/status/555510935398645761
+00:21:47 Audiosurf 2 in Early Access with linux support http://store.steampowered.com/app/235800/
+00:22:49 Oddworld New 'N' Tasty gets a release date for Linux - February 25 http://www.gamasutra.com/view/pressreleases/234259/COMING_SOON_Something_NEW_N_TASTYhellipAGAIN.php
+00:23:50 Aspyr Media close to breaking even http://www.reddit.com/r/linux/comments/2sm72d/aspyr_media_are_you_profitable
+00:25:08 GOG added Linux versions of Star Wars: Dark Forces, Among the Sleep, Trine 2 Complete Story https://twitter.com/gamingonlinux/status/557631134469980161
+00:26:42 Dying Light might be coming to Linux https://www.gamingonlinux.com/articles/dying-light-from-techland-has-a-little-hint-about-linux-support.4875
+
+00:30:04 *Crowdfunding*
+00:30:19 New Shadowrun game set in Hong Kong is up on Kickstarter https://www.kickstarter.com/projects/webeharebrained/shadowrun-hong-kong
+00:32:30 Children of Morta action/roguelike https://www.kickstarter.com/projects/deadmage/children-of-morta
+00:33:20 STRAFE 1996 old-school FPS. Linux support is uncertain http://www.strafe1996.com/ https://www.kickstarter.com/projects/strafegame/strafe
+00:34:14 Star Mazer is a mix of classic adventure and shoot ’em up https://www.kickstarter.com/projects/imagosfilms/starr-mazer
+00:34:58 Invisible Inc. by Klei on Steam Early Access for Linux http://store.steampowered.com/app/243970/
+	Clarification: Linux support is officially coming in the next update, but a development version is currently playable
+
+00:36:33 *Sign-off*
+
