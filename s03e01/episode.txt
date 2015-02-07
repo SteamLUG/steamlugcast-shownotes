@@ -5,7 +5,7 @@ SEASON: 03
 EPISODE: 01
 DURATION: 00:36:28
 FILENAME: steamlugcast.s03e01.ghost-whisperers
-DESCRIPTION: In this episode of SteamLUG Cast, Corben, Bean and Cheese discuss the last fortnight's gaming news and SteamLUG community happenings including the new Team Fortress 2, community stats, OSVR, GOL's GOTY awards, Steam machines, Skullgirls, Broken Age, Gunpoint and more!
+DESCRIPTION: Corben, Bean and Cheese discuss the last fortnight's gaming news and SteamLUG community happenings including the new Team Fortress 2, community stats, OSVR, GOL's GOTY awards, Steam machines, Skullgirls, Broken Age, Gunpoint and more!
 HOSTS: @ValiantCheese, @Corben78, @beansmyname
 GUESTS:
 ADDITIONAL:

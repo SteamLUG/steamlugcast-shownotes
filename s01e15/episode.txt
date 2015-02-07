@@ -5,7 +5,7 @@ SEASON: 01
 EPISODE: 15
 DURATION: 00:50:10
 FILENAME: steamlugcast.s01e15.gearing-up-your-kerbals
-DESCRIPTION: In this episode of SteamLUG Cast, Cheese is joined once again by Mim and DerRidda to chat about Steam updates, Steam Machine and SteamOS news, Humble Bundles, and hopefully #BringBackSteamChess.
+DESCRIPTION: Cheese is joined again by Mim and DerRidda to chat about Steam updates, Steam Machine and SteamOS news, Humble Bundles, and hopefully #BringBackSteamChess.
 HOSTS: @ValiantCheese, @DerRidda, @MimLofBees
 GUESTS:
 ADDITIONAL:

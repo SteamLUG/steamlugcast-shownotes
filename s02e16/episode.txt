@@ -5,7 +5,7 @@ SEASON: 02
 EPISODE: 16
 DURATION: 01:21:06
 FILENAME: steamlugcast.s02e16.touching-spacebase
-DESCRIPTION: In this episode of SteamLUG Cast, we are joined by game developer/designer and Linux user JP LeBreton of Double Fine to chat about the status of gaming on Linux and the various projects he has worked on (including The Cave and Spacebase DF-9). We then go on to discuss the new Steam client, the appearance of the Source 2 engine, and tons of new games.
+DESCRIPTION: We are joined by game developer/designer and Linux user JP LeBreton of Double Fine to chat about the status of gaming on Linux and the various projects he has worked on (including The Cave and Spacebase DF-9). We then go on to discuss the new Steam client, the appearance of the Source 2 engine, and tons of new games.
 HOSTS: @ValiantCheese, @MimLofBees, Nemoder
 GUESTS: JP LeBreton (@vectorpoem) {//pbs.twimg.com/profile_images/528202461568200705/r3PTbS9R_400x400.jpeg}
 ADDITIONAL: 246090

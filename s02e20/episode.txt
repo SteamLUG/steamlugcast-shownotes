@@ -5,7 +5,7 @@ SEASON: 02
 EPISODE: 20
 DURATION: 01:08:57
 FILENAME: steamlugcast.s02e20.freedom-cheese
-DESCRIPTION: In this episode, Cheese, DerRidda and Nemoder chat about the Steam Discovery update, the Saxxies, Virtual Reality, Civilisation: Beyond Earth and more!
+DESCRIPTION: Cheese, DerRidda and Nemoder chat about the Steam Discovery update, the Saxxies, Virtual Reality, Civilisation: Beyond Earth and more!
 HOSTS: @ValiantCheese, Nemoder, @DerRidda
 GUESTS:
 ADDITIONAL:

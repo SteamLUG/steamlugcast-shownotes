@@ -5,7 +5,7 @@ SEASON: 02
 EPISODE: 25
 DURATION: 00:34:45
 FILENAME: steamlugcast.s02e25.two-professionals-one-cast
-DESCRIPTION: In this episode, Cheese and DerRidda deftly step past a recording hiccough and discuss Handmade Penguin, the Steam Holiday Auction, BioShock Infinite, Civilization: Beyond Earth, 7DFPS and more!
+DESCRIPTION: Our duo Cheese and DerRidda deftly step past a recording hiccough and discuss Handmade Penguin, the Steam Holiday Auction, BioShock Infinite, Civilization: Beyond Earth, 7DFPS and more!
 HOSTS: @ValiantCheese, @DerRidda
 GUESTS:
 ADDITIONAL:

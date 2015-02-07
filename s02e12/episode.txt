@@ -5,7 +5,7 @@ SEASON: 02
 EPISODE: 12
 DURATION: 01:34:55
 FILENAME: steamlugcast.s02e12.steamboy-over-the-moon
-DESCRIPTION: In this episode of SteamLUG Cast, Johndrinkwater, DerRidda, Nemoder and Cheese are joined again by John Warner from Over The Moon games to chat about The Fall's launch, Greenlight, demo and commentaries. We then go on to discuss Steam VR mode, GOG Galaxy, The Witcher, SteamBoy, Civilization V and Civilization: Beyond Earth. Holy poop!
+DESCRIPTION: John, DerRidda, Nemoder and Cheese are joined again by John Warner from Over The Moon games to chat about The Fall's launch, Greenlight, demo and commentaries. We then go on to discuss Steam VR mode, GOG Galaxy, The Witcher, SteamBoy, Civilization V and Civilization: Beyond Earth. Holy poop!
 HOSTS: @ValiantCheese, @johndrinkwater, @DerRidda, Nemoder
 GUESTS: John Warner (@OverTheMoonGms) {//pbs.twimg.com/profile_images/378800000366318685/e6d011b4997539de6f9ff783bbba2778.jpeg}
 ADDITIONAL: 290770

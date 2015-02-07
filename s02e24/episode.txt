@@ -5,7 +5,7 @@ SEASON: 02
 EPISODE: 24
 DURATION: 00:33:56
 FILENAME: steamlugcast.s02e24.a-brief-autumn-breeze
-DESCRIPTION: In this episode, Cheese, DerRidda and Nemoder chat about the Steam Exploration Sale, the Jolla Tablet, Thimbleweed Park, adult games on Steam and more!
+DESCRIPTION: Cheese, DerRidda and Nemoder chat about the Steam Exploration Sale, the Jolla Tablet, Thimbleweed Park, adult games on Steam and more!
 HOSTS: @ValiantCheese, Nemoder, @DerRidda
 GUESTS:
 ADDITIONAL:

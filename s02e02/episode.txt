@@ -5,7 +5,7 @@ SEASON: 02
 EPISODE: 02
 DURATION: 01:28:03
 FILENAME: steamlugcast.s02e02.may-mog-chothra-protect-us-all
-DESCRIPTION: In this episode of SteamLUG Cast, we are joined by Oliver Franzke of Double Fine to chat about Broken Age, adventure games, open development and supporting Linux. Afterward, Cheese, sword and DerRidda ramble on about Ye Olde SteamOSe, Steam Dev Days, In-home Streaming, Humble Bundles, game releases, VR and more!
+DESCRIPTION: We’re joined by Oliver Franzke of Double Fine to chat about Broken Age, adventure games, open development and supporting Linux. Afterward, Cheese, sword and DerRidda ramble on about Ye Olde SteamOSe, Steam Dev Days, In-home Streaming, Humble Bundles, game releases, VR and more!
 HOSTS: @ValiantCheese, @swordfischer, @DerRidda
 GUESTS: Oliver Franzke (@p1xelcoder) {//pbs.twimg.com/profile_images/2351347625/Me_400x400.jpg}
 ADDITIONAL: 221810, 232790
