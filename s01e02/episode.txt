@@ -19,7 +19,7 @@ EDITOR: @johndrinkwater
 
 00:01:50 *SteamLUG Community Stuff*
 00:01:57 Endomondo Group http://steamcommunity.com/groups/steamlug/discussions/0/864970587197350534/
-00:03:08 SteamLUG cast s01e01 http://steamlug.org/cast/s01e01
+00:03:08 SteamLUG Cast s01e01 http://steamlug.org/cast/s01e01
 00:03:53 Left 4 Dead 2 Event http://steamcommunity.com/groups/steamlug#events/1587795702092736398
 00:05:17 Killing Floor Event http://steamcommunity.com/groups/steamlug#events/1585540098956023444
 00:05:40 Amnesia Event http://steamcommunity.com/groups/steamlug#events/1587795702093282414

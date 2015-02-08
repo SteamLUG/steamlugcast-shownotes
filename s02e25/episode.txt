@@ -43,7 +43,7 @@ EDITOR: @Corben78
 	Cheese enjoyed the stealth title Adams Drive 32 http://primaerfunktion.itch.io/adams-drive-32
 	Photobomb, a highly-polished entry, has the player use multiple time-sequenced photos to identify a bomber http://milkbaggames.itch.io/photobomb
 00:11:53 Community member Sulix has been creating a companion site to Casey Muratori's Handmade Hero https://davidgow.net/handmadepenguin/ https://handmadehero.org
-00:13:46 The backlog of SteamLUG casts has been cleared!
+00:13:46 The backlog of SteamLUG Cast has been cleared!
 
 00:14:29 *Steam/Valve News*
 00:14:32 Steam Broadcasting has now hit beta http://steamcommunity.com/updates/broadcasting
