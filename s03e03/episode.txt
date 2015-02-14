@@ -76,7 +76,7 @@ NOTESCREATOR: @beansmyname
 00:59:17 *Other News*
 00:59:21 John (@johndrinkwater) has posted the existing backlog of SteamLUG Cast episodes on YouTube https://www.youtube.com/user/steamlug
 
-*Sign-off*
+00:59:42 *Sign-off*
 
   SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
   Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
