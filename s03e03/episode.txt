@@ -1,5 +1,5 @@
 RECORDED: 2016-02-06
-PUBLISHED: 2015-02-14
+PUBLISHED: 
 TITLE: Rearranged
 SEASON: 03
 EPISODE: 03
@@ -18,18 +18,18 @@ NOTESCREATOR: @beansmyname
 00:00:17 bean (@beansmyname)
 00:00:20 DerRidda (@DerRidda)
 
-*Our Gaming*
+00:00:38 *Our Gaming*
 00:00:39 bean has been playing BL: TPS (Lady Hammerlock DLC), Grim Fandango Remastered (tank controls and original graphics), Borderlands 2, Guns of Icarus Online, Cosmochoria, Syder Arcade, Beat Hazard, Assault Android Cactus, Starbound, Zen Bound 2, Natural Selection 2, Little Racers STREET
 00:01:50 DerRidda has been playing CS:GO, Dying Light, Fahrenheit, Pulsar: Lost Colony, Starbound
 00:02:10 Cheese has been playing Apotheon, Guns of Icarus Online, Race The Sun, Portal 2, Massive Chalice, Assault Android Cactus, Crypt of the NecroDancer, Starbound, Another World, Grim Fandango, Violett, Chasm, Invisible Inc.
 
 00:04:18 *SteamLUG Community Stuff*
-Past events
+00:04:20 Past events
 	Little Racers STREET http://steamcommunity.com/groups/steamlug#events/127557410120029943
 	Serious Sam 3 http://steamcommunity.com/groups/steamlug#events/127557410120191873
 	Starbound http://steamcommunity.com/groups/steamlug#events/127557410120901763 steam://connect/gs2.de.steamlug.org:21025 steam://connect/gs1.us.steamlug.org:21025
 	Dota 2 http://steamcommunity.com/groups/steamlug#events/127557410120905013
-Upcoming events
+00:12:06 Upcoming events
 	TF2 http://steamcommunity.com/groups/steamlug#events/116300968916203473
 	Altitude http://steamcommunity.com/groups/steamlug#events/116300968916203618
 	BattleBlock Theatre http://steamcommunity.com/groups/steamlug#events/116300968916213475
