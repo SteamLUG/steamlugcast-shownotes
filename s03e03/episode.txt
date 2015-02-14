@@ -1,5 +1,5 @@
-RECORDED: 2016-02-06
-PUBLISHED: 
+RECORDED: 2015-02-06
+PUBLISHED: 2015-02-14
 TITLE: Rearranged
 SEASON: 03
 EPISODE: 03
@@ -9,7 +9,7 @@ DESCRIPTION: DerRidda, Cheese and Bean discuss the last fortnight’s gaming new
 HOSTS: @DerRidda, @ValiantCheese, @beansmyname
 GUESTS:
 ADDITIONAL:
-YOUTUBE: 
+YOUTUBE:
 EDITOR: @Corben78
 NOTESCREATOR: @beansmyname
 
@@ -38,7 +38,7 @@ NOTESCREATOR: @beansmyname
 
 00:12:34 *Other Community Stuff*
 00:12:38 Game Club playing Grim Fandango (w/special guests!) http://www.doublefine.com/forums/viewthread/16384/
-00:15:24 SteamLUG has community curation - the key word is community http://steamcommunity.com/groups/steamlug#curation http://steamcommunity.com/groups/steamlug/discussions/2/616188677755298516/ 
+00:15:24 SteamLUG has community curation - the key word is community http://steamcommunity.com/groups/steamlug#curation http://steamcommunity.com/groups/steamlug/discussions/2/616188677755298516/
 00:16:59 Discussions threads for listing curators and reviewers in the SteamLUG http://steamcommunity.com/groups/steamlug/discussions/2/611696927927540165/ http://steamcommunity.com/groups/steamlug/discussions/2/611696927927722484/
 00:18:16 John (@johndrinkwater) has been working hard on the SteamLUG site revamp https://staging.steamlug.org/
 00:18:44 Ryan Gordon (@icculus) aka "The Linux Game Industry" will be on the next SteamLUG cast http://steamcommunity.com/groups/steamlug#events/116300968916246215
@@ -51,7 +51,7 @@ NOTESCREATOR: @beansmyname
 	DerRidda (@DerRidda) highly recommends vieweing the PCPer video regarding this issue https://www.youtube.com/watch?v=b74MYv8ldXc
 00:26:54 Valve, EA, Epic and others to hold a presentation about GLNext at GDC http://schedule.gdconf.com/session/glnext-the-future-of-high-performance-graphics-presented-by-valve
 00:29:28 .NET core Common Language Runtime is now open source on github http://blogs.msdn.com/b/dotnet/archive/2015/02/03/coreclr-is-now-open-source.aspx
-	Linux and Mac implementations coming soon http://www.mono-project.com/docs/about-mono/dotnet-integration/ 
+	Linux and Mac implementations coming soon http://www.mono-project.com/docs/about-mono/dotnet-integration/
 
 00:31:52 *General Gaming News*
 00:31:55 GOG.com added more Linux versions: Crimsonland and Wasteland 1 https://twitter.com/GOGcom/status/558816526728720385
@@ -61,7 +61,7 @@ NOTESCREATOR: @beansmyname
 	Game process priority also fixed -> DerRidda spotted this bug previously http://steamcommunity.com/app/239140/discussions/0/613948093895746674/
 00:40:57 Raven’s Cry released https://www.gamingonlinux.com/articles/raven%E2%80%99s-cry-released-on-linux-still-a-bit-buggy.4906
 00:42:14 Grim Fandango Remastered released http://store.steampowered.com/app/316790/
-	Cheese (@ValiantCheese) wrote a short, short article on it https://www.gamingonlinux.com/articles/unfurl-your-scythes-grim-fandango-is-now-available.4889/ 
+	Cheese (@ValiantCheese) wrote a short, short article on it https://www.gamingonlinux.com/articles/unfurl-your-scythes-grim-fandango-is-now-available.4889/
 00:45:12 Fahrenheit: Indigo Prophecy Remastered released http://store.steampowered.com/app/312840/
 00:47:20 Apotheon, ported by flibitijibibo (@flibitijibibo), is in open beta http://www.apotheongame.com/ http://steamcommunity.com/app/208750/discussions/0/606068060820669570/
 00:48:30 New beta for Linux of The Witcher 2 https://github.com/KillaW0lf04/The-Witcher-2-Issues#announcements
