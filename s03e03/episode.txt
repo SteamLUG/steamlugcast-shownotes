@@ -1,0 +1,84 @@
+RECORDED: 2016-02-06
+PUBLISHED: 2015-02-14
+TITLE: Rearranged
+SEASON: 03
+EPISODE: 03
+DURATION: 01:01:23
+FILENAME: steamlugcast.s03e03.rearranged
+DESCRIPTION: DerRidda, Cheese and Bean discuss the last fortnight’s gaming news and SteamLUG community happenings including Dying Light, Grim Fandango Remastered, Apotheon, SteamLUG Community Curation and more.
+HOSTS: @DerRidda, @ValiantCheese, @beansmyname
+GUESTS:
+ADDITIONAL:
+YOUTUBE: 
+EDITOR: @Corben78
+NOTESCREATOR: @beansmyname
+
+00:00:10 *Introduction*
+00:00:15 Cheese (@ValiantCheese)
+00:00:17 bean (@beansmyname)
+00:00:20 DerRidda (@DerRidda)
+
+*Our Gaming*
+00:00:39 bean has been playing BL: TPS (Lady Hammerlock DLC), Grim Fandango Remastered (tank controls and original graphics), Borderlands 2, Guns of Icarus Online, Cosmochoria, Syder Arcade, Beat Hazard, Assault Android Cactus, Starbound, Zen Bound 2, Natural Selection 2, Little Racers STREET
+00:01:50 DerRidda has been playing CS:GO, Dying Light, Fahrenheit, Pulsar: Lost Colony, Starbound
+00:02:10 Cheese has been playing Apotheon, Guns of Icarus Online, Race The Sun, Portal 2, Massive Chalice, Assault Android Cactus, Crypt of the NecroDancer, Starbound, Another World, Grim Fandango, Violett, Chasm, Invisible Inc.
+
+00:04:18 *SteamLUG Community Stuff*
+Past events
+	Little Racers STREET http://steamcommunity.com/groups/steamlug#events/127557410120029943
+	Serious Sam 3 http://steamcommunity.com/groups/steamlug#events/127557410120191873
+	Starbound http://steamcommunity.com/groups/steamlug#events/127557410120901763 steam://connect/gs2.de.steamlug.org:21025 steam://connect/gs1.us.steamlug.org:21025
+	Dota 2 http://steamcommunity.com/groups/steamlug#events/127557410120905013
+Upcoming events
+	TF2 http://steamcommunity.com/groups/steamlug#events/116300968916203473
+	Altitude http://steamcommunity.com/groups/steamlug#events/116300968916203618
+	BattleBlock Theatre http://steamcommunity.com/groups/steamlug#events/116300968916213475
+	Fistful of Frags http://steamcommunity.com/groups/steamlug#events/116300968916213544
+	February Events schedule http://steamcommunity.com/groups/steamlug/announcements/detail/1163009689165329
+
+00:12:34 *Other Community Stuff*
+00:12:38 Game Club playing Grim Fandango (w/special guests!) http://www.doublefine.com/forums/viewthread/16384/
+00:15:24 SteamLUG has community curation - the key word is community http://steamcommunity.com/groups/steamlug#curation http://steamcommunity.com/groups/steamlug/discussions/2/616188677755298516/ 
+00:16:59 Discussions threads for listing curators and reviewers in the SteamLUG http://steamcommunity.com/groups/steamlug/discussions/2/611696927927540165/ http://steamcommunity.com/groups/steamlug/discussions/2/611696927927722484/
+00:18:16 John (@johndrinkwater) has been working hard on the SteamLUG site revamp https://staging.steamlug.org/
+00:18:44 Ryan Gordon (@icculus) aka "The Linux Game Industry" will be on the next SteamLUG cast http://steamcommunity.com/groups/steamlug#events/116300968916246215
+
+00:20:49 *Steam/Valve News*
+00:20:50 Steam beta testing HTML5 for video streaming with Free to Play https://twitter.com/SteamDB/status/560923453323505664 steam://run/343450/
+
+00:22:10 *Tech News*
+00:22:13 nVidia GTX 970 can address only the first 3.5 GB of its RAM with high speed http://anandtech.com/show/8931/nvidia-publishes-statement-on-geforce-gtx-970-memory-allocation
+	DerRidda (@DerRidda) highly recommends vieweing the PCPer video regarding this issue https://www.youtube.com/watch?v=b74MYv8ldXc
+00:26:54 Valve, EA, Epic and others to hold a presentation about GLNext at GDC http://schedule.gdconf.com/session/glnext-the-future-of-high-performance-graphics-presented-by-valve
+00:29:28 .NET core Common Language Runtime is now open source on github http://blogs.msdn.com/b/dotnet/archive/2015/02/03/coreclr-is-now-open-source.aspx
+	Linux and Mac implementations coming soon http://www.mono-project.com/docs/about-mono/dotnet-integration/ 
+
+00:31:52 *General Gaming News*
+00:31:55 GOG.com added more Linux versions: Crimsonland and Wasteland 1 https://twitter.com/GOGcom/status/558816526728720385
+00:34:59 "This isn't your father's Humble Bundle"
+00:37:20 Dying Light released for Linux http://steamcommunity.com/games/239140/announcements/detail/121929834594720333
+	Early patches address cheating and running the game on pre Intel i5/i7 and AMD FX processors http://steamcommunity.com/games/239140/announcements/detail/112923269185739891 http://steamcommunity.com/games/239140/announcements/detail/112923269201683635
+	Game process priority also fixed -> DerRidda spotted this bug previously http://steamcommunity.com/app/239140/discussions/0/613948093895746674/
+00:40:57 Raven’s Cry released https://www.gamingonlinux.com/articles/raven%E2%80%99s-cry-released-on-linux-still-a-bit-buggy.4906
+00:42:14 Grim Fandango Remastered released http://store.steampowered.com/app/316790/
+	Cheese (@ValiantCheese) wrote a short, short article on it https://www.gamingonlinux.com/articles/unfurl-your-scythes-grim-fandango-is-now-available.4889/ 
+00:45:12 Fahrenheit: Indigo Prophecy Remastered released http://store.steampowered.com/app/312840/
+00:47:20 Apotheon, ported by flibitijibibo (@flibitijibibo), is in open beta http://www.apotheongame.com/ http://steamcommunity.com/app/208750/discussions/0/606068060820669570/
+00:48:30 New beta for Linux of The Witcher 2 https://github.com/KillaW0lf04/The-Witcher-2-Issues#announcements
+	Linus Torvalds comments on the kernel bug and suggests that games could make good tests for "odd behavior..." https://github.com/virtual-programming/witcher2-linux/issues/89#issuecomment-70857835
+00:53:31 Black Forest Games is taking Linux ports back in-house
+	Giana Sisters: Twisted Dreams and Dieselstormers might have a same-day Linux release http://steamcommunity.com/app/223220/discussions/0/540744936190211502/#c620703493337013841
+	Screenshots of Giana Sisters running on SteamOS https://www.dropbox.com/sh/g25lsy6qrgl4rsj/AADeMM-bLPMxoev8aCWPADOUa?dl=0422388977#c611696927910993184
+00:55:56 Penumbra: Necrologue mod for Amnesia: The Dark Descent out now on Steam http://store.steampowered.com/app/346290/
+	Some people have had issues installing it http://steamcommunity.com/app/57300/discussions/0/604941528489440402/#p1
+00:57:06 Leadwerks player, which allows playing Lua-based Leadwerks titles without the engine http://steamcommunity.com/sharedfiles/filedetails/?id=384856486
+
+00:59:17 *Other News*
+00:59:21 John (@johndrinkwater) has posted the existing backlog of SteamLUG Cast episodes on YouTube https://www.youtube.com/user/steamlug
+
+*Sign-off*
+
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese, DerRidda @DerRidda and bean @beansmyname
