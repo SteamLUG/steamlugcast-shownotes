@@ -10,7 +10,7 @@ HOSTS: @ValiantCheese, @swordfischer, @johndrinkwater
 GUESTS: Matthew Howard (@Keyvias) {//pbs.twimg.com/profile_images/562739080706797568/dj61CbCm.jpeg}, Howard Tsao (@howardctsao) {//pbs.twimg.com/profile_images/518061108569980929/dkkbef_g_400x400.jpeg}
 ADDITIONAL: 209080
 YOUTUBE: IOaW_fjQaIE
-NOTESCREATOR:
+NOTESCREATOR: @robertoszek
 EDITOR: @johndrinkwater
 
 00:00:09 *Introduction*

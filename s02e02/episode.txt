@@ -10,7 +10,7 @@ HOSTS: @ValiantCheese, @swordfischer, @DerRidda
 GUESTS: Oliver Franzke (@p1xelcoder) {//pbs.twimg.com/profile_images/2351347625/Me_400x400.jpg}
 ADDITIONAL: 221810, 232790
 YOUTUBE: xstgdiBvyh0
-NOTESCREATOR:
+NOTESCREATOR: @ValiantCheese
 EDITOR: @robertoszek
 
 00:00:09 *Introduction*

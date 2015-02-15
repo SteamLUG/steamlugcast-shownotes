@@ -10,7 +10,7 @@ HOSTS: @ValiantCheese, @johndrinkwater, @DerRidda
 GUESTS: Nicholas Hastings (psychonic) {//avatars0.githubusercontent.com/u/844118?s=128}
 ADDITIONAL: 17710
 YOUTUBE: MdqFCb6KVSA
-NOTESCREATOR:
+NOTESCREATOR: @johndrinkwater
 EDITOR: @robertoszek
 
 00:00:09 *Introduction*

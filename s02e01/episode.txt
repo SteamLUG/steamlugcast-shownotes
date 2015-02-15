@@ -10,7 +10,7 @@ HOSTS: @ValiantCheese, @swordfischer, @johndrinkwater
 GUESTS:
 ADDITIONAL:
 YOUTUBE: dzp_ZR7y090
-NOTESCREATOR:
+NOTESCREATOR: @johndrinkwater
 EDITOR: @johndrinkwater
 
 00:00:08 *Introduction*
