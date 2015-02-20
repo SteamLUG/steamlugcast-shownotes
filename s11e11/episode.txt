@@ -16,11 +16,16 @@ EDITOR: Someone
 00:00:10 *Introduction*
 00:00:15 @ValiantCheese said something here
 	this is a continuation of the previous line, indented with a tab
+00:00:18 Nemoder says hello
 
 00:00:45 *Topic change*
 00:00:50 Refering to a previous episode [s01e01]
 00:01:32 Refering to a previous episode and a specific timecode [s01e01#00:34:00]
 00:01:35 Test of linking to an episode in a parenthetical (like so [s01e03])
+
+00:02:45 *More Examples*
+00:02:50 SteamLUG website http://steamlug.org See how the URL is auto-linked?
+00:03:01 SteamLUG website steamlug.org See how the URL is not auto-linked?
 
 00:53:33 *Sign‐off*
 
