@@ -10,6 +10,8 @@ HOSTS: @ValiantCheese, @DerRidda, Nemoder
 GUESTS: Ryan C. Gordon (@icculus)
 ADDITIONAL:
 YOUTUBE:
+EDITOR: @Corben78
+NOTESCREATOR: @beansmyname
 
 00:00:08 *Introduction*
 00:00:16 Cheeseness (@ValiantCheese)
