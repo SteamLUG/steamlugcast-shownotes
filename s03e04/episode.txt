@@ -1,0 +1,86 @@
+RECORDED: 2015-02-20
+PUBLISHED: 2015-02-28
+TITLE: Low-Key Guest
+SEASON: 03
+EPISODE: 04
+DURATION: 02:18:33
+FILENAME: steamlugcast.s03e04.low-key-guest
+DESCRIPTION: Cheese, DerRidda and Nemoder have a humble chat with epic game porter, Ryan C. Gordon, followed by discussion of news relevant to the SteamLUG community.
+HOSTS: @ValiantCheese, @DerRidda, Nemoder
+GUESTS: Ryan C. Gordon (@icculus)
+ADDITIONAL:
+YOUTUBE:
+
+00:00:08 *Introduction*
+00:00:16 Cheeseness (@ValiantCheese)
+00:00:17 Nemoder
+00:00:20 DerRidda (@DerRidda)
+00:00:24 Ryan C. Gordon (@icculus)
+
+00:00:39 *Chat with Ryan C. Gordon*
+00:00:49 Ryan's History http://icculus.org/resume
+00:01:21 Loki Games http://lokigames.com/ https://wikipedia.org/wiki/Loki_Software
+00:01:42 Participated in LokiHack http://www.lokigames.com/hack/ http://www.lokigames.com/hack/patches.html
+00:03:20 After demise of Loki Games in 2001, Ryan continued as a contractor, porting games to Linux & Mac OS X
+00:03:34 Working at Loki Games led to the creation of some well-known open-source tools like SDL and OpenAL http://libsdl.org http://www.openal-soft.org/
+00:06:32 SDL being open source has allowed contributions that enable obscure targets like Sega Dreamcast or Haiku http://haiku-os.org
+00:09:29 The Humble Bundle and its Humble Indie Beginnings https://humblebundle.com
+00:09:38 Humble originally hosted on wolfire.com http://wolfire.com
+00:10:27 Ryan has a recommendation for Braid's inclusion in the first Humble Indie Bundle
+00:15:55 Valve reaches out to Ryan for assistance porting Steam to Mac OS X https://valvesoftware.com
+00:17:33 After Valve reaches their goal for a Mac version, talks of a Linux version of Steam begin
+00:18:14 "Get zombies on the screen!" http://blogs.valvesoftware.com/linux/steamd-penguins/ http://blogs.valvesoftware.com/linux/faster-zombies/
+00:19:49 "The beginning of a very interesting time in Linux gaming."
+00:20:33 Ryan's thoughts on GLNext
+00:23:36 DerRidda asks what Ryan thinks of AMD's offer to donate code from Mantle to GLNext http://www.gamingonlinux.com/articles/amd-working-closely-with-khronos-group-on-nextgen-opengl-gives-mantle-access.4157
+00:25:35 "Everything old is new again" - GLide vs. Direct3D https://en.wikipedia.org/wiki/Glide_API
+00:29:33 Hosts a website that was once intended to act as an incubator for open source projects http://icculus.org
+00:33:18 Nemoder asks about goals of icculus.org as a place for linux porters to host code
+00:34:48 Cheeseness invites Ryan to talk about the impact of proprietary services on open source projects
+00:36:56 "You don't really own your data. You definitely don't own the code."
+
+****** TODO: Someone else will need to transcribe this section. Sorry. :\ *******
+
+
+*Our Gaming*
+01:49:44 *SteamLUG Community Stuff*
+01:49:49 Past Events
+	Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/116300968916203473
+	Altitude http://steamcommunity.com/groups/steamlug#events/116300968916203618
+	BattleBlock Theatre http://steamcommunity.com/groups/steamlug#events/116300968916213475
+	Fistful of Frags http://steamcommunity.com/groups/steamlug#events/116300968916213544
+01:51:29 Future Events
+	Double Action: Boogaloo (post-cast) http://steamcommunity.com/groups/steamlug#events/116300968916221302
+	Guns of Icarus Online http://steamcommunity.com/groups/steamlug#events/116300968916221397
+	Worms Reloaded http://steamcommunity.com/groups/steamlug#events/116300968916230624
+	Counter-Strike: Global Offensive http://steamcommunity.com/groups/steamlug#events/116300968916230728
+01:52:04 Spacepope has put up a bunch of Don't Starve Together Servers https://steamlug.org/servers
+01:54:30 johndrinkwater has been putting a bunch of work into the new SteamLUG community website - feedback welcome! http://staging.steamlug.org
+01:55:27 Double Fine Game Club is playing Grim Fandango with special guests Bret Mogilefsky, Brandon Dillon and Oliver Franzke http://double-fine-game-club.github.io/
+01:55:59 dscharrer has put together a fix for ALSA users running Grim Fandango https://github.com/dscharrer/void/blob/master/hacks/grimfix.c
+01:56:29 tergat is involved with organising the RMLL (Recontres Mondiales du Logiciel Libre - Libre Software Meeting) which takes place in Beauvais, France in July. A call for papers has just been released for anybody who might be interested https://2015.rmll.info/programme/article/submit-your-talk https://2015.rmll.info/?lang=en
+01:56:51 Cheeseness is stepping down from ownership and administrative duties with the SteamLUG to focus on game development and writing http://steamcommunity.com/groups/steamlug#announcements/detail/116302870617455455 http://patreon.com/cheeseness http://winterswake.com http://cheesetalks.net
+
+01:59:18 *Tech News*
+01:59:21 Two more glNext sessions at GDC https://www.reddit.com/r/linux_gaming/comments/2vyk3a/two_more_sessions_about_glnext_outside_gdc_you_do/
+01:59:50 *General Gaming News*
+01:59:53 flibitijibibo has released another ported game for Linux, Bleed http://store.steampowered.com/app/239800/ https://plus.google.com/+flibitijibibo/posts/YexHpeL8xzR
+	flibitijibibo used FNA to port this game in 78 seconds http://fna-xna.github.io/ http://www.flibitijibibo.com/
+02:03:38 Don’t Starve Together beta now has official Linux support http://steamcommunity.com/app/322330/discussions/0/611698195153234791/
+02:03:44 Dead Island gets an update that fixes the loot issues and reduces the executable size http://steamcommunity.com/games/91310/announcements/detail/126434700514608449
+02:04:14 A Good Snowman Is Hard To Build to be released this month http://agoodsnowman.com/
+02:05:08 Hand of Fate is now out (Morgan Jaffit will be joining us as a special guest for a future episode) http://store.steampowered.com/app/266510
+02:05:57 Toonstruck is now available on GOG with Linux support via ScummVM http://www.gog.com/wishlist/games/toonstruck
+02:07:12 The Book Of Unwritten Tales 2 released http://store.steampowered.com/app/279940/
+02:08:17 Linux specific updates for Metro Redux Games fix a crash issue and other updates http://steamcommunity.com/games/286690/announcements/detail/114050436325305523 http://steamcommunity.com/games/287390/announcements/detail/134316634648455242
+02:09:05 Dying Light 1.4.0 patch fixes a cross-platform messaging issue and the ability to turn off motion blur http://steamcommunity.com/games/239140/announcements/detail/114050436329586315
+02:11:45 Cities: Skylines release date set for March 10 https://www.gamingonlinux.com/articles/city-builder-game-cities-skylines-now-has-a-release-date.4954 http://store.steampowered.com/app/255710/
+
+02:12:14 *Crowdfunding News*
+02:12:17 Underworld Ascendant moves Linux from stretch goal to base deliverable (with a delayed release) https://www.kickstarter.com/projects/othersidegames/underworld-ascendant/posts/1140691
+ 
+*Sign-off*
+  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
+  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
+  Email us feedback, questions, tips and suggestions to cast@steamlug.org
+  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese or DerRidda @DerRidda
