@@ -70,7 +70,6 @@ NOTESCREATOR: @beansmyname
 01:46:44 Cheeseness asks who ends up maintaining ports.
 01:48:00 Ryan wants Psychonauts updated for SDL2 http://store.steampowered.com/app/3830/
 
-*Our Gaming*
 01:49:44 *SteamLUG Community Stuff*
 01:49:49 Past Events
 	Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/116300968916203473
@@ -91,6 +90,7 @@ NOTESCREATOR: @beansmyname
 
 01:59:18 *Tech News*
 01:59:21 Two more glNext sessions at GDC https://www.reddit.com/r/linux_gaming/comments/2vyk3a/two_more_sessions_about_glnext_outside_gdc_you_do/
+
 01:59:50 *General Gaming News*
 01:59:53 flibitijibibo has released another ported game for Linux, Bleed http://store.steampowered.com/app/239800/ https://plus.google.com/+flibitijibibo/posts/YexHpeL8xzR
 	flibitijibibo used FNA to port this game in 78 seconds http://fna-xna.github.io/ http://www.flibitijibibo.com/
@@ -111,7 +111,4 @@ NOTESCREATOR: @beansmyname
 02:15:33 DerRidda suggests getting together again after Steam Machines are reality
 
 02:18:11 *Sign‐off*
-  SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
-  Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
-  Email us feedback, questions, tips and suggestions to cast@steamlug.org
-  We can be followed on Twitter @steamlug, or as individuals Cheese @ValiantCheese or DerRidda @DerRidda
+
