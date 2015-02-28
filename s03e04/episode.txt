@@ -78,8 +78,11 @@ YOUTUBE:
 
 02:12:14 *Crowdfunding News*
 02:12:17 Underworld Ascendant moves Linux from stretch goal to base deliverable (with a delayed release) https://www.kickstarter.com/projects/othersidegames/underworld-ascendant/posts/1140691
+
+02:15:13 *Farewell thoughts*
+02:15:33 DerRidda suggests getting together again after Steam Machines are reality
  
-*Sign-off*
+02:18:11 *Sign-off*
   SteamLUG Cast is a casual, fortnightly audiocast which aims to provide interesting news and discussion for the SteamLUG and broader Linux gaming communities.
   Visit our site http://steamlug.org/ and the cast homepage http://steamlug.org/cast
   Email us feedback, questions, tips and suggestions to cast@steamlug.org
