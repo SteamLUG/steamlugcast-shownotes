@@ -11,7 +11,7 @@ GUESTS:
 ADDITIONAL:
 YOUTUBE: EKTxVis_e9s
 EDITOR: @Corben78
-NOTESCREATOR: Raynier
+NOTESCREATOR: rayiner
 
 00:00:10 *Introduction*
 00:00:20 DerRidda (@DerRidda)
