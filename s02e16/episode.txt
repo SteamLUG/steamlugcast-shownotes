@@ -10,7 +10,7 @@ HOSTS: @ValiantCheese, @MimLofBees, Nemoder
 GUESTS: JP LeBreton (@vectorpoem) {//pbs.twimg.com/profile_images/528202461568200705/r3PTbS9R_400x400.jpeg}
 ADDITIONAL: 246090
 YOUTUBE: kco-1YLzh1o
-NOTESCREATOR: her001
+NOTESCREATOR: @HeroOhOne
 EDITOR: @johndrinkwater
 
 00:00:09 *Introduction*
