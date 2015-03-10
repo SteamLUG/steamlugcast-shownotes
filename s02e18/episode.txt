@@ -7,7 +7,7 @@ DURATION: 01:31:56
 FILENAME: steamlugcast.s02e18.devious-mevious
 DESCRIPTION: We’re happy to chat with level designer and renown Portal mapper Mevious as we discuss his history, Portal Pro, Rexaura, the SteamLUG Portal 2 Mapping Challenge and more!
 HOSTS: @ValiantCheese, Nemoder, @Buckwangs
-GUESTS: @PortalMevious {//cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/3a/3af1da0b48f6e0c9b6a6650a7937370b2af4940d_full.jpg}
+GUESTS: @PortalMevious
 ADDITIONAL: 317790
 YOUTUBE: VA8QuowOCw4
 NOTESCREATOR: @DerRidda

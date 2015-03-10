@@ -7,7 +7,7 @@ DURATION: 01:21:07
 FILENAME: steamlugcast.s02e09.leadworks-steaming-ahead
 DESCRIPTION: We’re joined by Josh Klint from Leadwerks to chat about his porting experience, all the challenges he had overcomed thus far, where his project will be heading in the future and the response he got from the Linux community. Then, Cheese, DerRidda and Nemoder will chat about some past events, Humble Bundles, Greenlight titles, interesting crowdfunding projects and more! Please note that during the recording of this episode, we experienced server difficulties. Apologies to those who tuned in live and for any remaining audio issues that we were unable to resolve during editing.
 HOSTS: @ValiantCheese, @DerRidda, Nemoder
-GUESTS: Josh Klint (@JoshKlint) {//pbs.twimg.com/profile_images/3512332047/92cd2a99faa4b3d713c2d753d4b3abe6_400x400.jpeg}
+GUESTS: Josh Klint (@JoshKlint)
 ADDITIONAL: 251810
 YOUTUBE: _K5LR88yLHE
 NOTESCREATOR: @robertoszek

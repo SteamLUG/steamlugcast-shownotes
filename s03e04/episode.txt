@@ -7,7 +7,7 @@ DURATION: 02:18:33
 FILENAME: steamlugcast.s03e04.low-key-guest
 DESCRIPTION: Cheese, DerRidda and Nemoder have a humble chat with epic game porter, Ryan C. Gordon, followed by discussion of news relevant to the SteamLUG community.
 HOSTS: @ValiantCheese, @DerRidda, Nemoder
-GUESTS: Ryan C. Gordon (@icculus) {//pbs.twimg.com/profile_images/1440866576/ryan.png}
+GUESTS: Ryan C. Gordon (@icculus)
 ADDITIONAL:
 YOUTUBE: rQ6gXEoxIZI
 EDITOR: @Corben78

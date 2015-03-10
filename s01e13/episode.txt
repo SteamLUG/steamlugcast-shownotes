@@ -7,7 +7,7 @@ DURATION: 01:45:02
 FILENAME: steamlugcast.s01e13.assault-android-cactus
 DESCRIPTION: A lengthy cast with John, guest hosts @MimLofBees and @DerRidda, and special guest @SanatanaMishra from Witchbeam Games chats with us about Assault Android Cactus, SteamOS and more!
 HOSTS: @ValiantCheese, @DerRidda, @MimLofBees, @johndrinkwater
-GUESTS: Sanatana Mishra (@SanatanaMishra) {//pbs.twimg.com/profile_images/473257568744120321/afYmv7Kz_400x400.png}
+GUESTS: Sanatana Mishra (@SanatanaMishra)
 ADDITIONAL: 250110
 YOUTUBE: 1yHWYOWDPxA
 NOTESCREATOR: @ValiantCheese
