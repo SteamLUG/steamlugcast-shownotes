@@ -4,7 +4,7 @@ TITLE: Vulkanic GDC
 SEASON: 03
 EPISODE: 05
 DURATION:
-FILENAME:
+FILENAME: steamlugcast.s03e05.vulkanic-gdc
 DESCRIPTION:
 HOSTS: @johndrinkwater, @DerRidda, Nemoder
 GUESTS:
