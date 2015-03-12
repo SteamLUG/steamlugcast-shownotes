@@ -5,29 +5,29 @@ SEASON: 03
 EPISODE: 05
 DURATION: 58:11:32
 FILENAME: steamlugcast.s03e05.vulkanic-gdc
-DESCRIPTION: Join hosts johndrinkwater, DerRidda and Nemoder as they discuss exciting developments from the 2015 Game Developer's Conference.
+DESCRIPTION: John, DerRidda, and Nemoder discuss exciting developments from the 2015 Game Developer’s Conference.
 HOSTS: @johndrinkwater, @DerRidda, Nemoder
-GUESTS: 
+GUESTS:
 ADDITIONAL:
-YOUTUBE:
+YOUTUBE: WUtQszzOGmA
 EDITOR: @Corben78
 NOTESCREATOR: @beansmyname
 
 00:00:08 *Introduction*
-00:00:09 johndrinkwater (@johndrinkwater)
+00:00:09 John (@johndrinkwater)
 00:00:23 DerRidda (@DerRidda)
 00:00:25 Nemoder (https://steamcommunity.com/id/Nemoder)
 
 00:00:30 *Our Gaming*
-00:00:31 DerRidda has been playing FTL, Hand of Fate, CS:GO and the unreleased "Reformat Your System Simulator 2015"
+00:00:31 DerRidda has been playing FTL, Hand of Fate, CS:GO and the unreleased ‘Reformat Your System Simulator 2015’
 00:00:48 Nemoder has been playing some Factorio, the daily challenges in Crypt of the Necrodancer and some Worms: Clan Wars
-00:01:00 johndrinkwater played some CS:GO during the event and some beta testing of Hotline Miami 2.
+00:01:00 John played some CS:GO during the event, yet mostly has been in pre‐launch testing of Hotline Miami 2.
 
 00:01:19 *Community Events*
 00:01:23 Past Events
 	CS: GO http://steamcommunity.com/groups/steamlug#events/116300968916230728
 	Worms: Reloaded http://steamcommunity.com/groups/steamlug#events/116300968916230624
-	Don't Starve Together http://steamcommunity.com/groups/steamlug#events/117428735664117739
+	Don’t Starve Together http://steamcommunity.com/groups/steamlug#events/117428735664117739
 	Guns of Icarus Online http://steamcommunity.com/groups/steamlug#events/116300968916221397
 	Double Action: Boogaloo http://steamcommunity.com/groups/steamlug#events/116300968916221302
 00:05:17 Upcoming events
@@ -37,13 +37,13 @@ NOTESCREATOR: @beansmyname
 	Borderlands 2 http://steamcommunity.com/groups/steamlug#events/116303508712710134
 
 00:06:18 *GDC News Spotlight*
-00:06:40 Game Developer's Conference 2015 http://www.gdconf.com/
+00:06:40 Game Developer’s Conference 2015 http://www.gdconf.com/
 00:07:18 Before GDC, HTC + Valve announced VR Headset at the Mobile World Congress https://twitter.com/rockpapershot/status/572160781665640448
-	Ars Technica has a hands-on report http://arstechnica.com/gaming/2015/03/hands-on-valvehtc-vive-opens-up-the-virtual-reality-experience/
-	PC Gamer's take on SteamVR http://www.pcgamer.com/steamvr-hands-on-valve-overtakes-oculus/
-	Portal-themed demo on YouTube https://www.youtube.com/watch?v=ZKK74Wh-J10
-	Valve talks about "advanced VR rendering" http://www.roadtovr.com/valve-talks-advanced-vr-rendering-live-blog-5pm-pst/
-00:15:20 Valve issued a big press release and SteamDB had the highlights https://steamdb.info/blog/source2-announcement/ http://store.steampowered.com/news/16000/?snr=1_550_552
+	Ars Technica has a hands‐on report http://arstechnica.com/gaming/2015/03/hands-on-valvehtc-vive-opens-up-the-virtual-reality-experience/
+	PC Gamer’s take on SteamVR http://www.pcgamer.com/steamvr-hands-on-valve-overtakes-oculus/
+	Portal‐themed demo on YouTube https://www.youtube.com/watch?v=ZKK74Wh-J10
+	Valve talks about ‘advanced VR rendering’ http://www.roadtovr.com/valve-talks-advanced-vr-rendering-live-blog-5pm-pst/
+00:15:20 Valve issued a big press release and SteamDB had the full copy https://steamdb.info/blog/source2-announcement/ http://store.steampowered.com/news/16000/?snr=1_550_552
 00:15:41 Steam has grown another 50% in the last 12 months
 00:16:00 Several new bits of hardware available in November
 	SteamLink streaming device http://store.steampowered.com/app/353380
@@ -63,21 +63,21 @@ NOTESCREATOR: @beansmyname
 00:33:52 Source 2 has been announced as free to developers so long as the title ships through Steam http://www.gamasutra.com/view/news/237944/Valve_debuts_Source_2_for_free_in_bid_to_compete_with_Epic_Unity.php
 
 00:37:26 *Steam/Valve News*
-00:37:34 A whole slew of best-selling games are coming to SteamOS http://store.steampowered.com/universe/games/
+00:37:34 A whole slew of best‐selling games are coming to SteamOS http://store.steampowered.com/universe/games/
 	Evolve http://store.steampowered.com/app/273350/
 	Dying Light http://store.steampowered.com/app/239140
 	Middle Earth: Shadow of Mordor http://store.steampowered.com/app/241930/
 	Total War: ATTILA http://store.steampowered.com/app/325610
 	Batman: Arkham Knight http://store.steampowered.com/app/208650/
 	Payday 2 http://store.steampowered.com/app/218620/
-	Saint's Row IV http://store.steampowered.com/app/206420/
+	Saint’s Row IV http://store.steampowered.com/app/206420/
 	GRID Autosport http://store.steampowered.com/app/255220/
 	Company of Heroes 2 http://store.steampowered.com/app/231430/
-00:42:07 Valve has listed the soon-to-be-available Steam Machines http://store.steampowered.com/sale/steam_machines
+00:42:07 Valve has listed the soon to be available Steam Machines http://store.steampowered.com/sale/steam_machines
 
 00:50:28 *General Gaming News*
 00:50:31 Frozenbyte announces Trine 3 https://twitter.com/Frozenbyte/status/572366960270413824 https://www.gamingonlinux.com/articles/trine-3-announcement-and-trailer-analysis.5032
-	Frozenbyte's Lauri Hyvärinen about Linux support: "It's alive and well. It's coming for sure."
+	Frozenbyte’s Lauri Hyvärinen about Linux support: ‘It’s alive and well. It’s coming for sure.’
 00:51:42 Worms: Clan Wars released https://twitter.com/WormsTeam17/status/572471701897928704 http://store.steampowered.com/app/233840/
 00:52:15 Mad Max from Avalanche Studios will be coming to Linux https://www.gamingonlinux.com/articles/mad-max-from-avalanche-studios-confirmed-for-linux.5043
 00:53:55 Torchlight II available for Linux https://twitter.com/RunicGames/status/573184886221115392 http://store.steampowered.com/app/200710/
