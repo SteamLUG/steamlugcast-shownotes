@@ -3,14 +3,42 @@ PUBLISHED:
 TITLE: Train of Fate
 SEASON: 03
 EPISODE: 06
-DURATION:
+DURATION: 01:39:00
 FILENAME: steamlugcast.s03e06.train-of-fate
 DESCRIPTION:
 HOSTS: @ValiantCheese, @beansmyname, @HeroOhOne
 GUESTS: @morganjaffit
-ADDITIONAL:
+ADDITIONAL: 266510
 YOUTUBE:
 EDITOR: @Corben78
 NOTESCREATOR:
 
 00:00:08 *Introduction*
+00:00:10 @ValiantCheese introduces
+00:00:16 Beans (@beansmyname)
+00:00:19 Hero (@HeroOhOne)
+00:00:21 with special guest, Morgan Jaffit (@morganjaffit) of Defiant Development
+
+00:01:01 *Our Gaming*
+00:01:03 Bean got through Hand of Fate, Hoard, Borderlands 2, Guns of Icarus: Online, Torchlight 2, Counter‐Strike: Global Offensive, Journey of a Roach, and finally… Assault Android Cactus
+00:01:29 Hero has been playing Hand of Fate, Guns of Icarus: Online, Crypt of the Necrodancer, Distance, Torchlight 2, and Star Wars: Jedi Academy running in the FOSS client https://github.com/JACoders/OpenJK
+00:02:12 Cheese has had a small amount of time to play Hand of Fate, Assault Android Cactus, Crypt of the Necrodancer, and Shovel Knight and Worms: Clan Wars
+00:02:52 Morgan played a tonne of Card Crawl
+
+00:03:41 *Chat with Morgan Jaffit*
+00:03:46 Background
+	Irrational, Relic, Ubisoft, A2M (Artificial Mind and Movement), Pandemic
+	Set up Defiant Development as they saw an opening in the market
+	Been working on Hand of Life for last two years
+00:05:59 Hand of Fate development timeline
+00:08:47 Early access experience
+00:10:00 Is HoF a CCG?
+00:14:23 Inspirations
+00:17:29 Release reception
+	17th February
+00:18:43 @ValiantCheese discloses his relationship with Defiant Development
+00:20:00 Setting expectations
+00:23:22 Being approachable to consumers
+00:24:45 Feedback makes for a better game, better controller input support
+00:26:03 Early access helped improve supported systems
+00:27:41 What drove the cross-platform strategy
