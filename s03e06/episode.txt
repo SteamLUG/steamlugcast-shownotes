@@ -5,7 +5,7 @@ SEASON: 03
 EPISODE: 06
 DURATION: 01:39:00
 FILENAME: steamlugcast.s03e06.train-of-fate
-DESCRIPTION: SteamLUG hosts are joined by co-founder of Defiant Development and Creative Director on Hand of Fate, Morgan Jaffit, to discuss the game, the studio's history and Linux.
+DESCRIPTION: SteamLUG hosts are joined by Director at Defiant Development and Creative Director on Hand of Fate, Morgan Jaffit, to discuss the game, the studio's history and Linux.
 HOSTS: @ValiantCheese, @beansmyname, @HeroOhOne
 GUESTS: @morganjaffit
 ADDITIONAL: 266510
@@ -103,7 +103,7 @@ NOTESCREATOR: @johndrinkwater, @beansmyname
 01:24:48 *General Gaming News*
 01:24:49 Cities: Skyline has been released http://store.steampowered.com/app/255710/
 01:26:07 Hotline Miami 2: Wrong Number released http://store.steampowered.com/app/274170/
-	@johndrinkwater helped with testing the port to Linux
+	@johndrinkwater and @soeb_ helped with testing the port to Linux
 01:27:11 Dying Light gets another patch with some Linux-specific improvements http://store.steampowered.com/app/239140/ http://steamcommunity.com/games/239140/announcements/detail/112926347617195908
 	AMD Radeon support added
 	Performance improved significantly
