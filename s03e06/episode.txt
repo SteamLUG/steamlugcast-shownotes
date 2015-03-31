@@ -5,7 +5,7 @@ SEASON: 03
 EPISODE: 06
 DURATION: 01:39:00
 FILENAME: steamlugcast.s03e06.train-of-fate
-DESCRIPTION:
+DESCRIPTION: SteamLUG hosts are joined by co-founder of Defiant Development and Creative Director on Hand of Fate, Morgan Jaffit, to discuss the game, the studio's history and Linux.
 HOSTS: @ValiantCheese, @beansmyname, @HeroOhOne
 GUESTS: @morganjaffit
 ADDITIONAL: 266510
@@ -68,7 +68,6 @@ NOTESCREATOR: @johndrinkwater, @beansmyname
 01:10:13 Morgan's favorite bit of Hand of Fate
 01:14:32 The Dealer finds his voice
 01:15:48 Morgan's favorite game
-01:17:14 
 
 01:17:17 *Community Stuff*
 01:17:19 Past Events
@@ -111,4 +110,22 @@ NOTESCREATOR: @johndrinkwater, @beansmyname
 	Fixed a few other crashes & glitches
 01:28:21 Spec Ops: The Line shows signs of Linux activity http://store.steampowered.com/app/50300/ https://twitter.com/SteamDB_Linux/status/577424888979292161
 01:29:33 Outland has been released for Linux http://store.steampowered.com/app/305050/ https://twitter.com/Housemarque/status/577835597970190336
+01:30:04 Bioshock: Infinite http://store.steampowered.com/app/8870/
+	Released by Virtual Programming using eON technology, same as Witcher 2
+01:31:25 Humble PC & Android Bundle 12 includes a few Linux games
+	Tetrobot & Co http://store.steampowered.com/app/235980/
+	Titan Attacks http://store.steampowered.com/app/203210/
+	The Inner World (Linux debut) http://store.steampowered.com/app/251430/
+	VVVVVV http://store.steampowered.com/app/70300/
+	Costume Quest http://store.steampowered.com/app/115100/
+	Ironclad Tactics http://store.steampowered.com/app/226960/
+	Shadowrun Returns http://store.steampowered.com/app/234650/
+01:32:35 GOG releases another group of LucasArts point-and-click adventures including Zak McCracken, The Dig and Loom
 
+01:35:01 *Crowdfunding*
+01:35:03 Descent: Underground will include Linux support
+	Six degrees of freedom
+	LAN play
+	Will support all platforms supported by Unreal Engine 4
+
+01:37:17 *Sign-off*
