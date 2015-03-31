@@ -9,18 +9,18 @@ DESCRIPTION:
 HOSTS: @ValiantCheese, @beansmyname, @HeroOhOne
 GUESTS: @morganjaffit
 ADDITIONAL: 266510
-YOUTUBE:
+YOUTUBE: e203aVVyw50
 EDITOR: @Corben78
-NOTESCREATOR:
+NOTESCREATOR: @johndrinkwater, @beansmyname
 
 00:00:08 *Introduction*
 00:00:10 @ValiantCheese introduces
-00:00:16 Beans (@beansmyname)
+00:00:16 Bean (@beansmyname)
 00:00:19 Hero (@HeroOhOne)
 00:00:21 with special guest, Morgan Jaffit (@morganjaffit) of Defiant Development
 
 00:01:01 *Our Gaming*
-00:01:03 Bean got through Hand of Fate, Hoard, Borderlands 2, Guns of Icarus: Online, Torchlight 2, Counter‐Strike: Global Offensive, Journey of a Roach, and finally… Assault Android Cactus
+00:01:03 Bean got through Hand of Fate, Hoard, Guns of Icarus: Online, Torchlight 2, Counter‐Strike: Global Offensive, Journey of a Roach, and finally… Assault Android Cactus
 00:01:29 Hero has been playing Hand of Fate, Guns of Icarus: Online, Crypt of the Necrodancer, Distance, Torchlight 2, and Star Wars: Jedi Academy running in the FOSS client https://github.com/JACoders/OpenJK
 00:02:12 Cheese has had a small amount of time to play Hand of Fate, Assault Android Cactus, Crypt of the Necrodancer, and Shovel Knight and Worms: Clan Wars
 00:02:52 Morgan played a tonne of Card Crawl
@@ -29,16 +29,86 @@ NOTESCREATOR:
 00:03:46 Background
 	Irrational, Relic, Ubisoft, A2M (Artificial Mind and Movement), Pandemic
 	Set up Defiant Development as they saw an opening in the market
-	Been working on Hand of Life for last two years
+	Been working on Hand of Fate for last two years
 00:05:59 Hand of Fate development timeline
 00:08:47 Early access experience
 00:10:00 Is HoF a CCG?
 00:14:23 Inspirations
 00:17:29 Release reception
 	17th February
-00:18:43 @ValiantCheese discloses his relationship with Defiant Development
+00:18:40 @ValiantCheese discloses his relationship with Defiant Development
 00:20:00 Setting expectations
 00:23:22 Being approachable to consumers
-00:24:45 Feedback makes for a better game, better controller input support
+00:24:40 Feedback makes for a better game, better controller input support
 00:26:03 Early access helped improve supported systems
 00:27:41 What drove the cross-platform strategy
+	Rumored upcoming mobile hardware with controllers
+	Evolved during early access beyond mobile focus
+	Unity good multiplatform tool for that goal
+00:30:41 How long Defiant Development has used Unity
+00:31:45 Thoughts on updating to Unity 5
+00:35:00 Contributing upstream to resolve Unity issues for Linux users
+00:35:57 Feedback on Linux community
+	Linux users provide useful feedback, report bugs that can lead to resolution of upstream issues
+00:38:21 Upcoming content updates to Hand of Fate
+	First DLC introduces new ways to approach the gameplay
+	More cards, more quest chains
+00:39:52 Deck building's impact on Hand of Fate's gameplay and flow
+	Some cards are difficult and intended for token hunters
+00:43:22 The design of Hand of Fate's difficulty and story progression
+00:46:36 Communicating mechanics and story through game elements
+00:48:00 Upcoming DLC free for Kickstarter backers and Early Access purchasers
+	Backers likely to get all DLC
+00:50:09 Differences between the digital and physical version of the game
+00:52:52 Player perspectives on Hand of Fate
+00:57:02 Morgan's aviary awakes
+00:58:48 Further thoughts on Early Access
+01:00:37 Discussions on token hunting in Hand of Fate
+01:04:24 How Defiant Development defined the character of The Dealer
+01:10:13 Morgan's favorite bit of Hand of Fate
+01:14:32 The Dealer finds his voice
+01:15:48 Morgan's favorite game
+01:17:14 
+
+01:17:17 *Community Stuff*
+01:17:19 Past Events
+	War Thunder
+	Robocraft
+	Hoard
+	Borderlands 2
+01:17:50 Upcoming Events
+	Frozen Cortex
+	7 Days to Die
+	Hammerwatch
+	King Arthur's Gold
+01:18:07 The new SteamLUG site is now live and testing continues on the staging server https://steamlug.org https://staging.steamlug.org
+	New Mumble tree (coincides with new address: mumble.steamlug.org)
+	Streaming page for SteamLUG members who stream on twitch or hitbox
+	Steam Authentication for polls and future features
+	Hosting provided by @corben78
+01:19:46 Double Fine Game Club played Spy Fox 2 (joined by Sandy Spangler and Leah Verre) http://www.doublefine.com/forums/viewthread/16579/
+
+01:20:58 *Steam / Valve News*
+01:21:04 Over 1,000 Linux games on Steam
+	Which one was #1000?
+	Makes up over 20% of Steam's available library
+
+01:22:28 *Tech News*
+01:22:30 Valve's GDC talks are now available online https://twitter.com/ValveTime/status/575751968943181824 http://www.valvesoftware.com/company/publications.html
+01:22:49 NVIDIA announces high-powered, high-priced Linux-powered development box https://developer.nvidia.com/devbox
+	Designed for deep learning research or other GPU-intensive tasks
+	Four Titan X GPUs
+	Pre-installed Ubuntu 14.04
+01:24:17 NVIDIA releases CUDA 7.0 with Linux x86 and POWER8 support https://developer.nvidia.com/cuda-downloads
+
+01:24:48 *General Gaming News*
+01:24:49 Cities: Skyline has been released http://store.steampowered.com/app/255710/
+01:26:07 Hotline Miami 2: Wrong Number released http://store.steampowered.com/app/274170/
+	@johndrinkwater helped with testing the port to Linux
+01:27:11 Dying Light gets another patch with some Linux-specific improvements http://store.steampowered.com/app/239140/ http://steamcommunity.com/games/239140/announcements/detail/112926347617195908
+	AMD Radeon support added
+	Performance improved significantly
+	Fixed a few other crashes & glitches
+01:28:21 Spec Ops: The Line shows signs of Linux activity http://store.steampowered.com/app/50300/ https://twitter.com/SteamDB_Linux/status/577424888979292161
+01:29:33 Outland has been released for Linux http://store.steampowered.com/app/305050/ https://twitter.com/Housemarque/status/577835597970190336
+
