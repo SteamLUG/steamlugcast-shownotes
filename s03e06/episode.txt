@@ -89,7 +89,7 @@ NOTESCREATOR: @johndrinkwater, @beansmyname
 
 01:20:58 *Steam / Valve News*
 01:21:04 Over 1,000 Linux games on Steam
-	Which one was #1000?
+	Which one was #1,000? http://store.steampowered.com/app/325060/ http://store.steampowered.com/app/255710/ 
 	Makes up over 20% of Steam's available library
 
 01:22:28 *Tech News*
@@ -124,8 +124,5 @@ NOTESCREATOR: @johndrinkwater, @beansmyname
 
 01:35:01 *Crowdfunding*
 01:35:03 Descent: Underground will include Linux support
-	Six degrees of freedom
-	LAN play
-	Will support all platforms supported by Unreal Engine 4
 
 01:37:17 *Sign-off*
