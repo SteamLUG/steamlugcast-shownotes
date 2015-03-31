@@ -84,7 +84,7 @@ NOTESCREATOR: @johndrinkwater, @beansmyname
 	New Mumble tree (coincides with new address: mumble.steamlug.org)
 	Streaming page for SteamLUG members who stream on twitch or hitbox
 	Steam Authentication for polls and future features
-	Hosting provided by @corben78
+	Hosting provided by @Corben78
 01:19:46 Double Fine Game Club played Spy Fox 2 (joined by Sandy Spangler and Leah Verre) http://www.doublefine.com/forums/viewthread/16579/
 
 01:20:58 *Steam / Valve News*
