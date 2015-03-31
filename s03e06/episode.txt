@@ -1,16 +1,16 @@
 RECORDED: 2015-03-20
 PUBLISHED:
-TITLE:
+TITLE: Train of Fate
 SEASON: 03
 EPISODE: 06
 DURATION:
-FILENAME:
+FILENAME: steamlugcast.s03e06.train-of-fate
 DESCRIPTION:
 HOSTS: @ValiantCheese, @beansmyname, @HeroOhOne
 GUESTS: @morganjaffit
 ADDITIONAL:
 YOUTUBE:
-EDITOR:
+EDITOR: @Corben78
 NOTESCREATOR:
 
 00:00:08 *Introduction*
