@@ -1,15 +1,15 @@
 RECORDED: 2015-04-03
 PUBLISHED:
-TITLE:
+TITLE: Octothorpe Krautfunding
 SEASON: 03
 EPISODE: 07
 DURATION:
-FILENAME:
+FILENAME: steamlugcast.s03e07.octothorpe-krautfunding
 DESCRIPTION:
 HOSTS: @DerRidda, @ValiantCheese, @beansmyname
 GUESTS:
 ADDITIONAL:
 YOUTUBE:
-EDITOR:
+EDITOR: @Corben78
 NOTESCREATOR:
 
