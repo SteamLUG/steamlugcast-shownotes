@@ -3,13 +3,75 @@ PUBLISHED:
 TITLE: Octothorpe Krautfunding
 SEASON: 03
 EPISODE: 07
-DURATION:
+DURATION: 00:48:44
 FILENAME: steamlugcast.s03e07.octothorpe-krautfunding
-DESCRIPTION:
+DESCRIPTION: Our hosts cover the many hours in the last fortnight they’ve been gaming, game development streams, and bundle politics.
 HOSTS: @DerRidda, @ValiantCheese, @beansmyname
 GUESTS:
 ADDITIONAL:
-YOUTUBE:
+YOUTUBE: 0QWSHuTq420
 EDITOR: @Corben78
-NOTESCREATOR:
+NOTESCREATOR: @johndrinkwater
 
+00:00:07 *Introduction*
+00:00:08 @DerRidda introduces
+00:00:21 @beansmyname and
+00:00:24 @ValiantCheese
+
+00:00:33 *Our Gaming*
+00:00:34 beansmyname has been playing Hand of Fate, Guns of Icarus: Online, and BioShock: Infinite.
+00:01:03 ValiantCheese has been streaming Assault Android Cactus and Curse of the Necrodancer, and completed Hand of Fate.
+00:02:22 DerRidda played CS:GO, completed BioShock: Infinite, and enjoyed Pillars of Eternity, Cities: Skylines, Torchlight 2, and finally Shadow Warrior.
+
+00:03:09 *SteamLUG Community Stuff*
+00:03:11 Past Events
+	Frozen Cortex http://steamcommunity.com/groups/steamlug#events/116303508712717883
+	7 Days to Die http://steamcommunity.com/groups/steamlug#events/116303508712718012
+	Hammerwatch http://steamcommunity.com/groups/steamlug#events/116303508712725770
+	King Arthur’s Gold http://steamcommunity.com/groups/steamlug#events/116303508712725875
+00:04:43 Future Events
+	Natural Selection 2 http://steamcommunity.com/groups/steamlug#events/204126864929910400
+	Tabletop Simulator (4th April) http://steamcommunity.com/groups/steamlug#events/204126864929954057
+	Team Fortress 2 (10th April) http://steamcommunity.com/groups/steamlug#events/204126864929920425
+	Worms Clan Wars (11th April) http://steamcommunity.com/groups/steamlug#events/204126864929923294
+00:06:50 ErbBetaPatched is looking to form clans for CS:GO and Guns of Icarus: Online http://steamcommunity.com/groups/steamlug/discussions/2/617329920709596965/
+00:07:18 Gokuxx will be helping with coordinating Dota 2 events
+00:07:54 @johndrinkwater has been building steamlug.org admin features
+00:08:39 ValiantCheese’s development stream http://www.hitbox.tv/video/474846 http://winterswake.com
+
+00:10:19 *Steam/Valve News*
+00:10:22 Steam survey stats, Linux usage up by 0.04 percentage points
+00:10:55 GitHub activity, wifi restart bug https://github.com/ValveSoftware/steam-for-linux/issues/3424
+	http://steamcommunity.com/groups/SteamClientBeta#announcements/detail/230022562793283749
+00:11:43 CS:GO update adds quad and 5.1 surround sound options for Linux http://blog.counter-strike.net/index.php/2015/03/11734/
+
+00:14:36 *Tech News*
+00:14:38 All FOSDEM talks are viewable online http://video.fosdem.org/2015/
+00:15:05 AMD looking for 2 developers for improving open source driver https://www.amd.apply2jobs.com/ProfExt/index.cfm?fuseaction=mExternal.showJob&RID=31265&CurrentPage=20
+00:16:26 All GDC talks are online viewable now http://www.gdcvault.com/browse/gdc-15
+00:17:20 Nvidia driver 349.12 beta released https://devtalk.nvidia.com/default/topic/821171
+
+00:18:31 *General Gaming News*
+00:19:16 Humble Indie Bundle 14:
+	Pixel Piracy
+	UnEpic
+	Super Splatters
+	Beat the Average: Outlast, Torchlight II http://arstechnica.com/civis/viewtopic.php?f=22&t=1194707, La-Mulana
+	$10: Shadow Warrior Special Edition
+00:28:35 Humble Weekly Bundle Arggghhh!! (4 of 6 supporting Linux):
+	Cook, Serve Delicious
+	Velocibox
+	Beat the Average: Woah Dave! Tales of Maj’Eyal
+00:30:47 Broken Age Act 2+3 will be released on 28th April http://www.doublefine.com/news/comments/broken_age_is_coming_on_april_28th/
+	Documentary episodes continue to be released https://www.youtube.com/watch?v=joKjDdKcOMQ#t=36
+00:32:45 Hand of Fate upgrading to Unity 5 alongside DLC http://steamcommunity.com/app/266510/discussions/0/618456760276860846/
+00:35:22 War for the Overworld is out of Early Access http://store.steampowered.com/app/230190/
+	Awesome April Fools trailer: https://youtu.be/xESrx1EFj6I
+00:39:01 Running with Rifles is also out of Early Access http://store.steampowered.com/app/270150/ http://steamcommunity.com/games/270150/announcements/detail/243533361674588800
+00:39:48 Pillars of Eternity released http://store.steampowered.com/app/291650/
+00:41:23 Star Citizen on Linux still waiting on upstream renderer https://www.youtube.com/watch?v=joKjDdKcOMQ#t=36
+00:45:43 Pirates, Vikings and Knights II out now for Linux http://store.steampowered.com/app/17570/
+
+00:46:36 *Crowdfunding*
+
+00:47:02 *Sign-off*
