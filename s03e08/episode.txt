@@ -1,14 +1,58 @@
 RECORDED: 2015-04-17
-PUBLISHED:
-TITLE:
+PUBLISHED: 2015-04-22
+TITLE: Just the Two of Us
 SEASON: 03
 EPISODE: 08
-DURATION:
+DURATION: 00:22:16
 FILENAME: steamlugcast.s03e08.just-the-two-of-us
-DESCRIPTION:
+DESCRIPTION: Our hosts discuss their gaming, goings-on in the community, some newly released games on Steam and celebrate 1000 confirmed titles on Linux
 HOSTS: @HeroOhOne, Nemoder
 GUESTS:
 ADDITIONAL:
-YOUTUBE:
+YOUTUBE: KMrvWKExZnI
 EDITOR: @Corben78
-NOTESCREATOR:
+NOTESCREATOR: @beansmyname
+
+00:00:08 *Introduction*
+00:00:19 @HeroOhOne introduces
+00:00:22 Nemoder
+
+00:00:25 *Our Gaming*
+00:00:27 @HeroOhOne has been playing Factorio, Guns of Icarus Online, Running with Rifles, Strike Suit Zero, Geometry Wars 3 and Starbound
+00:00:52 Nemoder has been playing 7 Days to Die, Cities: Skylines, Factorio, Guns of Icarus Online
+
+00:01:56 *SteamLUG Community Stuff*
+	Natural Selection 2 http://steamcommunity.com/groups/steamlug#events/204126864929910400
+	Tabletop Simulator http://steamcommunity.com/groups/steamlug#events/204126864929954057
+	Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/204126864929920425
+	Worms Clan Wars http://steamcommunity.com/groups/steamlug#events/204126864929923294
+00:03:00 *Upcoming Events*
+	DOTA 2 (Post-cast) http://steamcommunity.com/groups/steamlug#events/204126864932831549
+	Torchlight II http://steamcommunity.com/groups/steamlug#events/204126864929927868
+
+00:03:47 *Steam/Valve News*
+00:03:50 SteamDB's confirmed Linux titles reaches 1,000 https://steamdb.info/linux
+	Confirmation relies on user submissions rather than data from Steam
+00:04:40 Valve brings 2-factor authentication to Steam via their first update to the Android client in ~2 years http://steamcommunity.com/groups/SteamClientBeta/announcements/detail/230023830033566772
+	Must belong to Steam group to be granted access - membership is being rolled out in stages http://steamcommunity.com/groups/MobileAuthBeta
+00:06:01 Alan Yates of Valve notes that the HTC Vive Lighthouse base station can run over a day on an inexpensive battery pack https://twitter.com/vk2zay/status/588628359162265600
+
+00:07:36 *General Gaming News*
+00:07:39 S2 Games releases Strife and some DLC on Steam http://store.steampowered.com/app/339280/
+00:09:10 More games added to Humble Indie Bundle 14
+	140 http://store.steampowered.com/app/242820/ https://www.humblebundle.com/store/p/140_storefront
+	MirrorMoon EP http://store.steampowered.com/app/231310/ https://www.humblebundle.com/store/p/mirrormoonep_storefront
+	Contraption Maker http://store.steampowered.com/app/241240/ https://www.humblebundle.com/store/p/contraptionmaker_storefront
+00:11:30 The Banner Saga arrives on Linux http://store.steampowered.com/app/237990/
+00:12:34 Gratuitous Space Battles 2 released http://store.steampowered.com/app/344840/
+00:13:16 Early Access twin-stick bullet-hell shmup Zenzizenzic released http://store.steampowered.com/app/327500/
+00:13:58 Age of Wonders III makes its way to Steam http://store.steampowered.com/app/226840/
+00:14:44 Crypt of the Necrodancer to see full release on April 23rd http://store.steampowered.com/app/247080/
+00:15:49 Trine 3 to launch into Early Access soon http://store.steampowered.com/app/319910/
+	Windows only at first but Linux & Mac haven't been forgotten https://twitter.com/Frozenbyte/status/588743515972227072
+
+00:18:00 *Crowdfunding*
+00:18:04 Descent Underground receives its Kickstarter backing at the final hour https://www.kickstarter.com/projects/descendentstudios/descent-underground 
+00:19:08 From the makers of Magicite, Roguelands is a multiplayer RPG looking for backing https://www.kickstarter.com/projects/seanyoung/roguelands-a-multiplayer-rpg
+
+00:20:53 *Sign-Off*
