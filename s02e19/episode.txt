@@ -8,7 +8,7 @@ FILENAME: steamlugcast.s02e19.lester-pixigon
 DESCRIPTION: Cheese and DerRidda have brought community member and Lead Linux Maintainer/Developer of the Unity engine on the show.
 HOSTS: @ValiantCheese, @DerRidda
 GUESTS:  Levi Bard (Tak)
-ADDITIONAL: TODO fix this, //localhost:4000/unity-logo.png
+ADDITIONAL: /avatars/unitylogo.png
 YOUTUBE: 9T93uDzCrYs
 NOTESCREATOR: @beansmyname
 EDITOR: @robertoszek
