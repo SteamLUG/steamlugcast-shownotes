@@ -59,8 +59,8 @@ NOTESCREATOR: @beansmyname
 00:31:39 Blender now available via Steam http://store.steampowered.com/app/365670/
 00:34:52 Anna Sweet, public face of Steam Dev Days and Steam Machines, left Valve and joined Oculus https://twitter.com/giantsquidgirl/status/592842920551718912
 00:35:16 Tech talk available: "Dynamic porting" of Dying Light for Linux/SteamOS https://www.youtube.com/watch?v=ZFdgOBniQB4
-	Q & A translated from Polish and available online: https://www.gamingonlinux.com/articles/techland-presentation-on-porting-dying-light-to-linux.5277/page=2#35935
-00:39:38 Steam VR Update adds 64-bit Linux support http://steamcommunity.com/gid/103582791435040972/announcements/detail/155715702499665493
+	Q & A translated from Polish and available online https://www.gamingonlinux.com/articles/techland-presentation-on-porting-dying-light-to-linux.5277/page=2#35935
+00:39:38 SteamVR Update adds 64-bit Linux support http://steamcommunity.com/gid/103582791435040972/announcements/detail/155715702499665493
 
 00:40:19 *General Gaming News*
 00:40:20 SuperTuxKart 0.9 released http://supertuxkart.net
