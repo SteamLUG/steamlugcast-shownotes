@@ -1,5 +1,5 @@
 RECORDED: 2015-05-01
-PUBLISHED: 
+PUBLISHED:
 TITLE: Linux and gaming and Linux
 SEASON: 03
 EPISODE: 09
@@ -7,9 +7,9 @@ DURATION: 01:00:05
 FILENAME: steamlugcast.s03e09.linux-and-gaming-and-linux
 DESCRIPTION: Our hosts discuss their gaming, goings-on in the community, paid mods, new rules for Steam accounts and other Linux gaming news.
 HOSTS: @beansmyname, @DerRidda, @HeroOhOne
-GUESTS: 
-ADDITIONAL: 
-YOUTUBE: 
+GUESTS:
+ADDITIONAL:
+YOUTUBE: 9Zl_Xcfk2f4
 EDITOR: @Corben78
 NOTESCREATOR: @beansmyname
 
