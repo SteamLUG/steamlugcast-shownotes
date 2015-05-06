@@ -85,4 +85,4 @@ NOTESCREATOR: @beansmyname
 00:54:32 Yooka-Laylee - A 3D Platformer Rare-vival! announced with Linux support https://www.kickstarter.com/projects/playtonic/yooka-laylee-a-3d-platformer-rare-vival
 00:55:54 Formula Fusion - Next-Gen Anti-Gravity Racing Game by former Wipeout devs has an unusual stretch goal format https://www.kickstarter.com/projects/formulafusion/formula-fusion-next-gen-anti-gravity-racing-game
 
-*Sign-off*
+00:58:18 *Sign-off*
