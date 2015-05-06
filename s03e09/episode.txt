@@ -3,12 +3,86 @@ PUBLISHED:
 TITLE: Linux and gaming and Linux
 SEASON: 03
 EPISODE: 09
-DURATION: 
+DURATION: 01:00:05
 FILENAME: steamlugcast.s03e09.linux-and-gaming-and-linux
-DESCRIPTION: 
+DESCRIPTION: Our hosts discuss their gaming, goings-on in the community, paid mods, new rules for Steam accounts and other Linux gaming news.
 HOSTS: @beansmyname, @DerRidda, @HeroOhOne
 GUESTS: 
 ADDITIONAL: 
 YOUTUBE: 
 EDITOR: @Corben78
-NOTESCREATOR: 
+NOTESCREATOR: @beansmyname
+
+00:00:08 *Introduction*
+00:00:16 @beansmyname
+00:00:19 @HeroOhOne
+00:00:20 @DerRidda
+
+00:00:24 *Our Gaming*
+00:00:26 @DerRidda has been playing a little of nothing
+00:00:36 @beansmyname has been playing Nuclear Dawn, Cosmochoria and Assault Android Cactus
+00:01:28 @HeroOhOne has been playing Heroes of Wesnoth, Zero-K Chicken Mod, Nuclear Dawn, Kerbal Space Program, Running With Rifles, Strike Suit Zero, Crypt of the Necrodancer, BOMB, Guns of Icarus Online, ROCKETSROCKETSROCKETS and Distance
+
+00:03:38 *SteamLUG Community Stuff*
+00:03:44 Past Events
+	DOTA 2 http://steamcommunity.com/groups/steamlug#events/204126864932831549
+	Torchlight II http://steamcommunity.com/groups/steamlug#events/204126864929927868
+	Meltdown http://steamcommunity.com/groups/steamlug#events/204128655452780214
+	Dead Island http://steamcommunity.com/groups/steamlug#events/204126864932848817
+00:06:43 Upcoming Events
+	Team Fortress 2 (Post-cast) http://steamcommunity.com/groups/steamlug#events/204128765617204699
+	Guns of Icarus Online http://steamcommunity.com/groups/steamlug#events/204128765617207628
+	Left 4 Dead 2 http://steamcommunity.com/groups/steamlug#events/204128765617212173
+	Crypt of the Necrodancer http://steamcommunity.com/groups/steamlug#events/204128765617216467
+
+00:08:05 *Other Community Stuff*
+00:08:11 Linux version of @ValiantCheese's AdventureJam entry, Above the Waves, has been uploaded for your enjoyment http://gamejolt.com/games/adventure/above-the-waves/58420/
+00:09:09 SteamLUG YouTube channel has had a playlist update - Videos from other SteamLUG members have been added
+
+00:09:47 *Steam/Valve News*
+00:09:53 Steam accounts must spend a minimum of $5 through Valve to have access to basic account features such as: https://support.steampowered.com/kb_article.php?ref=3330-IAGK-7663
+	Sending friend invites
+	Voting on Greenlight, Steam Reviews and Workshop items
+	Participating in the Steam Market
+00:13:37 Sign-up for the HTC Vive Developer Edition is now available http://steamcommunity.com/games/250820/announcements/detail/154588645663414820
+00:15:00 New openvr SDK has a github repository https://github.com/ValveSoftware/openvr
+00:16:32 2-factor mobile authentication beta expanded http://steamcommunity.com/groups/MobileAuthBeta#announcements/detail/133197071468810359
+00:18:46 Valve adds and then removes the ability for modders to charge for their work on non-Valve titles http://steamcommunity.com/workshop/aboutpaidcontent/
+	Plan was to start with Skyrim
+	Gabe Newell participates in an AMA on Reddit about paid mods https://www.reddit.com/r/gaming/comments/33uplp/mods_and_steam/
+	Support for paid content dropped http://steamcommunity.com/games/SteamWorkshop#announcements/detail/208632365253244218
+00:26:11 Valve gives developers the ability to ban players from their game http://steamcommunity.com/actions/WhatIsGameBan
+
+00:28:48 *Tech News*
+00:28:51 RedHat has joined Khronos Group https://blogs.gnome.org/uraeus/2015/04/17/red-hat-joins-khronos/
+00:29:56 Open source amdgpu has its initial driver release http://lists.freedesktop.org/archives/dri-devel/2015-April/081501.html
+00:31:39 Blender now available via Steam http://store.steampowered.com/app/365670/
+00:34:52 Anna Sweet, public face of Steam Dev Days and Steam Machines, left Valve and joined Oculus https://twitter.com/giantsquidgirl/status/592842920551718912
+00:35:16 Tech talk available: "Dynamic porting" of Dying Light for Linux/SteamOS https://www.youtube.com/watch?v=ZFdgOBniQB4
+	Q & A translated from Polish and available online: https://www.gamingonlinux.com/articles/techland-presentation-on-porting-dying-light-to-linux.5277/page=2#35935
+00:39:38 Steam VR Update adds 64-bit Linux support http://steamcommunity.com/gid/103582791435040972/announcements/detail/155715702499665493
+
+00:40:19 *General Gaming News*
+00:40:20 SuperTuxKart 0.9 released http://supertuxkart.net
+	New trailer online https://www.youtube.com/watch?v=0FEwDH7XU9Q
+	Now using a modified version of the irrlicht engine http://supertuxkart.blogspot.co.uk/ http://irrlicht.sourceforge.net/
+00:42:12 Developers of Arma3 respond to activity on SteamDB https://www.gamingonlinux.com/articles/arma-3-is-officially-being-worked-on-for-linux-by-an-external-team-won%E2%80%99t-be-native.5310
+00:45:17 Spec Ops: The Line Linux port receives official alpha status from Virtual Programming http://www.vpltd.com
+00:46:28 Half Life 2: Update now available for Linux http://store.steampowered.com/app/290930/
+00:48:21 GOG.com adds Linux versions of a few titles
+	Lords of Xulima http://www.gog.com/game/lords_of_xulima
+	Star Wars X-Wing Special Edition http://www.gog.com/game/star_wars_xwing_special_edition
+	Star Wars Tie Fighter Special Edition http://www.gog.com/game/star_wars_tie_fighter_special_edition
+	Star Wars Rebel Assault 1 & 2 http://www.gog.com/game/star_wars_rebel_assault_1_2
+00:49:23 *Game Releases*
+00:49:25 Kerbal Space Program http://store.steampowered.com/app/220200/ http://forum.kerbalspaceprogram.com/content/336-KSP-1-0-is-Released
+00:50:23 Verdun http://store.steampowered.com/app/242860/ http://steamcommunity.com/games/242860/announcements/detail/248039396483421911
+00:51:27 Broken Age Act 2 http://store.steampowered.com/app/232790/ http://steamcommunity.com/games/232790/announcements/detail/126441672048273786
+00:52:10 Dungeons 2 http://store.steampowered.com/app/262280/
+00:53:34 Cosmochoria http://store.steampowered.com/app/293240/
+
+00:54:28 *Crowdfunding*
+00:54:32 Yooka-Laylee - A 3D Platformer Rare-vival! announced with Linux support https://www.kickstarter.com/projects/playtonic/yooka-laylee-a-3d-platformer-rare-vival
+00:55:54 Formula Fusion - Next-Gen Anti-Gravity Racing Game by former Wipeout devs has an unusual stretch goal format https://www.kickstarter.com/projects/formulafusion/formula-fusion-next-gen-anti-gravity-racing-game
+
+*Sign-off*
