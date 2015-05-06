@@ -1,5 +1,5 @@
 RECORDED: 2015-05-01
-PUBLISHED:
+PUBLISHED: 2015-05-06
 TITLE: Linux and gaming and Linux
 SEASON: 03
 EPISODE: 09
@@ -37,7 +37,7 @@ NOTESCREATOR: @beansmyname
 
 00:08:05 *Other Community Stuff*
 00:08:11 Linux version of @ValiantCheese's AdventureJam entry, Above the Waves, has been uploaded for your enjoyment http://gamejolt.com/games/adventure/above-the-waves/58420/
-00:09:09 SteamLUG YouTube channel has had a playlist update - Videos from other SteamLUG members have been added
+00:09:09 SteamLUG YouTube channel has updated some playlists - Videos from other SteamLUG members have been added https://www.youtube.com/user/SteamLUG/playlists
 
 00:09:47 *Steam/Valve News*
 00:09:53 Steam accounts must spend a minimum of $5 through Valve to have access to basic account features such as: https://support.steampowered.com/kb_article.php?ref=3330-IAGK-7663
