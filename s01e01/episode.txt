@@ -9,7 +9,7 @@ DESCRIPTION: Our launch podcast introducing ourselves, discussing recent history
 HOSTS: @ValiantCheese, @johndrinkwater, @swordfischer
 GUESTS:
 ADDITIONAL:
-RATING: 
+RATING: None 
 YOUTUBE: SkdNF6rmNsQ
 NOTESCREATOR: @johndrinkwater
 EDITOR: @johndrinkwater
