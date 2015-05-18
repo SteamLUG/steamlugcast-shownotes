@@ -9,6 +9,7 @@ DESCRIPTION: We’re into our fourth episode with a stab in the dark, an intervi
 HOSTS: @ValiantCheese, @swordfischer, @johndrinkwater
 GUESTS: Del (@WelshPixie), Jaco (@Warpgate9)
 ADDITIONAL: 313360
+RATING: 
 YOUTUBE: Acidux2pFXM
 NOTESCREATOR: @johndrinkwater
 EDITOR: @johndrinkwater

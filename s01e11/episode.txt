@@ -9,6 +9,7 @@ DESCRIPTION: Another special episode for your listening pleasure! This time, we 
 HOSTS: @ValiantCheese, @johndrinkwater
 GUESTS: Ryan Vandendyck (@EdenIndustries), Ethan Lee (@flibitijibibo)
 ADDITIONAL: 204180, 258910
+RATING: 
 YOUTUBE: sjNfO-Q7eqk
 NOTESCREATOR: @swordfischer
 EDITOR: @johndrinkwater

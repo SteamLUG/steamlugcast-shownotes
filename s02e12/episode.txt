@@ -9,6 +9,7 @@ DESCRIPTION: John, DerRidda, Nemoder and Cheese are joined again by John Warner 
 HOSTS: @ValiantCheese, @johndrinkwater, @DerRidda, Nemoder
 GUESTS: John Warner (@OverTheMoonGms) {//pbs.twimg.com/profile_images/378800000366318685/e6d011b4997539de6f9ff783bbba2778.jpeg}
 ADDITIONAL: 290770
+RATING: 
 YOUTUBE: cXSnz_GquRc
 NOTESCREATOR: @ValiantCheese
 EDITOR: @robertoszek

@@ -9,6 +9,7 @@ DESCRIPTION: We return for the last episode of the season with more hosts! Less 
 HOSTS: @ValiantCheese, @DerRidda, @johndrinkwater, @swordfischer, @MimLofBees
 GUESTS:
 ADDITIONAL:
+RATING: 
 YOUTUBE: aWCuPIMXczA
 NOTESCREATOR: @HeroOhOne
 EDITOR: @johndrinkwater

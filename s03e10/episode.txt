@@ -9,6 +9,7 @@ DESCRIPTION:
 HOSTS: @ValiantCheese, @HeroOhOne, @Corben78
 GUESTS: Lisa Brown (@Wertle)
 ADDITIONAL:
+RATING: 
 YOUTUBE:
 EDITOR:
 NOTESCREATOR:
