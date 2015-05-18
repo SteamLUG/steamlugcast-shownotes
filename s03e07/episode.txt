@@ -9,6 +9,7 @@ DESCRIPTION: Our hosts cover the many hours in the last fortnight they’ve been
 HOSTS: @DerRidda, @ValiantCheese, @beansmyname
 GUESTS:
 ADDITIONAL:
+RATING: 
 YOUTUBE: 0QWSHuTq420
 EDITOR: @Corben78
 NOTESCREATOR: @johndrinkwater

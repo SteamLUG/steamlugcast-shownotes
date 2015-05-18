@@ -9,6 +9,7 @@ DESCRIPTION: Cheese, DerRidda and Nemoder chat about the Steam Exploration Sale,
 HOSTS: @ValiantCheese, Nemoder, @DerRidda
 GUESTS:
 ADDITIONAL:
+RATING: 
 YOUTUBE: FFALCtSbqtg
 NOTESCREATOR: @DerRidda
 EDITOR: @ValiantCheese

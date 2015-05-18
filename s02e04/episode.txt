@@ -9,6 +9,7 @@ DESCRIPTION: Howard Tsao and Matthew Hartman of Muse Games are here to chat abou
 HOSTS: @ValiantCheese, @swordfischer, @johndrinkwater
 GUESTS: Matthew Howard (@Keyvias), Howard Tsao (@howardctsao)
 ADDITIONAL: 209080
+RATING: 
 YOUTUBE: IOaW_fjQaIE
 NOTESCREATOR: @robertoszek
 EDITOR: @johndrinkwater

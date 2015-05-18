@@ -9,6 +9,7 @@ DESCRIPTION: Our hosts discuss their gaming, goings-on in the community, paid mo
 HOSTS: @beansmyname, @DerRidda, @HeroOhOne
 GUESTS:
 ADDITIONAL:
+RATING: 
 YOUTUBE: 9Zl_Xcfk2f4
 EDITOR: @Corben78
 NOTESCREATOR: @beansmyname

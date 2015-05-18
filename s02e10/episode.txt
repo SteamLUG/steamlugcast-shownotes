@@ -9,6 +9,7 @@ DESCRIPTION: Game developer and Linux porter Leszek Godlewski of Nordic Games jo
 HOSTS: @ValiantCheese, @DerRidda, Nemoder
 GUESTS: Leszek Godlewski (@TheIneQuation)
 ADDITIONAL: 214870, 231330
+RATING: 
 YOUTUBE: 8_9fGYEVY9U
 NOTESCREATOR: @ValiantCheese
 EDITOR: @robertoszek

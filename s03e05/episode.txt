@@ -9,6 +9,7 @@ DESCRIPTION: John, DerRidda, and Nemoder discuss exciting developments from the 
 HOSTS: @johndrinkwater, @DerRidda, Nemoder
 GUESTS:
 ADDITIONAL:
+RATING: 
 YOUTUBE: WUtQszzOGmA
 EDITOR: @Corben78
 NOTESCREATOR: @beansmyname

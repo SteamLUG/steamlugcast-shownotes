@@ -9,6 +9,7 @@ DESCRIPTION: Our hosts discuss their gaming, goings-on in the community, some ne
 HOSTS: @HeroOhOne, Nemoder
 GUESTS:
 ADDITIONAL:
+RATING: 
 YOUTUBE: KMrvWKExZnI
 EDITOR: @Corben78
 NOTESCREATOR: @beansmyname

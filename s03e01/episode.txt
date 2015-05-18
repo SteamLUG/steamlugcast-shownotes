@@ -9,6 +9,7 @@ DESCRIPTION: Corben, Bean and Cheese discuss the last fortnight's gaming news an
 HOSTS: @ValiantCheese, @Corben78, @beansmyname
 GUESTS:
 ADDITIONAL:
+RATING: 
 YOUTUBE: jxYCYqAjRRw
 NOTESCREATOR: @DerRidda
 EDITOR: @Corben78

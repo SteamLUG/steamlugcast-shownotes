@@ -9,6 +9,7 @@ DESCRIPTION: DerRidda, Cheese and Bean discuss the last fortnight’s gaming new
 HOSTS: @DerRidda, @ValiantCheese, @beansmyname
 GUESTS:
 ADDITIONAL:
+RATING: 
 YOUTUBE: pUQqBy446PU
 EDITOR: @Corben78
 NOTESCREATOR: @beansmyname
