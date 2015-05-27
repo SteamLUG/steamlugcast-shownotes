@@ -19,6 +19,7 @@ DESCRIPTION: John and DerRidda discuss the last fortnight…
 HOSTS: John (@johndrinkwater), @DerRidda
 GUESTS:
 ADDITIONAL:
+RATING: 
 YOUTUBE:
 NOTESCREATOR:
 EDITOR:
@@ -36,6 +37,7 @@ EDITOR:
 `@twitterhandle, Real Name (@twitterhandle), handle` If any of the handles match a user we know of, we’ll include an avatar in the listings!
 * To include avatars before we have a db, use {URL} to link to an image, please no http though! {//domain/path/image.png}
 * Additional contains the game appids for the group we are talking to
+* Rating should be set to Clean (no questionable content), None (possible questionable content), Explicit (questionable content)
 * Youtube should be the value from watch?v=
 * Notescreator and editor should be a person following the host/guests format
 
