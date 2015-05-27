@@ -9,7 +9,7 @@ DESCRIPTION: Our duo Cheese and DerRidda deftly step past a recording hiccough a
 HOSTS: @ValiantCheese, @DerRidda
 GUESTS:
 ADDITIONAL:
-RATING: 
+RATING: Clean
 YOUTUBE: ExqdQqsnP3Y
 NOTESCREATOR: @beansmyname
 EDITOR: @Corben78
