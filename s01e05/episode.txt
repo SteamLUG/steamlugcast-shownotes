@@ -84,7 +84,7 @@ EDITOR: @johndrinkwater
 00:52:18 Lacuna Passage http://www.kickstarter.com/projects/tylerowen/lacuna-passage
 00:53:43 Satellite Reign funded http://www.kickstarter.com/projects/5livesstudios/satellite-reign
 00:54:22 Maker’s Eden nearly made half funding http://www.indiegogo.com/projects/the-maker-s-eden
-00:55:37 Mumble participants are inquireing about Ubuntu Edge http://www.indiegogo.com/projects/ubuntu-edge--39
+00:55:37 Mumble participants are inquiring about Ubuntu Edge http://www.indiegogo.com/projects/ubuntu-edge--39
 00:55:43 @swordfischer groans
 00:58:06 Liege is coming to Linux, and we discuss media news parity http://www.vg247.com/2013/07/25/liege-confirmed-for-ps4-and-vita-nintendo-greenlights-
 
