@@ -50,7 +50,7 @@ EDITOR: @johndrinkwater
 00:24:20 7DFPS starting August 10th http://steamcommunity.com/groups/steamlug/discussions/0/864973123208333161/
 00:25:07 PAX Australia http://paxaustralia.com.au/
 00:26:04 Assault Android Cactus http://assaultandroidcactus.com/
-	Assault Anrdoid Cactus on Steam Greenlight http://steamcommunity.com/sharedfiles/filedetails/?id=134153777
+	Assault Android Cactus on Steam Greenlight http://steamcommunity.com/sharedfiles/filedetails/?id=134153777
 00:26:22 Wander http://www.wanderthegame.com/
 	On Steam Greenlight http://steamcommunity.com/sharedfiles/filedetails/?id=136830410
 00:28:25 Double Fine BBQ http://double-fine-game-club.github.io/bbq/
@@ -72,7 +72,7 @@ EDITOR: @johndrinkwater
 00:39:38 @swordfischer played Awesomenauts, Strike Suit Zero Beta and DOTA 2
 00:40:06 @johndrinkwater played Strike Suit Zero Beta, Eversion, Kerbal Space Program, Rush and Toki Tori
 00:40:57 Toki Tori port by Urkle (@outoforder_cc)
-00:41:17 @TwoLofBees played Faster Than Light
+00:41:17 @ValiantCheese played Faster Than Light
 00:42:46 Wine 1.6 was released http://www.winehq.org/announce/1.6
 00:43:49 OpenGL 4.4 http://tech.slashdot.org/story/13/07/23/1940248/opengl-44-and-opencl-20-specs-release
 00:44:33 Nuclear Dawn in jeopardy? http://forums.gameconnect.net/topic/19435-linux-version-eta/page-2#entry34231
