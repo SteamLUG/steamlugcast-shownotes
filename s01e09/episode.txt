@@ -9,7 +9,7 @@ DESCRIPTION: Swordfischer and Cheeseness have been setup for this spectacular ma
 HOSTS: @ValiantCheese, @swordfischer
 GUESTS:
 ADDITIONAL:
-RATING: 
+RATING: Clean
 YOUTUBE: Uzd-THmKnMc
 NOTESCREATOR: @swordfischer
 EDITOR: @johndrinkwater
