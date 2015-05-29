@@ -9,7 +9,7 @@ DESCRIPTION: We’re back, with Cheese, Mimness and DerRidda discussing the fort
 HOSTS: @ValiantCheese, Mim (@MimLofBees), @DerRidda
 GUESTS:
 ADDITIONAL:
-RATING: 
+RATING: Clean
 YOUTUBE: km0sUt_TeRQ
 NOTESCREATOR: @swordfischer
 EDITOR: @johndrinkwater
