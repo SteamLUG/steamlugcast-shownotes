@@ -9,7 +9,7 @@ DESCRIPTION: We attempt to talk about games and events in our community, but we 
 HOSTS: @ValiantCheese, @johndrinkwater, @swordfischer
 GUESTS:
 ADDITIONAL:
-RATING: 
+RATING: None
 YOUTUBE: f3qGq0K9FZU
 NOTESCREATOR: @johndrinkwater
 EDITOR: @johndrinkwater
