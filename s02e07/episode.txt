@@ -9,7 +9,7 @@ DESCRIPTION: We, er, are still flabber‐ghasted at the Facebook Oculus acquisit
 HOSTS: @ValiantCheese, @johndrinkwater, @DerRidda
 GUESTS:
 ADDITIONAL:
-RATING: 
+RATING: Clean
 YOUTUBE: JhAOjDBi6Ws
 NOTESCREATOR: @johndrinkwater
 EDITOR: @johndrinkwater
