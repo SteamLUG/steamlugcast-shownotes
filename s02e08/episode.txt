@@ -9,7 +9,7 @@ DESCRIPTION: We sheepishly cover the latest news and events in Linux gaming as t
 HOSTS: @johndrinkwater, @DerRidda, Nemoder
 GUESTS:
 ADDITIONAL:
-RATING: 
+RATING: Explicit
 YOUTUBE: fVrSmUJw-ro
 NOTESCREATOR: @johndrinkwater
 EDITOR: @johndrinkwater
