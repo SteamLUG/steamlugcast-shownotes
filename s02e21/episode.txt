@@ -9,7 +9,7 @@ DESCRIPTION: We have four hosts to take you through the previous fortnight's Lin
 HOSTS: @ValiantCheese, @DerRidda, Nemoder, @Corben78
 GUESTS:
 ADDITIONAL:
-RATING: 
+RATING: Clean
 YOUTUBE: PDGkzcevn3w
 NOTESCREATOR: Nemoder
 EDITOR: @ValiantCheese
