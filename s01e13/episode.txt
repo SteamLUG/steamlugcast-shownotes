@@ -9,7 +9,7 @@ DESCRIPTION: A lengthy cast with John, guest hosts @MimLofBees and @DerRidda, an
 HOSTS: @ValiantCheese, @DerRidda, @MimLofBees, @johndrinkwater
 GUESTS: Sanatana Mishra (@SanatanaMishra)
 ADDITIONAL: 250110
-RATING: 
+RATING: Clean
 YOUTUBE: 1yHWYOWDPxA
 NOTESCREATOR: @ValiantCheese
 EDITOR: @ValiantCheese
