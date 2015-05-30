@@ -9,7 +9,7 @@ DESCRIPTION: Cheese, John and DerRidda are joined by InterWave developer and Nuc
 HOSTS: @ValiantCheese, @johndrinkwater, @DerRidda
 GUESTS: Nicholas Hastings (psychonic)
 ADDITIONAL: 17710
-RATING: 
+RATING: Clean
 YOUTUBE: MdqFCb6KVSA
 NOTESCREATOR: @johndrinkwater
 EDITOR: @robertoszek
