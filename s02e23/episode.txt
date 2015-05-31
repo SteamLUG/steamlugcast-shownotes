@@ -9,7 +9,7 @@ DESCRIPTION: We have a terse look at the last fortnight's gaming news, discuss s
 HOSTS: @johndrinkwater, @DerRidda, @ValiantCheese
 GUESTS:
 ADDITIONAL:
-RATING: 
+RATING: Clean
 YOUTUBE: lumrEZ4fYf8
 NOTESCREATOR: @beansmyname
 EDITOR: @ValiantCheese
