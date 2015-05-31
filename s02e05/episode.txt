@@ -9,7 +9,7 @@ DESCRIPTION: John is joined by DerRidda and Nemoder to chat about recent SteamLU
 HOSTS: @johndrinkwater, @DerRidda, Nemoder
 GUESTS:
 ADDITIONAL:
-RATING: 
+RATING: Clean
 YOUTUBE: X28uWeRNLjA
 NOTESCREATOR: @robertoszek
 EDITOR: @johndrinkwater
