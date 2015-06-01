@@ -9,7 +9,7 @@ DESCRIPTION: We have four hosts to take you through the previous fortnight’s L
 HOSTS: @ValiantCheese, @swordfischer, @johndrinkwater, @DerRidda
 GUESTS:
 ADDITIONAL:
-RATING: 
+RATING: Explicit
 YOUTUBE: NVPGpGcwWYw
 NOTESCREATOR: @johndrinkwater
 EDITOR: @robertoszek
