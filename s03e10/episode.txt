@@ -1,14 +1,14 @@
 RECORDED: 2015-05-15
 PUBLISHED:
-TITLE:
+TITLE: Japanese flags
 SEASON: 03
 EPISODE: 10
 DURATION:
-FILENAME:
+FILENAME: steamlugcast.s03e10.japanese-flags
 DESCRIPTION:
 HOSTS: @ValiantCheese, @HeroOhOne, @Corben78
 GUESTS: Lisa Brown (@Wertle)
 ADDITIONAL:
 YOUTUBE:
-EDITOR:
+EDITOR: @Corben78
 NOTESCREATOR:
