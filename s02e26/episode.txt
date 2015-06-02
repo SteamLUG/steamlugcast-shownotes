@@ -9,7 +9,7 @@ DESCRIPTION: This year’s hosts recap recent Linux gaming happenings and then t
 HOSTS: @ValiantCheese, @DerRidda, @mnarikka, @beansmyname, @MimLofBees, @Corben78
 GUESTS:
 ADDITIONAL:
-RATING: 
+RATING: Explicit
 YOUTUBE: 1N1lZ3ArCn8
 NOTESCREATOR: Nemoder
 EDITOR: @ValiantCheese
