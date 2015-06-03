@@ -8,7 +8,7 @@ FILENAME: steamlugcast.s03e10.japanese-flags
 DESCRIPTION:
 HOSTS: @ValiantCheese, @HeroOhOne, @Corben78
 GUESTS: Lisa Brown (@Wertle)
-ADDITIONAL:
+ADDITIONAL: 333580
 YOUTUBE:
 EDITOR: @Corben78
 NOTESCREATOR: @beansmyname
