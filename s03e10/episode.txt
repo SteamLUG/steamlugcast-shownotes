@@ -1,3 +1,4 @@
+
 RECORDED: 2015-05-15
 PUBLISHED:
 TITLE: Japanese flags
@@ -12,5 +13,55 @@ ADDITIONAL: 333580
 YOUTUBE:
 EDITOR: @Corben78
 NOTESCREATOR: @beansmyname
+
+00:00:08 *Introduction*
+00:00:17 @HeroOhOne
+00:00:19 @ValiantCheese
+00:00:22 @Corben78
+00:00:25 @Wertle
+
+00:00:29 *Our Gaming*
+00:00:35 @HeroOhOne 
+	Built a giant base for survival in Rust http://store.steampowered.com/app/252490/
+	Gunned his way through some Arms Race on the new US SteamLUG CS:GO server steam://connect/gs5.us.steamlug.org:28006 http://store.steampowered.com/app/730
+	Raced around procedurally-generated tracks in Distance's new Trackmogrify mode http://store.steampowered.com/app/233610/ 
+00:00:57 @ValiantCheese
+	Streamed daily challenges for twin-stick shooter Assault Android Cactus and rogue-like rhythm game, Crypt of the Necrodancer http://hitbox.tv/cheeseness http://store.steampowered.com/app/250110 http://store.steampowered.com/app/247080/
+	Snuck in some Invisible, Inc. http://store.steampowered.com/app/243970/
+	Engaged in some high-speed racing survival in Distance http://store.steampowered.com/app/233610/
+	Killed hordes of bugs in Alien Swarm http://store.steampowered.com/app/630/
+	Pointed and clicked through the Double Fine Adventure, Broken Age http://store.steampowered.com/app/232790/
+	Puzzled through overlapping worlds in Parallax http://store.steampowered.com/app/325060/  
+	Reached the conclusion of TD/FPS-hybrid Sanctum 2 http://store.steampowered.com/app/210770/
+00:02:01 @Corben78
+	Completely explored all that FEZ has to offer http://store.steampowered.com/app/224760/
+	Learned again how to play Super Meat Boy http://store.steampowered.com/app/40800/
+	Managed some mayhem in Dungeons 2 http://store.steampowered.com/app/262280/
+	Brought golf clubs to a gunfight in Left 4 Dead 2 http://store.steampowered.com/app/550/
+	Took his first steps in to the Crypt of the Necrodancer http://store.steampowered.com/app/247080/
+	Was hunter and hunted others in the asymmetrical multiplayer shooter, Evolve http://store.steampowered.com/app/273350/
+	Explored the bug-fixed and updated City 17 in Half-Life 2: Update http://store.steampowered.com/app/290930/
+00:06:39 @Wertle
+	Played a lot of her go-to game: rogue-like early access title from Vlambeer, Nuclear Throne http://store.steampowered.com/app/242680/
+	Enjoyed the social aspects of Destiny http://www.destinythegame.com/
+	Played some Dark Sector as research for an upcoming stream series on game design http://store.steampowered.com/app/29900/ http://twitch.tv/wertle
+	Daring to play with unconventional weapons in entries from the recent Ludum Dare game jam http://itch.io/tag/ludum-dare-32
+	Designing melee weapons in @lizardengland's My Little Wapon Creator http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=22429
+
+00:10:14 *Chat with Special Guest Lisa Brown (@wertle)*
+00:10:21 Project Lead and Designer on Slow Down, Bull http://store.steampowered.com/app/333580/
+00:10:44 @wertle's background http://www.wertle.com
+	Game Designer with Insomniac Games - Worked on Resistance 3, Sunset Overdrive and Slow Down, Bull http://www.insomniacgames.com
+	Attended Carnegie Mellon's Entertainment Technology school for graduate studies http://www.etc.cmu.edu/
+	Participates in game jams and creates personal projects
+00:13:05 Slow Down, Bull is the result of an experiment at Insomniac Games http://www.insomniacgames.com/introducing-slow-down-bull-insomniacs-open-development-experiment/
+	Open Development model with developer streams of ongoing work http://www.twitch.tv/insomniacgames
+	First Insomniac title for desktop platforms
+	Linux fully supported at launch
+00:14:35 Reception to Slow Down, Bull and its theme of stress management
+00:16:50 How the theme of stress management became central to Slow Down, Bull
+00:19:02 How many people were involved in the creation of Slow Down, Bull?
+
+
 
 
