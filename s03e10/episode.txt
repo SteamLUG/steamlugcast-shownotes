@@ -107,7 +107,7 @@ NOTESCREATOR: @beansmyname
 	Linux hints of Evolve noted on SteamDB https://steamdb.info/app/273350/history/
 01:01:05 nVidia released 346.59 driver on their "long-lived branch release" https://devtalk.nvidia.com/default/topic/831875/b/t/post/4527427/#4527427/
 
-01:01:43 General Gaming News
+01:01:43 *General Gaming News*
 01:01:45 ROCKETSROCKETSROCKETS has left Early Access http://store.steampowered.com/app/289760/
 01:02:27 Star Wars: Battlecry - A UE4 recreation of Star Wars Battlefront http://www.moddb.com/games/star-wars-battlecry/
 01:02:55 Uber Entertainment developers are looking to tackle Linux-specific bugs in Planetary Annihilation https://forums.uberent.com/threads/question-for-linux-users.68150/
