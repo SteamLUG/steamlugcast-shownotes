@@ -96,8 +96,7 @@ NOTESCREATOR: @beansmyname
 
 00:48:42 *Tech News*
 00:48:46 First look at the Oculus Rift https://www.oculus.com/blog/first-look-at-the-rift-shipping-q1-2016/
-00:50:13 Oculus have released the recommended system specs for the consumer Rift https://www.oculus.com/blog/the-rifts-recommended-spec-pc-sdk-0-6-released-and-mobile-vr-jam-voting/ 
-https://www.oculus.com/blog/powering-the-rift/ 
+00:50:13 Oculus have released the recommended system specs for the consumer Rift https://www.oculus.com/blog/the-rifts-recommended-spec-pc-sdk-0-6-released-and-mobile-vr-jam-voting/ https://www.oculus.com/blog/powering-the-rift/ 
 	Linux and Mac support have been put on hold until the Windows experience is complete
 00:51:53 Owlchemy Labs sponsored Austin Room Scale VR Jam http://owlchemylabs.com/austin-room-scale-vr-jam-recap-a-great-success/
 	Owlchemy "Chief Scientist" Alex Schwartz juggles in VR with the Vive http://www.roadtovr.com/yes-you-can-juggle-in-vr-with-the-htc-vive/
