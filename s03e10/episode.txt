@@ -1,7 +1,6 @@
-
 RECORDED: 2015-05-15
 PUBLISHED:
-TITLE: Japanese flags
+TITLE: Japanese Flags
 SEASON: 03
 EPISODE: 10
 DURATION: 01:37:10
@@ -15,15 +14,12 @@ EDITOR: @Corben78
 NOTESCREATOR: @beansmyname
 
 00:00:08 *Introduction*
-00:00:17 @HeroOhOne
-00:00:19 @ValiantCheese
-00:00:22 @Corben78
-00:00:25 @Wertle
+00:00:17 @HeroOhOne introduces @ValiantCheese, @Corben78 and special guest, @Wertle
 
 00:00:29 *Our Gaming*
 00:00:35 @HeroOhOne 
 	Built a giant base for survival in Rust http://store.steampowered.com/app/252490/
-	Gunned his way through some Arms Race on the new US SteamLUG CS:GO server steam://connect/gs5.us.steamlug.org:28006 http://store.steampowered.com/app/730
+	Gunned his way through some Arms Race on the new US SteamLUG CS:GO server steam://connect/gs5.us.steamlug.org:28006 http://store.steampowered.com/app/730/
 	Raced around procedurally-generated tracks in Distance's new Trackmogrify mode http://store.steampowered.com/app/233610/ 
 00:00:57 @ValiantCheese
 	Streamed daily challenges for twin-stick shooter Assault Android Cactus and rogue-like rhythm game, Crypt of the Necrodancer http://hitbox.tv/cheeseness http://store.steampowered.com/app/250110 http://store.steampowered.com/app/247080/
@@ -44,9 +40,9 @@ NOTESCREATOR: @beansmyname
 00:06:39 @Wertle
 	Played a lot of her go-to game: rogue-like early access title from Vlambeer, Nuclear Throne http://store.steampowered.com/app/242680/
 	Enjoyed the social aspects of Destiny http://www.destinythegame.com/
-	Played some Dark Sector as research for an upcoming stream series on game design http://store.steampowered.com/app/29900/ http://twitch.tv/wertle
-	Daring to play with unconventional weapons in entries from the recent Ludum Dare game jam http://itch.io/tag/ludum-dare-32
-	Designing melee weapons in @lizardengland's My Little Weapon Creator http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=22429
+	Played some Dark Sector as research for an upcoming stream series on game design http://store.steampowered.com/app/29900/ http://twitch.tv/wertle/
+	Dared to play with unconventional weapons in entries from the recent Ludum Dare game jam http://itch.io/tag/ludum-dare-32/
+	Designed melee weapons in @lizardengland's My Little Weapon Creator http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=22429/
 
 00:10:14 *Chat with Special Guest Lisa Brown (@wertle)*
 00:10:21 Project Lead and Designer on Slow Down, Bull http://store.steampowered.com/app/333580/
@@ -55,13 +51,84 @@ NOTESCREATOR: @beansmyname
 	Attended Carnegie Mellon's Entertainment Technology school for graduate studies http://www.etc.cmu.edu/
 	Participates in game jams and creates personal projects
 00:13:05 Slow Down, Bull is the result of an experiment at Insomniac Games http://www.insomniacgames.com/introducing-slow-down-bull-insomniacs-open-development-experiment/
-	Open Development model with developer streams of ongoing work http://www.twitch.tv/insomniacgames
+	Open Development model with developer streams of ongoing work http://www.twitch.tv/insomniacgames/
 	First Insomniac title for desktop platforms
 	Linux fully supported at launch
 00:14:35 Reception to Slow Down, Bull and its theme of stress management
 00:16:50 How the theme of stress management became central to Slow Down, Bull
-00:19:02 How many people were involved in the creation of Slow Down, Bull?
+00:19:02 The creation of Slow Down, Bull was a team effort
+00:20:10 Partnership with Starlight Children's Foundation http://www.starlight.org/
+00:23:09 The experience of Open Development and Dev Streaming
+00:24:51 Audience make-up of Dev Stream viewers
+00:28:04 @wertle is now going indie https://patreon.com/wertle/
+	Making games and streaming the dev process
+	Class streams where @wertle plays less-examined titles, viewing them through a design lens and discusses them with an audience
+	Has guest developers and designers from the indie community on weekly streams
+00:30:32 @wertle dispenses some useful advice for aspiring indie game developers
+00:30:47 One of @wertle's multiple projects in progress involves catching lightning bugs
+00:31:12 Another project from the AI Jam involves encouraging a cat to play http://wertle.itch.io/cat-trick/
+00:31:38 Also working on a project involving eye tracking and Unreal Engine
+00:33:46 @wertle offers to provide Linux support for future projects when possible
+00:35:10 Be sure to check out @wertle's Dev streams on twitch.tv https://twitch.tv/wertle/
 
+00:35:48 *SteamLUG Community Stuff*
+00:35:50 Past Events
+	Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/204128765617204699/
+	Guns of Icarus Online http://steamcommunity.com/groups/steamlug#events/204128765617207628/
+	Left 4 Dead 2 http://steamcommunity.com/groups/steamlug#events/204128765617212173/
+	Crypt of the Necrodancer (SEED: STEAMLUG01) http://steamcommunity.com/groups/steamlug#events/204128765617216467/
+00:40:26 Upcoming Events
+	Altitude http://steamcommunity.com/groups/steamlug#events/204128765617219073/
+	Nuclear Dawn http://steamcommunity.com/groups/steamlug#events/204128765617222169/
+	Sanctum 2 http://steamcommunity.com/groups/steamlug#events/204128765617225614/
+	Magicite http://steamcommunity.com/groups/steamlug#events/204128765617229119/
+00:40:45 *Other Community Stuff*
+00:40:49 @ValiantCheese sat down with another backer/forum mod and talked about Broken Age https://www.gamingonlinux.com/articles/editorial-a-conversation-about-broken-age.5306
+00:41:42 SteamLUG community member norbert wrote a proper review of Broken Age https://www.gamingonlinux.com/articles/review-broken-age-on-linux.5325
+00:42:01 Work continues on the SteamLUG website by @johndrinkwater and Tele42
+	More work on convenience features for future contributors
+	Cheese suggests badges for community engagement
+00:43:29 Double Fine Game Club is playing Broken Age and chatting with developers http://www.doublefine.com/forums/viewthread/17001/
 
+00:44:19 *Steam/Valve News*
+00:44:23 Update to the Steam beta client frees the UI when performing a game cache validation http://steamcommunity.com/groups/SteamClientBeta#announcements/detail/231151632191178599
+00:46:23 A game developer throws out some interesting insight on Greenlight: “The primary goal of Greenlight is not [for users] to find quality games, but [for Valve] to find games that will sell themselves." http://www.reddit.com/r/gamedev/comments/35rn5p/steam_greenlight_is_first_and_foremost_a_test_of/
 
+00:48:42 *Tech News*
+00:48:46 First look at the Oculus Rift https://www.oculus.com/blog/first-look-at-the-rift-shipping-q1-2016/
+00:50:13 Oculus have released the recommended system specs for the consumer Rift
+	Linux and Mac support have been put on hold until the Windows experience is complete
+00:51:53 Owlchemy Labs sponsored Austin Room Scale VR Jam http://owlchemylabs.com/austin-room-scale-vr-jam-recap-a-great-success/
+	Owlchemy "Chief Scientist" Alex Schwartz juggles in VR with the Vive http://www.roadtovr.com/yes-you-can-juggle-in-vr-with-the-htc-vive/
+00:54:19 SteamOS update 159 released http://steamcommunity.com/groups/steamuniverse#announcements/detail/205255934343304309/
+00:55:39 AMD discusses future CPU plans http://arstechnica.com/gadgets/2015/05/amd-admits-it-cant-be-the-cheaper-solution-will-refocus-on-performance/
+00:56:50 Cryengine making progress to come to Linux https://twitter.com/cryengine/status/596696907080163328/ https://www.gamingonlinux.com/articles/cryengine-gets-an-official-linux-support-announcement.5359/
+	CryEngine EULA update and next big release http://cryengine.com/news/update-from-the-team-15-eula-update-and-next-big-release/
+	Linux hints of Evolve noted on SteamDB https://steamdb.info/app/273350/history/
+01:01:05 nVidia released 346.59 driver on their "long-lived branch release" https://devtalk.nvidia.com/default/topic/831875/b/t/post/4527427/#4527427/
 
+01:01:43 General Gaming News
+01:01:45 ROCKETSROCKETSROCKETS has left Early Access http://store.steampowered.com/app/289760/
+01:02:27 Star Wars: Battlecry - A UE4 recreation of Star Wars Battlefront http://www.moddb.com/games/star-wars-battlecry/
+01:02:55 Uber Entertainment developers are looking to tackle Linux-specific bugs in Planetary Annihilation https://forums.uberent.com/threads/question-for-linux-users.68150/
+01:03:53 GOG.com Galaxy client is now in public beta - Linux version coming soon http://www.gog.com/galaxy/
+01:06:55 Star Trek games for Linux on GOG.com: http://www.gog.com/game/star_trek_25th_anniversary http://www.gog.com/game/star_trek_judgment_rites/
+01:08:43 GoatZ (Goat Simulator Zombie DLC) released http://store.steampowered.com/app/344450/
+01:10:23 Klei Entertainment has released Invisible, Inc. http://store.steampowered.com/app/243970/
+01:14:35 Massive Chalice has a release date (June 1st) https://www.kickstarter.com/projects/doublefine/double-fines-massive-chalice/posts/1230422/
+01:15:56 Previous SteamLUG Cast guests Screwy Lightbulb released a status update on the Maker's Eden Act 2 [s01e04] http://steamcommunity.com/games/313360/announcements/detail/191745561964442220/
+01:16:18 Civilization: Beyond Earth Winter 2015 patch finally live for Linux http://blog.gameagent.com/civilization-beyond-earth-gets-major-winter-2015-update/
+01:17:28 Two notable Assault Android Cactus updates since last SteamLUG Cast
+	Update 16 brings an art pass to the remaining two non-boss whitebox levels http://steamcommunity.com/games/250110/announcements/detail/209758898041869066/
+	Update 16.5 does an art pass on zone 1 and updates a bunch of enemy textures http://steamcommunity.com/games/250110/announcements/detail/209759533981298852/
+01:20:01 Satellite Reign Linux builds have been updated to 0.6 http://steamcommunity.com/games/268870/announcements/detail/178234970455767562 http://steamcommunity.com/games/268870/announcements/detail/178234970451950251/
+01:23:38 Spec Ops: The Line released (port done by VP) http://steamcommunity.com/games/50300/announcements/detail/155716972325301490 http://www.vpltd.com/
+01:26:38 Unmechanical Linux beta is on the horizon http://steamcommunity.com/app/211180/discussions/0/617335934129424655/
+01:26:58 ARK: Survival Evolved coming to Early Access in June http://store.steampowered.com/app/346110/
+
+01:29:05 *Crowdfunding*
+01:29:12 Power Drive 2000 - Retro early 80s sci-fi inspired arcade racing game https://www.kickstarter.com/projects/1420158244/power-drive-2000/
+01:31:06 Darkness Anomaly - Open World Horror survival game https://www.kickstarter.com/projects/darknessanomaly/darkness-anomaly-open-world-horror/
+01:32:01 Hero-U has launched a second crowdfunding campaign https://www.kickstarter.com/projects/transolargames/hero-u-adventure-role-playing-game/
+
+01:35:15 *Sign-off*
