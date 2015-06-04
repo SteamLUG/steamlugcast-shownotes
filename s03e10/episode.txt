@@ -102,8 +102,8 @@ NOTESCREATOR: @beansmyname
 	Owlchemy "Chief Scientist" Alex Schwartz juggles in VR with the Vive http://www.roadtovr.com/yes-you-can-juggle-in-vr-with-the-htc-vive/
 00:54:19 SteamOS update 159 released http://steamcommunity.com/groups/steamuniverse#announcements/detail/205255934343304309/
 00:55:39 AMD discusses future CPU plans http://arstechnica.com/gadgets/2015/05/amd-admits-it-cant-be-the-cheaper-solution-will-refocus-on-performance/
-00:56:50 Cryengine making progress to come to Linux https://twitter.com/cryengine/status/596696907080163328/ https://www.gamingonlinux.com/articles/cryengine-gets-an-official-linux-support-announcement.5359/
-	CryEngine EULA update and next big release http://cryengine.com/news/update-from-the-team-15-eula-update-and-next-big-release/
+00:56:50 CryENGINE making progress to come to Linux https://twitter.com/cryengine/status/596696907080163328/ https://www.gamingonlinux.com/articles/cryengine-gets-an-official-linux-support-announcement.5359/
+	CryENGINE EULA update and next big release http://cryengine.com/news/update-from-the-team-15-eula-update-and-next-big-release/
 	Linux hints of Evolve noted on SteamDB https://steamdb.info/app/273350/history/
 01:01:05 nVidia released 346.59 driver on their "long-lived branch release" https://devtalk.nvidia.com/default/topic/831875/b/t/post/4527427/#4527427/
 
