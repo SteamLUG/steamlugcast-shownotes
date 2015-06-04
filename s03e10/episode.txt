@@ -46,7 +46,7 @@ NOTESCREATOR: @beansmyname
 	Enjoyed the social aspects of Destiny http://www.destinythegame.com/
 	Played some Dark Sector as research for an upcoming stream series on game design http://store.steampowered.com/app/29900/ http://twitch.tv/wertle
 	Daring to play with unconventional weapons in entries from the recent Ludum Dare game jam http://itch.io/tag/ludum-dare-32
-	Designing melee weapons in @lizardengland's My Little Wapon Creator http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=22429
+	Designing melee weapons in @lizardengland's My Little Weapon Creator http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=22429
 
 00:10:14 *Chat with Special Guest Lisa Brown (@wertle)*
 00:10:21 Project Lead and Designer on Slow Down, Bull http://store.steampowered.com/app/333580/
