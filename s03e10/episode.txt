@@ -5,7 +5,7 @@ SEASON: 03
 EPISODE: 10
 DURATION: 01:37:10
 FILENAME: steamlugcast.s03e10.japanese-flags
-DESCRIPTION:
+DESCRIPTION: Our hosts have a chat with game designer Lisa Brown (wertle) followed by lively discussion of Linux gaming
 HOSTS: @ValiantCheese, @HeroOhOne, @Corben78
 GUESTS: Lisa Brown (@Wertle)
 ADDITIONAL: 333580
