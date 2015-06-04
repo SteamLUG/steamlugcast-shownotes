@@ -116,7 +116,7 @@ NOTESCREATOR: @beansmyname
 01:08:43 GoatZ (Goat Simulator Zombie DLC) released http://store.steampowered.com/app/344450/
 01:10:23 Klei Entertainment has released Invisible, Inc. http://store.steampowered.com/app/243970/
 01:14:35 Massive Chalice has a release date of June 1st https://www.kickstarter.com/projects/doublefine/double-fines-massive-chalice/posts/1230422/
-01:15:56 Previous SteamLUG Cast ([ps01e04]) guests Screwy Lightbulb released a status update on the Maker's Eden Act 2 http://steamcommunity.com/games/313360/announcements/detail/191745561964442220/
+01:15:56 Previous SteamLUG Cast ([s01e04]) guests Screwy Lightbulb released a status update on the Maker's Eden Act 2 http://steamcommunity.com/games/313360/announcements/detail/191745561964442220/
 01:16:18 Civilization: Beyond Earth Winter 2015 patch finally live for Linux http://blog.gameagent.com/civilization-beyond-earth-gets-major-winter-2015-update/
 01:17:28 Two notable Assault Android Cactus updates since last SteamLUG Cast
 	Update 16 brings an art pass to the remaining two non-boss whitebox levels http://steamcommunity.com/games/250110/announcements/detail/209758898041869066/
