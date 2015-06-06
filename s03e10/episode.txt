@@ -9,7 +9,7 @@ DESCRIPTION: Our hosts have a chat with game designer Lisa Brown (wertle) follow
 HOSTS: @ValiantCheese, @HeroOhOne, @Corben78
 GUESTS: Lisa Brown (@Wertle)
 ADDITIONAL: 333580
-YOUTUBE:
+YOUTUBE: yHhMJQtYVAE
 EDITOR: @Corben78
 NOTESCREATOR: @beansmyname
 
