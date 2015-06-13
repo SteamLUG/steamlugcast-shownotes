@@ -7,7 +7,7 @@ DURATION:
 FILENAME:
 DESCRIPTION:
 HOSTS: Tele (Tele42), @ValiantCheese, @beansmyname
-GUESTS: Aaron Melcher (@aaron_melcher)
+GUESTS: Aaron Melcher (@aaron_melcher), Ethan Lee (@flibitijibibo)
 ADDITIONAL:
 YOUTUBE:
 EDITOR:
