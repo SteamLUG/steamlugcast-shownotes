@@ -1,15 +1,15 @@
 RECORDED: 2015-06-12
 PUBLISHED:
-TITLE:
+TITLE: Elegant diagonal refunds
 SEASON: 03
 EPISODE: 11
 DURATION:
-FILENAME:
+FILENAME: steamlugcast.s03e11.elegant-diagonal-refunds
 DESCRIPTION:
 HOSTS: Tele (Tele42), @ValiantCheese, @beansmyname
 GUESTS: Aaron Melcher (@aaron_melcher), Ethan Lee (@flibitijibibo)
 ADDITIONAL:
 YOUTUBE:
-EDITOR:
+EDITOR: @Corben78
 NOTESCREATOR:
 
