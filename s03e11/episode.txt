@@ -11,5 +11,5 @@ GUESTS: Aaron Melcher (@aaron_melcher), Ethan Lee (@flibitijibibo)
 ADDITIONAL:
 YOUTUBE:
 EDITOR: @Corben78
-NOTESCREATOR:
+NOTESCREATOR: @beansmyname
 
