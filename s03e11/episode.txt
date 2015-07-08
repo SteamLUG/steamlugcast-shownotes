@@ -1,4 +1,3 @@
-
 RECORDED: 2015-06-12
 PUBLISHED:
 TITLE: Elegant diagonal refunds
@@ -46,5 +45,39 @@ NOTESCREATOR: @beansmyname
   Left Turbine to branch out on his own as a contractor, worked on HOARD for Humble Bundle http://store.steampowered.com/app/63000/
 00:17:01 Was part of the Boston Chapter of the IGDA http://www.bostonpostmortem.org/ http://igda.org/
 00:17:59 Porting HOARD to Linux was first solo porting experience and first to Linux
+00:19:43 Discussion of responsibility for post-release support of ports
+00:21:25 After HOARD, some engine and renderer work for Snapshot http://store.steampowered.com/app/204220/
+00:24:20 La-Mulana is second port started for Linux, ported from Japanese codebase http://store.steampowered.com/app/230700/
+00:26:48 After porting Democracy 3 to iOS, began porting Braid to multiple platforms http://store.steampowered.com/app/26800/
+00:28:07 Ported Outland from consoles to Windows, Mac and Linux including adding Steamworks integration http://store.steampowered.com/app/305050/
+00:29:00 @flibitijibibo asks about the inclusion of the XNA Effects Framework in Outland https://msdn.microsoft.com/en-us/library/microsoft.xna.framework.graphics.effect.aspx
+00:31:18 Super Splatters was made easier to port to Linux due to the foundational work of the original developer http://spikysnail.com/about/ http://store.steampowered.com/app/95000
+00:31:52 Next big port is Shadow Warrior, home to the best codebase Aaron has seen http://store.steampowered.com/app/233130/
+00:34:52 The porting work for Quadrilateral Cowboy has already been done http://blendogames.com/qc/
+00:35:45 Mighty No. 9 confirmed for Linux http://store.steampowered.com/app/314710/
+00:37:47 SOMA is also being ported to Linux http://somagame.com/
+00:39:18 @aaron_melcher has something to say about your code and it's not elegant http://knockoutgames.co/talks/your_code_sucks_lightning.pdf https://www.youtube.com/watch?v=WIbXifb8WGY
+00:41:52 Vessel is a good example of elegant code http://overbyte.com.au/index.php/overbyte-blog/entry/vessel-common-performance-issues
+00:44:46 What game would @aaron_melcher port if he had the chance? Age of Empires II HD http://store.steampowered.com/app/221380/
+00:46:35 What platform do you primarily work on? What benefits do you derive from it?
+00:48:05 What does your Linux environment look like?
+00:50:29 The benefits of early testing on a variety of hardware
 
+00:52:52 *SteamLUG Community Stuff*
+00:52:53 Past Events
+  Fistful of Frags https://steamcommunity.com/groups/steamlug#events/204128765617233828
+  Battleblock Theater https://steamcommunity.com/groups/steamlug#events/204128765617236075
+  Awesomenauts https://steamcommunity.com/groups/steamlug#events/205257840577787309
+00:56:26 Upcoming Events
+  Outland https://steamcommunity.com/groups/steamlug#events/205258472583536432
+  Borderlands: The Pre-Sequel https://steamcommunity.com/groups/steamlug#events/2052584087079408
 
+00:57:11 *Steam/Valve News*
+00:57:19 "Does anyone have an opinion on Steam Refunds?" http://store.steampowered.com/steam_refunds
+  Indie developers provide their reactions to the new policy
+  Puppy Games http://www.puppygames.net/blog/?p=1708
+  Retro Remakes http://www.merseyremakes.co.uk/gibber/customers/
+  Peter Moorhead http://petermoorhead.tumblr.com/post/120969484727/steam-refunds-policy
+  Licensing can be tricky and some games may lend themselves to performance licenses http://www.ascap.com/licensing/licensefinder
+
+01:22:47 
