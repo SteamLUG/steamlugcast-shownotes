@@ -6,7 +6,7 @@ EPISODE: 13
 DURATION:
 FILENAME: 
 DESCRIPTION:
-HOSTS: @beansmyname, @ValiantCheese, @HeroOhOne
+HOSTS: @beansmyname, @ValiantCheese, @DerRidda, @HeroOhOne
 GUESTS:
 ADDITIONAL:
 YOUTUBE: 
