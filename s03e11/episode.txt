@@ -5,7 +5,7 @@ SEASON: 03
 EPISODE: 11
 DURATION: 02:04:51
 FILENAME: steamlugcast.s03e11.elegant-diagonal-refunds
-DESCRIPTION:
+DESCRIPTION: Aaron Melcher stops by to chat about porting games to Linux and our hosts have a discussion about Steam refunds
 HOSTS: Tele (Tele42), @ValiantCheese, @beansmyname
 GUESTS: Aaron Melcher (@aaron_melcher), Ethan Lee (@flibitijibibo)
 ADDITIONAL:
