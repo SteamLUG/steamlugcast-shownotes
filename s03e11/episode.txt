@@ -79,7 +79,6 @@ NOTESCREATOR: @beansmyname
 	Retro Remakes http://www.merseyremakes.co.uk/gibber/customers/
 	Peter Moorhead http://petermoorhead.tumblr.com/post/120969484727/steam-refunds-policy
 	Licensing can be tricky and some games may lend themselves to performance licenses http://www.ascap.com/licensing/licensefinder
-
 01:22:47 Dota 2 Source 2 DLC depots https://twitter.com/SteamDB/status/605418262294343680
 01:25:35 Steam Hardware now available for preorder http://store.steampowered.com/hardware
 01:27:45 Valve is shipping the HTC Vive Developer Edition http://steamcommunity.com//games/250820/announcements/detail/155718876679273412 http://steamcommunity.com/games/250820/announcements/detail/155718876690619251
@@ -94,7 +93,6 @@ NOTESCREATOR: @beansmyname
   Speedtree is now useable on Linux
 01:33:32 RAD game tools never cause issues on Linux  http://www.radgametools.com/
 01:34:54 Aaron Melcher is having difficulty porting something using the Play First SDK https://en.wikipedia.org/wiki/PlayFirst#Playground_SDK
-
 01:37:20 GOG.com has added Cyberia 2 Resurrection: http://www.gog.com/game/cyberia_2_resurrection
   See the latest Linux games on GOG by sorting by date added http://www.gog.com/games##sort=date&system=lin_mint,lin_ubuntu&page=1
 01:37:50 Blender Game Asset Creation video tutorial on Steam http://store.steampowered.com/app/373020/
