@@ -91,7 +91,7 @@ NOTESCREATOR: @beansmyname
 01:32:25 Unreal Engine 4.8 released with tons of fixes and new features https://www.unrealengine.com/blog/unreal-engine-48-released
 	Experimental "desktop" target platform which exports Win/Mac/Linux in a single directory
 	Speedtree is now useable on Linux
-01:33:32 RAD game tools never cause issues on Linux  http://www.radgametools.com/
+01:33:32 RAD game tools never cause issues on Linux http://www.radgametools.com/
 01:34:54 Aaron Melcher is having difficulty porting something using the Play First SDK https://en.wikipedia.org/wiki/PlayFirst#Playground_SDK
 01:37:20 GOG.com has added Cyberia 2 Resurrection: http://www.gog.com/game/cyberia_2_resurrection
 	See the latest Linux games on GOG by sorting by date added http://www.gog.com/games##sort=date&system=lin_mint,lin_ubuntu&page=1
