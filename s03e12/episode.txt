@@ -17,8 +17,8 @@ NOTESCREATOR: HeroOhOne
 00:00:08 *Introduction*
 00:00:17 Tele42 introduces @HeroOhOne
 
-*Our Gaming*
-00:00:23 @HeroOhOne
+00:00:23 *Our Gaming*
+00:00:27 @HeroOhOne
 	7 Days to Die for the first time http://store.steampowered.com/app/251570
 	Serious Sam 3 testing of the Seriously Casual server http://store.steampowered.com/app/41070/
 	Counter Strike: Global Offensive bot games http://store.steampowered.com/app/730/
