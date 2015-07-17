@@ -54,8 +54,10 @@ NOTESCREATOR: HeroOhOne
 	The SteamOS Brewmaster kernel received a new branch for the source release https://github.com/ValveSoftware/steamos_kernel/tree/brewmaster-3.18
 
 00:10:09 *Tech News*
+00:10:12 Cryengine 3.8.1 adds support for OpenGL and Linux clients
 
+00:11:11 *General Gaming News*
+00:11:14 ARK:Survival Evolved delayed for Linux until 30th June.
+00:11:51 Project CARS 2 announced with SteamOS support, along with a new crowdfunding campaign.
 
-*General Gaming News*
-
-*Sign-off*
+00:14:16 *Sign-off*
