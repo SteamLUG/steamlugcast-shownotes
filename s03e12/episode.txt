@@ -3,7 +3,7 @@ PUBLISHED:
 TITLE: Seriously Brewmaster Very Newborn
 SEASON: 03
 EPISODE: 12
-DURATION:
+DURATION: 0:15:16
 FILENAME: steamlugcast.s03e12.seriously-brewmaster-very-reborn
 DESCRIPTION:
 HOSTS: Tele (Tele42), @HeroOhOne
@@ -11,5 +11,51 @@ GUESTS:
 ADDITIONAL:
 YOUTUBE: QahN8wGtLTM
 EDITOR: Tele (Tele42)
-NOTESCREATOR:
+NOTESCREATOR: HeroOhOne
 
+
+00:00:08 *Introduction*
+00:00:17 Tele42 introduces @HeroOhOne
+
+*Our Gaming*
+00:00:23 @HeroOhOne
+	7 Days to Die for the first time http://store.steampowered.com/app/251570
+	Serious Sam 3 testing of the Seriously Casual server http://store.steampowered.com/app/41070/
+	Counter Strike: Global Offensive bot games http://store.steampowered.com/app/730/
+00:01:04 Tele42
+	Guns of Icarus Online, twice weekly http://store.steampowered.com/app/209080/
+	Dialing in the new Serious Sam 3 server http://store.steampowered.com/app/41070/
+	No More Room in Hell even thttp://store.steampowered.com/app/224260/
+	Dota 2 Reborn spectating and custom games http://store.steampowered.com/app/570/
+00:01:41 Tele picked up Batman: Arkham Origins during the Monster Sale, which works well in wine http://store.steampowered.com/app/209000/
+00:02:12 @HeroOhOne bought Running With Rifles for a friend http://store.steampowered.com/app/270150/
+	The Elder Scrolls III: Morrowind to play with the OpenMW client http://store.steampowered.com/app/22320/ https://openmw.org/
+
+00:02:40 *SteamLUG Community Stuff*
+00:02:41 Past Events
+	Outland http://steamcommunity.com/groups/steamlug#events/205258472583536432
+	Borderlands: The Pre-Sequel http://steamcommunity.com/groups/steamlug#events/205258408707947408
+	Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/203008151640629339
+	No More Room in Hell, where not everyone wanted to live http://steamcommunity.com/groups/steamlug#events/203008151640629447
+00:03:33 Upcoming Events
+	Post-cast Seriously Casual Serious Sam 3, with unlimited ammo and respawns, but tougher enemies http://steamcommunity.com/groups/steamlug#events/74655984043078698
+00:04:14 @Cheeseness wrote an article on the process of requesting a refund https://www.gamingonlinux.com/articles/what-happens-when-you-request-a-refund-on-steam.5518
+
+00:04:44 *Steam/Valve News*
+00:04:46 More than 10 million concurrent users on Steam on 14th June, during the summer sale https://steamdb.info/app/753/graphs/
+00:05:32 Steam trading cards no longer drop until two hours of playtime, after which a refund cannot be requested http://steamcommunity.com/groups/idlemastery#announcements/detail/203007488879621804
+00:06:03 Dota 2 Reborn beta has been released on Linux, using Source 2 http://www.dota2.com/reborn/updates
+	Native opengl, giving much better performance
+	No longer supports 32bit operating systems
+	Open for everyone to download as DLC of the base Dota 2 client, in users' libraries
+00:07:34 Steam hardware pre-order stock is 93% sold http://store.steampowered.com/hardware
+00:08:18 SteamOS Brewmaster has been released, based on Debian 8.1
+00:09:30 Dota 2 Reborn github issue tracker repo https://github.com/ValveSoftware/Dota-2-Reborn/issues
+	The SteamOS Brewmaster kernel received a new branch for the source release https://github.com/ValveSoftware/steamos_kernel/tree/brewmaster-3.18
+
+00:10:09 *Tech News*
+
+
+*General Gaming News*
+
+*Sign-off*
