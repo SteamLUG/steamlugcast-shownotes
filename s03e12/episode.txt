@@ -9,10 +9,9 @@ DESCRIPTION:
 HOSTS: Tele (Tele42), @HeroOhOne
 GUESTS:
 ADDITIONAL:
-YOUTUBE: QahN8wGtLTM
+YOUTUBE: SSZqA1MHMVE
 EDITOR: Tele (Tele42)
 NOTESCREATOR: HeroOhOne
-
 
 00:00:08 *Introduction*
 00:00:17 Tele42 introduces @HeroOhOne
