@@ -1,15 +1,15 @@
 RECORDED: 2015-07-10
 PUBLISHED:
-TITLE: Beautiful Linux users
+TITLE: Beautiful Linux Users
 SEASON: 03
 EPISODE: 13
 DURATION:
-FILENAME: 
+FILENAME: steamlugcast.s03e13.beautiful-linux-users
 DESCRIPTION:
 HOSTS: @beansmyname, @ValiantCheese, @DerRidda, @HeroOhOne
 GUESTS:
 ADDITIONAL:
 YOUTUBE: 
-EDITOR: 
+EDITOR: Corben78
 NOTESCREATOR:
 
