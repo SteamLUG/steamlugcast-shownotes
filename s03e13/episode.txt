@@ -9,7 +9,7 @@ DESCRIPTION:
 HOSTS: @beansmyname, @ValiantCheese, @DerRidda, @HeroOhOne
 GUESTS:
 ADDITIONAL:
-YOUTUBE: 
+YOUTUBE: 6zSm8QcsZuQ
 EDITOR: Corben78
 NOTESCREATOR:
 
