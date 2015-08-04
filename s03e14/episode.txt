@@ -9,7 +9,7 @@ DESCRIPTION: Our three hosts take our audience through the previous fortnight of
 HOSTS: @DerRidda, @beansmyname, @HeroOhOne
 GUESTS:
 ADDITIONAL:
-YOUTUBE:
+YOUTUBE: ow5mgpPWTnc
 EDITOR: Corben78
 NOTESCREATOR: @johndrinkwater
 
