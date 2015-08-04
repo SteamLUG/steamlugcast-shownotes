@@ -3,12 +3,61 @@ PUBLISHED:
 TITLE: Radar Clickers
 SEASON: 03
 EPISODE: 14
-DURATION:
+DURATION: 00:28:51
 FILENAME: steamlugcast.s03e14.radar-clickers
-DESCRIPTION:
+DESCRIPTION: Our three hosts take our audience through the previous fortnight of Linux Gaming News
 HOSTS: @DerRidda, @beansmyname, @HeroOhOne
 GUESTS:
 ADDITIONAL:
-YOUTUBE: 
+YOUTUBE:
 EDITOR: Corben78
-NOTESCREATOR:
+NOTESCREATOR: @johndrinkwater
+
+00:00:08 *Introduction*
+00:00:09 DerRidda introduces Bean and HERO
+
+00:00:26 *Our Gaming*
+00:00:27 Beans has been casually playing Nimble Quest and AdVenture Capitalist, Postal 2, and Starship Rubicon
+00:01:18 Hero played Storm United, Counter–Strike: Global Offensive, Rust, and Guns of Icarus Online
+00:02:12 and DerRidda obtained glimpses of Portal Stories: Mel and Pulsar: Lost Colony
+
+00:04:06 *SteamLUG Community Stuff*
+00:04:08 Past Events:
+	Distance http://steamcommunity.com/groups/steamlug#events/74655984050889799
+	Nemoder streamed Coffin Dodgers afterwards (likely contains inappropriate jokes) http://www.hitbox.tv/video/582453/description
+	Dota 2 Reborn Custom Games http://steamcommunity.com/groups/steamlug#events/74655984050890086
+	7 Days to Die http://steamcommunity.com/groups/steamlug#events/74657253369000027
+	Guns of Icarus Online http://steamcommunity.com/groups/steamlug#events/74655984050899836
+	Dying Light… didn’t happen. We will relist again soon http://steamcommunity.com/groups/steamlug#events/74655984050900068
+00:08:00 Upcoming Events:
+	Post Cast Chivalry: Medieval Warfare http://steamcommunity.com/groups/steamlug#events/74655984050910247
+	BlazeRush http://steamcommunity.com/groups/steamlug#events/74655984050910463
+	Synergy http://steamcommunity.com/groups/steamlug#events/74655984050920687
+
+00:08:59 *Steam/Valve News*
+00:09:05 Steam Mobile Authenticator now does not require being logged in
+
+00:09:58 *Tech News*
+00:09:59 Reduz, lead Godot http://www.godotengine.org developer, spoke at RMLL 2015 (Libre Software Meeting) in France to introduce people to the Godot engine http://video.rmll.info/videos/introduction-au-moteur-godot/
+00:10:56 Mesa git has reached GL4.1 for nvc0 http://nouveau.freedesktop.org/wiki/CodeNames/#nvc0familyfermi
+
+00:12:23 *General Gaming News*
+00:12:25 GoIO Alliance now available for preorder on Humble https://www.humblebundle.com/store/p/gunsoficarus_alliance_storefront
+	Co–op expansion should be coming soon! New game modes, weapons, ships
+00:14:06 Alien: Isolation port may be done by Feral Interactive http://www.feralinteractive.com/en/upcoming/
+	Teasing ‘Terror is a best laid plan’ → Google: David Bowie’s ‘Loving The Alien’
+00:15:59 Star Wars: Knights of the Old Republic II released for Linux by Aspyr Media https://twitter.com/AspyrMedia/status/623542439232598016 http://store.steampowered.com/app/208580/
+00:19:02 Terraria in open beta for Linux http://forums.terraria.org/index.php?threads/terraria-1-3-0-7-mac-linux-open-beta.27418/
+	Uses FNA http://fna-xna.github.io/ by flibitijibibo http://flibitijibibo.com/ who wrote a post https://plus.google.com/+flibitijibibo/posts/hEjjC1ZwmfC
+00:21:41 Humble Jumbo Bundle 4 including some Linux titles https://www.humblebundle.com/
+	Outland ported by Aaron Melcher (@aaron_melcher), and Mercenary Kings fresh from flibitijibibo (@flibitijibibo)
+	Stanley Parable should be coming https://twitter.com/GranPC/status/623563620983668736 https://steamdb.info/app/221910/ http://store.steampowered.com/app/221910/
+	The Incredible Adventures of Van Helsing II may or may not
+00:23:23 Gnomoria, another title using FNA, in Early Access http://store.steampowered.com/app/224500
+	Also in Humble Weekly Bundle Simulators 4 https://www.humblebundle.com/weekly along with Out of the Park Baseball 15 and Kill The Bad Guy
+00:24:50 Victor Vran out of Early Access http://store.steampowered.com/app/345180/
+00:25:47 Magic Circle now available for Linux. Unique concept, you are playing in a game against the lead developer who won’t release the game because feature creep http://store.steampowered.com/app/323380
+	Thanks to Tak for helping to identify a fix. http://steamcommunity.com/app/323380/discussions/0/617335934127200691/#c535150948594780368
+00:26:50 DerRidda laments the loss of quiet release windows
+
+00:27:54 *Sign–off*
