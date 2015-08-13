@@ -1,5 +1,5 @@
 RECORDED: 2015-07-24
-PUBLISHED:
+PUBLISHED: 2015-08-13
 TITLE: Radar Clickers
 SEASON: 03
 EPISODE: 14
@@ -10,7 +10,7 @@ HOSTS: @DerRidda, @beansmyname, @HeroOhOne
 GUESTS:
 ADDITIONAL:
 YOUTUBE: ow5mgpPWTnc
-EDITOR: Corben78
+EDITOR: @Corben78
 NOTESCREATOR: @johndrinkwater
 
 00:00:08 *Introduction*
