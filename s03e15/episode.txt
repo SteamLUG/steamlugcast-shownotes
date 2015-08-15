@@ -1,15 +1,15 @@
 RECORDED: 2015-08-07
 PUBLISHED:
-TITLE:
+TITLE: Lord of the Spoilers
 SEASON: 03
 EPISODE: 15
 DURATION:
-FILENAME:
+FILENAME: steamlugcast.s03e15.lord-of-the-spoilers
 DESCRIPTION:
 HOSTS: @DerRidda, @HeroOhOne, @johndrinkwater
 GUESTS:
 ADDITIONAL:
 YOUTUBE:
-EDITOR:
+EDITOR: @johndrinkwater
 NOTESCREATOR:
 
