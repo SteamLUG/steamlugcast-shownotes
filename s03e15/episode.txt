@@ -5,7 +5,7 @@ SEASON: 03
 EPISODE: 15
 DURATION: 00:44:16
 FILENAME: steamlugcast.s03e15.lord-of-the-spoilers
-DESCRIPTION:
+DESCRIPTION: Our hosts discuss a fortnight's worth of Linux-related gaming.
 HOSTS: @DerRidda, @HeroOhOne, @johndrinkwater
 GUESTS:
 ADDITIONAL:
