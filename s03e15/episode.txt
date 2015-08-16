@@ -1,5 +1,5 @@
 RECORDED: 2015-08-07
-PUBLISHED:
+PUBLISHED: 2015-08-16
 TITLE: Lord of the Spoilers
 SEASON: 03
 EPISODE: 15
@@ -9,7 +9,7 @@ DESCRIPTION: Our hosts discuss a fortnight's worth of Linux-related gaming.
 HOSTS: @DerRidda, @HeroOhOne, @johndrinkwater
 GUESTS:
 ADDITIONAL:
-YOUTUBE:
+YOUTUBE: eIbmzWqTM_Y
 EDITOR: @johndrinkwater
 NOTESCREATOR: @johndrinkwater
 
