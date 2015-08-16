@@ -3,7 +3,7 @@ PUBLISHED:
 TITLE: Lord of the Spoilers
 SEASON: 03
 EPISODE: 15
-DURATION:
+DURATION: 00:44:16
 FILENAME: steamlugcast.s03e15.lord-of-the-spoilers
 DESCRIPTION:
 HOSTS: @DerRidda, @HeroOhOne, @johndrinkwater
@@ -11,5 +11,86 @@ GUESTS:
 ADDITIONAL:
 YOUTUBE:
 EDITOR: @johndrinkwater
-NOTESCREATOR:
+NOTESCREATOR: @johndrinkwater
 
+00:00:09 *Introduction*
+00:00:18 @DerRidda introduces
+00:00:19 @HeroOhOne and
+00:00:25 @johndrinkwater
+
+00:00:30 *Our Gaming*
+00:00:38 John briefly covers a few games he played since the last cast appearance, starting with Binding of Isaac: Rebirth, Terraria which is now out of beta, along with Synergy and Codename: CURE. DOTA2 is also mentioned, using the client to watch The International 5.
+00:01:46 DerRidda played some of the above, and two more titles, Knights of the Old Republic II, and Middle‐earth: Shadow of Mordor
+00:02:16 Hero shares this small selection of what he has been running: Running with Rifles, Borderlands: The Pre‐Sequel, CS:GO, and Guns of Icarus: Online.
+
+00:03:14 *SteamLUG Community Stuff*
+00:03:16 Past Events:
+	Chivalry: Medieval Warfare http://steamcommunity.com/groups/steamlug#events/74655984050910247 Hero’s stream http://www.hitbox.tv/video/596944
+	BlazeRush http://steamcommunity.com/groups/steamlug#events/74655984050910463 Hero’s other stream http://www.hitbox.tv/video/598193
+	Synergy http://steamcommunity.com/groups/steamlug#events/74655984050920687 entire Half‐Life 2 campaign was completed in co‐op
+	Worms: Clan Wars http://steamcommunity.com/groups/steamlug#events/74659214411954763
+00:06:37 Upcoming Events:
+	Codename CURE http://store.steampowered.com/app/355180 http://steamcommunity.com/groups/steamlug#events/74659441564243677
+	Planetary Annihilation, which recently had an update that adds asteroids http://www.uberent.com/pa/2015/07/31/the-asteroid-update-release-build-85138/ http://steamcommunity.com/groups/steamlug#events/74659441564243825
+	Half Life: Deathmatch http://steamcommunity.com/groups/steamlug#events/74659441564265885
+	Mercenary Kings http://steamcommunity.com/groups/steamlug#events/74659441564265999
+
+00:08:05 *Steam/Valve News*
+00:08:12 Security flaw in password reset https://www.reddit.com/r/Steam/comments/3elt4w/several_twitch_streamers_just_got_hijacked_and/
+	Without Steam Guard protection via email, resetting password was possible. If you use Steam Guard, you are safe. Valve already fixed that. http://steamcommunity.com/news/post/423687491915761126/
+	John mentions the SteamDB security letter https://steamdb.info/blog/valve-security-open-letter/ with the forthcoming letter being unpublished so far
+00:09:40 Bug in Steam Client accessing library folders with kernel 3.13.0-59 https://github.com/ValveSoftware/steam-for-linux/issues/3936
+	Fixed https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1479093
+00:10:16 SteamOS Weekend Sale 31/06 – 03/07 http://store.steampowered.com/sale/steamosweekend/
+	33 Linux games (HL3 confirmed /s)
+
+00:11:50 *Tech News*
+00:11:53 Interview with Croteam about Linux http://www.marcosbox.org/2015/02/interview-with-croteam-on-linux-videogames.html
+	John mentions he has linked this as we missed it originally.
+
+00:12:25 *SIGGRAPH*
+00:12:30 Vulkan talks by Khronos Group at SIGGRAPH https://www.khronos.org/news/events/2015-siggraph
+	Nvidia has a Vulkan talk at SIGGRAPH on Sunday
+00:13:33 ‘The Time Has Come: Powerful Profiling and Debugging Tools Arrive for Linux and OpenGL With NVIDIA’s Linux Graphics Debugger’ http://s2015.siggraph.org/attendees/nvidia-best-gtc-talks https://www.gamingonlinux.com/articles/nvidia-to-show-off-vulkan-on-nvidia-gpus-an-opengl-linux-graphics-debugger.5778
+00:14:00 AMD GDCE talk on Vulkan https://twitter.com/DeusQain/status/628518709934448640
+00:14:14 Nvidia releases 355.06 beta driver with changes to the build system http://www.nvidia.com/download/driverResults.aspx/88694/en-us
+00:14:39 AMDGPU support was added to MESA’s DRM lib http://phoronix.com/scan.php?page=news_item&px=AMDGPU-Libdrm-Support
+
+00:15:13 *General Gaming News*
+00:15:15 Talos Principle DLC, Road to Ghenna, mentioned in [s03e13] now launched and review/feedback is good! http://store.steampowered.com/app/358470/
+00:15:39 The International 5 is currently taking place, has a $18,287,615 prize pool https://www.dota2.com/international/compendium/ http://www.dota2.com/international/replays/
+	John mentions ‘TI5 All Star Match Team BigDaddyN0tail vs Chuan’ https://www.youtube.com/watch?v=r0F2NAzqovo
+00:20:55 Don’t Be Patchman ‐ Linux exclusive game launches on Steam in Early Access http://store.steampowered.com/app/378410/
+	Windows Version is also coming, but developers focus on Linux for Early Access
+00:21:46 Natural Selection 2 Derelict update http://unknownworlds.com/ns2/derelict/
+	Adds a new map, general performance improvements with Linux fixes focussing on file system perf, and other small improvements.
+00:23:40 Retro City Rampage DX released http://store.steampowered.com/app/204630
+
+00:24:25 *SPOILER WARNING*
+00:24:27 Middle‐earth: Shadow of Mordor released, launched together with SteamOS weekend sale http://store.steampowered.com/app/241930/
+
+00:27:04 *More General Gaming News*
+00:27:07 Assault Android Cactus reaches beta http://steamcommunity.com/games/250110/announcements/detail/47637844245818794
+00:28:00 AdVenture Capitalist now on Linux http://store.steampowered.com/app/346900
+	Beware when using a non en_US.UTF-8 locale. Game doesn’t work correctly, also savegame gets corrupted and has to be reset: http://steamcommunity.com/app/346900/discussions/0/541906989416564043/#c541907867754777059
+00:28:25 Don’t Starve: Shipwrecked announced http://steamcommunity.com/games/219740/announcements/detail/38630417398083351
+00:29:42 Star Citizen: Linux Client in a not too distant future https://robertsspaceindustries.com/comm-link/transmission/14874-10-For-The-Chairman https://www.youtube.com/watch?v=zt4r3ksHXng&t=25m52s
+00:30:45 Alien: Isolation port proceeding. Depots already have content! https://steamdb.info/app/214490/depots/
+00:31:21 Trine 3 ends early access on 20th August http://www.frozenbyte.com/2015/08/trine-3-the-artifacts-of-power-official-release-date-announced/
+	‘The Linux and Mac versions are underway and we’ll hopefully have something to show soon!’
+00:32:30 Humble Jumbo Bundle 4 added Screencheat and Freedom Planet with DRM free and Steam Linux versions.
+Humble Bandai Namco Bundle, includes Deadcore for Linux http://store.steampowered.com/app/284460/
+00:33:08 DerRidda mistakenly says Homefront when he meant to say Homeworld:
+	‘Sorry, Linux players ‒ no planned Linux version at this time.’ Aspyr ported Homeworld Remastered Collection to Mac. http://www.aspyr.com/news_articles/homeworld-remastered-collection-gets-mac-app-store-release
+	Let Gearbox and Aspyr know: Linux versions are desired!
+00:34:51 Motörhead themed expansion for Victor Vran http://www.rockpapershotgun.com/2015/08/07/victor-vran-motorhead-expansion/
+00:35:34 Homefront: The Revolution resurfaces at Gamescom 2015 and is still headed to Linux https://twitter.com/HomefrontGame/status/628868046975803393 https://www.youtube.com/watch?v=DJbmzCE36TE
+00:38:39 Paradox studio Colossal Order show off first Cities: Skyline expansion After Dark https://www.paradoxplaza.com/cities-skylines-after-dark
+00:39:27 Paradox studio Obsidian showed Pillars of Eternity expansion on stage (release 25th August)
+00:40:09 Paradox announced a new game, Stellaris, a grand strategy 4X space game, https://www.paradoxplaza.com/stellaris, coming to Linux. https://www.youtube.com/watch?v=bxTT258PmNc
+
+00:41:36 *Crowdfunding*
+00:41:38 Everspace, an Arcade Space Sim with rogue‐like elements https://www.kickstarter.com/projects/rockfishgames/everspace
+	Unreal Engine 4 by former Galaxy on Fire 2 developers, definitely plan a Linux release. Corben got this as reply https://www.kickstarter.com/projects/rockfishgames/everspace?ref=nav_search#project_faq_143896
+
+00:42:58 *Sign‐off*
