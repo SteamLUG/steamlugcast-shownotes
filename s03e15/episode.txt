@@ -79,7 +79,7 @@ NOTESCREATOR: @johndrinkwater
 00:31:21 Trine 3 ends early access on 20th August http://www.frozenbyte.com/2015/08/trine-3-the-artifacts-of-power-official-release-date-announced/
 	‘The Linux and Mac versions are underway and we’ll hopefully have something to show soon!’
 00:32:30 Humble Jumbo Bundle 4 added Screencheat and Freedom Planet with DRM free and Steam Linux versions.
-Humble Bandai Namco Bundle, includes Deadcore for Linux http://store.steampowered.com/app/284460/
+	Humble Bandai Namco Bundle, includes Deadcore for Linux http://store.steampowered.com/app/284460/
 00:33:08 DerRidda mistakenly says Homefront when he meant to say Homeworld:
 	‘Sorry, Linux players ‒ no planned Linux version at this time.’ Aspyr ported Homeworld Remastered Collection to Mac. http://www.aspyr.com/news_articles/homeworld-remastered-collection-gets-mac-app-store-release
 	Let Gearbox and Aspyr know: Linux versions are desired!
