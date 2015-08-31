@@ -9,7 +9,7 @@ DESCRIPTION: Aaron Melcher stops by to chat about porting games to Linux and our
 HOSTS: Tele (Tele42), @ValiantCheese, @beansmyname
 GUESTS: Aaron Melcher (@aaron_melcher), Ethan Lee (@flibitijibibo)
 ADDITIONAL:
-RATING:
+RATING: Clean
 YOUTUBE: 8l2omDydqrk
 EDITOR: @Corben78
 NOTESCREATOR: @beansmyname
