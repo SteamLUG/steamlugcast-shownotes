@@ -9,6 +9,7 @@ DESCRIPTION: The beautiful gang of SteamLUG Cast sit down, put up their feet, an
 HOSTS: @beansmyname, @ValiantCheese, @DerRidda, @HeroOhOne
 GUESTS:
 ADDITIONAL:
+RATING:
 YOUTUBE: 6zSm8QcsZuQ
 EDITOR: @Corben78
 NOTESCREATOR: @johndrinkwater

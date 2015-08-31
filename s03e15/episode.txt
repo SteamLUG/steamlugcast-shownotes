@@ -9,6 +9,7 @@ DESCRIPTION: Our hosts discuss a fortnight's worth of Linux-related gaming.
 HOSTS: @DerRidda, @HeroOhOne, @johndrinkwater
 GUESTS:
 ADDITIONAL:
+RATING:
 YOUTUBE: eIbmzWqTM_Y
 EDITOR: @johndrinkwater
 NOTESCREATOR: @johndrinkwater
