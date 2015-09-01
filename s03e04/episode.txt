@@ -9,6 +9,7 @@ DESCRIPTION: Cheese, DerRidda and Nemoder have a humble chat with epic game port
 HOSTS: @ValiantCheese, @DerRidda, Nemoder
 GUESTS: Ryan C. Gordon (@icculus)
 ADDITIONAL:
+RATING: Explicit
 YOUTUBE: rQ6gXEoxIZI
 EDITOR: @Corben78
 NOTESCREATOR: @beansmyname

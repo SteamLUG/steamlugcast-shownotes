@@ -9,6 +9,7 @@ DESCRIPTION: We’re joined by Josh Klint from Leadwerks to chat about his porti
 HOSTS: @ValiantCheese, @DerRidda, Nemoder
 GUESTS: Josh Klint (@JoshKlint)
 ADDITIONAL: 251810
+RATING: Clean
 YOUTUBE: _K5LR88yLHE
 NOTESCREATOR: @robertoszek
 EDITOR: @johndrinkwater

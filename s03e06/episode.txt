@@ -9,6 +9,7 @@ DESCRIPTION: SteamLUG hosts are joined by Director at Defiant Development and Cr
 HOSTS: @ValiantCheese, @beansmyname, @HeroOhOne
 GUESTS: @morganjaffit
 ADDITIONAL: 266510
+RATING: Clean
 YOUTUBE: e203aVVyw50
 EDITOR: @Corben78
 NOTESCREATOR: @johndrinkwater, @beansmyname

@@ -9,6 +9,7 @@ DESCRIPTION: Cheese, DerRidda and Nemoder chat about the Steam Discovery update,
 HOSTS: @ValiantCheese, Nemoder, @DerRidda
 GUESTS:
 ADDITIONAL:
+RATING: None
 YOUTUBE: wItRuI8LJos
 NOTESCREATOR: @beansmyname
 EDITOR: @ValiantCheese

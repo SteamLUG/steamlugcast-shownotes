@@ -9,6 +9,7 @@ DESCRIPTION: For our fifth episode we have a new member of the Frozenbyte team, 
 HOSTS: @ValiantCheese, @johndrinkwater, @swordfischer
 GUESTS: Julius (@Frozenbyte)
 ADDITIONAL: 35700, 35720
+RATING: Clean
 YOUTUBE: R5M_d-CpiRU
 NOTESCREATOR: @swordfischer
 EDITOR: @johndrinkwater

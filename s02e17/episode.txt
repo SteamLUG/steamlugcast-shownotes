@@ -9,6 +9,7 @@ DESCRIPTION: We have a terse update on the last fortnight’s Linux gaming news,
 HOSTS: @ValiantCheese, @DerRidda, @beansmyname, @Corben78
 GUESTS:
 ADDITIONAL:
+RATING: Explicit
 YOUTUBE: 8mJvBneK8Vc
 NOTESCREATOR: @johndrinkwater
 EDITOR: @robertoszek

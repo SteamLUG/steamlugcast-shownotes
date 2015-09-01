@@ -9,6 +9,7 @@ DESCRIPTION: We are joined by game developer/designer and Linux user JP LeBreton
 HOSTS: @ValiantCheese, @MimLofBees, Nemoder
 GUESTS: JP LeBreton (@vectorpoem)
 ADDITIONAL: 246090
+RATING: Clean
 YOUTUBE: kco-1YLzh1o
 NOTESCREATOR: @HeroOhOne
 EDITOR: @johndrinkwater

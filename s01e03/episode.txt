@@ -9,6 +9,7 @@ DESCRIPTION: Here it is, the third episode, covering our community events, gentl
 HOSTS: @swordfischer, @johndrinkwater, @ValiantCheese
 GUESTS:
 ADDITIONAL:
+RATING: Clean
 YOUTUBE: 3U9a6S6ogW8
 NOTESCREATOR: @johndrinkwater
 EDITOR: @johndrinkwater

@@ -9,6 +9,7 @@ DESCRIPTION: DerRidda, Bean and Nemoder discuss the last fortnight’s gaming ne
 HOSTS: @DerRidda, @beansmyname, Nemoder
 GUESTS:
 ADDITIONAL:
+RATING: Clean
 YOUTUBE: EKTxVis_e9s
 EDITOR: @Corben78
 NOTESCREATOR: rayiner

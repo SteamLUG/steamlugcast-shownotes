@@ -9,6 +9,7 @@ DESCRIPTION: Production manager Edwin Smith from Feral Interactive, a well‐kno
 HOSTS: @ValiantCheese, @johndrinkwater, @DerRidda
 GUESTS: Edwin Smith (feralgames)
 ADDITIONAL: 200510, 225340
+RATING: Clean
 YOUTUBE: s3d2pOT-Wx8
 NOTESCREATOR: @DerRidda
 EDITOR: @johndrinkwater

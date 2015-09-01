@@ -9,6 +9,7 @@ DESCRIPTION: We’re firmly into our stride now with our second podcast, we disc
 HOSTS: @ValiantCheese, @johndrinkwater, @swordfischer
 GUESTS:
 ADDITIONAL:
+RATING: Explicit
 YOUTUBE: iWGwD5jmX9s
 NOTESCREATOR: @swordfischer
 EDITOR: @johndrinkwater

@@ -9,6 +9,7 @@ DESCRIPTION: Cheese, John and DerRidda get together to talk about the most excit
 HOSTS: @ValiantCheese, @johndrinkwater, @DerRidda
 GUESTS:
 ADDITIONAL:
+RATING: None
 YOUTUBE: X_advk6kTRs
 NOTESCREATOR: @robertoszek
 EDITOR: @johndrinkwater

@@ -9,6 +9,7 @@ DESCRIPTION: We’re happy to chat with level designer and renown Portal mapper 
 HOSTS: @ValiantCheese, Nemoder, @Buckwangs
 GUESTS: @PortalMevious
 ADDITIONAL: 317790
+RATING: Explicit
 YOUTUBE: VA8QuowOCw4
 NOTESCREATOR: @DerRidda
 EDITOR: @johndrinkwater

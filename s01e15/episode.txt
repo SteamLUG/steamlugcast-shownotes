@@ -9,6 +9,7 @@ DESCRIPTION: Cheese is joined again by Mim and DerRidda to chat about Steam upda
 HOSTS: @ValiantCheese, @DerRidda, @MimLofBees
 GUESTS:
 ADDITIONAL:
+RATING: Explicit
 YOUTUBE: DZt5YsqMwIE
 NOTESCREATOR: @robertoszek
 EDITOR: @robertoszek

@@ -9,6 +9,7 @@ DESCRIPTION: Hero and Tele pretend to be robots, while talking about the new Ste
 HOSTS: Tele (Tele42), @HeroOhOne
 GUESTS:
 ADDITIONAL:
+RATING: Clean
 YOUTUBE: SSZqA1MHMVE
 EDITOR: Tele (Tele42)
 NOTESCREATOR: HeroOhOne

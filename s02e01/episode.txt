@@ -9,6 +9,7 @@ DESCRIPTION: We’re back with a new season after a short holiday break. Cheese 
 HOSTS: @ValiantCheese, @swordfischer, @johndrinkwater
 GUESTS:
 ADDITIONAL:
+RATING: Explicit
 YOUTUBE: dzp_ZR7y090
 NOTESCREATOR: @johndrinkwater
 EDITOR: @johndrinkwater

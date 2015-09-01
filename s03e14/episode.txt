@@ -9,6 +9,7 @@ DESCRIPTION: Our three hosts take our audience through the previous fortnight of
 HOSTS: @DerRidda, @beansmyname, @HeroOhOne
 GUESTS:
 ADDITIONAL:
+RATING: Clean
 YOUTUBE: ow5mgpPWTnc
 EDITOR: @Corben78
 NOTESCREATOR: @johndrinkwater
@@ -47,7 +48,7 @@ NOTESCREATOR: @johndrinkwater
 00:14:06 Alien: Isolation port may be done by Feral Interactive http://www.feralinteractive.com/en/upcoming/
 	Teasing ‘Terror is a best laid plan’ → Google: David Bowie’s ‘Loving The Alien’
 00:15:59 Star Wars: Knights of the Old Republic II released for Linux by Aspyr Media https://twitter.com/AspyrMedia/status/623542439232598016 http://store.steampowered.com/app/208580/
-00:19:02 Terraria in open beta for Linux http://forums.terraria.org/index.php?threads/terraria-1-3-0-7-mac-linux-open-beta.27418/
+00:19:00 Terraria in open beta for Linux http://forums.terraria.org/index.php?threads/terraria-1-3-0-7-mac-linux-open-beta.27418/
 	Uses FNA http://fna-xna.github.io/ by flibitijibibo http://flibitijibibo.com/ who wrote a post https://plus.google.com/+flibitijibibo/posts/hEjjC1ZwmfC
 00:21:41 Humble Jumbo Bundle 4 including some Linux titles https://www.humblebundle.com/
 	Outland ported by Aaron Melcher (@aaron_melcher), and Mercenary Kings fresh from flibitijibibo (@flibitijibibo)

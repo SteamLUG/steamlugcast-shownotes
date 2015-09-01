@@ -9,6 +9,7 @@ DESCRIPTION: We have a bumper episode for you to listen to, we interview the dev
 HOSTS: @ValiantCheese, @johndrinkwater, @DerRidda
 GUESTS: John Warner (@OverTheMoonGms)
 ADDITIONAL: 290770
+RATING: Explicit
 YOUTUBE: umg8hCwvUVI
 NOTESCREATOR: @ValiantCheese
 EDITOR: @johndrinkwater

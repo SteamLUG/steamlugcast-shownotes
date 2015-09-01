@@ -9,6 +9,7 @@ DESCRIPTION: Swordfischer, John and DerRidda get together once again to talk abo
 HOSTS: @johndrinkwater, @swordfischer, @DerRidda
 GUESTS:
 ADDITIONAL:
+RATING: Explicit
 YOUTUBE: a53-WW4L1Rc
 NOTESCREATOR: @johndrinkwater
 EDITOR: @robertoszek

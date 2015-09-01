@@ -9,6 +9,7 @@ DESCRIPTION: We’re joined by Oliver Franzke of Double Fine to chat about Broke
 HOSTS: @ValiantCheese, @swordfischer, @DerRidda
 GUESTS: Oliver Franzke (@p1xelcoder)
 ADDITIONAL: 221810, 232790
+RATING: Clean
 YOUTUBE: xstgdiBvyh0
 NOTESCREATOR: @ValiantCheese
 EDITOR: @robertoszek

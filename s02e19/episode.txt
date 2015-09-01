@@ -9,6 +9,7 @@ DESCRIPTION: Cheese and DerRidda have brought community member and Lead Linux Ma
 HOSTS: @ValiantCheese, @DerRidda
 GUESTS:  Levi Bard (Tak)
 ADDITIONAL: /avatars/unitylogo.png
+RATING: Clean
 YOUTUBE: 9T93uDzCrYs
 NOTESCREATOR: @beansmyname
 EDITOR: @robertoszek
