@@ -26,6 +26,7 @@ EDITOR: @johndrinkwater
 00:09:50 SteamLUG website http://steamlug.org
 00:11:10 PCGamingWiki http://pcgamingwiki.com/wiki/Home
 00:11:44 ‘SteamLinux’ website http://steamlinux.xpaw.ru/
+	<i>Updates from the future… xPaw has since created SteamDB.info, and this has moved to https://steamdb.info/linux/</i>
 	SteamLinux GitHub repository https://github.com/SteamDatabase/SteamLinux
 00:12:15 SteamLUG IRC channel (#steamlug) irc://irc.freenode.net/steamlug
 00:15:20 Steam OpenID SSO http://steamcommunity.com/dev
