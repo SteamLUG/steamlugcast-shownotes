@@ -102,5 +102,5 @@ EDITOR: @johndrinkwater
 01:06:30 A wild xPaw arrives http://xpaw.me/
 01:06:42 SteamDB gains support for lowest sales price tracking http://steamdb.info/sales/
 01:07:15 xPaw’s userscript for owned games, Cepheus https://github.com/SteamDatabase/Cepheus
-01:06:24 John messing up the outro, again
+01:08:24 John messing up the outro, again
 
