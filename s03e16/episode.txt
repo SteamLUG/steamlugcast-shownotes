@@ -1,16 +1,16 @@
 RECORDED: 2015-08-21
 PUBLISHED:
-TITLE:
+TITLE: Wishlisted Electronic Entertainment Software
 SEASON: 03
 EPISODE: 16
-DURATION:
-FILENAME:
+DURATION: 01:27:55
+FILENAME: steamlugcast.s03e16.wishlisted-electronic-entertainment-software
 DESCRIPTION:
 HOSTS: @ValiantCheese, @DerRidda, @HeroOhOne
 GUESTS:
 ADDITIONAL:
-RATING:
+RATING: Clean
 YOUTUBE:
-EDITOR:
+EDITOR: @Corben78
 NOTESCREATOR:
 
