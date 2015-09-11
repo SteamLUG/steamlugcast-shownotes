@@ -10,7 +10,7 @@ HOSTS: @ValiantCheese, @DerRidda, @HeroOhOne
 GUESTS:
 ADDITIONAL:
 RATING: Clean
-YOUTUBE:
+YOUTUBE: 2x4RLHHN5hk
 EDITOR: @Corben78
 NOTESCREATOR:
 
