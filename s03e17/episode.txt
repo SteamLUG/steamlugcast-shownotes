@@ -1,16 +1,16 @@
 RECORDED: 2015-09-04
 PUBLISHED:
-TITLE:
+TITLE: Do androids dream of electric sheep
 SEASON: 03
 EPISODE: 17
-DURATION:
-FILENAME:
+DURATION: 02:00:40
+FILENAME: steamlugcast.s03e17.do-androids-dream-of-electric-sheep
 DESCRIPTION:
 HOSTS: @ValiantCheese, @beansmyname, @HeroOhOne
 GUESTS: @SanatanaMishra, @ironicaccount
 ADDITIONAL: 250110
 RATING:
 YOUTUBE:
-EDITOR:
+EDITOR: @Corben78
 NOTESCREATOR:
 
