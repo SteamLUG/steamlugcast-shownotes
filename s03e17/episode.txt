@@ -1,6 +1,6 @@
 RECORDED: 2015-09-04
 PUBLISHED:
-TITLE: Do androids dream of electric sheep
+TITLE: Do Androids Dream of Electric Sheep
 SEASON: 03
 EPISODE: 17
 DURATION: 02:00:40
@@ -10,7 +10,7 @@ HOSTS: @ValiantCheese, @beansmyname, @HeroOhOne
 GUESTS: @SanatanaMishra, @ironicaccount
 ADDITIONAL: 250110
 RATING:
-YOUTUBE:
+YOUTUBE: mFazF4FpXpA
 EDITOR: @Corben78
 NOTESCREATOR:
 
