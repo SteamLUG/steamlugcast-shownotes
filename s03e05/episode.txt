@@ -3,7 +3,7 @@ PUBLISHED: 2015-03-12
 TITLE: Vulkanic GDC
 SEASON: 03
 EPISODE: 05
-DURATION: 58:11:32
+DURATION: 00:58:11
 FILENAME: steamlugcast.s03e05.vulkanic-gdc
 DESCRIPTION: John, DerRidda, and Nemoder discuss exciting developments from the 2015 Game Developer’s Conference.
 HOSTS: @johndrinkwater, @DerRidda, Nemoder

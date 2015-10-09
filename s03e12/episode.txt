@@ -3,7 +3,7 @@ PUBLISHED: 2015-07-23
 TITLE: Seriously Brewmaster Very Reborn
 SEASON: 03
 EPISODE: 12
-DURATION: 0:15:16
+DURATION: 00:15:16
 FILENAME: steamlugcast.s03e12.seriously-brewmaster-very-reborn
 DESCRIPTION: Hero and Tele pretend to be robots, while talking about the new SteamOS release and Dota 2 Reborn beta.
 HOSTS: Tele (Tele42), @HeroOhOne
