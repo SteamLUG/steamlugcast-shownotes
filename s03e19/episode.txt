@@ -1,16 +1,16 @@
 RECORDED: 2015-10-02
 PUBLISHED:
-TITLE:
+TITLE: From Dawn Till Dusk
 SEASON: 03
 EPISODE: 19
-DURATION:
-FILENAME:
+DURATION: 01:50:02
+FILENAME: steamlucast.s03e19.from-dawn-till-dusk
 DESCRIPTION:
 HOSTS: @ValiantCheese, @Corben78, @Buckwangs, @doracoder
 GUESTS: @AeornFlippout
 ADDITIONAL: 253030
 RATING:
 YOUTUBE:
-EDITOR:
+EDITOR: @Corben78
 NOTESCREATOR:
 
