@@ -10,7 +10,7 @@ HOSTS: @ValiantCheese, @DerRidda, @HeroOhOne
 GUESTS: @SimoRoth
 ADDITIONAL: 252250
 RATING:
-YOUTUBE:
+YOUTUBE: -7HseCa8W7s
 EDITOR: @ValiantCheese
 NOTESCREATOR:
 
