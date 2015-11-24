@@ -4,7 +4,7 @@ TITLE: From Dawn Till Dusk
 SEASON: 03
 EPISODE: 19
 DURATION: 01:50:02
-FILENAME: steamlucast.s03e19.from-dawn-till-dusk
+FILENAME: steamlugcast.s03e19.from-dawn-till-dusk
 DESCRIPTION:
 HOSTS: @ValiantCheese, @Corben78, @Buckwangs, @doracoder
 GUESTS: @AeornFlippout
