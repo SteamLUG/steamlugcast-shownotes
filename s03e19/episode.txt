@@ -10,7 +10,7 @@ HOSTS: @ValiantCheese, @Corben78, @Buckwangs, @doracoder
 GUESTS: @AeornFlippout
 ADDITIONAL: 253030
 RATING:
-YOUTUBE:
+YOUTUBE: 1nJoyUL0r-g
 EDITOR: @Corben78
 NOTESCREATOR:
 
