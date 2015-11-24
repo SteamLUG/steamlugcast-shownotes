@@ -11,6 +11,6 @@ GUESTS: @SimoRoth
 ADDITIONAL: 252250
 RATING:
 YOUTUBE: -7HseCa8W7s
-EDITOR: @Corben78, @ValiantCheese
+EDITOR: @ValiantCheese, @Corben78
 NOTESCREATOR:
 
