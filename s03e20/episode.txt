@@ -1,6 +1,6 @@
 RECORDED: 2015-10-16
 PUBLISHED:
-TITLE: Twenty minutes chat and expandalones
+TITLE: Twenty minute chat and expandalones
 SEASON: 03
 EPISODE: 20
 DURATION: 01:55:02
