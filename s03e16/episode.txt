@@ -64,7 +64,7 @@ NOTESCREATOR: @beansmyname
 00:48:24 RollerCoaster Tycoon World has Linux/SteamOS system requirements listed indicating Linux support http://store.steampowered.com/app/282560
 00:49:47 Sentris, a musical performance game released http://store.steampowered.com/app/303530/
 00:50:55 Terraria out of Steam beta and available drm-free on gog: http://forums.terraria.org/index.php?threads/terraria-1-3-0-8-can-mac-linux-come-out-play.30287/ https://www.gog.com/game/terraria
-00:51:09 Humble Weekly Bundle “The Return of Space Boy” https://www.humblebundle.com/weekly
+00:51:09 Humble Weekly Bundle "The Return of Space Boy" https://www.humblebundle.com/weekly
 00:51:44 Humble PC & Android Bundle 13 had several titles for Linux https://www.humblebundle.com/
 00:53:13 Company of Heroes 2 arrives on Linux August 27th https://twitter.com/feralgames/status/633571081765453825
 	No cross-platform multiplayer http://steamcommunity.com/groups/maclinux/discussions/0/528398719787800607/
