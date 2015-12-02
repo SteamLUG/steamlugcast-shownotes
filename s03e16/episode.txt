@@ -21,7 +21,7 @@ NOTESCREATOR: @beansmyname
 
 00:00:47 *Our Gaming*
 00:00:48 @HeroOhOne has been playing Nuclear Dawn & DOTA2
-00:02:42 @DerRidda has been playing Middle-earth™: Shadow of Mordor™ and tinkering with the Godot engine
+00:02:42 @DerRidda has been playing Middle-earthâ„¢: Shadow of Mordorâ„¢ and tinkering with the Godot engine
 00:05:16 @ValiantCheese has been playing Ark: Survival Evolved, Apotheon, Parallax, Shovel Knight, Magic Circle, Satellite Reign, The Swindle & Airscape
 
 00:06:31 *SteamLUG Community Stuff*
@@ -69,12 +69,12 @@ NOTESCREATOR: @beansmyname
 00:53:13 Company of Heroes 2 arrives on Linux August 27th https://twitter.com/feralgames/status/633571081765453825
 	No cross-platform multiplayer http://steamcommunity.com/groups/maclinux/discussions/0/528398719787800607/
 00:55:30 GOG.com supporting Linux for over a year and announced new Linux installers http://www.gog.com/forum/general/news_a_year_of_linux_on_gog_new_installers/page1
-00:57:55 Crypt of the NecroDancer is on GOG for Linux (without Galaxy integration) thanks to dev efforts after community requests https://www.gog.com/forum/crypt_of_the_necrodancer/wheres_the_linux_version/post57 
+00:57:55 Crypt of the NecroDancer is on GOG for Linux (without Galaxy integration) thanks to dev efforts after community requests https://www.gog.com/forum/crypt_of_the_necrodancer/wheres_the_linux_version/post57
 00:59:17 Planetary Annihilation: TITANS released http://store.steampowered.com/app/386070/
-01:02:58 Airscape has been released (Linux demo should be coming soon) http://airscapegame.com/ 
-01:04:45 The Swindle has a Linux beta http://steamcommunity.com/app/369110/discussions/1/535152511365554576/ 
+01:02:58 Airscape has been released (Linux demo should be coming soon) http://airscapegame.com/
+01:04:45 The Swindle has a Linux beta http://steamcommunity.com/app/369110/discussions/1/535152511365554576/
 01:06:46 Satellite Reign launch is being launched on the 28th
-	New trailer https://www.youtube.com/watch?v=6HsNWPTjA1s 
+	New trailer https://www.youtube.com/watch?v=6HsNWPTjA1s
 01:11:38 Civ: BE Rising Tide gets a new trailer and confirmation of a simultaneous release https://www.youtube.com/watch?v=bcw7Zg8KwjM http://www.aspyr.com/news_articles/2k-and-firaxis-games-celebrate-rising-tide-with-sid-meiers-civilization-beyond-earth-free-to-play-weekend
 
 01:13:18 *Crowdfunding*
