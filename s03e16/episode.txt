@@ -1,5 +1,5 @@
 RECORDED: 2015-08-21
-PUBLISHED:
+PUBLISHED: 2015-12-02
 TITLE: Wishlisted Electronic Entertainment Software
 SEASON: 03
 EPISODE: 16
@@ -40,18 +40,18 @@ NOTESCREATOR: @beansmyname
 
 00:16:27 *Valve/Steam News*
 00:16:30 Valve removed support for suspend in SteamOS https://github.com/ValveSoftware/SteamOS/issues/259
-	due to software/hardware issues https://github.com/ValveSoftware/SteamOS/issues/259#issuecomment-131262157
-00:17:52 More than 1.400 Linux games listed on Steam http://store.steampowered.com/search/?term=&sort_by=_ASC&os=linux&page=1#sort_by=_ASC&category1=998&os=linux&page=1
+	Due to software/hardware issues https://github.com/ValveSoftware/SteamOS/issues/259#issuecomment-131262157
+00:17:52 More than 1,400 Linux games listed on Steam http://store.steampowered.com/search/?term=&sort_by=_ASC&os=linux&page=1#sort_by=_ASC&category1=998&os=linux&page=1
 
 00:20:23 *Tech News*
 00:20:27 Vulkan on Android demo http://blog.imgtec.com/powervr/gnomes-per-second-in-vulkan-and-opengl-es https://www.youtube.com/watch?v=P_I8an8jXuM
 00:22:30 Vulkan on Nvidia video up on the interwebs http://on-demand.gputechconf.com/siggraph/2015/video/SIG501-Piers-Daniell.html
-00:24:00 Smach Zero(formerly SteamBoy) has release details: late 2016, around $300 USD http://www.polygon.com/2015/8/10/9128997/steam-machine-portably-smach-zero-steamboy
+00:24:00 Smach Zero (formerly SteamBoy) has release details: late 2016, around $300 USD http://www.polygon.com/2015/8/10/9128997/steam-machine-portably-smach-zero-steamboy
 00:25:15 nVidia releases Linux Graphics Debugger 1.0 to debug and profile OpenGL 4.x on Linux https://developer.nvidia.com/content/debug-and-profile-opengl-4x-linux-nvidia-linux-graphics-debugger-10-now-available-download https://developer.nvidia.com/linux-graphics-debugger
 00:26:50 HTC Vive is coming to Linux at launch https://www.youtube.com/watch?v=zEfLXgsgzr0&feature=youtu.be&t=10m51s
 00:29:39 The Witcher 2 Windows vs Linux (eON) benchmark reveals near performance parity https://www.reddit.com/r/linux_gaming/comments/3gmpkn/the_witcher_2_benchmark_on_steamos_windows_aug/ https://www.youtube.com/watch?v=f05C_BbtQx0
 00:31:02 Similarly, DiRT Showdown, which has just been ported to Linux by VP (eON), has better perf than Windows except with AA on http://store.steampowered.com/app/201700/ https://www.youtube.com/watch?v=hP4V5W-IRJ0
-00:33:17 DebConf 15 (15. - 22.08. in Heidelberg/Germany) happening http://meetings-archive.debian.net/pub/debian-meetings/2015/debconf15/
+00:33:17 DebConf 15 (15th ‒ 22th in Heidelberg/Germany) http://meetings-archive.debian.net/pub/debian-meetings/2015/debconf15/
 00:34:39 Wine development release 1.7.49 is now available https://www.winehq.org/announce/1.7.49
 	DirectWrite is now good enough for rendering text in Steam https://bugs.winehq.org/show_bug.cgi?id=31374
 00:35:23 PolyKnight Games artist switched from Maya to Blender http://polyknightgames.com/from-maya-to-blender-the-road-less-traveled/
@@ -60,13 +60,13 @@ NOTESCREATOR: @beansmyname
 00:43:42 OlliOlli2: Welcome to Olliwood released for Linux/Mac/Win on Steam and GoG http://store.steampowered.com/app/365660 https://www.gog.com/game/olliolli2_welcome_to_olliwood
 00:44:34 Put your Linux games on a wishlist in the Humble store https://support.humblebundle.com/hc/en-us/articles/207208397
 00:45:24 Steam store-page for XCOM 2 is up: er...do we care? you can put it on your wishlist now! http://store.steampowered.com/app/268500
-00:47:05 Brigador, isometric tactical vehicular combat game, is available for pre-order (DRM-free and steam) early access release http://stellarjockeys.com/ http://imgur.com/gallery/ViBV2 http://www.neogaf.com/forum/showthread.php?t=1088676
+00:47:05 Brigador, isometric tactical vehicular combat game is available for pre-order (DRM-free and steam) early access release http://stellarjockeys.com/ http://imgur.com/gallery/ViBV2 http://www.neogaf.com/forum/showthread.php?t=1088676
 00:48:24 RollerCoaster Tycoon World has Linux/SteamOS system requirements listed indicating Linux support http://store.steampowered.com/app/282560
 00:49:47 Sentris, a musical performance game released http://store.steampowered.com/app/303530/
 00:50:55 Terraria out of Steam beta and available drm-free on gog: http://forums.terraria.org/index.php?threads/terraria-1-3-0-8-can-mac-linux-come-out-play.30287/ https://www.gog.com/game/terraria
 00:51:09 Humble Weekly Bundle "The Return of Space Boy" https://www.humblebundle.com/weekly
 00:51:44 Humble PC & Android Bundle 13 had several titles for Linux https://www.humblebundle.com/
-00:53:13 Company of Heroes 2 arrives on Linux August 27th https://twitter.com/feralgames/status/633571081765453825
+00:53:13 Company of Heroes 2 arrives on Linux 27th August https://twitter.com/feralgames/status/633571081765453825
 	No cross-platform multiplayer http://steamcommunity.com/groups/maclinux/discussions/0/528398719787800607/
 00:55:30 GOG.com supporting Linux for over a year and announced new Linux installers http://www.gog.com/forum/general/news_a_year_of_linux_on_gog_new_installers/page1
 00:57:55 Crypt of the NecroDancer is on GOG for Linux (without Galaxy integration) thanks to dev efforts after community requests https://www.gog.com/forum/crypt_of_the_necrodancer/wheres_the_linux_version/post57
@@ -78,7 +78,7 @@ NOTESCREATOR: @beansmyname
 01:11:38 Civ: BE Rising Tide gets a new trailer and confirmation of a simultaneous release https://www.youtube.com/watch?v=bcw7Zg8KwjM http://www.aspyr.com/news_articles/2k-and-firaxis-games-celebrate-rising-tide-with-sid-meiers-civilization-beyond-earth-free-to-play-weekend
 
 01:13:18 *Crowdfunding*
-01:13:24 XO: a retro sci-fi strategy game for PC/Mac/Linux - Soundtrack by Jim Guthrie https://www.kickstarter.com/projects/jumpdrive/xo-a-retro-sci-fi-strategy-game-for-pc-mac-linux
+01:13:24 XO: a retro sci-fi strategy game for Win/Mac/Linux - Soundtrack by Jim Guthrie https://www.kickstarter.com/projects/jumpdrive/xo-a-retro-sci-fi-strategy-game-for-pc-mac-linux
 01:14:09 Everspace 60%+ funded -> as a thank you: 10 Minutes gameplay video: https://www.youtube.com/watch?v=8-mpm_47k6Q https://www.kickstarter.com/projects/rockfishgames/everspace
 	Linux now as the first stretch-goal https://www.kickstarter.com/projects/rockfishgames/everspace#project_faq_143896
 01:16:22 New crowfunding platform only for video games: https://www.fig.co
@@ -87,4 +87,4 @@ NOTESCREATOR: @beansmyname
 01:22:45 Aquanox: Deep Descent https://www.kickstarter.com/projects/806010995/aquanox-deep-descent
 	FAQ re: Linux Support https://www.kickstarter.com/projects/806010995/aquanox-deep-descent?ref=users#project_faq_144887
 
-01:26:04 *Sign-off*
+01:26:04 *Sign‐off*
