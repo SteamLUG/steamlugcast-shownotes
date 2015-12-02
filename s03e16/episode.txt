@@ -35,7 +35,7 @@ NOTESCREATOR: @beansmyname
 	Sir, You Are Being Hunted Multiplayer http://steamcommunity.com/groups/steamlug#events/74659441564285988
 	Coffin Dodgers http://steamcommunity.com/groups/steamlug#events/74659441564311155
 	Terraria http://steamcommunity.com/groups/steamlug#events/74659441564311282
-00:10:45 Community member norbert has released a new version of Prince of Persia level editor, Apoplexy. http://www.norbertdejonge.nl/apoplexy/
+00:10:45 Community member norbert has released a new version of the Prince of Persia level editor, Apoplexy http://www.norbertdejonge.nl/apoplexy/
 00:11:52 @ValiantCheese has released a demo for Winter's Wake http://winterswake.com/
 
 00:16:27 *Valve/Steam News*
@@ -44,8 +44,7 @@ NOTESCREATOR: @beansmyname
 00:17:52 More than 1.400 Linux games listed on Steam http://store.steampowered.com/search/?term=&sort_by=_ASC&os=linux&page=1#sort_by=_ASC&category1=998&os=linux&page=1
 
 00:20:23 *Tech News*
-00:20:27 Vulkan on Android demo http://blog.imgtec.com/powervr/gnomes-per-second-in-vulkan-and-opengl-es
-https://www.youtube.com/watch?v=P_I8an8jXuM
+00:20:27 Vulkan on Android demo http://blog.imgtec.com/powervr/gnomes-per-second-in-vulkan-and-opengl-es https://www.youtube.com/watch?v=P_I8an8jXuM
 00:22:30 Vulkan on Nvidia video up on the interwebs http://on-demand.gputechconf.com/siggraph/2015/video/SIG501-Piers-Daniell.html
 00:24:00 Smach Zero(formerly SteamBoy) has release details: late 2016, around $300 USD http://www.polygon.com/2015/8/10/9128997/steam-machine-portably-smach-zero-steamboy
 00:25:15 nVidia releases Linux Graphics Debugger 1.0 to debug and profile OpenGL 4.x on Linux https://developer.nvidia.com/content/debug-and-profile-opengl-4x-linux-nvidia-linux-graphics-debugger-10-now-available-download https://developer.nvidia.com/linux-graphics-debugger
