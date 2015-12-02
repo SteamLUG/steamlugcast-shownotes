@@ -5,7 +5,7 @@ SEASON: 03
 EPISODE: 16
 DURATION: 01:27:55
 FILENAME: steamlugcast.s03e16.wishlisted-electronic-entertainment-software
-DESCRIPTION:
+DESCRIPTION: Our hosts talk about games and entertainment
 HOSTS: @ValiantCheese, @DerRidda, @HeroOhOne
 GUESTS:
 ADDITIONAL:
