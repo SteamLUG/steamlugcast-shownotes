@@ -9,8 +9,198 @@ DESCRIPTION:
 HOSTS: @ValiantCheese, @DerRidda, @HeroOhOne
 GUESTS: @SimoRoth
 ADDITIONAL: 252250
-RATING:
+RATING: Explicit
 YOUTUBE: -7HseCa8W7s
 EDITOR: @Corben78, @ValiantCheese
-NOTESCREATOR:
+NOTESCREATOR: @ValiantCheese
 
+00:00:09 *Introduction*
+00:00:10 @ValiantCheese introduces
+00:00:17 @HeroOhOne
+00:00:17 @DerRidda
+00:00:19 Special guest Simon Roth (@SimoRoth), developer of Maia http://maiagame.com/
+
+*Our Gaming*
+00:00:36 Her0 has been playing Arma3 and Assault Android Cactus
+00:00:54 DerRidda has been playing FTL, The Stanley Parable and CS:GO
+00:01:37 Cheese has been playing The Stanley Parable and The Stanley Parable Demo, Assault Android Cactus and Crypt of the NecroDancer
+00:01:59 Simon has been playing Saints Row 3, Tropico
+
+00:02:55 *Chat with special guest Simon Roth*
+00:03:01 What is Maia?
+00:03:58 Natural Motion http://www.naturalmotion.com/
+00:05:24 Chris Delay from Introversion http://www.introversion.co.uk
+00:05:39 Subversion http://www.introversion.co.uk/subversion/
+00:07:09 Simon's history
+00:07:51 Animator http://anim8or.com/
+00:08:08 Lightwave http://lightwave3d.com/
+00:08:59 Frontier Developments http://www.frontier.co.uk/
+00:09:10 Kinectimals http://kinectimals.frontier.co.uk/
+00:09:38 The Outsider https://www.frontier.co.uk/games/outsider/
+00:09:51 Elite http://elite.frontier.co.uk
+00:10:33 Mode 7 Games http://www.mode7games.com/
+00:10:55 Frozen Synapse http://www.frozensynapse.com/
+00:10:56 Frozen Cortex http://www.frozencortex.com/
+00:11:21 Maia's Kickstarter campaign https://www.kickstarter.com/projects/simonroth/maia
+00:11:28 VVVVVV http://thelettervsixtim.es/
+00:11:37 Terry Cavanaugh https://twitter.com/terrycavanagh/status/36101914743545856 https://twitter.com/SimoRoth/status/57800364602302464
+00:12:51 Humble Indie Bundle 3 https://www.youtube.com/watch?v=E4c6PWtE9mI
+00:14:02 Games that no longer support their creators (archived) https://web.archive.org/web/20120415082246/http://machinestudios.co.uk/viewentry.php?id=45
+	Good Old Games (aka GOG.com) http://gog.com
+	Spy Fox http://store.steampowered.com/sub/42722/
+	System Shock 2 http://store.steampowered.com/app/238210
+00:20:00 Syndicate (2012 remake) http://www.ea.com/syndicate
+00:20:41 Marketing
+00:23:10 The impact of extraneous additional content
+00:23:56 Team Fortress 2 http://teamfortress.com
+00:24:59 Killing the "Lucky indie" myth: How to build a sustainable microstudio https://www.youtube.com/watch?v=1BCg31KVJok
+00:26:44 Flaming chickens http://www.maiagame.com/images/Development/Chickens_Low.gif
+00:29:22 Winter's Wake (Cheese's game) http://winterswake.com
+00:31:17 Influence and homage
+00:32:48 Dungeon Keeper https://en.wikipedia.org/wiki/Dungeon_Keeper
+00:33:10 Aliens http://www.imdb.com/title/tt0090605/
+00:33:20 Aliens: Colonial Marines http://www.sega.com/alienscolonialmarines/
+00:34:11 Avatar http://www.imdb.com/title/tt0499549/
+00:34:13 Ridley Scott http://www.imdb.com/name/nm0000631
+00:34:15 Sci-fi authors influencing film makers
+	Philip K. Dick https://en.wikipedia.org/wiki/Philip_K._Dick
+	Isaac Asimov https://en.wikipedia.org/wiki/Isaac_Asimov
+	M. John Harrison https://en.wikipedia.org/wiki/M._John_Harrison
+00:34:46 Star Trek (the original series) http://www.imdb.com/title/tt0060028/
+00:34:54 Harlan Ellison https://en.wikipedia.org/wiki/Harlan_Ellison
+	Dangerous Visions https://en.wikipedia.org/wiki/Dangerous_Visions
+00:35:47 The Avengers http://www.imdb.com/title/tt0848228
+00:35:58 Cinematography
+00:36:06 Star Trek (2009 reboot) http://www.imdb.com/title/tt0796366/
+00:37:03 Star Wars: Episode I http://www.imdb.com/title/tt0120915/
+00:37:46 2001: A Spacey Odyssey http://www.imdb.com/title/tt0062622
+00:38:42 Lawrence of Arabia http://www.imdb.com/title/tt0056172
+00:38:57 Max Max: Fury Road http://www.imdb.com/title/tt1392190
+00:40:28 Doom E3 3015 Presentation https://youtu.be/QiinO9JPUGw?t=2m22s
+00:42:14 Flashback (2013 remake) https://en.wikipedia.org/wiki/Flashback_%282013_video_game%29
+00:43:00 Exposing one's self to broader culture
+00:43:47 Star Wars http://www.imdb.com/title/tt0076759/
+00:44:01 #maiagame IRC channel on Quakenet http://webchat.quakenet.org?channels=maiagame
+00:44:31 Tropico http://worldoftropico.com
+00:47:19 Patches, DLC and expansions
+00:50:36 Volume http://www.volumegame.net/
+00:50:59 Natural Selection 2 http://www.naturalselection2.com/
+	Key CDT members have since been brought onboard as employees http://unknownworlds.com/ns2/ns2-dev-team-our-community/
+00:51:08 Red Orchestra 2: Heroes of Stalingrad http://www.heroesofstalingrad.com
+00:51:21 Pay Day 2 http://www.crimenet.info
+	Arma 3 http://arma3.com/
+00:51:46 Unreal Tournament https://en.wikipedia.org/wiki/Unreal_Tournament
+00:52:17 CD Projekt https://en.cdprojekt.com/
+00:53:02 Preserving older versions of games
+00:54:30 Counter-Strike "1.6" https://en.wikipedia.org/wiki/Counter-Strike
+00:54:34 Counter-Strike: Source https://en.wikipedia.org/wiki/Counter-Strike:_Source
+00:54:40 Counter-Strike: Global Offensive http://counter-strike.net
+00:54:59 Portal 1's updated ending http://store.steampowered.com/news/3547/ http://theportalwiki.com/wiki/Party_Escort_Bot
+00:55:11 Blade Runner http://www.imdb.com/title/tt0083658/ https://en.wikipedia.org/wiki/Versions_of_Blade_Runner
+00:55:36 Open sourcing as a preservation strategy
+00:58:16 Development tools
+00:58:29 Visual Studio http://visualstudio.com
+00:59:27 Maya http://autodesk.com/maya
+00:59:47 3D Studio Max http://autodesk.com/3dsmax
+00:59:53 Blender http://blender.org
+01:00:21 CPPCheck http://cppcheck.sourceforge.net/
+01:00:41 Libraries and APIs
+01:00:53 FMOD http://fmod.org
+01:01:18 TinyXML http://www.grinninglizard.com/tinyxml2/index.html
+01:01:32 Open source engines
+01:01:47 OGRE http://ogre3d.org/
+01:01:50 Iirlict http://irrlicht.sourceforge.net/
+01:03:31 Unity http://unity3d.com
+01:03:39 How much work is Linux support?
+01:04:11 "35 lines of code"
+01:04:43 SDL http://libsdl.org/
+01:08:02 Advantages of porting early in a project
+01:11:17 LLVM http://llvm.org/
+01:11:23 GCC http://gcc.gnu.org/
+01:12:07 "There are so many good reasons to be developing side by side on multiple platforms all at once."
+01:12:47 Crowdfunding platforms
+01:13:09 Maia on Kickstarter https://www.kickstarter.com/projects/simonroth/maia
+01:13:51 Maia on IndieGoGo https://www.indiegogo.com/projects/maia
+01:15:48 Godus on Kickstarter https://www.kickstarter.com/projects/22cans/project-godus
+01:19:56 Limit Theory https://www.kickstarter.com/projects/joshparnell/limit-theory-an-infinite-procedural-space-game/
+01:20:03 Community responses to Maia 
+01:23:11 Maia Steam Community forum post http://steamcommunity.com/app/252250/discussions/0/517142253857747761/
+01:24:06 Maia 0.5.0 update http://blog.maiagame.com/update-stardystopia-0-50/
+01:30:24 Community impact on development
+01:34:25 Development hurdles
+01:34:56 Batman Arkham Knight PC launch issues http://steamcommunity.com/games/208650/announcements/detail/145588947502686164
+01:38:23 Steam and non-Steam userbases
+01:39:35 Pleasant surprises
+01:40:12 DayZ https://www.dayzgame.com/
+01:40:16 Banished http://www.shiningrocksoftware.com/
+01:40:40 Advantages of self-distibuting
+01:41:41 FastSpring http://www.fastspring.com/
+01:43:00 S.T.A.L.K.E.R. https://en.wikipedia.org/wiki/S.T.A.L.K.E.R._%28series%29
+01:44:11 Balancing persistence of vision against ongoing insights with open development
+01:48:37 Starvation bug https://twitter.com/SimoRoth/status/643837788056629248
+01:51:28 Responses from Linux players
+01:52:23 GamingOnLinux coverage of Maia https://www.gamingonlinux.com/articles/maia-05-stardystopia-released-its-a-pretty-huge-update-to-the-colony-builder.5906/
+01:54:39 Changes in crowdfunding
+01:57:05 Brenda Romero's SHAKER https://www.kickstarter.com/projects/lootdrop/an-old-school-rpg-by-brenda-brathwaite-and-tom-hal 
+01:58:47 Potato Salad https://www.kickstarter.com/projects/324283889/potato-salad
+02:01:27 Prison Architect http://www.introversion.co.uk/prisonarchitect/
+02:02:20 ARK: Survival Evolved http://playark.com
+02:04:10 Minecaft https://minecraft.net/
+02:07:15 Health related question from Simon's Reddit 2012 AMA https://www.reddit.com/r/IAmA/comments/12kqw6/im_simon_roth_creator_of_scifi_godgame_maia_ama/c6vwk9v
+02:15:33 Further thoughts on Linux
+	"I think more developers should support Linux as a matter of fact."
+	"I think more Linux users should push developers to support Linux (politely)."
+	"I think developers who use [...] open source tools should thank the open source developers."
+02:16:19 Ryan C. Gordon @icculus 
+
+02:18:15 *SteamLUG Community Stuff*
+02:18:46 Past events
+	Teeworlds
+	Serious Sam
+	No More Room in Hell
+	Hammerwatch
+02:19:32 Software Freedom Day http://softwarefreedomday.org
+02:20:04 Upcoming events
+	Dying Light
+	Torchlight 2
+	Binding of Isaac: Rebirth
+	Second Portal 2 Mapping Challenge
+02:20:42 Tele42 is taking now hosting the SteamLUG IRC bot https://github.com/SteamLUG/steamlug-bot
+02:21:08 Cheese attended TasJam https://www.patreon.com/posts/3344826
+02:21:22 Her0 achieved a world best score in Assault Android Cactus https://www.youtube.com/watch?v=j2YbiaxL9zs
+
+02:22:07 *Steam/Valve News*
+02:22:09 Steam store now features responsive CSS
+02:24:18 Steam Machines hardware is shipping
+02:24:37 Will Maia support the Steam Controller?
+02:26:10 Ian Hamilton http://ian-hamilton.com/
+02:27:04 Dota 2 not likely to have Workshop Tools not planned for Linux https://github.com/ValveSoftware/Dota-2/issues/305#issuecomment-139794936
+02:28:52 Dota 2 Reborn is out of beta http://blog.dota2.com/2015/09/reborn-has-arrived/
+02:31:22 Github tracker for Reborn https://github.com/ValveSoftware/Dota-2
+02:31:52 Counter-Strike: Global Offensive update http://blog.counter-strike.net/index.php/2015/09/12492/ http://blog.counter-strike.net/index.php/2015/09/12496/
+
+02:33:02 *Tech News*
+02:33:04 Mesa 11.0.0 has been released http://lists.freedesktop.org/archives/mesa-dev/2015-September/094286.html http://mesa3d.org/relnotes/11.0.0.html
+02:33:18 AMD Catalyst 15.9 and FGLRX 15.201.1151 should improve CS: GO and Dota 2 performance https://www.reddit.com/r/linux_gaming/comments/3l2van/amd_catalyst_159_with_lots_of_improvements/
+02:34:07 AMD talk at XDC2015 https://www.youtube.com/watch?v=lXi0ByVTFyY
+02:34:47 Ryan C. Gordon's SteamShim https://hg.icculus.org/icculus/steamshim/
+
+02:35:53 *General Gaming News*
+02:35:54 The Stanley Parable has been released for Linux https://twitter.com/GranPC/status/641618722919157760 http://store.steampowered.com/app/221910
+02:36:58 The Stanley Parable demo also supports Linux
+02:37:06 Airscape: The Fall of Gravity has a Linux demo http://store.steampowered.com/app/317260
+02:37:20 SteamDB shows signs of Saints Row 2 and Saints Row: The Third Linux support https://steamdb.info/app/9480/history/?changeid=1269413 https://steamdb.info/app/55230/history/?changeid=1270733
+02:38:50 Pulsar: Lost Colony beta 2 update http://steamcommunity.com/games/252870/announcements/detail/117447719330259908
+02:40:52 Guns of Icarus Alliance has entered testing for pre-orderers http://gunsoficarus.com/blog/alliance-welcomes-kickstarter-backers-for-early-testing/ 
+02:43:28 Fullbright developer testing the native Linux Unity editor https://twitter.com/DonJuanLeon/status/642682421863825408
+02:44:45 AMD release notes leak Alien: Isolation Linux release http://www.pcworld.com/article/2984515/software-games/alien-isolation-linux-release-hinted-at-by-since-scrubbed-amd-driver-release-notes.html
+
+02:45:26  *Crowdfunding*
+02:45:29 The Dwarves https://www.kickstarter.com/projects/kingartgames/the-dwarves-a-new-storydriven-fantasy-rpg
+02:46:46 12 Is Better Than 6 https://www.kickstarter.com/projects/1926605606/12-is-better-than-6/
+02:48:04 ESSENCE https://www.kickstarter.com/projects/448730379/essence
+02:49:29 Alternate currencies as a hurdle for crowdfunding campaigns
+02:50:50 Human Resources https://www.kickstarter.com/projects/659943965/human-resources-an-apocalyptic-rts-game/
+02:51:35 Planetary Annihilation https://www.kickstarter.com/projects/659943965/planetary-annihilation-a-next-generation-rts
+
+02:54:11 *Sign-off*
