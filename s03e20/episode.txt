@@ -1,6 +1,6 @@
 RECORDED: 2015-10-16
 PUBLISHED:
-TITLE: Twenty minute chat and expandalones
+TITLE: Twenty Minute Chat and Expandalones
 SEASON: 03
 EPISODE: 20
 DURATION: 01:55:02
@@ -8,9 +8,9 @@ FILENAME: steamlugcast.s03e20.twenty-minute-chat-and-expandalones
 DESCRIPTION:
 HOSTS: @ValiantCheese, @doracoder, @DerRidda
 GUESTS: @nullspeak, @Stephen_FX, @EntropicFlip
-ADDITIONAL: 
+ADDITIONAL:
 RATING:
-YOUTUBE:
+YOUTUBE: wLTmx9YVn-c
 EDITOR: @Corben78
 NOTESCREATOR:
 
