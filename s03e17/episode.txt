@@ -71,10 +71,10 @@ NOTESCREATOR: @beansmyname
 	Seriously Casual Serious Sam 3: BFE http://steamcommunity.com/groups/steamlug#events/74661790130698257
 	Hammerwatch http://steamcommunity.com/groups/steamlug#events/74661790130706975
 	No More Room in Hell http://steamcommunity.com/groups/steamlug#events/74661790130707129
-01:36:41 xPaw has made it possible to filter by OS in SteamDB’s calculator https://steamdb.info/calculator/
+01:36:41 xPaw has made it possible to filter by OS in SteamDB's calculator https://steamdb.info/calculator/
 01:36:56 @ValiantCheese published his Planetary Annihilation unboxing video https://www.youtube.com/watch?v=ogpgPfssyYI
 01:37:24 @ValiantCheese chatted with Airscape developers Daniel West and Dieter Theuns https://www.youtube.com/watch?v=uROY1dq4P0E
-01:37:57 @ValiantCheese did a second Winter’s Wake dev stream https://www.youtube.com/watch?v=WRINuSvwuRo
+01:37:57 @ValiantCheese did a second Winter's Wake dev stream https://www.youtube.com/watch?v=WRINuSvwuRo
 01:38:10 @ValiantCheese published a retrospective on being an Assault Android Cactus Early Access player
 01:40:08 Upcoming guests
 	Simon Roth (@SimoRoth)- Developer of Maia http://store.steampowered.com/app/252250
@@ -101,7 +101,7 @@ NOTESCREATOR: @beansmyname
 01:52:58 Previous guest JP LeBreton has released a small example project using Playscii http://vectorpoem.com/playscii/ http://jp.itch.io/endless-ladder-climbing-2
 01:53:37 Double Fine have announced a new game - might have a Linux version http://headlander.com/ 
 01:54:13 Obsidian Entertainment have spoken about their experiences with supporting Linux https://www.youtube.com/watch?v=Dx-8lxjuXKo&t=33m41s https://www.youtube.com/watch?v=Dx-8lxjuXKo&t=56m09s https://forums.obsidian.net/topic/81598-devs-thanks-for-the-linux-support/?p=1726009
-01:55:02 Starbound’s Colony Update http://playstarbound.com/stable-pleased-giraffe-is-here/#more-3670 https://www.youtube.com/watch?v=f6db4718sRY
+01:55:02 Starbound's Colony Update http://playstarbound.com/stable-pleased-giraffe-is-here/#more-3670 https://www.youtube.com/watch?v=f6db4718sRY
 01:55:44 Armello is out of early access http://steamcommunity.com/games/290340/announcements/detail/808745814637528530 http://store.steampowered.com/app/290340/
 
 01:56:45 *Crowdfunding*
