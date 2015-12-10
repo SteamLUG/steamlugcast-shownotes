@@ -12,5 +12,54 @@ ADDITIONAL: 250110
 RATING:
 YOUTUBE: mFazF4FpXpA
 EDITOR: @Corben78
-NOTESCREATOR:
+NOTESCREATOR: @beansmyname
 
+00:00:09 *Introduction*
+00:00:10 @HeroOhOne introduces
+00:00:19 @ValiantCheese
+00:00:21 @beansmyname
+00:00:22 Sanatana Mishra (@SanatanaMishra)
+00:00:28 Tim Dawson (@ironicaccount)
+
+00:00:41 *Our Gaming*
+00:00:44 @ValiantCheese has been playing Crypt of the Necrodancer, Assault Android Cactus, Airscape and testing some Megasphere
+00:01:07 @beansmyname has been playing The Stanley Parable, Crimsonland, Coffin Dodgers, Risk of Rain, Monster Loves You! and Assault Android Cactus
+00:02:04 @HeroOhOne has been playing Verdun, Risk of Rain, Crimsonland and Arma 3
+00:02:33 @SanatanaMishra has been playing DOTA 2 and some games at expos and conventions
+00:03:50 @ironicaccount hasn't had a lot of time but has been playing some Persona Q on the Nintendo 3DS and some Dungeon League
+
+00:06:48 *Chat With Special Guest Tim Dawson and Sanatana (Nart) Mishra of Witch Beam Games*
+00:07:11 The elevator pitch for Assault Android Cactus
+00:09:18 A little background on Tim
+	Started work as a cinematic artist for Ratbag Games https://en.wikipedia.org/wiki/Ratbag_Games
+	After that, went to Team Bondi doing character work on LA Noire https://en.wikipedia.org/wiki/Team_Bondi
+	Moved on to Pandemic Studios and worked on a cancelled movie tie-in https://en.wikipedia.org/wiki/Pandemic_Studios
+	Met Sanatana while working at Creative Assembly https://en.wikipedia.org/wiki/Creative_Assembly
+	Left their jobs in February 2013 to pursue independent development of Assault Android Cactus
+00:15:13 Tim talks about the genesis of the Cactus character http://sycle.deviantart.com/gallery/52882696/Assault-Android-Cactus
+	First Cactus artwork created in 2003
+	The other characters were created during the course of the game's development
+00:18:51 Assault Android Cactus' relation to Antibody Boost http://www.moddb.com/games/antibody-boost
+	Came out after work on Assault Android Cactus had begun
+	Was released entirely free on Android https://play.google.com/store/apps/details?id=com.CircleOfJudgement.Antibody
+00:26:20 Thoughts on Early Access development of Assault Android Cactus
+00:28:45 Reaction from players during Early Access was very positive
+	Daily Drive was a result of watching players during Early Access
+00:31:20 Tim talks about creating the boss battles in Assault Android Cactus
+00:33:17 Some interesting insight into large game development
+00:35:06 Nart highlights some interesting milestones of Assault Android Cactus' development
+00:36:34 Some moments that Tim found particularly interesting
+00:39:20 Tim addresses the question of new players having a different experience than Early Access players
+00:43:33 Cactus' main mechanic, "Aggression is life," separates it from other games in the genre
+00:51:55 The launch trailer gives a first look at Assault Android Cactus' opening cutscene https://www.youtube.com/watch?v=Zludenp6QRE
+00:54:31 New EX modes in the official launch, like MEGA WEAPONS and JJ Abrams' visual mode https://www.youtube.com/watch?v=uFWWX8_uGfg
+
+
+*SteamLUG Community Stuff*
+Past Events
+Upcoming Events
+*Valve/Steam News*
+*Tech News*
+*General Gaming News*
+*Crowdfunding*
+*Sign-off*
