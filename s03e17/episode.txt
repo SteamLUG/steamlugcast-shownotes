@@ -75,7 +75,7 @@ NOTESCREATOR: @beansmyname
 01:36:56 @ValiantCheese published his Planetary Annihilation unboxing video https://www.youtube.com/watch?v=ogpgPfssyYI
 01:37:24 @ValiantCheese chatted with Airscape developers Daniel West and Dieter Theuns https://www.youtube.com/watch?v=uROY1dq4P0E
 01:37:57 @ValiantCheese did a second Winter's Wake dev stream https://www.youtube.com/watch?v=WRINuSvwuRo
-01:38:10 @ValiantCheese published a retrospective on being an Assault Android Cactus Early Access player
+01:38:10 @ValiantCheese published a retrospective on being an Assault Android Cactus Early Access player http://cheesetalks.net/aac2.php
 01:40:08 Upcoming guests
 	Simon Roth (@SimoRoth)- Developer of Maia http://store.steampowered.com/app/252250
 	Aaron San Filippo (@AeornFlippout) - Developer of Race the Sun http://store.steampowered.com/app/253030/
