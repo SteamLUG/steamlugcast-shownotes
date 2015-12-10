@@ -5,7 +5,7 @@ SEASON: 03
 EPISODE: 18
 DURATION: 02:55:18
 FILENAME: steamlugcast.s03e18.35-lines-of-code
-DESCRIPTION:
+DESCRIPTION: Simon Roth joins our hosts to talk about Maia, a colony-building game currently in Early Access on Steam
 HOSTS: @ValiantCheese, @DerRidda, @HeroOhOne
 GUESTS: @SimoRoth
 ADDITIONAL: 252250
