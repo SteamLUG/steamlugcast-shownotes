@@ -5,11 +5,11 @@ SEASON: 03
 EPISODE: 17
 DURATION: 02:00:40
 FILENAME: steamlugcast.s03e17.do-androids-dream-of-electric-sheep
-DESCRIPTION:
+DESCRIPTION: Sanatana Mishra and Tim Dawson of Witch Beam Games join our hosts to talk about Assault Android Cactus
 HOSTS: @ValiantCheese, @beansmyname, @HeroOhOne
 GUESTS: @SanatanaMishra, @ironicaccount
 ADDITIONAL: 250110
-RATING:
+RATING: Clean
 YOUTUBE: mFazF4FpXpA
 EDITOR: @Corben78
 NOTESCREATOR: @beansmyname
@@ -52,14 +52,59 @@ NOTESCREATOR: @beansmyname
 00:39:20 Tim addresses the question of new players having a different experience than Early Access players
 00:43:33 Cactus' main mechanic, "Aggression is life," separates it from other games in the genre
 00:51:55 The launch trailer gives a first look at Assault Android Cactus' opening cutscene https://www.youtube.com/watch?v=Zludenp6QRE
-00:54:31 New EX modes in the official launch, like MEGA WEAPONS and JJ Abrams' visual mode https://www.youtube.com/watch?v=uFWWX8_uGfg
+00:54:31 New EX modes in the official launch, like MEGA WEAPONS and the awful, awful normal-sized head mode https://www.youtube.com/watch?v=uFWWX8_uGfg
+01:04:17 The release from Early Access includes a secret ninth unlockable Android
+01:12:32 Hurdles during development and how they were overcome to get the game to release
+01:16:34 Some real surprises during the course of development
+	Appearance in the Steam Controller advertisement https://youtu.be/_tjWsje9qBc?t=58
+	Community member Sylaris wrote a comprehensive game guide http://steamcommunity.com/sharedfiles/filedetails/?id=182391861
+01:24:54 The future for Witch Beam Games
 
+01:33:53 *SteamLUG Community Stuff*
+01:33:57 Past Events
+	Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/74659441564285827
+	Sir, You are Being Hunted Multiplayer http://steamcommunity.com/groups/steamlug#events/74659441564285988
+	Coffin Dodgers http://steamcommunity.com/groups/steamlug#events/74659441564311155
+	Terraria http://steamcommunity.com/groups/steamlug#events/74659441564311282
+01:36:13 Upcoming Events
+	Teeworlds http://steamcommunity.com/groups/steamlug#events/74661790130698122
+	Seriously Casual Serious Sam 3: BFE http://steamcommunity.com/groups/steamlug#events/74661790130698257
+	Hammerwatch http://steamcommunity.com/groups/steamlug#events/74661790130706975
+	No More Room in Hell http://steamcommunity.com/groups/steamlug#events/74661790130707129
+01:36:41 xPaw has made it possible to filter by OS in SteamDB’s calculator https://steamdb.info/calculator/
+01:36:56 @ValiantCheese published his Planetary Annihilation unboxing video https://www.youtube.com/watch?v=ogpgPfssyYI
+01:37:24 @ValiantCheese chatted with Airscape developers Daniel West and Dieter Theuns https://www.youtube.com/watch?v=uROY1dq4P0E
+01:37:57 @ValiantCheese did a second Winter’s Wake dev stream https://www.youtube.com/watch?v=WRINuSvwuRo
+01:38:10 @ValiantCheese published a retrospective on being an Assault Android Cactus Early Access player
+01:40:08 Upcoming guests
+	Simon Roth (@SimoRoth)- Developer of Maia http://store.steampowered.com/app/252250
+	Aaron San Filippo (@AeornFlippout) - Developer of Race the Sun http://store.steampowered.com/app/253030/
+	Question (@magiccirclegame) - Developers of The Magic Circle http://store.steampowered.com/app/323380/
 
-*SteamLUG Community Stuff*
-Past Events
-Upcoming Events
-*Valve/Steam News*
-*Tech News*
-*General Gaming News*
-*Crowdfunding*
-*Sign-off*
+01:40:36 *Valve/Steam News*
+01:40:39 Steam Music in beta client adds more formats including FLAC and OGG Vorbis http://steamcommunity.com/groups/SteamClientBeta#announcements/detail/52144327686735794
+01:41:04 Big list of Steam Machines on PC World http://pcworld.com/article/2893726/computers/steam-machines-revealed-full-details-and-pictures-for-every-model.html 
+
+01:42:23 *Tech News*
+01:42:27 Wine 1.7.50 released - preliminary implementation of DirectX 11 https://www.winehq.org/announce/1.7.50
+01:43:08 nVidia GTX 950 is out http://www.pcper.com/reviews/Graphics-Cards/NVIDIA-GeForce-GTX-950-2GB-Review-Maxwell-MOBA
+01:43:33 Unity editor comes to Linux - experimental build now available http://blogs.unity3d.com/2015/08/26/unity-comes-to-linux-experimental-build-now-available/
+
+01:46:53 *General Gaming News*
+01:46:55 Duskers released to Early Access http://store.steampowered.com/app/254320/
+01:48:05 Megasphere Early Access (Steam and itch.io) release with Linux support http://www.antonkudin.me/megasphere/ 
+01:48:19 Universe Sandbox 2 in Early Access http://store.steampowered.com/app/230290/
+01:48:35 Project Cars news update, apparently the release is still coming, will be native http://steamcommunity.com/app/234630/discussions/0/610573009248356568/#c521643320347815166
+01:49:00 Rocket League coming to SteamOS later this year https://twitter.com/RocketLeague/status/636949002538188800
+01:50:37 Satellite Reign released out of Early Access http://store.steampowered.com/app/268870
+01:52:04 Arma 3 is in beta http://dev.arma3.com/ports
+01:52:58 Previous guest JP LeBreton has released a small example project using Playscii http://vectorpoem.com/playscii/ http://jp.itch.io/endless-ladder-climbing-2
+01:53:37 Double Fine have announced a new game - might have a Linux version http://headlander.com/ 
+01:54:13 Obsidian Entertainment have spoken about their experiences with supporting Linux https://www.youtube.com/watch?v=Dx-8lxjuXKo&t=33m41s https://www.youtube.com/watch?v=Dx-8lxjuXKo&t=56m09s https://forums.obsidian.net/topic/81598-devs-thanks-for-the-linux-support/?p=1726009
+01:55:02 Starbound’s Colony Update http://playstarbound.com/stable-pleased-giraffe-is-here/#more-3670 https://www.youtube.com/watch?v=f6db4718sRY
+01:55:44 Armello is out of early access http://steamcommunity.com/games/290340/announcements/detail/808745814637528530 http://store.steampowered.com/app/290340/
+
+01:56:45 *Crowdfunding*
+01:56:49 Everspace unlocked Linux stretch goal https://twitter.com/Rockfishgames/status/639190125184987136
+
+01:57:36 *Sign-off*
