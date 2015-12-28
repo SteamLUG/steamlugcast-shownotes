@@ -22,13 +22,25 @@ NOTESCREATOR:
 00:00:28 Jordan Thomas (@nullspeak)
 
 00:00:32 *Chat with Special Guests Stephen Alexander, Kain Shin, and Jordan Thomas of Question*
-00:00:44 The Magic Circle summary http://www.magiccirclegame.com/
+00:00:44 The Magic Circle summary
+	A game about making games http://www.magiccirclegame.com/
 00:01:21 Stephen and Jordan met at Irrational Games working on Bioshock 1 and Bioshock Infinite
 00:01:47 Decided to form Question to work together on their own project
 00:01:59 Kain and Jordan worked together at Ion Storm on Thief: Deadly Shadows
 00:02:48 Question wanted to make something less serious
-00:03:24 Unity was quicker to prototype than UDK, and with an attractive license
-00:04:14 
+00:03:24 Unity was quicker to prototype than UDK
+	Attractive license
+00:04:14 The Magic Circle is a playful commentary on the game industry
+00:09:17 Player input influences the world
+00:11:28 Many possible combinations and solutions to puzzles
+	Alludes to game design
+00:13:14 Ending has a change in gameplay
+00:16:07 Balancing story and gameplay was a unique challenge
+00:18:42 @doracoder enjoyed the art and wanted to see more of the story
+00:19:32 Demo includes the first 30 minutes of the game
+	Saves progress to continue in full game
+00:20:21 Stephen is proud of the sketch world
+
 
 *SteamLUG Community Stuff*
 
