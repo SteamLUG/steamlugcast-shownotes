@@ -6,13 +6,13 @@ EPISODE: 03
 DURATION: 01:01:23
 FILENAME: steamlugcast.s03e03.rearranged
 DESCRIPTION: DerRidda, Cheese and Bean discuss the last fortnight’s gaming news and SteamLUG community happenings including Dying Light, Grim Fandango Remastered, Apotheon, SteamLUG Community Curation and more.
-HOSTS: @DerRidda, @ValiantCheese, @beansmyname
+HOSTS: @DerRidda, @ValiantCheese, bean (@beansmyname)
 GUESTS:
 ADDITIONAL:
 RATING: Clean
 YOUTUBE: pUQqBy446PU
 EDITOR: @Corben78
-NOTESCREATOR: @beansmyname
+NOTESCREATOR: bean (@beansmyname)
 
 00:00:10 *Introduction*
 00:00:15 Cheese (@ValiantCheese)

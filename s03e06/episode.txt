@@ -6,17 +6,17 @@ EPISODE: 06
 DURATION: 01:39:00
 FILENAME: steamlugcast.s03e06.train-of-fate
 DESCRIPTION: SteamLUG hosts are joined by Director at Defiant Development and Creative Director on Hand of Fate, Morgan Jaffit, to discuss the game, the studio's history and Linux.
-HOSTS: @ValiantCheese, @beansmyname, @HeroOhOne
+HOSTS: @ValiantCheese, bean (@beansmyname), @HeroOhOne
 GUESTS: @morganjaffit
 ADDITIONAL: 266510
 RATING: Clean
 YOUTUBE: e203aVVyw50
 EDITOR: @Corben78
-NOTESCREATOR: @johndrinkwater, @beansmyname
+NOTESCREATOR: @johndrinkwater, bean (@beansmyname)
 
 00:00:08 *Introduction*
 00:00:10 @ValiantCheese introduces
-00:00:16 Bean (@beansmyname)
+00:00:16 bean (@beansmyname)
 00:00:19 Hero (@HeroOhOne)
 00:00:21 with special guest, Morgan Jaffit (@morganjaffit) of Defiant Development
 

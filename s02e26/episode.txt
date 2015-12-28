@@ -6,7 +6,7 @@ EPISODE: 26
 DURATION: 01:44:28
 FILENAME: steamlugcast.s02e26.steamy-regards
 DESCRIPTION: This year’s hosts recap recent Linux gaming happenings and then take you on a reflective journey through the wonderous 2014 with all the seriousness and reverence it deserves.
-HOSTS: @ValiantCheese, @DerRidda, @mnarikka, @beansmyname, @MimLofBees, @Corben78
+HOSTS: @ValiantCheese, @DerRidda, @mnarikka, bean (@beansmyname), @MimLofBees, @Corben78
 GUESTS:
 ADDITIONAL:
 RATING: Explicit
@@ -18,7 +18,7 @@ EDITOR: @ValiantCheese
 00:00:28 Cheeseness (@ValiantCheese) forgets to introduce himself
 00:00:30 DerRidda (@DerRidda)
 00:00:34 meklu (@mnarikka)
-00:00:37 Bean (@beansmyname)
+00:00:37 bean (@beansmyname)
 00:00:40 Mim (@MimLofBees)
 
 00:01:02 *Our Gaming*

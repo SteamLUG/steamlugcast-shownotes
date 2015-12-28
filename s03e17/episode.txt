@@ -6,24 +6,24 @@ EPISODE: 17
 DURATION: 02:00:40
 FILENAME: steamlugcast.s03e17.do-androids-dream-of-electric-sheep
 DESCRIPTION: Sanatana Mishra and Tim Dawson of Witch Beam Games join our hosts to talk about Assault Android Cactus
-HOSTS: @ValiantCheese, @beansmyname, @HeroOhOne
+HOSTS: @ValiantCheese, bean (@beansmyname), @HeroOhOne
 GUESTS: @SanatanaMishra, @ironicaccount
 ADDITIONAL: 250110
 RATING: Clean
 YOUTUBE: mFazF4FpXpA
 EDITOR: @Corben78
-NOTESCREATOR: @beansmyname
+NOTESCREATOR: bean (@beansmyname)
 
 00:00:09 *Introduction*
 00:00:10 @HeroOhOne introduces
 00:00:19 @ValiantCheese
-00:00:21 @beansmyname
+00:00:21 bean (@beansmyname)
 00:00:22 Sanatana Mishra (@SanatanaMishra)
 00:00:28 Tim Dawson (@ironicaccount)
 
 00:00:41 *Our Gaming*
 00:00:44 @ValiantCheese has been playing Crypt of the Necrodancer, Assault Android Cactus, Airscape and testing some Megasphere
-00:01:07 @beansmyname has been playing The Stanley Parable, Crimsonland, Coffin Dodgers, Risk of Rain, Monster Loves You! and Assault Android Cactus
+00:01:07 bean (@beansmyname) has been playing The Stanley Parable, Crimsonland, Coffin Dodgers, Risk of Rain, Monster Loves You! and Assault Android Cactus
 00:02:04 @HeroOhOne has been playing Verdun, Risk of Rain, Crimsonland and Arma 3
 00:02:33 @SanatanaMishra has been playing DOTA 2 and some games at expos and conventions
 00:03:50 @ironicaccount hasn't had a lot of time but has been playing some Persona Q on the Nintendo 3DS and some Dungeon League

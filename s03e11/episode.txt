@@ -6,19 +6,19 @@ EPISODE: 11
 DURATION: 02:04:51
 FILENAME: steamlugcast.s03e11.elegant-diagonal-refunds
 DESCRIPTION: Aaron Melcher stops by to chat about porting games to Linux and our hosts have a discussion about Steam refunds
-HOSTS: Tele (Tele42), @ValiantCheese, @beansmyname
+HOSTS: Tele (Tele42), @ValiantCheese, bean (@beansmyname)
 GUESTS: Aaron Melcher (@aaron_melcher), Ethan Lee (@flibitijibibo)
 ADDITIONAL:
 RATING: Clean
 YOUTUBE: 8l2omDydqrk
 EDITOR: @Corben78
-NOTESCREATOR: @beansmyname
+NOTESCREATOR: bean (@beansmyname)
 
 00:00:08 *Introduction*
-00:00:19 Tele42 introduces @ValiantCheese, @beansmyname and special guest, @aaron_melcher
+00:00:19 Tele42 introduces @ValiantCheese, bean (@beansmyname) and special guest, @aaron_melcher
 
 00:00:38 *Our Gaming*
-00:00:40 @beansmyname
+00:00:40 bean (@beansmyname)
 	Destroyed wave after wave of malfunctioning robots in Assault Android Cactus http://store.steampowered.com/app/250110/
 	Wished for human combatants while pummelling bots in top-down Q3/UT-inspired arena shooter, Daedalus - No Escape http://store.steampowered.com/app/315830/
 	Got his steampunk fix in the team-focused multiplayer airship combat game Guns of Icarus Online http://store.steampowered.com/app/209080/

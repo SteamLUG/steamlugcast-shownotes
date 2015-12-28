@@ -6,7 +6,7 @@ EPISODE: 13
 DURATION: 01:07:06
 FILENAME: steamlugcast.s03e13.beautiful-linux-users
 DESCRIPTION: The beautiful gang of SteamLUG Cast sit down, put up their feet, and discuss the latest goings on in Linux Gaming. Apologies for DerRidda’s audio quality, his microphone had broken and has since been replaced -- John.
-HOSTS: @beansmyname, @ValiantCheese, @DerRidda, @HeroOhOne
+HOSTS: bean (@beansmyname), @ValiantCheese, @DerRidda, @HeroOhOne
 GUESTS:
 ADDITIONAL:
 RATING: None
@@ -16,7 +16,7 @@ NOTESCREATOR: @johndrinkwater
 
 00:00:08 *Introduction*
 00:00:10 @ValiantCheese introduces
-00:00:18 @beansmyname
+00:00:18 bean (@beansmyname)
 00:00:21 @HeroOhOne
 00:00:22 @DerRidda
 

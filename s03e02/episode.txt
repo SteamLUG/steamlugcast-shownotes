@@ -6,7 +6,7 @@ EPISODE: 02
 DURATION: 00:37:33
 FILENAME: steamlugcast.s03e02.first-person-shooter-racer-rpg-simulation-games
 DESCRIPTION: DerRidda, Bean and Nemoder discuss the last fortnight’s gaming news and SteamLUG community happenings including Steam bugs, GOG.com, SteamOS, Oddworld New 'N' Tasty, Dying Light, AudioSurf 2, Shadowrun Hong Kong and more!
-HOSTS: @DerRidda, @beansmyname, Nemoder
+HOSTS: @DerRidda, bean (@beansmyname), Nemoder
 GUESTS:
 ADDITIONAL:
 RATING: Clean
@@ -16,7 +16,7 @@ NOTESCREATOR: rayiner
 
 00:00:10 *Introduction*
 00:00:20 DerRidda (@DerRidda)
-00:00:23 Bean (@beansmyname)
+00:00:23 bean (@beansmyname)
 00:00:25 Nemoder (http://steamcommunity.com/id/Nemoder)
 
 00:00:29 *Our Gaming*

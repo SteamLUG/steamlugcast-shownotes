@@ -6,7 +6,7 @@ EPISODE: 14
 DURATION: 00:28:51
 FILENAME: steamlugcast.s03e14.radar-clickers
 DESCRIPTION: Our three hosts take our audience through the previous fortnight of Linux Gaming News
-HOSTS: @DerRidda, @beansmyname, @HeroOhOne
+HOSTS: @DerRidda, bean (@beansmyname), @HeroOhOne
 GUESTS:
 ADDITIONAL:
 RATING: Clean

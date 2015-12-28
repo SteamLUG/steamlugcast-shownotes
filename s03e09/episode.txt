@@ -6,22 +6,22 @@ EPISODE: 09
 DURATION: 01:00:05
 FILENAME: steamlugcast.s03e09.linux-and-gaming-and-linux
 DESCRIPTION: Our hosts discuss their gaming, goings-on in the community, paid mods, new rules for Steam accounts and other Linux gaming news.
-HOSTS: @beansmyname, @DerRidda, @HeroOhOne
+HOSTS: bean (@beansmyname), @DerRidda, @HeroOhOne
 GUESTS:
 ADDITIONAL:
 RATING: Explicit
 YOUTUBE: 9Zl_Xcfk2f4
 EDITOR: @Corben78
-NOTESCREATOR: @beansmyname
+NOTESCREATOR: bean (@beansmyname)
 
 00:00:08 *Introduction*
-00:00:16 @beansmyname
+00:00:16 bean (@beansmyname)
 00:00:19 @HeroOhOne
 00:00:20 @DerRidda
 
 00:00:24 *Our Gaming*
 00:00:26 @DerRidda has been playing a little of nothing
-00:00:36 @beansmyname has been playing Nuclear Dawn, Cosmochoria and Assault Android Cactus
+00:00:36 bean (@beansmyname) has been playing Nuclear Dawn, Cosmochoria and Assault Android Cactus
 00:01:28 @HeroOhOne has been playing Battle for Wesnoth, Zero-K Chicken Mod, Nuclear Dawn, Kerbal Space Program, Running With Rifles, Strike Suit Zero, Crypt of the Necrodancer, BOMB, Guns of Icarus Online, ROCKETSROCKETSROCKETS and Distance
 
 00:03:38 *SteamLUG Community Stuff*

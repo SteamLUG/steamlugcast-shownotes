@@ -6,7 +6,7 @@ EPISODE: 07
 DURATION: 00:48:44
 FILENAME: steamlugcast.s03e07.octothorpe-krautfunding
 DESCRIPTION: Our hosts cover the many hours in the last fortnight they’ve been gaming, game development streams, and bundle politics.
-HOSTS: @DerRidda, @ValiantCheese, @beansmyname
+HOSTS: @DerRidda, @ValiantCheese, bean (@beansmyname)
 GUESTS:
 ADDITIONAL:
 RATING: Explicit
@@ -16,7 +16,7 @@ NOTESCREATOR: @johndrinkwater
 
 00:00:07 *Introduction*
 00:00:08 @DerRidda introduces
-00:00:21 @beansmyname and
+00:00:21 bean (@beansmyname) and
 00:00:24 @ValiantCheese
 
 00:00:33 *Our Gaming*

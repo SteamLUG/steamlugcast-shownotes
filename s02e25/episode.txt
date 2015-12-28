@@ -11,7 +11,7 @@ GUESTS:
 ADDITIONAL:
 RATING: Clean
 YOUTUBE: ExqdQqsnP3Y
-NOTESCREATOR: @beansmyname
+NOTESCREATOR: bean (@beansmyname)
 EDITOR: @Corben78
 
 00:00:09 *Introduction*

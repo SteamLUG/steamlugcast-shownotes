@@ -11,7 +11,7 @@ GUESTS:
 ADDITIONAL:
 RATING: None
 YOUTUBE: wItRuI8LJos
-NOTESCREATOR: @beansmyname
+NOTESCREATOR: bean (@beansmyname)
 EDITOR: @ValiantCheese
 
 00:00:10 *Introduction*

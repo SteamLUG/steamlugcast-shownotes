@@ -11,7 +11,7 @@ GUESTS:  Levi Bard (Tak)
 ADDITIONAL: /avatars/unitylogo.png
 RATING: Clean
 YOUTUBE: 9T93uDzCrYs
-NOTESCREATOR: @beansmyname
+NOTESCREATOR: bean (@beansmyname)
 EDITOR: @robertoszek
 
 00:00:10 *Introduction*

@@ -6,7 +6,7 @@ EPISODE: 17
 DURATION: 00:57:38
 FILENAME: steamlugcast.s02e17.they-mostly-come-out-at-night
 DESCRIPTION: We have a terse update on the last fortnight’s Linux gaming news, we hear from our outside correspondent Corben covering Gamescom, and welcome some new voices to the cast, enjoy!
-HOSTS: @ValiantCheese, @DerRidda, @beansmyname, @Corben78
+HOSTS: @ValiantCheese, @DerRidda, bean (@beansmyname), @Corben78
 GUESTS:
 ADDITIONAL:
 RATING: Explicit
@@ -17,7 +17,7 @@ EDITOR: @robertoszek
 00:00:11 *Introduction*
 00:00:11 @ValiantCheese introduces
 00:00:20 @DerRidda
-00:00:21 @beansmyname
+00:00:21 bean (@beansmyname)
 00:00:24 @Corben78
 
 00:00:47 *Our Gaming*
