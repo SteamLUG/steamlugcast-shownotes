@@ -23,7 +23,12 @@ NOTESCREATOR:
 
 00:00:32 *Chat with Special Guests Stephen Alexander, Kain Shin, and Jordan Thomas of Question*
 00:00:44 The Magic Circle summary http://www.magiccirclegame.com/
-00:01:11 History 
+00:01:21 Stephen and Jordan met at Irrational Games working on Bioshock 1 and Bioshock Infinite
+00:01:47 Decided to form Question to work together on their own project
+00:01:59 Kain and Jordan worked together at Ion Storm on Thief: Deadly Shadows
+00:02:48 Question wanted to make something less serious
+00:03:24 Unity was quicker to prototype than UDK, and with an attractive license
+00:04:14 
 
 *SteamLUG Community Stuff*
 
