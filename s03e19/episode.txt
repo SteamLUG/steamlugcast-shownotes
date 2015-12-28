@@ -6,10 +6,10 @@ EPISODE: 19
 DURATION: 01:50:02
 FILENAME: steamlugcast.s03e19.from-dawn-till-dusk
 DESCRIPTION: Join Aaron San Filippo as he talks with our hosts about Flippfly and Race the Sun
-HOSTS: @ValiantCheese, @Corben78, @Buckwangs, @doracoder
-GUESTS: @AeornFlippout
+HOSTS: @ValiantCheese, @Corben78, LinuxZen (@Buckwangs), @doracoder
+GUESTS: Aaron San Filippo (@AeornFlippout)
 ADDITIONAL: 253030
-RATING: 
+RATING: Clean
 YOUTUBE: 1nJoyUL0r-g
 EDITOR: @Corben78
 NOTESCREATOR: bean (@beansmyname)
@@ -17,18 +17,94 @@ NOTESCREATOR: bean (@beansmyname)
 00:00:08 *Introduction*
 00:00:16 Cheese (@Valiant Cheese) introduces 
 00:00:18 Corben (@Corben78)
-00:00:20 LinuxZen (@Buckwangs )
+00:00:20 Linuxzen (@Buckwangs)
 00:00:22 Dora (@doracoder)
 00:00:27 and special guest, Aaron San Filippo (@AeornFlippout) of Flippfly (@flippfly)
 
-*Our Gaming*
+00:00:35 *Our Gaming*
+00:00:37 Corben
+	Used a Surface Pro 3 running Linux to grow some numbers in idle-clicker games, Adventure Capitalist & Time Clickers http://store.steampowered.com/app/346900/ http://store.steampowered.com/app/385770/
+	Really wanted to play Alien: Isolation (didn't happen) http://store.steampowered.com/app/214490/
+	Put in some practice time in the rocket-powered car jumping soccer game, Rocket League (coming to Linux early 2016) http://store.steampowered.com/app/252950/
+	Spent some time in the asymmetrical hunt-or-be-hunted multiplayer game, Evolve http://store.steampowered.com/app/273350/
+	Experienced The Stanley Parable and its demo for the first time http://store.steampowered.com/app/221910/
+00:03:47 Dora
+	Has been engaging in medieval-style battles in Mount & Blade: Warband http://store.steampowered.com/app/48700/
+	Also burned some time roaming around Runescape (not in Steam, but cross-platform) http://www.runescape.com/community
+	Raced bikes and her heart rate in  Road Redemption, the spiritual successor to Road Rash (currently in Early Access) http://store.steampowered.com/app/300380/
+00:04:25 Linuxzen
+	Played some of the stealth-based, local multiplayer wild west simulator, Thief Town http://store.steampowered.com/app/331220/
+	Explored the dungeons of Hammerwatch http://store.steampowered.com/app/239070/
+00:05:04 Cheese
+	Explored circular labyrinths in the meditative exploration game, Expand  http://store.steampowered.com/app/399780/
+	Delivered pizza and ignored bullies in the flow-based platformer, Ninja Pizza Girl http://store.steampowered.com/app/319470/
+00:05:22 Aaron
+	Has been exploring the dreamy realms and disassociated companionship of Journey (PS4) https://store.playstation.com/#!/en-us/games/journey/cid=UP9000-CUSA00694_00-JOURNEYPS4061115
+	Spent time playing the tactical turn-based strategy game, Hoplite for Android and iOS http://www.magmafortress.com/p/hoplite.html
 
-*SteamLUG Community Stuff*
+00:08:10 *Chat with Special Guest, Aaron San Filippo of Flippfly*
+00:08:24 Race the Sun is … http://flippfly.com/racethesun/ 
+00:09:25 Aaron shares a bit of Race the Sun's history from web game to Steam release
+	Started on Kongregate  http://www.kongregate.com/games/Flippfly/race-the-sun
+	Launched a Kickstarter to buy some development time https://www.kickstarter.com/projects/flippfly/race-the-sun-endless-racer-with-mod-tools-and-mult/description
+	Went to Steam Greenlight http://steamcommunity.com/sharedfiles/filedetails/?id=92973632
+	And on to a release on December 9th of 2013 on Steam http://store.steampowered.com/app/253030
+00:14:20 The impact of community engagement on the Kickstarter's success https://www.kicktraq.com/projects/flippfly/race-the-sun-endless-racer-with-mod-tools-and-mult/
+00:15:08 What led to the decision to utilize the Unity3D for the game's engine http://unity3d.com/
+00:16:46 Aaron went to work for Raven Software right out of college, working on titles like Singularity and Call of Duty: Modern Warfare III http://ravensoftware.com/
+00:19:55 The transition from working on AAA shooters to independently developing Race the Sun brought many challenges
+00:22:45 Pleasant surprises during the development of Race the Sun
+00:23:41 The Linux user community provides useful feedback
+00:25:43 Players' response to Race the Sun
+00:28:47 Flippfly tests on a hardware-based Ubuntu installation
+00:29:32 Aaron talks about attending Steam Dev Days and the addition of Steam Workshop support http://www.steamdevdays.com/?p=event
+00:31:54 Inspiration for Race the Sun https://en.wikipedia.org/wiki/Star_Fox_(video_game)
+00:33:54 VR support is on the horizon for Race the Sun
+00:35:56 Utilizing the Steam Controller's unique functions in the game
+00:38:06 Multiplayer support was tested during the beta phase of development
+00:40:48 The possibility of a sequel is out there but Flippfly is interested in pursuing new ideas http://flippfly.com/about/
+00:41:23 Future projects from Flippfly
+	Hexarden - A hexagonal gardening game http://flippfly.com/hexarden/
+	Prototype Showdown - Two games vie for your votes - Linux downloads available! http://flippfly.com/vote/
+00:56:35 Aaron asks the hosts for ideas about a potential sequel
 
-*Steam/Valve News*
+01:05:07 *SteamLUGBlasting through the funding goal
+ Community Stuff*
+01:05:11 Past Events:
+	Dying Light http://steamcommunity.com/groups/steamlug#events/74661790130716503
+	Torchlight II http://steamcommunity.com/groups/steamlug#events/74661790130716643
+	The Binding of Isaac: Rebirth  - @johndrinkwater streamed the event http://www.twitch.tv/johndrinkwater/v/17725809 http://steamcommunity.com/groups/steamlug#events/74661790130722684
+	Portal 2 Mapping Challenge #2 http://steamcommunity.com/groups/steamlug#events/74661790130722812
+01:08:21 Upcoming Events:
+	PULSAR: Lost Colony http://steamcommunity.com/groups/steamlug#events/63405863645846406
+	Robot Roller-Derby Disco Dodgeball http://steamcommunity.com/groups/steamlug#events/63405863645889692
+	Skullgirls http://steamcommunity.com/groups/steamlug#events/63405863645853538
+	Assault Android Cactus http://steamcommunity.com/groups/steamlug#events/63405863645861625
 
-*Tech News*
+01:09:53 *Tech News*
+01:09:59 Dan Ginsburg from Valve talks at SIGGRAPH 2015 about Vulkan and why developers should favor it over DX12 and Metal https://youtu.be/quNsdYfWXfM?t=6050
+01:10:37 Chet Faliszek gives an introduction to the concepts and tech behind VR https://www.youtube.com/watch?v=o8Ea6NqxnY4
 
-*General Gaming News*
+01:11:01 *General Gaming News*
+01:11:04 Alien: Isolation release for Linux was originally scheduled for 29 Sept https://twitter.com/feralgames/status/646278811382902785
+	The game was delayed a bit http://www.feralinteractive.com/en/news/539/
+01:13:31 Cities: Skylines add-on expansion After Dark released http://store.steampowered.com/app/369150/
+01:14:32 Frictional Games, creators of the Penumbra and Amnesia series, released SOMA http://somagame.com/
+01:15:36 Serious Sam 4 announced - author of Talos Principle hired to write story http://www.croteam.com/big-sam-4-news-screenwriters-confirmed/
+01:15:42 Humble Indie Bundle 15 launched
+01:18:24 Assault Android Cactus has been released ([S03E17] and [S01E13] guests) http://assaultandroidcactus.com/ http://cheesetalks.net/aac2.php
+01:22:01 Ninja Pizza Girl released http://store.steampowered.com/app/319470/
+01:23:06 Developed on Linux, meditative puzzle game Expand was released  http://www.expandgame.com/ https://www.gamingonlinux.com/articles/meditative-labyrinthine-puzzle-game-expand-release-imminent-plus-some-thoughts.6004/
+01:24:42 Imaginal released by Lisa Brown (@wertle), our guest for [S03E10] http://imaginal.wertle.com/
+01:26:39 From the creator of The Stanley Parable comes The Beginner’s Guide http://store.steampowered.com/app/303210
 
-*Sign-off*
+01:29:06 *Crowdfunding*
+01:29:18 Allison Road https://www.kickstarter.com/projects/allisonroad/allison-road-first-person-next-gen-survival-horror
+	Linux support will come - if 300.000 £ stretch-goal is reached, Linux port will be available on day one
+01:30:39 Battletech https://www.kickstarter.com/projects/webeharebrained/battletech
+01:33:05 The Journey Down chapter 3 https://www.kickstarter.com/projects/983397390/the-journey-down
+
+01:35:10 *Other Discussion*
+01:35:16 Linuxzen starts a conversation about SteamOS and Steam Machines http://store.steampowered.com/hardware/#Machines
+
+01:46:50 *Sign-off*
