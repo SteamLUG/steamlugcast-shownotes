@@ -17,7 +17,7 @@ NOTESCREATOR: bean (@beansmyname)
 00:00:08 *Introduction*
 00:00:16 Cheese (@Valiant Cheese) introduces 
 00:00:18 Corben (@Corben78)
-00:00:20 Linuxzen (@Buckwangs)
+00:00:20 Buckwangs (@Buckwangs)
 00:00:22 Dora (@doracoder)
 00:00:27 and special guest, Aaron San Filippo (@AeornFlippout) of Flippfly (@flippfly)
 
@@ -32,7 +32,7 @@ NOTESCREATOR: bean (@beansmyname)
 	Has been engaging in medieval-style battles in Mount & Blade: Warband http://store.steampowered.com/app/48700/
 	Also burned some time roaming around Runescape (not in Steam, but cross-platform) http://www.runescape.com/community
 	Raced bikes and her heart rate in  Road Redemption, the spiritual successor to Road Rash (currently in Early Access) http://store.steampowered.com/app/300380/
-00:04:25 Linuxzen
+00:04:25 Buckwangs
 	Played some of the stealth-based, local multiplayer wild west simulator, Thief Town http://store.steampowered.com/app/331220/
 	Explored the dungeons of Hammerwatch http://store.steampowered.com/app/239070/
 00:05:04 Cheese
@@ -105,6 +105,6 @@ NOTESCREATOR: bean (@beansmyname)
 01:33:05 The Journey Down chapter 3 https://www.kickstarter.com/projects/983397390/the-journey-down
 
 01:35:10 *Other Discussion*
-01:35:16 Linuxzen starts a conversation about SteamOS and Steam Machines http://store.steampowered.com/hardware/#Machines
+01:35:16 Buckwangs starts a conversation about SteamOS and Steam Machines http://store.steampowered.com/hardware/#Machines
 
 01:46:50 *Sign-off*
