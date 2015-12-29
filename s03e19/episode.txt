@@ -31,12 +31,12 @@ NOTESCREATOR: bean (@beansmyname)
 00:03:47 Dora
 	Has been engaging in medieval-style battles in Mount & Blade: Warband http://store.steampowered.com/app/48700/
 	Also burned some time roaming around Runescape (not in Steam, but cross-platform) http://www.runescape.com/community
-	Raced bikes and her heart rate in  Road Redemption, the spiritual successor to Road Rash (currently in Early Access) http://store.steampowered.com/app/300380/
+	Raced bikes and her heart rate in Road Redemption, the spiritual successor to Road Rash (currently in Early Access) http://store.steampowered.com/app/300380/
 00:04:25 Buckwangs
 	Played some of the stealth-based, local multiplayer wild west simulator, Thief Town http://store.steampowered.com/app/331220/
 	Explored the dungeons of Hammerwatch http://store.steampowered.com/app/239070/
 00:05:04 Cheese
-	Explored circular labyrinths in the meditative exploration game, Expand  http://store.steampowered.com/app/399780/
+	Explored circular labyrinths in the meditative exploration game, Expand http://store.steampowered.com/app/399780/
 	Delivered pizza and ignored bullies in the flow-based platformer, Ninja Pizza Girl http://store.steampowered.com/app/319470/
 00:05:22 Aaron
 	Has been exploring the dreamy realms and disassociated companionship of Journey (PS4) https://store.playstation.com/#!/en-us/games/journey/cid=UP9000-CUSA00694_00-JOURNEYPS4061115
@@ -45,7 +45,7 @@ NOTESCREATOR: bean (@beansmyname)
 00:08:10 *Chat with Special Guest, Aaron San Filippo of Flippfly*
 00:08:24 Race the Sun is … http://flippfly.com/racethesun/ 
 00:09:25 Aaron shares a bit of Race the Sun's history from web game to Steam release
-	Started on Kongregate  http://www.kongregate.com/games/Flippfly/race-the-sun
+	Started on Kongregate http://www.kongregate.com/games/Flippfly/race-the-sun
 	Launched a Kickstarter to buy some development time https://www.kickstarter.com/projects/flippfly/race-the-sun-endless-racer-with-mod-tools-and-mult/description
 	Went to Steam Greenlight http://steamcommunity.com/sharedfiles/filedetails/?id=92973632
 	And on to a release on December 9th of 2013 on Steam http://store.steampowered.com/app/253030
@@ -68,12 +68,11 @@ NOTESCREATOR: bean (@beansmyname)
 	Prototype Showdown - Two games vie for your votes - Linux downloads available! http://flippfly.com/vote/
 00:56:35 Aaron asks the hosts for ideas about a potential sequel
 
-01:05:07 *SteamLUGBlasting through the funding goal
- Community Stuff*
+01:05:07 *SteamLUG Community Stuff*
 01:05:11 Past Events:
 	Dying Light http://steamcommunity.com/groups/steamlug#events/74661790130716503
 	Torchlight II http://steamcommunity.com/groups/steamlug#events/74661790130716643
-	The Binding of Isaac: Rebirth  - @johndrinkwater streamed the event http://www.twitch.tv/johndrinkwater/v/17725809 http://steamcommunity.com/groups/steamlug#events/74661790130722684
+	The Binding of Isaac: Rebirth - @johndrinkwater streamed the event http://www.twitch.tv/johndrinkwater/v/17725809 http://steamcommunity.com/groups/steamlug#events/74661790130722684
 	Portal 2 Mapping Challenge #2 http://steamcommunity.com/groups/steamlug#events/74661790130722812
 01:08:21 Upcoming Events:
 	PULSAR: Lost Colony http://steamcommunity.com/groups/steamlug#events/63405863645846406
@@ -94,7 +93,7 @@ NOTESCREATOR: bean (@beansmyname)
 01:15:42 Humble Indie Bundle 15 launched
 01:18:24 Assault Android Cactus has been released ([S03E17] and [S01E13] guests) http://assaultandroidcactus.com/ http://cheesetalks.net/aac2.php
 01:22:01 Ninja Pizza Girl released http://store.steampowered.com/app/319470/
-01:23:06 Developed on Linux, meditative puzzle game Expand was released  http://www.expandgame.com/ https://www.gamingonlinux.com/articles/meditative-labyrinthine-puzzle-game-expand-release-imminent-plus-some-thoughts.6004/
+01:23:06 Developed on Linux, meditative puzzle game Expand was released http://www.expandgame.com/ https://www.gamingonlinux.com/articles/meditative-labyrinthine-puzzle-game-expand-release-imminent-plus-some-thoughts.6004/
 01:24:42 Imaginal released by Lisa Brown (@wertle), our guest for [S03E10] http://imaginal.wertle.com/
 01:26:39 From the creator of The Stanley Parable comes The Beginner’s Guide http://store.steampowered.com/app/303210
 
