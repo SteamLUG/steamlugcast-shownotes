@@ -15,7 +15,7 @@ EDITOR: @Corben78
 NOTESCREATOR: bean (@beansmyname)
 
 00:00:08 *Introduction*
-00:00:16 Cheese (@Valiant Cheese) introduces 
+00:00:16 Cheese (@Valiant Cheese) introduces
 00:00:18 Corben (@Corben78)
 00:00:20 Buckwangs (@Buckwangs)
 00:00:22 Dora (@doracoder)
@@ -43,7 +43,7 @@ NOTESCREATOR: bean (@beansmyname)
 	Spent time playing the tactical turn-based strategy game, Hoplite for Android and iOS http://www.magmafortress.com/p/hoplite.html
 
 00:08:10 *Chat with Special Guest, Aaron San Filippo of Flippfly*
-00:08:24 Race the Sun is … http://flippfly.com/racethesun/ 
+00:08:24 Race the Sun is … http://flippfly.com/racethesun/
 00:09:25 Aaron shares a bit of Race the Sun's history from web game to Steam release
 	Started on Kongregate http://www.kongregate.com/games/Flippfly/race-the-sun
 	Launched a Kickstarter to buy some development time https://www.kickstarter.com/projects/flippfly/race-the-sun-endless-racer-with-mod-tools-and-mult/description
