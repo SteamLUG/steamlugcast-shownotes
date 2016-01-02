@@ -17,19 +17,19 @@ NOTESCREATOR:
 00:00:08 *Introduction*
 00:00:16 @ValiantCheese introduces
 00:00:18 @doracoder
-00:00:22 Stephen Alexander (@Stephen_FX)
+00:00:22 Special guests from Question, Stephen Alexander (@Stephen_FX)
 00:00:25 Kain Shin (@EntropicFlip)
 00:00:28 Jordan Thomas (@nullspeak)
 
 00:00:32 *Chat with Special Guests Stephen Alexander, Kain Shin, and Jordan Thomas of Question*
 00:00:44 The Magic Circle summary
-	A game about making games http://www.magiccirclegame.com/
-00:01:21 Stephen and Jordan met at Irrational Games working on Bioshock 1 and Bioshock Infinite
-00:01:47 Decided to form Question to work together on their own project
-00:01:59 Kain and Jordan worked together at Ion Storm on Thief: Deadly Shadows
+	A game about making games http://www.magiccirclegame.com/ http://store.steampowered.com/app/323380
+00:01:21 Stephen and Jordan met at Irrational Games working on Bioshock 1 and Bioshock Infinite http://irrationalgames.com/ 
+00:01:47 Decided to form Question to work together on their own project http://www.questiongames.com/
+00:01:59 Kain and Jordan worked together at Ion Storm on Thief: Deadly Shadows https://en.wikipedia.org/wiki/Ion_Storm
 00:02:48 Question wanted to make something less serious
 00:03:24 Unity was quicker to prototype than UDK
-	Attractive license
+	Attractive cost of license
 00:04:14 The Magic Circle is a playful commentary on the game industry
 00:09:17 Player input influences the world
 00:11:28 Many possible combinations and solutions to puzzles
@@ -44,7 +44,12 @@ NOTESCREATOR:
 00:22:49 Question risked being mysterious in the marketing
 	Balancing presenting game's fiction and game itself
 00:26:42 They always wanted to make a Linux build but did not have an install at first
-
+00:29:15 Linux users help other Linux users in community
+00:31:20 Linux sales of The Magic Circle is near the Mac sales
+00:32:40 JP Lebreton (@vectorpoem) influenced the desire for a Linux port
+	A character in game was made with him in mind
+	@vectorpoem appeared as a guest in SteamLUG Cast s02e16
+00:33:41 
 
 *SteamLUG Community Stuff*
 
