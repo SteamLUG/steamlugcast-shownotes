@@ -1,15 +1,15 @@
 RECORDED: 2015-11-13
 PUBLISHED:
-TITLE:
+TITLE: Unpredictable usage patterns
 SEASON: 03
 EPISODE: 22
-DURATION:
-FILENAME:
+DURATION: 01:03:46
+FILENAME: steamlugcast.s03e22.unpredictable-usage-patterns
 DESCRIPTION:
 HOSTS: @DerRidda, Nemoder, @HeroOhOne
 GUESTS:
 ADDITIONAL:
 RATING:
 YOUTUBE:
-EDITOR:
+EDITOR: @Corben78
 NOTESCREATOR:
