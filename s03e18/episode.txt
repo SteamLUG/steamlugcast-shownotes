@@ -145,7 +145,7 @@ NOTESCREATOR: @ValiantCheese
 01:58:47 Potato Salad https://www.kickstarter.com/projects/324283889/potato-salad
 02:01:27 Prison Architect http://www.introversion.co.uk/prisonarchitect/
 02:02:20 ARK: Survival Evolved http://playark.com
-02:04:10 Minecaft https://minecraft.net/
+02:04:10 Minecraft https://minecraft.net/
 02:07:15 Health related question from Simon's Reddit 2012 AMA https://www.reddit.com/r/IAmA/comments/12kqw6/im_simon_roth_creator_of_scifi_godgame_maia_ama/c6vwk9v
 02:15:33 Further thoughts on Linux
 	"I think more developers should support Linux as a matter of fact."
