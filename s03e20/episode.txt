@@ -12,7 +12,7 @@ ADDITIONAL:
 RATING:
 YOUTUBE: wLTmx9YVn-c
 EDITOR: @Corben78
-NOTESCREATOR:
+NOTESCREATOR: @HeroOhOne
 
 00:00:08 *Introduction*
 00:00:16 @ValiantCheese introduces
@@ -48,7 +48,7 @@ NOTESCREATOR:
 00:31:20 Linux sales of The Magic Circle is near the Mac sales
 00:32:40 JP Lebreton (@vectorpoem) influenced the desire for a Linux port
 	A character in game was made with him in mind
-	@vectorpoem appeared as a guest in SteamLUG Cast s02e16
+	@vectorpoem appeared as a guest in SteamLUG Cast [s02e16]
 00:33:41 
 
 *SteamLUG Community Stuff*
