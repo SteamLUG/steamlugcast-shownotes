@@ -8,7 +8,7 @@ FILENAME: steamlugcast.s03e20.twenty-minute-chat-and-expandalones
 DESCRIPTION:
 HOSTS: @ValiantCheese, @doracoder, @DerRidda
 GUESTS: @nullspeak, @Stephen_FX, @EntropicFlip
-ADDITIONAL:
+ADDITIONAL: 323380
 RATING:
 YOUTUBE: wLTmx9YVn-c
 EDITOR: @Corben78
