@@ -43,6 +43,7 @@ NOTESCREATOR: @HeroOhOne
 00:21:27 @ValiantCheese liked the spoiler!
 00:22:49 Question risked being mysterious in the marketing
 	Balancing presenting game's fiction and game itself
+	Fictional crowdfunding webpage for game within The Magic Circle http://www.magiccirclegame.com/kickbackr
 00:26:42 They always wanted to make a Linux build but did not have an install at first
 00:29:15 Linux users help other Linux users in community
 00:31:20 Linux sales of The Magic Circle is near the Mac sales
@@ -59,15 +60,56 @@ NOTESCREATOR: @HeroOhOne
 	The Magic Circle may come to console platforms
 00:53:06 There are many interesting ideas that could be implemented in the game
 	The challenge is choosing the correct ones
-00:54:12 
+00:54:21 Stephen is the artist while being well versed in many other disciplines
+00:55:37 Kain does engineering work
+00:55:47 Jordan is writer, level designer, promoter; enjoys unique concepts
+00:57:14 Being smaller and independent, everyone works on tasks they may be uncomfortable with
+01:05:32 James Urbaniak (@JamesUrbaniak) helped humanize a character with voice over
+01:08:36 Leave feedback on the game in forum https://steamcommunity.com/app/323380/discussions/0/
+01:09:20 Kain likes the Dark Souls series and has recently enjoyed The Beginner's Guide http://store.steampowered.com/app/211420/ http://store.steampowered.com/app/335300 http://www.thebeginnersgui.de/
+	Stephen liked SOMA http://somagame.com/
+	Jordan crawls through Darkest Dungeon http://www.darkestdungeon.com/
 
-*SteamLUG Community Stuff*
+01:13:48 *Our Gaming*
+01:13:52 @doracoder has been playing Binding of Isaac: Rebirth http://bindingofisaac.com/
+01:14:55 Stephen has been playing SOMA, The Forest, ARK: Survival Evolved http://somagame.com/ http://survivetheforest.com/ http://www.playark.com/
+01:16:29 @ValiantCheese Assault Android Cactus, Expand and ARK: Survival Evolved http://www.assaultandroidcactus.com http://expandgame.com/ http://www.playark.com/
 
-*Steam/Valve News*
+01:16:44 *SteamLUG Community Stuff*
+01:16:46 Past Events
+	PULSAR: Lost Colony http://steamcommunity.com/groups/steamlug#events/63405863645846406
+	Robot Roller-Derby Disco Dodgeball http://steamcommunity.com/groups/steamlug#events/63405863645889692
+	Skullgirls http://steamcommunity.com/groups/steamlug#events/63405863645853538
+	Assault Android Cactus http://steamcommunity.com/groups/steamlug#events/63405863645861625
+01:20:08 Upcoming Events
+	Altitude http://steamcommunity.com/groups/steamlug#events/63405863645874277
+	Synergy http://steamcommunity.com/groups/steamlug#events/63405863645885633
+	Headcrab Frenzy http://steamcommunity.com/groups/steamlug#events/63405863645889522
+	Terraria http://steamcommunity.com/groups/steamlug#events/63405863645892499
+01:20:50 @ValiantCheese talked to Expand developer Chris Johnson (@HyperNexus) https://www.youtube.com/watch?v=FqBUSkUYwys
+01:21:14 GamingOnLinux hosting a Linux game jam https://www.gamingonlinux.com/articles/the-gol-game-jam-is-really-happening-soon.6037
 
-*Tech News*
+01:22:34 *Steam/Valve News*
+01:22:36 Steam Hardware (Steam Controller and Steam Link) preorders arriving
+	A udev rule is required for the controller to work properly http://askubuntu.com/questions/686214/how-do-i-get-a-steam-controller-working
+01:24:13 Team Fortress themed Steam Link promotional video https://www.youtube.com/watch?v=mraRO_BNQG4
+01:25:00 Ars Technica reviewed Alienware Steam Machine http://arstechnica.com/gaming/2015/10/steams-living-room-hardware-blitz-gets-off-to-a-muddy-start/
+01:26:56 Valve has been removing SteamOS icon from games which have dependencies outside of the Steam Runtime https://www.gamingonlinux.com/articles/valve-looks-like-its-removing-games-that-work-on-linux-but-not-perfectly-on-steamos.6085
 
-*General Gaming News*
+01:29:48 *General Gaming News*
+01:29:52 Humble Bundle lays off employees https://www.polygon.com/2015/10/12/9513937/humble-bundle-cuts-jobs
+01:34:22 Trine 3: The Artifacts of Power has a Linux beta http://steamcommunity.com/games/319910/announcements/detail/39762414062670791
+01:36:31 Virtual Programming has updated their site to show Overlord, Overlord 2, Saints Row 2, Saints Row 3
+01:37:44 Saints Row: Gat out of Hell showing signs of Linux support https://steamdb.info/app/301910/history/?changeid=1344333
+01:38:18 A Telltale engine developer has asked Linux community to show interest in Minecraft: Story Mode port https://www.telltalegames.com/community/discussion/100608/linux-steamos-port
+01:41:35 Firewatch has a release date of February 9th http://blog.camposanto.com/post/131026986269/firewatch-arrives-on-february-9-on-pc-ps4-circle
+01:43:11 Civilization: Beyond Earth expansion Rising Tide has been released http://www.civilization.com/en/games/civilization-beyond-earth-rising-tide/
+01:45:07 Wasteland 2: Director's Cut released http://store.steampowered.com/app/240760/
 
-*Sign-off*
+01:47:16 *Crowdfunding*
+01:47:18 The Journey Down chapter three has been funded https://www.kickstarter.com/projects/983397390/the-journey-down
+01:49:59 New gameplay video released of Thimbleweed Park http://blog.thimbleweedpark.com/thimblenickel
+01:51:42 Descent Underground now playable by alpha and beta backers https://www.kickstarter.com/projects/descendentstudios/descent-underground 
+
+01:53:39 *Sign-off*
 
