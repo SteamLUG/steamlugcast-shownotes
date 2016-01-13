@@ -5,11 +5,11 @@ SEASON: 03
 EPISODE: 20
 DURATION: 01:55:02
 FILENAME: steamlugcast.s03e20.twenty-minute-chat-and-expandalones
-DESCRIPTION:
+DESCRIPTION: Question joins our hosts to talk about The Magic Circle, a satirical game about the game industry
 HOSTS: @ValiantCheese, @doracoder, @DerRidda
 GUESTS: @nullspeak, @Stephen_FX, @EntropicFlip
 ADDITIONAL: 323380
-RATING:
+RATING: Clean
 YOUTUBE: wLTmx9YVn-c
 EDITOR: @Corben78
 NOTESCREATOR: @HeroOhOne
@@ -47,7 +47,7 @@ NOTESCREATOR: @HeroOhOne
 00:26:42 They always wanted to make a Linux build but did not have an install at first
 00:29:15 Linux users help other Linux users in community
 00:31:20 Linux sales of The Magic Circle is near the Mac sales
-00:32:40 JP Lebreton (@vectorpoem) influenced the desire for a Linux port
+00:32:40 JP LeBreton (@vectorpoem) influenced the desire for a Linux port
 	A character in game was made with him in mind
 	@vectorpoem appeared as a guest in SteamLUG Cast [s02e16]
 00:33:52 Game released in early access in May 2015 and launched in July 2015
@@ -73,7 +73,7 @@ NOTESCREATOR: @HeroOhOne
 01:13:48 *Our Gaming*
 01:13:52 @doracoder has been playing Binding of Isaac: Rebirth http://bindingofisaac.com/
 01:14:55 Stephen has been playing SOMA, The Forest, ARK: Survival Evolved http://somagame.com/ http://survivetheforest.com/ http://www.playark.com/
-01:16:29 @ValiantCheese Assault Android Cactus, Expand and ARK: Survival Evolved http://www.assaultandroidcactus.com http://expandgame.com/ http://www.playark.com/
+01:16:29 @ValiantCheese has been playing Assault Android Cactus, Expand and ARK: Survival Evolved http://www.assaultandroidcactus.com http://expandgame.com/ http://www.playark.com/
 
 01:16:44 *SteamLUG Community Stuff*
 01:16:46 Past Events
@@ -99,7 +99,7 @@ NOTESCREATOR: @HeroOhOne
 01:29:48 *General Gaming News*
 01:29:52 Humble Bundle lays off employees https://www.polygon.com/2015/10/12/9513937/humble-bundle-cuts-jobs
 01:34:22 Trine 3: The Artifacts of Power has a Linux beta http://steamcommunity.com/games/319910/announcements/detail/39762414062670791
-01:36:31 Virtual Programming has updated their site to show Overlord, Overlord 2, Saints Row 2, Saints Row 3
+01:36:31 Virtual Programming has updated their site to show Overlord, Overlord 2, Saints Row 2, Saints Row 3 https://www.vpltd.com/
 01:37:44 Saints Row: Gat out of Hell showing signs of Linux support https://steamdb.info/app/301910/history/?changeid=1344333
 01:38:18 A Telltale engine developer has asked Linux community to show interest in Minecraft: Story Mode port https://www.telltalegames.com/community/discussion/100608/linux-steamos-port
 01:41:35 Firewatch has a release date of February 9th http://blog.camposanto.com/post/131026986269/firewatch-arrives-on-february-9-on-pc-ps4-circle
@@ -112,4 +112,3 @@ NOTESCREATOR: @HeroOhOne
 01:51:42 Descent Underground now playable by alpha and beta backers https://www.kickstarter.com/projects/descendentstudios/descent-underground 
 
 01:53:39 *Sign-off*
-
