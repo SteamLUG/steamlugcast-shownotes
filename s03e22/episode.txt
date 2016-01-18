@@ -1,15 +1,86 @@
 RECORDED: 2015-11-13
 PUBLISHED:
-TITLE: Unpredictable usage patterns
+TITLE: Unpredictable Usage Patterns
 SEASON: 03
 EPISODE: 22
 DURATION: 01:03:46
 FILENAME: steamlugcast.s03e22.unpredictable-usage-patterns
-DESCRIPTION:
+DESCRIPTION: Our hosts talk about the Steam Hardware launch and Linux gaming news
 HOSTS: @DerRidda, Nemoder, @HeroOhOne
 GUESTS:
 ADDITIONAL:
-RATING:
+RATING: Clean
 YOUTUBE:
 EDITOR: @Corben78
-NOTESCREATOR:
+NOTESCREATOR: @HeroOhOne
+
+00:00:08 *Introduction*
+00:00:19 @DerRidda introduces
+00:00:20 @HeroOhOne
+00:00:22 Nemoder
+
+00:00:28 *Our Gaming*
+00:00:31 Nemoder has been playing ARK: Survival, Don't Starve Together, Guns of Icarus Online, and Frozen Cortex http://www.playark.com http://dontstarvetogether.com http://gunsoficarus.com http://www.frozencortex.com
+00:00:47 @HeroOhOne has been playing games with Nemoder, as well as Arma 3 http://arma3.com
+00:01:39 @DerRidda has been playing Insurgency and testing the Steam Controller http://store.steampowered.com/app/222880 http://store.steampowered.com/app/353370
+
+00:01:53 *SteamLUG Community Stuff*
+00:01:55 Past Events
+	Terraria http://steamcommunity.com/groups/steamlug#events/65660201580929484
+	Left 4 Dead 2 http://steamcommunity.com/groups/steamlug#events/65660201580929298
+	Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/63405863645908170
+	Victor Vran http://steamcommunity.com/groups/steamlug#events/63405863645901628
+00:02:44 Upcoming Events
+	Worms Clan Wars http://steamcommunity.com/groups/steamlug#events/65660201580929753
+	Broforce http://steamcommunity.com/groups/steamlug#events/65660201580929882
+	Insurgency http://steamcommunity.com/groups/steamlug#events/65660201580930000
+	Dota 2 Casual http://steamcommunity.com/groups/steamlug#events/65660201580930118
+
+00:03:04 *Steam/Valve News*
+00:03:12 Multi-packs are now purchasable as gifts on the Steam Store [No longer working]
+00:04:37 Interview with Gabe Newell about Steam Machines http://www.develop-online.net/analysis/steam-machines-console-killer-or-vanity-project/0213448
+00:07:44 Steam Hardware launched http://store.steampowered.com/hardware
+	Steam Machine Launch Sale http://store.steampowered.com/sale/playwsteammachines
+00:12:35 Steam Controllers and Links are selling well, as there is a wait time if ordering now
+00:13:02 @DerRidda has a Steam Controller and has lots to say about it http://store.steampowered.com/app/353370
+	Steam Controller requires the use of Steam Big Picture Mode [Only for configuration and some special features]
+	udev rule required for full functionality on Linux http://askubuntu.com/questions/686214/how-do-i-get-a-steam-controller-working
+00:15:59 There is a rudimentary open source Steam Controller configuration tool in the works https://github.com/ynsta/steamcontroller
+00:16:55 Left 4 Dead 2 has native Steam Controller support but default configuration is not easy to use
+	Any configuration can be modified
+00:20:21 The Steam Controller is very different, with a high learning curve
+	Hardware allows for different usage patterns, like using the gyroscope for precision aiming
+	Potential for much higher accuracy compared to traditional controllers
+00:26:59 @DerRidda feels that the build quality of the Steam Controller is excellent
+	Small face buttons may be difficult to use for some
+	Two grip paddles are a huge improvement on traditional controllers
+	Buttons can be used in combinations to create mode shifts
+	Analog triggers have a very short pull compared to an Xbox style controllers
+00:32:24 Typing with the Steam Controller is completely different, with absolute [not relative] input on each pad, to act like a virtual touch keyboard
+00:35:55 Steam Link in-home streaming receiver has been released http://store.steampowered.com/app/353380
+00:38:28 Steam Machines have been released http://store.steampowered.com/sale/steam_machines
+	Ars Technica released benchmarks showing the sub-par SteamOS ports http://arstechnica.com/gaming/2015/11/ars-benchmarks-show-significant-performance-hit-for-steamos-gaming
+	Size to performance ratios are very good
+	Zotac and Alienware Steam Machines use custom Nvidia GPUs
+00:43:30 Origin hardware vendor is no longer shipping SteamOS with their living room PC
+00:44:14 Alienware Steam Machine has an hdmi input for passthrough of cable boxes and other devices in the living room
+
+00:45:25 *Tech News*
+00:45:28 PowerPlay power management support lands in AMDGPU, significantly increasing performance http://www.phoronix.com/scan.php?page=article&item=amdgpu-powerplay-test&num=1
+
+00:47:25 *General Gaming News*
+00:47:28 Trine 3 Linux version officially released http://steamcommunity.com/games/319910/announcements/detail/42016940698399678
+	Update includes new level "Quest for Cake"
+00:50:58 Left 4 Dead 2 updated with native Steam Controller support and surround sound support on Linux http://store.steampowered.com/news/19226
+00:51:43 Rocket League port is nearing release https://www.reddit.com/r/IAmA/comments/3re82v/were_psyonix_developers_of_rocket_league_ask_us/cwnc00g#cwnc00g
+00:53:21 Darksiders I and II is still being worked on for Linux http://steamcommunity.com/app/388410/discussions/0/496880503063318384/#c496880503064206500
+00:54:17 The Long Dark released for Linux http://steamcommunity.com/games/305620/announcements/detail/82549786416357453
+00:55:58 Godot Engine joins Software Freedom Conservancy http://www.godotengine.org/news/25-godot-joins-software-freedom-conservancy-as-a-member https://sfconservancy.org
+00:57:59 Grow Home released for Linux http://steamcommunity.com/games/323320/announcements/detail/45395066538402204
+00:58:50 7 Days to Die Alpha 13 out soon http://joelhuenink.tumblr.com
+
+01:00:14 *Crowdfunding*
+01:00:25 Blacksea Odyssey https://www.kickstarter.com/projects/820296110/blacksea-odyssey
+01:01:18 Failsafe https://www.kickstarter.com/projects/1659894998/failsafe
+
+01:02:54 *Sign-off*
