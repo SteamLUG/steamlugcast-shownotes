@@ -1,5 +1,5 @@
 RECORDED: 2015-10-30
-PUBLISHED:
+PUBLISHED: 2016-01-18
 TITLE: Door of Terror
 SEASON: 03
 EPISODE: 21
@@ -55,7 +55,7 @@ NOTESCREATOR: @HeroOhOne
 00:21:04 Magicka 2 has a Linux beta http://steamcommunity.com/games/238370/announcements/detail/89303562727362513
 00:22:23 Alien: Isolation has been released https://twitter.com/feralgames/status/659053866672136193
 	Not working with Mesa https://www.youtube.com/watch?v=n35hwmN3VmQ
-	-benchmark option hasn't been ported http://www.phoronix.com/scan.php?page=news_item&px=Alien-Isolation-No-Benchmark
+	`-benchmark` option hasn't been ported http://www.phoronix.com/scan.php?page=news_item&px=Alien-Isolation-No-Benchmark
 	Video manually benchmarks difference between Windows and Linux https://youtu.be/z5O6hXY6CMY
 00:28:34 Batman: Arkham Knight delayed from fall 2015 to spring 2016 https://www.feralinteractive.com/en/news/525/
 00:29:56 Insurgency released on Linux after brief open beta http://steamcommunity.com/games/insurgency/announcements/detail/69037803022286718
