@@ -55,7 +55,7 @@ NOTESCREATOR: @HeroOhOne
 	Small face buttons may be difficult to use for some
 	Two grip paddles are a huge improvement on traditional controllers
 	Buttons can be used in combinations to create mode shifts
-	Analog triggers have a very short pull compared to an Xbox style controllers
+	Analog triggers have a very short pull compared to Xbox style controllers
 00:32:24 Typing with the Steam Controller is completely different, with absolute [not relative] input on each pad, to act like a virtual touch keyboard
 00:35:55 Steam Link in-home streaming receiver has been released http://store.steampowered.com/app/353380
 00:38:28 Steam Machines have been released http://store.steampowered.com/sale/steam_machines
@@ -63,7 +63,7 @@ NOTESCREATOR: @HeroOhOne
 	Size to performance ratios are very good
 	Zotac and Alienware Steam Machines use custom Nvidia GPUs
 00:43:30 Origin hardware vendor is no longer shipping SteamOS with their living room PC
-00:44:14 Alienware Steam Machine has an hdmi input for passthrough of cable boxes and other devices in the living room
+00:44:14 Alienware Steam Machine has an HDMI input for passthrough of cable boxes and other devices in the living room
 
 00:45:25 *Tech News*
 00:45:28 PowerPlay power management support lands in AMDGPU, significantly increasing performance http://www.phoronix.com/scan.php?page=article&item=amdgpu-powerplay-test&num=1
