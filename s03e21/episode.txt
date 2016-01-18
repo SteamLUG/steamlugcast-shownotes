@@ -5,11 +5,68 @@ SEASON: 03
 EPISODE: 21
 DURATION: 37:18
 FILENAME: steamlugcast.s03e21.door-of-terror
-DESCRIPTION:
+DESCRIPTION: Our hosts talk about Linux gaming and Steam news
 HOSTS: @DerRidda, Nemoder, @Corben78
 GUESTS:
 ADDITIONAL:
-RATING:
+RATING: Explicit
 YOUTUBE:
 EDITOR: @Corben78
-NOTESCREATOR:
+NOTESCREATOR: @HeroOhOne
+
+00:00:08  *Introduction*
+00:00:16 @DerRidda introduces
+00:00:17 Nemoder
+00:00:20 @Corben78 
+
+00:00:23 *Our Gaming*
+00:00:28 @Corben78 has been playing Time Clickers, Adventure Capitalist, Heroes of Newerth, Quiplash, Dynablaster Revenge, and a few games for testing Steam Hardware, especially the Steam Controller http://www.timegamers.com http://www.miniclip.com/games/adventure-capitalist http://www.heroesofnewerth.com http://jackboxgames.com/project/quiplash https://dynablaster.titandemo.de http://store.steampowered.com/app/353370
+00:06:32 @Nemoder has been playing Insurgency, ARK: Survival Evolved, Civilization V, and Guns of Icarus Online http://store.steampowered.com/app/222880 http://www.playark.com http://store.steampowered.com/app/8930 http://gunsoficarus.com
+00:06:53 @DerRidda has been playing Insurgency, Terraria, Counter Strike: Global Offensive, and a small amount of Alien: Isolation http://store.steampowered.com/app/222880 https://terraria.org http://store.steampowered.com/app/730 http://www.alienisolation.com
+
+00:08:30 *SteamLUG Community Stuff*
+00:08:34 Past Events
+	Altitude http://steamcommunity.com/groups/steamlug#events/63405863645874277
+	Synergy http://steamcommunity.com/groups/steamlug#events/63405863645885633
+	Headcrab Frenzy! http://steamcommunity.com/groups/steamlug#events/63405863645889522
+	Terraria http://steamcommunity.com/groups/steamlug#events/63405863645892499
+00:10:34 Upcoming Events
+	Victor Vran http://steamcommunity.com/groups/steamlug#events/63405863645901628
+	Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/63405863645908170
+	Left 4 Dead 2 http://steamcommunity.com/groups/steamlug#events/65660201580929298
+	Terraria http://steamcommunity.com/groups/steamlug#events/65660201580929484
+00:10:57 SteamDB gets a button on website to confirm working Linux games https://www.reddit.com/r/linux_gaming/comments/3qqkas/steamdb_adds_it_works_button_to_confirm_working/
+
+00:11:57 *Steam/Valve News*
+00:11:59 Mobile Steam app has been updated to include trade and market confirmations http://store.steampowered.com/mobile
+00:13:11 Steam Halloween Sale has started http://store.steampowered.com/search/?salepage=steamhalloweensale
+
+00:14:30 *Tech News*
+00:14:33 Huge Phoronix SteamOS benchmarking
+	1080p http://www.phoronix.com/scan.php?page=article&item=steamos-22-gpus&num=1
+	4K http://www.phoronix.com/scan.php?page=article&item=4k-brew-amdnv&num=1
+00:15:54 AMD shows signs of creating a new driver version http://wccftech.com/second-special-edition-drivers-amd-november-catalyst 
+
+00:17:00 *General Gaming News*
+00:17:02 Broforce now available on Linux http://store.steampowered.com/app/274190
+00:17:47 Valve employees have given explaination to SteamOS icons being removed from the Steam store https://www.reddit.com/r/linux_gaming/comments/3p55xv/starbound_dev_on_valve_removing_the_linux_icon/cw37a0r
+	Games which have dependencies outside of the Steam Runtime have had it removed
+	Those effected are still able to be purchased, installed, and played as before
+00:21:04 Magicka 2 has a Linux beta http://steamcommunity.com/games/238370/announcements/detail/89303562727362513
+00:22:23 Alien: Isolation has been released https://twitter.com/feralgames/status/659053866672136193
+	Not working with Mesa https://www.youtube.com/watch?v=n35hwmN3VmQ
+	-benchmark option hasn't been ported http://www.phoronix.com/scan.php?page=news_item&px=Alien-Isolation-No-Benchmark
+	Video manually benchmarks difference between Windows and Linux https://youtu.be/z5O6hXY6CMY
+00:28:34 Batman: Arkham Knight delayed from fall 2015 to spring 2016 https://www.feralinteractive.com/en/news/525/
+00:29:56 Insurgency released on Linux after brief open beta http://steamcommunity.com/games/insurgency/announcements/detail/69037803022286718
+00:31:15 System Shock Enhanced Edition coming natively to Linux https://www.gamingonlinux.com/articles/system-shock-enhanced-edition-coming-to-linux-native-port.6119
+00:32:15 Divinity: Original Sin Linux port has been delayed again https://www.gamingonlinux.com/articles/divinity-original-sin-enhanced-edition-delayed-for-linux-again.6106
+00:33:13 Popular DX12 game Ashes of the Singularity planned for Linux with Vulkan https://steamcommunity.com/app/228880/discussions/1/490123938427454110
+00:33:50 The Binding of Isaac: Afterbirth expansion released http://www.rockpapershotgun.com/2015/10/30/no-more-tears-the-binding-of-isaac-afterbirth-is-out
+00:34:47 Borderlands 2 and Borderlands: The Pre-Sequel receives patches with balancing and bug fixes http://www.gearboxsoftware.com/community/articles/1432/major-updates-coming-to-borderlands-2-the-pre-sequel-and-handsome-collection
+
+00:35:47 *Crowdfunding*
+00:35:49 Indivisible, an RPG from Lab Zero, the makers of Skullgirls https://www.indiegogo.com/projects/indivisible-a-2d-rpg-for-ps4-xb1-win-mac-linux#
+	Linux prototype available for download
+
+00:36:30 *Sign-off*
