@@ -1,6 +1,6 @@
 RECORDED: 2015-10-30
 PUBLISHED:
-TITLE: Door of terror
+TITLE: Door of Terror
 SEASON: 03
 EPISODE: 21
 DURATION: 37:18
@@ -10,14 +10,14 @@ HOSTS: @DerRidda, Nemoder, @Corben78
 GUESTS:
 ADDITIONAL:
 RATING: Explicit
-YOUTUBE:
+YOUTUBE: AqgukbwPKyo
 EDITOR: @Corben78
 NOTESCREATOR: @HeroOhOne
 
 00:00:08  *Introduction*
 00:00:16 @DerRidda introduces
 00:00:17 Nemoder
-00:00:20 @Corben78 
+00:00:20 @Corben78
 
 00:00:23 *Our Gaming*
 00:00:28 @Corben78 has been playing Time Clickers, Adventure Capitalist, Heroes of Newerth, Quiplash, Dynablaster Revenge, and a few games for testing Steam Hardware, especially the Steam Controller http://www.timegamers.com http://www.miniclip.com/games/adventure-capitalist http://www.heroesofnewerth.com http://jackboxgames.com/project/quiplash https://dynablaster.titandemo.de http://store.steampowered.com/app/353370
@@ -45,7 +45,7 @@ NOTESCREATOR: @HeroOhOne
 00:14:33 Huge Phoronix SteamOS benchmarking
 	1080p http://www.phoronix.com/scan.php?page=article&item=steamos-22-gpus&num=1
 	4K http://www.phoronix.com/scan.php?page=article&item=4k-brew-amdnv&num=1
-00:15:54 AMD shows signs of creating a new driver version http://wccftech.com/second-special-edition-drivers-amd-november-catalyst 
+00:15:54 AMD shows signs of creating a new driver version http://wccftech.com/second-special-edition-drivers-amd-november-catalyst
 
 00:17:00 *General Gaming News*
 00:17:02 Broforce now available on Linux http://store.steampowered.com/app/274190
