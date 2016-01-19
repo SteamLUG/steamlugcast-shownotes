@@ -15,7 +15,7 @@ EDITOR: @HeroOhOne
 NOTESCREATOR: @johndrinkwater
 
 00:00:07 *Introduction*
-00:00:08 Bean @beansmyname introduces his co‐hosts
+00:00:08 bean (@beansmyname) introduces his co‐hosts
 00:00:17 @HeroOhOne and
 00:00:19 @DerRidda
 
