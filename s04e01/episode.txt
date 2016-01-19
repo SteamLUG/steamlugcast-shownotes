@@ -1,31 +1,61 @@
 RECORDED: 2016-01-08
-PUBLISHED: 
-TITLE: 
+PUBLISHED:
+TITLE: Wide‐eyed Fools
 SEASON: 04
 EPISODE: 01
-DURATION: 
-FILENAME: 
-DESCRIPTION: 
-HOSTS: bean @beansmyname, @HeroOhOne, @DerRidda
-GUESTS: 
-ADDITIONAL: 
+DURATION: 00:31:05
+FILENAME: steamlugcast.s04e01.wide-eyed-fools
+DESCRIPTION: Our Linux fanatics make each other feel foolish with statements that, fingers crossed, will come true in the end.
+HOSTS: bean (@beansmyname), @HeroOhOne, @DerRidda
+GUESTS:
+ADDITIONAL:
 RATING: Explicit
-YOUTUBE: 
-NOTESCREATOR: 
-EDITOR: 
+YOUTUBE:
+EDITOR: @HeroOhOne
+NOTESCREATOR: @johndrinkwater
 
-*Introduction*
+00:00:07 *Introduction*
+00:00:08 Bean @beansmyname introduces his co‐hosts
+00:00:17 @HeroOhOne and
+00:00:19 @DerRidda
 
-*Our Gaming*
+00:00:23 *Our Gaming*
+00:00:25 Hero has been playing an unhealthy amount of GRID Autosport http://store.steampowered.com/app/255220/, Sublevel Zero http://store.steampowered.com/app/327880/ and Steam Controller http://store.steampowered.com/app/353370/ config.
+00:00:53 DerRidda stuck with the usual Insurgency http://store.steampowered.com/app/222880/
+00:01:02 Bean got a healthy amount of GRID Autosport, and capped it off with Binding of Isaac: Rebirth http://store.steampowered.com/app/250900/ and Tower of Guns http://store.steampowered.com/app/266110/
 
-*SteamLUG Community Stuff*
+00:01:58 *SteamLUG Community Stuff*
+00:01:59 Past Events
+	Arma 3 http://steamcommunity.com/groups/steamlug#events/92687321861393709
+	Binding of Isaac: Rebirth http://steamcommunity.com/groups/steamlug#events/92687321861402486
+00:02:58 Upcoming Events
+	Left 4 Dead 2 http://steamcommunity.com/groups/steamlug#events/92687321861409669
+	GRID Autosport http://steamcommunity.com/groups/steamlug#events/92687321861438048
+	Daedalus - No Escape http://steamcommunity.com/groups/steamlug#events/92687321861443403
+	Awesomenauts http://steamcommunity.com/groups/steamlug#events/92687321861446299
+00:03:31 SteamLUG gaming server GS5 [US] has been upgraded http://steamcommunity.com/groups/steamlug#announcements/detail/92688143665014854
 
-*Steam/Valve News*
+00:03:57 *Steam/Valve News*
+00:03:58 HTC Vive Pre has been announced https://www.htc.com/us/about/newsroom/2016/htc-reshapes-imagination-with-virtual-reality/
+00:06:58 Valve explains caching issue http://store.steampowered.com/news/19852/
+00:08:26 Marc Laidlaw, writer of Half‐Life has left Valve https://www.rockpapershotgun.com/2016/01/08/marc-laidlaw-leaves-valve/
 
-*Tech News*
+00:09:58 *Tech News*
+00:10:02 AMD Polaris GPU Architecture http://www.amd.com/en-us/press-releases/Pages/amd-demonstrates-2016jan04.aspx
+00:12:03 fail0verflow got Linux on PS4 https://fail0verflow.com/blog/2015/console-hacking-2015-liner-notes.html https://twitter.com/fail0verflow/status/684079550943354880
+00:14:53 Unity 5.3.1 Linux build, first release in the 5.3 branch that didn’t have known issues at launch (previous release was pushed despite issues so that there was something to receive feedback from over holidays) http://forum.unity3d.com/threads/unity-on-linux-release-notes-and-known-issues.350256/#post-2453359
+00:15:49 Nvidia beta driver, OpenGL Vendor-Neutral Driver infrastructure is now included, bug fixes https://devtalk.nvidia.com/default/topic/908423/unix-graphics-announcements-and-news/linux-solaris-and-freebsd-driver-361-16-beta-/
 
-*General Gaming News*
+00:16:56 *General Gaming News*
+00:16:58 Rocket League due early 2016, before Xbone release in February https://www.reddit.com/r/RocketLeague/comments/3z6ifz/whats_happening_with_mac_version/cyjpn70
+00:17:55 Bohemia Interactive has reaffirmed that Virtual Programming is updating the Arma 3 Linux client to match latest version http://dev.arma3.com/post/sitrep-00137
+00:19:27 Counter‐Strike: Global Offensive update includes SDL 2.0.4 (fixing double mouse sensitivity), improves performance during end of match scoreboard, and working headphone setting in audio options http://blog.counter-strike.net/index.php/2016/01/13505/
+00:21:14 Team Fortress 2 update reduces memory usage on Linux and Mac http://www.teamfortress.com/post.php?id=19909
+00:21:43 Reddit poster confirms Undertale can be easily run on Linux by extracting files and replacing the binary with native one from another GameMaker Studio game. Dev considering porting earlier rather than later after this news. https://www.reddit.com/r/linux_gaming/comments/3ywa22/howto_running_undertale_natively_on_linux/ https://i.imgur.com/gma9AxX.png
+00:24:51 GRID AutosPort Port RePort http://community.pcgamingwiki.com/page/blog/_/features/port-reports/pc-report-grid-autosport-on-linux-r192
+00:27:25 PULSAR: Lost Colony updates 5.1 and 5.2 have been released http://forums.pulsarthegame.com/viewtopic.php?f=3&t=2486 http://forums.pulsarthegame.com/viewtopic.php?f=3&t=2504
 
-*Sign-off*
+00:28:45 *Crowdfunding*
+00:28:52 Psychonauts 2 funded, still has 4 days left https://www.fig.co/campaigns/psychonauts-2
 
-
+00:30:19 *Sign-off*
