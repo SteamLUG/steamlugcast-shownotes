@@ -9,7 +9,7 @@ DESCRIPTION: Our Linux fanatics make each other feel foolish with statements tha
 HOSTS: bean (@beansmyname), @HeroOhOne, @DerRidda
 GUESTS:
 ADDITIONAL:
-RATING: Explicit
+RATING: Clean
 YOUTUBE:
 EDITOR: @HeroOhOne
 NOTESCREATOR: @johndrinkwater
