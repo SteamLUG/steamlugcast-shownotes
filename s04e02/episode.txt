@@ -6,7 +6,7 @@ EPISODE: 02
 DURATION:
 FILENAME:
 DESCRIPTION:
-HOSTS: @HeroOhOne, @Corben78, @Jasey_Wasey, Tele (Tele42)
+HOSTS: @HeroOhOne, @Corben78, Mohero (@Jasey_Wasey), Tele (Tele42)
 GUESTS:
 ADDITIONAL:
 RATING:
