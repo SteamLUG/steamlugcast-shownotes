@@ -6,8 +6,7 @@ EPISODE: 23
 DURATION: 01:30:06
 FILENAME: steamlugcast.s03e23.exclusive-insider-knowledge
 DESCRIPTION:
-HOSTS: @DerRidda, bean (@beansmyname), @Corben78, @doracoder, @HeroOhOne,
-Nemoder
+HOSTS: @DerRidda, bean (@beansmyname), @Corben78, @doracoder, @HeroOhOne, Nemoder
 GUESTS:
 ADDITIONAL:
 RATING: Explicit
@@ -25,14 +24,14 @@ NOTESCREATOR: @HeroOhOne
 
 00:00:40 *Our Gaming*
 00:00:43 @beansmyname has been playing Nuclear Throne, Saints Row: Gat out of
-Hell, and Rocket League 
+Hell, and Rocket League
 00:01:35 @Corben has been playing Rocket League, Assault Android Cactus, Axiom
-Verge, Saints Row IV 
+Verge, Saints Row IV
 00:05:30 @HeroOhOne has been playing "Make configurations for the Steam
-Controller" 
-00:05:53 @doracoder has been playing Undertale 
+Controller"
+00:05:53 @doracoder has been playing Undertale
 00:07:37 @DerRidda has been playing Saints Row IV, Saints Row: Gat out of
-Hell, Insurgency 
+Hell, Insurgency
 00:08:43 @Nemoder has been playing 7 Days to Die, Saints Row IV, DiRT:
 Showdown
 
@@ -68,7 +67,7 @@ Running With Rifles
 	No upcoming events were scheduled, but suggestions are welcome in the
 forum
 http://steamcommunity.com/groups/steamlug/discussions/2/611696927927623325/
-	
+
 
 00:12:56 *Steam/Valve News*
 00:12:58 Steam allows permanent removal of games from library
@@ -77,7 +76,7 @@ https://help.steampowered.com/
 http://store.steampowered.com/news/19618/
 00:18:22 Steam Controller has received many feature updates
 http://store.steampowered.com/controller/update/dec
-	Steam Controller open source user space driver is usable 
+	Steam Controller open source user space driver is usable
 00:22:58 Christmas privacy issue on Steam Store
 http://www.gamespot.com/articles/steam-issue-allowing-access-to-other-users-account/1100-6433371/
 	Caching issue allowed some information to be visible to others
