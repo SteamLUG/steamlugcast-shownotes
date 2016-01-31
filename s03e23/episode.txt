@@ -6,7 +6,7 @@ EPISODE: 23
 DURATION: 01:30:06
 FILENAME: steamlugcast.s03e23.exclusive-insider-knowledge
 DESCRIPTION:
-HOSTS: @DerRidda, bean (@beansmyname), @Corben78, @doracoder, @HeroOhOne, Nemoder
+HOSTS: @DerRidda, bean (@beansmyname), @Corben78, @DoraCoder, @HeroOhOne, Nemoder
 GUESTS:
 ADDITIONAL:
 RATING: Explicit
@@ -17,16 +17,16 @@ NOTESCREATOR: @HeroOhOne
 00:00:07 *Introduction*
 00:00:15 DerRidda introduces
 00:00:26 @beansmyname
-00:00:29 @Corben
+00:00:29 @Corben78
 00:00:31 @HeroOhOne
-00:00:33 @doracoder
+00:00:33 @DoraCoder
 00:00:35 Nemoder
 
 00:00:40 *Our Gaming*
 00:00:43 @beansmyname has been playing Nuclear Throne, Saints Row: Gat out of Hell, and Rocket League
-00:01:35 @Corben has been playing Rocket League, Assault Android Cactus, Axiom Verge, Saints Row IV
+00:01:35 @Corben78 has been playing Rocket League, Assault Android Cactus, Axiom Verge, Saints Row IV
 00:05:30 @HeroOhOne has been playing "Make configurations for the Steam Controller"
-00:05:53 @doracoder has been playing Undertale
+00:05:53 @DoraCoder has been playing Undertale
 00:07:37 @DerRidda has been playing Saints Row IV, Saints Row: Gat out of Hell, Insurgency
 00:08:43 @Nemoder has been playing 7 Days to Die, Saints Row IV, DiRT: Showdown
 
@@ -94,13 +94,13 @@ SPOILER
 01:13:26 *Predictions*
 01:13:34 @beansmyname "predicts" that Rocket League will come to Linux
 @Nemoder and @HeroOhOne Vulkan
-@Corben Elite: Dangerous
+@Corben78 Elite: Dangerous
 @DerRidda The Witcher 3 and GoG Galaxy
 itch.io
 @Nemoder new, awesome ip
-@Corben Evolve
+@Corben78 Evolve
 @DerRidda says Daeus Ex
-@Dora Undertale
+@DoraCoder Undertale
 Lots of games were released
 xPaw confirmed games graph
 @DerRidda Steam Runtime falls apart more
