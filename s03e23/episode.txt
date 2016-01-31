@@ -1,15 +1,15 @@
 RECORDED: 2015-12-26
 PUBLISHED:
-TITLE:
+TITLE: Exclusive insider knowledge
 SEASON: 03
 EPISODE: 23
-DURATION:
-FILENAME:
+DURATION: 01:30:06
+FILENAME: steamlugcast.s03e23.exclusive-insider-knowledge
 DESCRIPTION:
 HOSTS: @DerRidda, bean (@beansmyname), @Corben78, @doracoder, @HeroOhOne, Nemoder
 GUESTS:
 ADDITIONAL:
 RATING:
 YOUTUBE:
-EDITOR:
+EDITOR: @Corben78
 NOTESCREATOR:
