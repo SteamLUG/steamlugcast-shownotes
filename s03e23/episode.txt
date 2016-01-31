@@ -6,10 +6,149 @@ EPISODE: 23
 DURATION: 01:30:06
 FILENAME: steamlugcast.s03e23.exclusive-insider-knowledge
 DESCRIPTION:
-HOSTS: @DerRidda, bean (@beansmyname), @Corben78, @doracoder, @HeroOhOne, Nemoder
+HOSTS: @DerRidda, bean (@beansmyname), @Corben78, @doracoder, @HeroOhOne,
+Nemoder
 GUESTS:
 ADDITIONAL:
-RATING:
+RATING: Explicit
 YOUTUBE:
 EDITOR: @Corben78
-NOTESCREATOR:
+NOTESCREATOR: @HeroOhOne
+
+00:00:07 *Introduction*
+00:00:15 DerRidda introduces
+00:00:26 @beansmyname
+00:00:29 @Corben
+00:00:31 @HeroOhOne
+00:00:33 @doracoder
+00:00:35 Nemoder
+
+00:00:40 *Our Gaming*
+00:00:43 @beansmyname has been playing Nuclear Throne, Saints Row: Gat out of
+Hell, and Rocket League 
+00:01:35 @Corben has been playing Rocket League, Assault Android Cactus, Axiom
+Verge, Saints Row IV 
+00:05:30 @HeroOhOne has been playing "Make configurations for the Steam
+Controller" 
+00:05:53 @doracoder has been playing Undertale 
+00:07:37 @DerRidda has been playing Saints Row IV, Saints Row: Gat out of
+Hell, Insurgency 
+00:08:43 @Nemoder has been playing 7 Days to Die, Saints Row IV, DiRT:
+Showdown
+
+00:09:38 *SteamLUG Community Stuff*
+00:09:41 Past Events
+	Worms Clan Wars
+http://steamcommunity.com/groups/steamlug#events/65660201580929753
+	Broforce
+http://steamcommunity.com/groups/steamlug#events/65660201580929882
+	Insurgency
+http://steamcommunity.com/groups/steamlug#events/65660201580930000
+	Dota 2
+http://steamcommunity.com/groups/steamlug#events/65660201580930118
+	Teeworlds
+http://steamcommunity.com/groups/steamlug#events/65660201580930396
+	Vertiginous Golf
+http://steamcommunity.com/groups/steamlug#events/65660201580930543
+	Storm United
+http://steamcommunity.com/groups/steamlug#events/65663374974982800
+	Running With Rifles
+http://steamcommunity.com/groups/steamlug#events/65663374974982937
+	DiRT Showdown
+http://steamcommunity.com/groups/steamlug#events/65663374974991030
+	No More Room in Hell
+http://steamcommunity.com/groups/steamlug#events/65663374974991175
+	Trine 3
+http://steamcommunity.com/groups/steamlug#events/65663374974999613
+	Serious Sam 3
+http://steamcommunity.com/groups/steamlug#events/65663374974999751
+@HeroOhOne's favorite Steam Controller config during the events was for
+Running With Rifles
+00:12:28 Upcoming Events
+	No upcoming events were scheduled, but suggestions are welcome in the
+forum
+http://steamcommunity.com/groups/steamlug/discussions/2/611696927927623325/
+	
+
+00:12:56 *Steam/Valve News*
+00:12:58 Steam allows permanent removal of games from library
+https://help.steampowered.com/
+00:15:41 New security policies have been introduced for Steam trading
+http://store.steampowered.com/news/19618/
+00:18:22 Steam Controller has received many feature updates
+http://store.steampowered.com/controller/update/dec
+	Steam Controller open source user space driver is usable 
+00:22:58 Christmas privacy issue on Steam Store
+http://www.gamespot.com/articles/steam-issue-allowing-access-to-other-users-account/1100-6433371/
+	Caching issue allowed some information to be visible to others
+
+00:29:00 *Tech News*
+00:29:07 Unity 5.3 released with OpenGL 4 rendering
+http://blogs.unity3d.com/2015/12/08/unity-5-3-all-new-features-and-more-platforms/
+00:30:07 Steam Controller assembly video
+https://www.youtube.com/watch?v=uCgnWqoP4MM
+00:31:58 AMD announces GPUOpen initiative
+http://news.slashdot.org/story/15/12/15/1429257/amd-goes-open-source-announces-gpuopen-initiative-linux-compiler-drivers
+	Open source middleware to help developers take advantage of GPU
+hardware
+00:33:53 Vulkan specification delayed until 2016
+https://www.khronos.org/vulkan
+	Waiting for compliance testing and legal audit
+00:35:54 Wine 1.8 has been released https://www.winehq.org/announce/
+	Pulseaudio and dwrite support has been added
+
+00:37:22 *General Gaming News*
+00:37:26 GRID Autosport has been released by Feral Interactive
+https://twitter.com/feralgames/status/672361644090130432
+store.steampowered.com/app/255220
+00:38:41 Bound by Flame action RPG has been released for Linux
+http://store.steampowered.com/app/243930/
+00:39:57 XCom 2 is to be available on February 5th 2016
+	New trailer https://www.youtube.com/watch?v=j0qHZG1-rEg
+00:41:30 Total War: Attila has been released on Linux
+00:42:26 Payday 2 has signs of Linux support
+https://steamdb.info/app/218620/history/?changeid=1613021
+00:44:40 Flippfly is letting their next game be decided by the community
+https://flippfly.com/vote/
+00:45:41 Capcom announced that Street Fighter V is coming to Linux
+http://www.capcom-unity.com/street_fighter/blog/2015/12/17/announcing-steam-os-support-for-sfv
+http://steamcommunity.com/games/310950/announcements/detail/76484848421811607
+00:48:05 Hacknet http://store.steampowered.com/app/365450/
+	Ported by @flibitjibbibo
+https://plus.google.com/+flibitijibibo/posts/24Krz6YnMGX
+00:49:01 Firewatch gameplay video released
+http://www.youtube.com/watch?v=Vo8O2h2daE8
+00:49:37 Saints Row IV and Saints Row: Gat out of Hell has been released on
+Linux by Virtual Programming http://store.steampowered.com/app/206420/
+http://store.steampowered.com/app/301910/
+00:56:43 @DerRidda played the early, native port of Saints Row IV and it
+performed worse than this release with eON
+01:02:32 Divinity: Original Sin Enhanced Edition finally released for Linux
+http://store.steampowered.com/app/373420/
+SPOILER
+01:04:38 OpenMW 0.37.0 released https://openmw.org/2015/openmw-0-37-released/
+	Graphical framework switched from Ogre3D to Open Scene Graph
+
+01:05:53 *Crowdfunding*
+01:05:57 Psychonauts 2 https://www.fig.co/campaigns/psychonauts-2
+01:09:33 Smach Z Kickstarter campaign started
+https://www.kickstarter.com/projects/smachteam/smach-z-the-first-handheld-steam-machine
+	Canceled soon after
+https://www.kickstarter.com/projects/smachteam/smach-z-the-first-handheld-steam-machine/posts/1445260
+
+01:13:26 *Predictions*
+01:13:34 @beansmyname "predicts" that Rocket League will come to Linux
+@Nemoder and @HeroOhOne Vulkan
+@Corben Elite: Dangerous
+@DerRidda The Witcher 3 and GoG Galaxy
+itch.io
+@Nemoder new, awesome ip
+@Corben Evolve
+@DerRidda says Daeus Ex
+@Dora Undertale
+Lots of games were released
+xPaw confirmed games graph
+@DerRidda Steam Runtime falls apart more
+
+01:26:09 *Sign-off*
+
