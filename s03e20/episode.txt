@@ -6,7 +6,7 @@ EPISODE: 20
 DURATION: 01:55:02
 FILENAME: steamlugcast.s03e20.twenty-minute-chat-and-expandalones
 DESCRIPTION: Question joins our hosts to talk about The Magic Circle, a satirical game about the game industry
-HOSTS: @ValiantCheese, @doracoder, @DerRidda
+HOSTS: @ValiantCheese, @DoraCoder, @DerRidda
 GUESTS: @nullspeak, @Stephen_FX, @EntropicFlip
 ADDITIONAL: 323380
 RATING: Clean
@@ -16,7 +16,7 @@ NOTESCREATOR: @HeroOhOne
 
 00:00:08 *Introduction*
 00:00:16 @ValiantCheese introduces
-00:00:18 @doracoder
+00:00:18 @DoraCoder
 00:00:22 Special guests from Question, Stephen Alexander (@Stephen_FX)
 00:00:25 Kain Shin (@EntropicFlip)
 00:00:28 Jordan Thomas (@nullspeak)
@@ -36,7 +36,7 @@ NOTESCREATOR: @HeroOhOne
 	Alludes to game design
 00:13:14 Ending has a change in gameplay
 00:16:07 Balancing story and gameplay was a unique challenge
-00:18:42 @doracoder enjoyed the art and wanted to see more of the story
+00:18:42 @DoraCoder enjoyed the art and wanted to see more of the story
 00:19:32 Demo includes the first 30 minutes of the game
 	Saves progress to continue in full game
 00:20:21 Stephen is proud of the sketch world
@@ -71,7 +71,7 @@ NOTESCREATOR: @HeroOhOne
 	Jordan crawls through Darkest Dungeon http://www.darkestdungeon.com/
 
 01:13:48 *Our Gaming*
-01:13:52 @doracoder has been playing Binding of Isaac: Rebirth http://bindingofisaac.com/
+01:13:52 @DoraCoder has been playing Binding of Isaac: Rebirth http://bindingofisaac.com/
 01:14:55 Stephen has been playing SOMA, The Forest, ARK: Survival Evolved http://somagame.com/ http://survivetheforest.com/ http://www.playark.com/
 01:16:29 @ValiantCheese has been playing Assault Android Cactus, Expand and ARK: Survival Evolved http://www.assaultandroidcactus.com http://expandgame.com/ http://www.playark.com/
 
