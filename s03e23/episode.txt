@@ -1,6 +1,6 @@
 RECORDED: 2015-12-26
 PUBLISHED:
-TITLE: Exclusive insider knowledge
+TITLE: Exclusive Insider Knowledge
 SEASON: 03
 EPISODE: 23
 DURATION: 01:30:06
@@ -10,7 +10,7 @@ HOSTS: @DerRidda, bean (@beansmyname), @Corben78, @DoraCoder, @HeroOhOne, Nemode
 GUESTS:
 ADDITIONAL:
 RATING: Explicit
-YOUTUBE:
+YOUTUBE: cIWoqNRz0fA
 EDITOR: @Corben78
 NOTESCREATOR: @HeroOhOne
 
@@ -82,7 +82,7 @@ NOTESCREATOR: @HeroOhOne
 00:49:37 Saints Row IV and Saints Row: Gat out of Hell has been released on Linux by Virtual Programming http://store.steampowered.com/app/206420/ http://store.steampowered.com/app/301910/
 00:56:43 @DerRidda played the early, native port of Saints Row IV and it performed worse than this release with eON
 01:02:32 Divinity: Original Sin Enhanced Edition finally released for Linux http://store.steampowered.com/app/373420/
-01:04:08 @DerRidda liked the SPOILER 
+01:04:08 @DerRidda liked the SPOILER
 01:04:38 OpenMW 0.37.0 released https://openmw.org/2015/openmw-0-37-released/
 	Graphical framework switched from Ogre3D to Open Scene Graph
 
