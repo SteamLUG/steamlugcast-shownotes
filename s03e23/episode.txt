@@ -84,7 +84,7 @@ NOTESCREATOR: @HeroOhOne
 01:02:32 Divinity: Original Sin Enhanced Edition finally released for Linux http://store.steampowered.com/app/373420/
 01:04:08 @DerRidda liked the SPOILER
 01:04:38 OpenMW 0.37.0 released https://openmw.org/2015/openmw-0-37-released/
-	Graphical framework switched from Ogre3D to Open Scene Graph
+	Graphical framework switched from Ogre3D to OpenSceneGraph http://www.openscenegraph.org/
 
 01:05:53 *Crowdfunding*
 01:05:57 Psychonauts 2 https://www.fig.co/campaigns/psychonauts-2
