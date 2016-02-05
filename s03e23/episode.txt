@@ -5,7 +5,7 @@ SEASON: 03
 EPISODE: 23
 DURATION: 01:30:06
 FILENAME: steamlugcast.s03e23.exclusive-insider-knowledge
-DESCRIPTION:
+DESCRIPTION: Our hosts talk about exciting new Linux game releases and predictions for 2016
 HOSTS: @DerRidda, bean (@beansmyname), @Corben78, @DoraCoder, @HeroOhOne, Nemoder
 GUESTS:
 ADDITIONAL:
@@ -64,7 +64,7 @@ NOTESCREATOR: @HeroOhOne
 	Open source middleware to help developers take advantage of GPU hardware
 00:33:53 Vulkan specification delayed until 2016 https://www.khronos.org/vulkan
 	Waiting for conformance testing and legal review
-00:35:54 Wine 1.8 has been released https://www.winehq.org/announce/
+00:35:54 Wine 1.8 has been released https://www.winehq.org/announce/1.8
 	Pulseaudio and dwrite support has been added
 
 00:37:22 *General Gaming News*
@@ -92,17 +92,18 @@ NOTESCREATOR: @HeroOhOne
 	Canceled soon after https://www.kickstarter.com/projects/smachteam/smach-z-the-first-handheld-steam-machine/posts/1445260
 
 01:13:26 *Predictions*
-01:13:34 @beansmyname "predicts" that Rocket League will come to Linux
-@Nemoder and @HeroOhOne Vulkan
-@Corben78 Elite: Dangerous
-@DerRidda The Witcher 3 and GoG Galaxy
-itch.io
-@Nemoder new, awesome ip
-@Corben78 Evolve
-@DerRidda says Daeus Ex
-@DoraCoder Undertale
-Lots of games were released
-xPaw confirmed games graph
-@DerRidda Steam Runtime falls apart more
+01:13:34 @beansmyname "predicts" that Rocket League will come to Linux http://store.steampowered.com/app/252950/
+01:13:38 @HeroOhOne, @beansmyname, and Nemoder have thoughts on Vulkan https://www.khronos.org/vulkan/
+01:14:34 @DerRidda thinks that Linux support in engines will result in more unexpected ports
+01:15:03 @Corben78 wants Elite: Dangerous https://www.elitedangerous.com/
+01:15:57 @DerRidda predicts that The Witcher 3 will release in sync with a new version or GOG Galaxy on Linux http://thewitcher.com/witcher3 https://www.gog.com/galaxy
+01:17:00 itch.io client was released for Linux https://itch.io/app 
+01:17:34 @Nemoder hopes that awesome original games will be released
+01:18:27 @Corben78 thinks Evolve will come to Linux in 2016 https://evolvegame.com/
+01:19:53 @DerRidda says Deus Ex: Mankind Divided could be ported for us https://www.deusex.com/
+01:20:26 @DoraCoder believes that we will be playing Undertale this year
+01:22:54 Lots of games were released in 2015!
+01:23:31 xPaw made a graph of confirmed Linux games https://s.xpaw.me/confirmedlinuxgraph.png 
+01:25:37 @DerRidda predicts that Steam Runtime will have more issues this year
 
 01:26:09 *Sign-off*
