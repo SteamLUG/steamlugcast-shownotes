@@ -5,11 +5,75 @@ SEASON: 04
 EPISODE: 02
 DURATION: 00:38:39
 FILENAME: steamlugcast.s04e02.heroes-and-hooters
-DESCRIPTION:
+DESCRIPTION: Introducing Mohero (@Jasey_wasey) as a new host, our Linux crazies talk about continued updates to Steam Hardware and other gaming news.
 HOSTS: @HeroOhOne, @Corben78, Mohero (@Jasey_Wasey), Tele (Tele42)
 GUESTS:
 ADDITIONAL:
-RATING:
+RATING: Clean
 YOUTUBE:
 EDITOR: Tele (Tele42)
 NOTESCREATOR: @HeroOhOne
+
+00:00:09 *Introduction*
+00:00:18 @Corben78
+00:00:22 Tele (Tele42)
+00:00:25 Mohero (@Jasey_Wasey)
+
+00:00:29 *Our Gaming*
+00:00:34 @Corben78 has been playing Time Clickers, AdVenture Capitalist, BlazeRush, Counter-Strike: Global Offensive, Company of Heroes, Guns of Icarus Online, and GRID: Autosport http://www.miniclip.com/games/adventure-capitalist http://www.timegamers.com http://blazerush.com http://store.steampowered.com/app/730 http://store.steampowered.com/app/4560 http://gunsoficarus.com http://www.gridgame.com
+00:02:17 Tele (Tele42) has been playing Awesomenauts, Natural Selection 2, GRID: Autosport, and The Talos Principle http://www.awesomenauts.com http://www.naturalselection2.com http://www.gridgame.com http://www.croteam.com/talosprinciple
+00:03:12 Mohero (@Jasey_Wasey) has been playing GRID: Autosport, Luftrausers, and Action Henk http://www.gridgame.com http://luftrausers.com http://actionhenk.com
+00:04:01 @HeroOhOne has been playing GRID: Autosport, Natural Selection 2, Civilization V, Planetary Annihilation http://www.gridgame.com http://www.naturalselection2.com http://www.civilization5.com http://www.uberent.com/pa
+
+00:05:57 *SteamLUG Community Stuff*
+00:06:00 Past Events
+	Left 4 Dead 2 http://steamcommunity.com/groups/steamlug#events/92687321861409669
+	GRID Autosport http://steamcommunity.com/groups/steamlug#events/92687321861438048
+	Daedalus - No Escape http://steamcommunity.com/groups/steamlug#events/92687321861443403
+	Awesomenauts http://steamcommunity.com/groups/steamlug#events/92687321861446299
+00:09:16 Upcoming Events
+	Starbound http://steamcommunity.com/groups/steamlug#events/92687321861449828
+	7 Days to Die http://steamcommunity.com/groups/steamlug#events/92687321861457895
+	PULSAR: Lost Colony http://steamcommunity.com/groups/steamlug#events/92687321861462229
+	Saints Row http://steamcommunity.com/groups/steamlug#events/92687321861472204
+00:10:03 SteamLUG website was updated (Thanks to @johndrinkwater, @ValiantCheese, spacepope) https://steamlug.org
+00:10:20 Mohero (@Jasey_Wasey) now hosts a SteamLUG ARK: Survival Evolved server https://steamlug.org/servers
+00:11:50 @ValiantCheese made a first person text adventure for Myst Jam http://cheeseness.itch.io/memories-of-myst
+
+00:12:43 *Steam/Valve News*
+00:12:45 Linux audio glitch in Counter-Strike: Global Offensive has been fixed https://github.com/ValveSoftware/Counter-Strike-Global-Offensive/issues/310
+00:13:27 Steam Controller received large updates, including revamped configuration management http://steamcommunity.com/groups/SteamClientBeta#announcements/detail/905587876409248271
+	Better support for non-Steam games http://steamcommunity.com/groups/SteamClientBeta#announcements/detail/903337152131879840
+00:15:32 Steam Link beta update 449 includes a workaround for 720p support http://steamcommunity.com/app/353380/discussions/0/487876568226628160
+00:16:58 Steam Link SDK released https://github.com/ValveSoftware/steamlink-sdk https://steamcommunity.com/app/353380/discussions/1/451850849178928882
+00:18:37 Steam Winter Sale estimated to have twice the revenue of the last Steam Summer Sale https://medium.com/steam-spy/about-steam-winter-sale-76a75abe152a#.dcsy66b3j
+00:20:36 Valve increases their bandwidth to meet higher demand http://news.level3.com/2016-01-13-Valve-Deploys-100-Gbps-Internet-Ports-from-Level-3-after-Significant-Rise-in-Steams-Online-Gaming-Demands
+00:21:13 Preorders for the HTC Vive will be available February 29th http://www.gamesindustry.biz/articles/2016-01-11-vive-preorders-open-feb-29-htc-confirms
+
+00:22:09 *Tech News*
+00:22:11 Oculus Rift can be preordered for 599 USD https://www.oculus.com
+00:24:09 Valve VR Internal First Pass Test Package with many games for the Vive https://steamdb.info/sub/83209/apps
+00:24:54 GCN generation AMD graphics cards will all get Vulkan https://twitter.com/grahamsellers/status/688126936648790016
+00:26:15 Percentage of Linux games by playtime in most played games https://www.reddit.com/r/linux_gaming/comments/41xbbr/steam_linux_gaming_over_90_hours_played
+
+00:27:30 *General Gaming News*
+00:27:38 Punch Club management fighting game released http://store.steampowered.com/app/394310
+00:28:00 Medieval II: Total War Collection ported to Linux by Feral Interactive https://twitter.com/feralgames/status/687658196627001344
+00:28:17 Homefront: The Revolution will have day-one Linux support on May 17th release date https://twitter.com/DeepSilverUK/status/686897979186257920
+00:28:47 That Dragon, Cancer Linux port will be available later than expected https://www.kickstarter.com/projects/godatplay/that-dragon-cancer/posts/1464145  
+00:29:46 Papo & Yo is now available on Steam http://store.steampowered.com/app/227080
+00:30:35 Rocket League release imminent https://steamdb.info/app/252950/history/?changeid=1682397
+00:31:00 Flippfly Protype Showdown #2 http://flippfly.com/vote
+00:31:35 A Boy and His Blob, a reimagining of the NES classic, has been released http://store.steampowered.com/app/281200
+	In response to "feed this blob... beans" @beansmyname says in live chat "????" and "Who's eating me now?"
+00:32:49 New mystery game shows up in the Feral Radar http://www.feralinteractive.com/en/upcoming
+	Signs point towards F1 2015 https://steamdb.info/app/286570/depots
+00:34:09 The Interactive Adventures of Dog Mendonça & Pizza Boy launching on March 4th https://www.kickstarter.com/projects/942343365/the-interactive-adventures-of-dog-mendonca-and-piz/posts/1446838
+00:34:33 Layers of Fear horror game to have a day-one Linux release on February 16 thanks to Aspyr Media http://www.aspyr.com/news/show?article=Aspyr+Partners+With+Bloober+Team+to+Publish+Layers+of+Fear+on+Consoles+and+PC+in+February
+00:35:03 Giana Sisters: Twisted Dreams is still coming to Linux eventually http://steamcommunity.com/app/223220/discussions/0/540744936190211502/#c492379439676418659
+00:35:53 Sunless Sea has experimental Linux builds, made available on request http://store.steampowered.com/app/304650
+
+00:36:32 *Crowdfunding*
+00:36:34 Slipstream retro arcade racing game https://www.kickstarter.com/projects/noctet/slipstream 
+
+00:37:01 *Sign-off*
