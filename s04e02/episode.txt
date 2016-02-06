@@ -10,7 +10,7 @@ HOSTS: @HeroOhOne, @Corben78, Mohero (@Jasey_Wasey), Tele (Tele42)
 GUESTS:
 ADDITIONAL:
 RATING: Clean
-YOUTUBE:
+YOUTUBE: CqIFnx5Cai0
 EDITOR: Tele (Tele42)
 NOTESCREATOR: @HeroOhOne
 
