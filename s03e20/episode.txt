@@ -24,9 +24,9 @@ NOTESCREATOR: @HeroOhOne
 00:00:32 *Chat with Special Guests Stephen Alexander, Kain Shin, and Jordan Thomas of Question*
 00:00:44 The Magic Circle summary
 	A game about making games http://www.magiccirclegame.com/ http://store.steampowered.com/app/323380
-00:01:21 Stephen and Jordan met at Irrational Games working on Bioshock 1 and Bioshock Infinite http://irrationalgames.com/ 
-00:01:47 Decided to form Question to work together on their own project http://www.questiongames.com/
-00:01:59 Kain and Jordan worked together at Ion Storm on Thief: Deadly Shadows https://en.wikipedia.org/wiki/Ion_Storm
+00:01:21 Stephen and Jordan met at Irrational Games http://irrationalgames.com/ working on Bioshock 1 and Bioshock Infinite
+00:01:47 Decided to form Question http://www.questiongames.com/ to work together on their own project
+00:01:59 Kain and Jordan worked together at Ion Storm https://en.wikipedia.org/wiki/Ion_Storm on Thief: Deadly Shadows
 00:02:48 Question wanted to make something less serious
 00:03:24 Unity was quicker to prototype than UDK
 	Attractive cost of license
@@ -43,7 +43,7 @@ NOTESCREATOR: @HeroOhOne
 00:21:27 @ValiantCheese liked the spoiler!
 00:22:49 Question risked being mysterious in the marketing
 	Balancing presenting game's fiction and game itself
-	Fictional crowdfunding webpage for game within The Magic Circle http://www.magiccirclegame.com/kickbackr
+	Fictional crowdfunding webpage http://www.magiccirclegame.com/kickbackr for game within The Magic Circle
 00:26:42 They always wanted to make a Linux build but did not have an install at first
 00:29:15 Linux users help other Linux users in community
 00:31:20 Linux sales of The Magic Circle is near the Mac sales
@@ -66,14 +66,14 @@ NOTESCREATOR: @HeroOhOne
 00:57:14 Being smaller and independent, everyone works on tasks they may be uncomfortable with
 01:05:32 James Urbaniak (@JamesUrbaniak) helped humanize a character with voice over
 01:08:36 Leave feedback on the game in forum https://steamcommunity.com/app/323380/discussions/0/
-01:09:20 Kain likes the Dark Souls series and has recently enjoyed The Beginner's Guide http://store.steampowered.com/app/211420/ http://store.steampowered.com/app/335300 http://www.thebeginnersgui.de/
+01:09:20 Kain likes the Dark Souls series http://store.steampowered.com/app/211420/ http://store.steampowered.com/app/335300 and has recently enjoyed The Beginner's Guide http://www.thebeginnersgui.de/
 	Stephen liked SOMA http://somagame.com/
 	Jordan crawls through Darkest Dungeon http://www.darkestdungeon.com/
 
 01:13:48 *Our Gaming*
 01:13:52 @DoraCoder has been playing Binding of Isaac: Rebirth http://bindingofisaac.com/
-01:14:55 Stephen has been playing SOMA, The Forest, ARK: Survival Evolved http://somagame.com/ http://survivetheforest.com/ http://www.playark.com/
-01:16:29 @ValiantCheese has been playing Assault Android Cactus, Expand and ARK: Survival Evolved http://www.assaultandroidcactus.com http://expandgame.com/ http://www.playark.com/
+01:14:55 Stephen has been playing SOMA http://somagame.com/, The Forest http://survivetheforest.com/, ARK: Survival Evolved http://www.playark.com/
+01:16:29 @ValiantCheese has been playing Assault Android Cactus http://www.assaultandroidcactus.com, Expand http://expandgame.com/, and ARK: Survival Evolved http://www.playark.com/
 
 01:16:44 *SteamLUG Community Stuff*
 01:16:46 Past Events

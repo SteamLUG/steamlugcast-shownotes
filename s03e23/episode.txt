@@ -23,12 +23,12 @@ NOTESCREATOR: @HeroOhOne
 00:00:35 Nemoder
 
 00:00:40 *Our Gaming*
-00:00:43 @beansmyname has been playing Nuclear Throne, Saints Row: Gat out of Hell, and Rocket League http://nuclearthrone.com http://store.steampowered.com/app/301910 http://store.steampowered.com/app/252950
+00:00:43 @beansmyname has been playing Nuclear Throne http://nuclearthrone.com, Saints Row: Gat out of Hell http://store.steampowered.com/app/301910, and Rocket League http://store.steampowered.com/app/252950
 00:01:35 @Corben78 has been playing Rocket League, Assault Android Cactus, Axiom Verge, Saints Row IV http://store.steampowered.com/app/252950
 00:05:30 @HeroOhOne has been playing "Make configurations for the Steam Controller" http://store.steampowered.com/app/353370
 00:05:53 @DoraCoder has been playing Undertale http://store.steampowered.com/app/391540
-00:07:37 @DerRidda has been playing Saints Row IV, Saints Row: Gat out of Hell, Insurgency http://store.steampowered.com/app/206420 http://store.steampowered.com/app/301910 http://store.steampowered.com/app/222880
-00:08:43 @Nemoder has been playing 7 Days to Die, Saints Row IV, DiRT: Showdown http://store.steampowered.com/app/251570 http://store.steampowered.com/app/206420 http://store.steampowered.com/app/201700
+00:07:37 @DerRidda has been playing Saints Row IV http://store.steampowered.com/app/206420, Saints Row: Gat out of Hell http://store.steampowered.com/app/301910, Insurgency http://store.steampowered.com/app/222880
+00:08:43 @Nemoder has been playing 7 Days to Die http://store.steampowered.com/app/251570, Saints Row IV http://store.steampowered.com/app/206420, DiRT: Showdown http://store.steampowered.com/app/201700
 
 00:09:38 *SteamLUG Community Stuff*
 00:09:41 Past Events
@@ -79,7 +79,7 @@ NOTESCREATOR: @HeroOhOne
 00:48:05 Hacknet http://store.steampowered.com/app/365450/
 	Ported by @flibitjibbibo https://plus.google.com/+flibitijibibo/posts/24Krz6YnMGX
 00:49:01 Firewatch gameplay video released http://www.youtube.com/watch?v=Vo8O2h2daE8
-00:49:37 Saints Row IV and Saints Row: Gat out of Hell has been released on Linux by Virtual Programming http://store.steampowered.com/app/206420/ http://store.steampowered.com/app/301910/
+00:49:37 Saints Row IV http://store.steampowered.com/app/206420/ and Saints Row: Gat out of Hell http://store.steampowered.com/app/301910/ has been released on Linux by Virtual Programming
 00:56:43 @DerRidda played the early, native port of Saints Row IV and it performed worse than this release with eON
 01:02:32 Divinity: Original Sin Enhanced Edition finally released for Linux http://store.steampowered.com/app/373420/
 01:04:08 @DerRidda liked the SPOILER
@@ -96,7 +96,7 @@ NOTESCREATOR: @HeroOhOne
 01:13:38 @HeroOhOne, @beansmyname, and Nemoder have thoughts on Vulkan https://www.khronos.org/vulkan/
 01:14:34 @DerRidda thinks that Linux support in engines will result in more unexpected ports
 01:15:03 @Corben78 wants Elite: Dangerous https://www.elitedangerous.com/
-01:15:57 @DerRidda predicts that The Witcher 3 will release in sync with a new version or GOG Galaxy on Linux http://thewitcher.com/witcher3 https://www.gog.com/galaxy
+01:15:57 @DerRidda predicts that The Witcher 3 http://thewitcher.com/witcher3 will release in sync with a new version or GOG Galaxy on Linux https://www.gog.com/galaxy
 01:17:00 itch.io client was released for Linux https://itch.io/app 
 01:17:34 @Nemoder hopes that awesome original games will be released
 01:18:27 @Corben78 thinks Evolve will come to Linux in 2016 https://evolvegame.com/
