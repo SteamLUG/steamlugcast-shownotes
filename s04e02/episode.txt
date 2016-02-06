@@ -36,7 +36,7 @@ NOTESCREATOR: @HeroOhOne
 	7 Days to Die http://steamcommunity.com/groups/steamlug#events/92687321861457895
 	PULSAR: Lost Colony http://steamcommunity.com/groups/steamlug#events/92687321861462229
 	Saints Row http://steamcommunity.com/groups/steamlug#events/92687321861472204
-00:10:03 SteamLUG website was updated (Thanks to @johndrinkwater, @ValiantCheese, spacepope) https://steamlug.org
+00:10:03 SteamLUG website was updated (Thanks to @johndrinkwater, @ValiantCheese, spacepope (@zeropopulation)) https://steamlug.org
 00:10:20 Mohero (@Jasey_Wasey) now hosts a SteamLUG ARK: Survival Evolved server https://steamlug.org/servers
 00:11:50 @ValiantCheese made a first person text adventure for Myst Jam http://cheeseness.itch.io/memories-of-myst
 
