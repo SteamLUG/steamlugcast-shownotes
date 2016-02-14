@@ -68,7 +68,7 @@ NOTESCREATOR: @HeroOhOne
 	Pulseaudio and dwrite support has been added
 
 00:37:22 *General Gaming News*
-00:37:26 GRID Autosport has been released by Feral Interactive https://twitter.com/feralgames/status/672361644090130432 store.steampowered.com/app/255220
+00:37:26 GRID Autosport http://store.steampowered.com/app/255220 has been released by Feral Interactive https://twitter.com/feralgames/status/672361644090130432
 00:38:41 Bound by Flame action RPG has been released for Linux http://store.steampowered.com/app/243930/
 00:39:57 XCom 2 is to be available on February 5th 2016
 	New trailer https://www.youtube.com/watch?v=j0qHZG1-rEg
