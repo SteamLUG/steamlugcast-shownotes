@@ -15,7 +15,8 @@ EDITOR: Tele (Tele42)
 NOTESCREATOR: @HeroOhOne
 
 00:00:09 *Introduction*
-00:00:18 @Corben78
+00:00:18 @HeroOhOne introduces his co-hosts
+00:00:19 @Corben78
 00:00:22 Tele (Tele42)
 00:00:25 Mohero (@Jasey_Wasey)
 
