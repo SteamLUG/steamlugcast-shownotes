@@ -6,8 +6,7 @@ EPISODE: 04
 DURATION:
 FILENAME:
 DESCRIPTION:
-HOSTS: (bean) @beansmyname, @DerRidda, @HeroOhOne, @johndrinkwater, Tele
-(Tele42)
+HOSTS: (bean) @beansmyname, @DerRidda, @HeroOhOne, @johndrinkwater, Tele (Tele42), @ValiantCheese
 GUESTS:
 ADDITIONAL:
 RATING:
