@@ -1,15 +1,15 @@
 RECORDED: 2016-02-19
 PUBLISHED:
-TITLE:
+TITLE: Vulkhaaan
 SEASON: 04
 EPISODE: 04
-DURATION:
-FILENAME:
+DURATION: 01:00:07
+FILENAME: steamlugcast.s04e04.vulkhaaan
 DESCRIPTION:
 HOSTS: (bean) @beansmyname, @DerRidda, @HeroOhOne, @johndrinkwater, Tele (Tele42), @ValiantCheese
 GUESTS:
 ADDITIONAL:
-RATING:
+RATING: Clean
 YOUTUBE:
-EDITOR:
+EDITOR: @HeroOhOne
 NOTESCREATOR:
