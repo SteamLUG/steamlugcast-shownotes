@@ -10,6 +10,6 @@ HOSTS: (bean) @beansmyname, @DerRidda, @HeroOhOne, @johndrinkwater, Tele (Tele42
 GUESTS:
 ADDITIONAL:
 RATING: Clean
-YOUTUBE:
+YOUTUBE: 3WUtmeeeHGk
 EDITOR: @HeroOhOne
 NOTESCREATOR:
