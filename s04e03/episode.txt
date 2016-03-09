@@ -6,7 +6,7 @@ EPISODE: 03
 DURATION:
 FILENAME:
 DESCRIPTION:
-HOSTS: @HeroOhOne, @DoraCoder, @DerRidda
+HOSTS: @HeroOhOne, @hmccio, @DerRidda
 GUESTS:
 ADDITIONAL:
 RATING:

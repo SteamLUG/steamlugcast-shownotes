@@ -6,7 +6,7 @@ EPISODE: 23
 DURATION: 01:30:06
 FILENAME: steamlugcast.s03e23.exclusive-insider-knowledge
 DESCRIPTION: Our hosts talk about exciting new Linux game releases and predictions for 2016
-HOSTS: @DerRidda, bean (@beansmyname), @Corben78, @DoraCoder, @HeroOhOne, Nemoder
+HOSTS: @DerRidda, bean (@beansmyname), @Corben78, @hmccio, @HeroOhOne, Nemoder
 GUESTS:
 ADDITIONAL:
 RATING: Explicit
@@ -19,14 +19,14 @@ NOTESCREATOR: @HeroOhOne
 00:00:26 @beansmyname
 00:00:29 @Corben78
 00:00:31 @HeroOhOne
-00:00:33 @DoraCoder
+00:00:33 @hmccio
 00:00:35 Nemoder
 
 00:00:40 *Our Gaming*
 00:00:43 @beansmyname has been playing Nuclear Throne http://nuclearthrone.com, Saints Row: Gat out of Hell http://store.steampowered.com/app/301910, and Rocket League http://store.steampowered.com/app/252950
 00:01:35 @Corben78 has been playing Rocket League, Assault Android Cactus, Axiom Verge, Saints Row IV http://store.steampowered.com/app/252950
 00:05:30 @HeroOhOne has been playing "Make configurations for the Steam Controller" http://store.steampowered.com/app/353370
-00:05:53 @DoraCoder has been playing Undertale http://store.steampowered.com/app/391540
+00:05:53 @hmccio has been playing Undertale http://store.steampowered.com/app/391540
 00:07:37 @DerRidda has been playing Saints Row IV http://store.steampowered.com/app/206420, Saints Row: Gat out of Hell http://store.steampowered.com/app/301910, Insurgency http://store.steampowered.com/app/222880
 00:08:43 @Nemoder has been playing 7 Days to Die http://store.steampowered.com/app/251570, Saints Row IV http://store.steampowered.com/app/206420, DiRT: Showdown http://store.steampowered.com/app/201700
 
@@ -101,7 +101,7 @@ NOTESCREATOR: @HeroOhOne
 01:17:34 @Nemoder hopes that awesome original games will be released
 01:18:27 @Corben78 thinks Evolve will come to Linux in 2016 https://evolvegame.com/
 01:19:53 @DerRidda says Deus Ex: Mankind Divided could be ported for us https://www.deusex.com/
-01:20:26 @DoraCoder believes that we will be playing Undertale this year
+01:20:26 @hmccio believes that we will be playing Undertale this year
 01:22:54 Lots of games were released in 2015!
 01:23:31 xPaw made a graph of confirmed Linux games https://s.xpaw.me/confirmedlinuxgraph.png 
 01:25:37 @DerRidda predicts that Steam Runtime will have more issues this year

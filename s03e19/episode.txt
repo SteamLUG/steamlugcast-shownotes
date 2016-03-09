@@ -6,7 +6,7 @@ EPISODE: 19
 DURATION: 01:50:02
 FILENAME: steamlugcast.s03e19.from-dawn-till-dusk
 DESCRIPTION: Join Aaron San Filippo as he talks with our hosts about Flippfly and Race the Sun
-HOSTS: @ValiantCheese, @Corben78, LinuxZen (@Buckwangs), @DoraCoder
+HOSTS: @ValiantCheese, @Corben78, LinuxZen (@Buckwangs), @hmccio
 GUESTS: Aaron San Filippo (@AeornFlippout)
 ADDITIONAL: 253030
 RATING: Clean
@@ -18,7 +18,7 @@ NOTESCREATOR: bean (@beansmyname)
 00:00:16 Cheese (@Valiant Cheese) introduces
 00:00:18 Corben (@Corben78)
 00:00:20 Buckwangs (@Buckwangs)
-00:00:22 Dora (@DoraCoder)
+00:00:22 Dora (@hmccio)
 00:00:27 and special guest, Aaron San Filippo (@AeornFlippout) of Flippfly (@flippfly)
 
 00:00:35 *Our Gaming*
