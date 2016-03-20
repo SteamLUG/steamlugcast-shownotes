@@ -10,6 +10,6 @@ HOSTS: @HeroOhOne, @hmccio, @DerRidda
 GUESTS:
 ADDITIONAL:
 RATING: Explicit
-YOUTUBE:
+YOUTUBE: hYk1_V4-DcQ
 EDITOR: Tele (Tele42)
 NOTESCREATOR:
