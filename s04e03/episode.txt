@@ -12,4 +12,74 @@ ADDITIONAL:
 RATING: Explicit
 YOUTUBE: hYk1_V4-DcQ
 EDITOR: Tele (Tele42)
-NOTESCREATOR:
+NOTESCREATOR: nixi
+
+00:00:07 *Introduction*
+00:00:16 @HeroOhOne begins the introduction of co-hosts
+00:00:19 Dora (@hmccio)
+00:00:20 @DerRidda
+
+00:00:23 *Our Gaming*
+00:00:27 Dora (@hmccio) has been playing Slime Rancher http://www.slimerancher.com/
+00:01:17 @HeroOhOne has been playing Natural Selection 2 http://www.naturalselection2.com/, Trine 3 http://trine3.com/, GRID: Autosport http://www.gridgame.com
+00:02:17 @DerRidda has been playing Insurgency https://newworldinteractive.com/#insurgency, Skyborn http://store.steampowered.com/app/278460/, XCOM2 https://xcom.com
+
+00:02:55 *SteamLUG Community Stuff*
+00:03:00 Past Events
+	Starbound http://steamcommunity.com/groups/steamlug#events/92687321861449828
+	7 Days to Die http://steamcommunity.com/groups/steamlug#events/92687321861457895
+	PULSAR: Lost Colony http://steamcommunity.com/groups/steamlug#events/92687321861462229
+	Saints Row IV http://steamcommunity.com/groups/steamlug#events/92687321861472204
+00:04:52 Upcomming Events
+	Counter-Strike: Global Offensive http://steamcommunity.com/groups/steamlug#events/92690048508262847
+	DiRT Showdown http://steamcommunity.com/groups/steamlug#events/92690048508263024
+	Insurgency http://steamcommunity.com/groups/steamlug#events/92690048508270992
+	Guns of Icarus Online http://steamcommunity.com/groups/steamlug#events/92690048508271209
+00:05:50 @HeroOhOne got his Thrustmaster TX wheel initialized in Linux https://github.com/her001/tmdrv
+
+00:07:16 *Steam/Valve News*
+00:07:20 Steam bug which did not allow Chromium-based games or applications to be launched from the Linux client has been fixed http://steamcommunity.com/groups/SteamClientBeta#announcements/detail/903337784334862903
+00:08:01 Lunar New Year Sale http://store.steampowered.com/news/20313/
+
+00:09:15 *Tech News*
+00:09:17 AMD GPUOpen launched http://gpuopen.com/welcometogpuopen/
+	At least 30 git repositories spread over 4 GitHub organizations https://github.com/GPUOpen-LibrariesAndSDKs https://github.com/GPUOpen-Effects https://github.com/GPUOpen-Tools https://github.com/GPUOpen-ProfessionalCompute-Tools
+	Mostly supports DirectX11 with some support for OpenGL, OpenCL, Nvidia CUDA, and DirectX12
+00:10:59 Unreal Engine VR Mode editor https://www.youtube.com/watch?v=JKO9fEjNiio
+00:12:36 Godot Engine 2.0 is now in beta http://godotengine.org/news/36-godot-engine-2-0-is-now-beta
+	UI improvements, including much better screen space efficiency
+	Bug fixes and small features
+
+00:16:29 *General Gaming News*
+00:16:29 gog.com introduces a new "In Development" category which includes 3 Linux games http://www.gog.com/games##sort=bestselling&feature=in_development&page=1
+00:17:54 Humble Weekly Bundle - Make Your Move
+	Includes 7 Linux games out of 8
+	Pay what you want: Frozen Synapse, Frozen Cortex, Lux Delux, Shattered Planet (not on Linux)
+	Beat the average: The Last Federation and 1 DLC, Reassembly
+	15USD or more: Chaos Reborn and Big Pharma
+00:19:13 Natural Selection 2 update http://steamcommunity.com/games/ns2/announcements/detail/698424015497720005
+	Adds servers restricted to low level players with bots filling gaps and forces experienced players  into spectator slots
+	Improved AI, including  ability to take commander role
+00:21:39 Company of Heroes 2 now has Linux/Mac cross-platform multiplayer and a performance update http://steamcommunity.com/groups/maclinux#announcements/detail/903338082002623947
+00:22:57 Don’t Starve Shipwrecked DLC updated, including Linux support http://forums.kleientertainment.com/topic/63753-shipwrecked-build-165276-feb-4th/
+00:23:36 Serious Sam 3 and The Talos Principle to have Vulkan support
+	The Talos Principle will have Vulkan support “at launch” https://steamcommunity.com/app/41070/discussions/0/451850849186806043/?tscn=1453710376#c451851477884764652
+	Serious Sam perhaps later https://steamcommunity.com/app/41070/discussions/0/451850849186806043/?tscn=1453710376#c451851477888742208
+	Joke article by Croteam in response https://twitter.com/Croteam/status/695634794923868161 http://www.croteam.com/talos-principle-will-support-vulkan-first-screenshot-released/ 
+00:24:31 Day of Infamy, a WWII themed Insurgency mod http://steamcommunity.com/sharedfiles/filedetails/?id=601757902
+00:26:22 SNOW is now 'Free to Play' and runs on Linux (but with FMOD issues) http://store.steampowered.com/app/244930
+00:28:09 XCOM 2 released http://store.steampowered.com/app/268500/
+	Native Steam Controller support and bundle discounts https://steamcommunity.com/games/268500/announcements/detail/843665914366934096
+00:32:16 American Truck Simulator released http://store.steampowered.com/app/270880
+00:33:43 Batman: Arkham Knight port cancelled https://steamcommunity.com/app/208650/discussions/0/405690850600936914/
+00:35:35 Black Mesa confirmed to come to Linux http://steamcommunity.com/app/362890/discussions/0/458607518209513301#c458607518209641509
+00:36:20 Tomb Raider (2013) gets empty Linux depots https://steamdb.info/app/203160/history/
+00:37:41 Mad Max gets empty Linux depots https://steamdb.info/app/234140/history/
+00:38:21 Rust Linux server updates https://steamdb.info/app/258550/depots/
+	It appears they are working on it but it is not functional at the moment https://twitter.com/RustUpdates/status/694916755064557569
+
+00:39:25 *Crowdfunding*
+00:39:27 Knights and Bikes https://www.kickstarter.com/projects/foamsword/knights-and-bikes
+	Created by developers who worked on Little Big Planet
+
+00:40:16 *Sign-off*
