@@ -1,5 +1,5 @@
 RECORDED: 2016-02-05
-PUBLISHED:
+PUBLISHED: 2016-03-29
 TITLE: Circular Worldview
 SEASON: 04
 EPISODE: 03
@@ -65,7 +65,7 @@ NOTESCREATOR: nixi
 00:23:36 Serious Sam 3 and The Talos Principle to have Vulkan support
 	The Talos Principle will have Vulkan support “at launch” https://steamcommunity.com/app/41070/discussions/0/451850849186806043/?tscn=1453710376#c451851477884764652
 	Serious Sam perhaps later https://steamcommunity.com/app/41070/discussions/0/451850849186806043/?tscn=1453710376#c451851477888742208
-	Joke article by Croteam in response https://twitter.com/Croteam/status/695634794923868161 http://www.croteam.com/talos-principle-will-support-vulkan-first-screenshot-released/ 
+	Joke article by Croteam in response https://twitter.com/Croteam/status/695634794923868161 http://www.croteam.com/talos-principle-will-support-vulkan-first-screenshot-released
 00:24:31 Day of Infamy, a WWII themed Insurgency mod http://steamcommunity.com/sharedfiles/filedetails/?id=601757902
 00:26:22 SNOW is now 'Free to Play' and runs on Linux (but with FMOD issues) http://store.steampowered.com/app/244930
 00:28:09 XCOM 2 released http://store.steampowered.com/app/268500/
