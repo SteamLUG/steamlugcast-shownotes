@@ -5,7 +5,7 @@ SEASON: 04
 EPISODE: 03
 DURATION: 00:41:55
 FILENAME: steamlugcast.s04e03.circular-worldview
-DESCRIPTION:
+DESCRIPTION: DerRidda, Jane Dorable, and HER0 01 have a chat during the Lunar New Year about Linux gaming news.
 HOSTS: @HeroOhOne, @hmccio, @DerRidda
 GUESTS:
 ADDITIONAL:
