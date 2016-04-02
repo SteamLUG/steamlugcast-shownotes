@@ -12,4 +12,44 @@ ADDITIONAL:
 RATING: Clean
 YOUTUBE: 3WUtmeeeHGk
 EDITOR: @HeroOhOne
-NOTESCREATOR:
+NOTESCREATOR: @HeroOhOne
+
+00:00:08 *Introduction*
+00:00:16 @DerRidda introduces
+00:00:17 @beansmyname
+00:00:19 @HeroOhOne
+00:00:22 @johndrinkwater
+00:00:25 Tele (Tele42)
+
+00:00:29 *Our Gaming*
+00:00:33 @beansmyname has been playing DiRT Showdown http://store.steampowered.com/app/201700, Guns of Icarus Online http://gunsoficarus.com, and Doom http://store.steampowered.com/app/208200
+00:02:38 @DerRidda has been playing XCOM 2 http://store.steampowered.com/app/268500, Dying Light http://store.steampowered.com/app/239140, Insurgency http://store.steampowered.com/app/222880
+00:02:58 @HeroOhOne has been playing Sir, You Are Being Hunted http://www.big-robot.com/2012/03/12/sir-you-are-being-hunted, GRID: Autosport http://www.gridgame.com, Natural Selection 2 http://www.naturalselection2.com
+00:04:11 @johndrinkwater has been playing American Truck Simulator http://store.steampowered.com/app/270880, Dying Light http://store.steampowered.com/app/239140, and a super secret QA project
+00:06:18 Tele (Tele42) has been playing GRID: Autosport http://www.gridgame.com, DiRT Showdown http://store.steampowered.com/app/201700, and Natural Selection 2 http://www.naturalselection2.com
+
+00:08:09 *SteamLUG Community Stuff*
+00:08:13 Past Events
+	Counter-Strike: Global Offensive http://steamcommunity.com/groups/steamlug#events/92690048508262847
+	DiRT Showdown http://steamcommunity.com/groups/steamlug#events/92690048508263024
+	Insurgency http://steamcommunity.com/groups/steamlug#events/92690048508270992
+	Guns of Icarus Online http://steamcommunity.com/groups/steamlug#events/92690048508271209
+00:13:15 Upcoming Events
+	Nuclear Dawn http://steamcommunity.com/groups/steamlug#events/92690048508279170
+	Space Hulk http://steamcommunity.com/groups/steamlug#events/92690048508279434
+	Dota 2 http://steamcommunity.com/groups/steamlug#events/92690048508285154
+	Synergy http://steamcommunity.com/groups/steamlug#events/92690048508285374
+00:14:16 SteamDB Linux page https://steamdb.info/linux updated with a graph of the history of working games
+00:15:29 SteamLUG Cast has again been made visible on iTunes https://itunes.apple.com/gb/podcast/steamlug-cast/id673962699?mt=2
+
+00:16:24 *Steam/Valve News*
+00:16:27 Steam beta client update http://steamcommunity.com/groups/SteamClientBeta#announcements/detail/907842849554681945 makes usage of the Steam Controller more convenient
+00:17:13 There are hints that Bitcoin may eventually be available as a payment method in Steam http://bitcoinist.net/valve-is-bringing-bitcoin-to-over-125-million-gamers-worldwide
+
+00:17:52 *Tech News*
+00:17:54 Nvidia has released beta driver 361.28 http://www.nvidia.com/download/driverResults.aspx/98373/en-us http://www.nvidia.com/download/driverResults.aspx/98373/en-us
+	Introduces issue for some games, which can be worked around by setting `__GLVND_DISALLOW_PATCHING=1` https://github.com/ValveSoftware/Counter-Strike-Global-Offensive/issues/610#issuecomment-182531316
+00:19:23 Amazon released a new game engine, Lumberyard https://aws.amazon.com/blogs/aws/lumberyard-amazon-gamelift-twitch-for-games-on-aws
+00:20:47 Rumor suggests that HTC Vive pricing will be announced at Mobile World Congress http://www.idigitaltimes.com/htc-vive-price-announcement-set-mwc-2016-pre-orders-start-feb-29-512962
+00:21:51 Vulkan graphics API has been released https://www.khronos.org/vulkan
+
