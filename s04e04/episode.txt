@@ -5,7 +5,7 @@ SEASON: 04
 EPISODE: 04
 DURATION: 01:00:07
 FILENAME: steamlugcast.s04e04.vulkhaaan
-DESCRIPTION:
+DESCRIPTION: Our penguins have a low-level talk about the long-awaited Vulkan launch
 HOSTS: (bean) @beansmyname, @DerRidda, @HeroOhOne, @johndrinkwater, Tele (Tele42), @ValiantCheese
 GUESTS:
 ADDITIONAL:
@@ -52,4 +52,49 @@ NOTESCREATOR: @HeroOhOne
 00:19:23 Amazon released a new game engine, Lumberyard https://aws.amazon.com/blogs/aws/lumberyard-amazon-gamelift-twitch-for-games-on-aws
 00:20:47 Rumor suggests that HTC Vive pricing will be announced at Mobile World Congress http://www.idigitaltimes.com/htc-vive-price-announcement-set-mwc-2016-pre-orders-start-feb-29-512962
 00:21:51 Vulkan graphics API has been released https://www.khronos.org/vulkan
+	The SDK, drivers, examples, debuggers, and more launched alongside it
+00:22:18 Nvidia Vulkan beta driver 355.00.26 supports Kepler and Maxwell series cards (GTX 600-900) https://developer.nvidia.com/vulkan-driver
+	Included in SteamOS 2.63 Brewmaster beta https://steamcommunity.com/groups/steamuniverse/discussions/1/412447613562008582
+00:23:18 Intel has added a Vulkan branch to the Mesa driver, supporting Broadwell and Skylake integrated graphics http://blogs.intel.com/evangelists/2016/02/16/intel-open-source-graphics-drivers-now-support-vulkan
+00:24:07 AMD is to have Vulkan support in an upcoming release of their hybrid amdgpu driver https://community.amd.com/community/gaming/blog/2016/02/16/radeon-gpus-are-ready-for-the-vulkan-graphics-api
+00:25:14 Steam beta client update includes libvulkan in Steam Runtime http://steamcommunity.com/groups/SteamClientBeta#announcements/detail/907843576938079481
+00:26:32 The Talos Principle is the first game on Steam supporting Vulkan, available in the game's publicbeta branch http://steamcommunity.com/app/257510/discussions/0/412447613565426479
+	While being a quick, unoptimized port to Vulkan https://steamcommunity.com/app/257510/discussions/0/412447331651559970/#c412447331651997070, the performance is already better than OpenGL http://steamcommunity.com/app/257510/discussions/0/412447331651559970/#c412447331652843649
+	Croteam wrote a Q&A related to the port https://steamcommunity.com/app/257510/discussions/0/412447331651720139
+00:28:25 Dota 2 with `-vulkan` parameter is currently missing a library, but the Source 2 engine is known to have Vulkan support internally
+00:28:45 Libretro has a pull request that adds Vulkan support http://www.libretro.com/index.php/day-1-vulkan-support
+00:29:08 Godot has previously stated their intentions to add Vulkan support https://web.archive.org/web/20150812010025/http://www.godotengine.org/wp/first-steps-towards-1-2
+00:29:27 PPSSPP will also have Vulkan support https://twitter.com/ppsspp_emu/status/699604682923237376
+00:29:48 LWJGL nightly builds have Vulkan bindings https://twitter.com/LWJGL/status/700105159456727040
+00:29:59 GLFW has Vulkan support http://www.glfw.org/docs/3.2/vulkan.html
+00:31:15 Khronos hosted Vulkan webinar and released recording https://youtu.be/nGkpPp2tGSs
+00:32:02 A C++ wrapper to the Vulkan API has been released by Nvidia https://developer.nvidia.com/open-source-vulkan-c-api
+00:33:07 Dota 2 Vulkan depot has been updated (not yet released)
+00:33:20 LunarG Vulkan SDK has full Linux support http://lunarg.com/vulkan-sdk
+00:34:00 vim got Vulkan syntax highlighting http://www.vim.org/scripts/script.php?script_id=5335
+00:35:08 Ryan Gordon is working on adding Vulkan support to the SDL render API https://twitter.com/icculus/status/699669691149611009
 
+00:37:17 *General Gaming News*
+00:37:19 Frozen Synapse 2, an open world tactics game, is to be released in 2016 http://www.frozensynapse2.com
+	Confirmed to have Linux support https://twitter.com/gamingonlinux/status/697429331434467328
+00:38:37 Gas Guzzlers Extreme is being ported to Linux http://steamcommunity.com/app/243800/discussions/0/846965705280714470/?tscn=1454917990#c405691147598235676
+00:39:58 N++ is coming to Linux http://store.steampowered.com/app/230270
+00:40:25 Street Fighter V is expected to be available on Linux in Spring, with help from Valve https://steamcommunity.com/games/310950/announcements/detail/857177755595160250
+00:41:23 Sunless Sea http://www.failbettergames.com/sunless is having a closed Linux beta, available to owners of the game upon request
+00:41:49 Darkest Dungeon port is officially being worked on with an expected March release http://www.darkestdungeon.com/the-antiquarian
+00:42:37 ARK: Survival Evolved has been updated to have BattlEye protected servers, which are not yet compatible with the Linux client http://steamcommunity.com/games/346110/announcements/detail/852673624835029754
+	Devs are working closely with BattlEye to add Linux support http://steamcommunity.com/app/346110/discussions/0/405691491105532549
+00:43:57 Firewatch has been released http://www.firewatchgame.com
+00:46:27 A Wine-wrapped Earth 2160 port has been made available on Steam http://steamcommunity.com/games/1900/announcements/detail/857177755602779445
+00:47:16 Dying Light: Enhanced Edition and The Following DLC has been released http://store.steampowered.com/app/239140
+00:48:36 Layers of Fear, published by Aspyr, has been released http://store.steampowered.com/app/391720
+00:50:44 SNOW audio is working, but a Steam Runtime conflict has been introduced http://steamcommunity.com/games/244930/announcements/detail/920226901598980146
+
+00:52:33 *Crowdfunding*
+00:52:35 Deliver Us The Moon https://www.kickstarter.com/projects/keoken/deliver-us-the-moon
+	Open world Lunar exploration and survival
+00:53:57 Overload https://www.kickstarter.com/projects/2010925172/overload-the-ultimate-six-degree-of-freedom-shoote
+	Six degree of freedom shooter by the original developers of Descent
+	Backers will receive a post-release multiplayer expansion for free
+
+00:58:34 *Sign-off*
