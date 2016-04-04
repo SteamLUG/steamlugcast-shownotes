@@ -1,11 +1,11 @@
 RECORDED: 2016-02-19
-PUBLISHED:
+PUBLISHED: 2016-04-04
 TITLE: Vulkhaaan
 SEASON: 04
 EPISODE: 04
 DURATION: 01:00:07
 FILENAME: steamlugcast.s04e04.vulkhaaan
-DESCRIPTION: Our penguins have a low-level talk about the long-awaited Vulkan launch
+DESCRIPTION: Our penguins have a low‐level talk about the long‐awaited Vulkan launch
 HOSTS: (bean) @beansmyname, @DerRidda, @HeroOhOne, @johndrinkwater, Tele (Tele42), @ValiantCheese
 GUESTS:
 ADDITIONAL:
@@ -53,12 +53,12 @@ NOTESCREATOR: @HeroOhOne
 00:20:47 Rumor suggests that HTC Vive pricing will be announced at Mobile World Congress http://www.idigitaltimes.com/htc-vive-price-announcement-set-mwc-2016-pre-orders-start-feb-29-512962
 00:21:51 Vulkan graphics API has been released https://www.khronos.org/vulkan
 	The SDK, drivers, examples, debuggers, and more launched alongside it
-00:22:18 Nvidia Vulkan beta driver 355.00.26 supports Kepler and Maxwell series cards (GTX 600-900) https://developer.nvidia.com/vulkan-driver
+00:22:18 Nvidia Vulkan beta driver 355.00.26 supports Kepler and Maxwell series cards (GTX 600‒900) https://developer.nvidia.com/vulkan-driver
 	Included in SteamOS 2.63 Brewmaster beta https://steamcommunity.com/groups/steamuniverse/discussions/1/412447613562008582
 00:23:18 Intel has added a Vulkan branch to the Mesa driver, supporting Broadwell and Skylake integrated graphics http://blogs.intel.com/evangelists/2016/02/16/intel-open-source-graphics-drivers-now-support-vulkan
 00:24:07 AMD is to have Vulkan support in an upcoming release of their hybrid amdgpu driver https://community.amd.com/community/gaming/blog/2016/02/16/radeon-gpus-are-ready-for-the-vulkan-graphics-api
 00:25:14 Steam beta client update includes libvulkan in Steam Runtime http://steamcommunity.com/groups/SteamClientBeta#announcements/detail/907843576938079481
-00:26:32 The Talos Principle is the first game on Steam supporting Vulkan, available in the game's publicbeta branch http://steamcommunity.com/app/257510/discussions/0/412447613565426479
+00:26:32 The Talos Principle is the first game on Steam supporting Vulkan, available in the game’s publicbeta branch http://steamcommunity.com/app/257510/discussions/0/412447613565426479
 	While being a quick, unoptimized port to Vulkan https://steamcommunity.com/app/257510/discussions/0/412447331651559970/#c412447331651997070, the performance is already better than OpenGL http://steamcommunity.com/app/257510/discussions/0/412447331651559970/#c412447331652843649
 	Croteam wrote a Q&A related to the port https://steamcommunity.com/app/257510/discussions/0/412447331651720139
 00:28:25 Dota 2 with `-vulkan` parameter is currently missing a library, but the Source 2 engine is known to have Vulkan support internally
@@ -85,7 +85,7 @@ NOTESCREATOR: @HeroOhOne
 00:42:37 ARK: Survival Evolved has been updated to have BattlEye protected servers, which are not yet compatible with the Linux client http://steamcommunity.com/games/346110/announcements/detail/852673624835029754
 	Devs are working closely with BattlEye to add Linux support http://steamcommunity.com/app/346110/discussions/0/405691491105532549
 00:43:57 Firewatch has been released http://www.firewatchgame.com
-00:46:27 A Wine-wrapped Earth 2160 port has been made available on Steam http://steamcommunity.com/games/1900/announcements/detail/857177755602779445
+00:46:27 A Wine‐wrapped Earth 2160 port has been made available on Steam http://steamcommunity.com/games/1900/announcements/detail/857177755602779445
 00:47:16 Dying Light: Enhanced Edition and The Following DLC has been released http://store.steampowered.com/app/239140
 00:48:36 Layers of Fear, published by Aspyr, has been released http://store.steampowered.com/app/391720
 00:50:44 SNOW audio is working, but a Steam Runtime conflict has been introduced http://steamcommunity.com/games/244930/announcements/detail/920226901598980146
@@ -95,6 +95,6 @@ NOTESCREATOR: @HeroOhOne
 	Open world Lunar exploration and survival
 00:53:57 Overload https://www.kickstarter.com/projects/2010925172/overload-the-ultimate-six-degree-of-freedom-shoote
 	Six degree of freedom shooter by the original developers of Descent
-	Backers will receive a post-release multiplayer expansion for free
+	Backers will receive a post‐release multiplayer expansion for free
 
-00:58:34 *Sign-off*
+00:58:34 *Sign‐off*
