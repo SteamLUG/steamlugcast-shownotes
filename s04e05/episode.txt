@@ -10,6 +10,6 @@ HOSTS: @DerRidda, @HeroOhOne, @ValiantCheese
 GUESTS: Ariel Manzur(@godotengine)
 ADDITIONAL:
 RATING: Clean
-YOUTUBE:
+YOUTUBE: Mubip0vZCOw
 EDITOR: @HeroOhOne
 NOTESCREATOR:
