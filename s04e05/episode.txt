@@ -1,10 +1,10 @@
 RECORDED: 2016-03-04
 PUBLISHED:
-TITLE:
+TITLE: Waiting For VR
 SEASON: 04
 EPISODE: 05
 DURATION: 01:57:00
-FILENAME:
+FILENAME: steamlugcast.s04e05.waiting-for-vr
 DESCRIPTION:
 HOSTS: @DerRidda, @HeroOhOne, @ValiantCheese
 GUESTS: Ariel Manzur(@godotengine)
