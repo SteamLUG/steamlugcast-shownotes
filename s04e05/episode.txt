@@ -51,6 +51,7 @@ NOTESCREATOR: @HeroOhOne
 	Leftway http://store.steampowered.com/app/417420
 00:38:59 @DerRidda liked Dolphin Island 2 http://store.steampowered.com/app/417420
 00:41:43 Godot showcase video in the works https://github.com/godotengine/godot/issues/3877
+	Final video https://www.youtube.com/watch?v=6sJFMyI3eZ0
 00:44:28 The Steam store page currently gets more traffic than the official website
 00:47:47 There could be a nightly build available on Steam one day
 00:49:34 The future of Godot Engine
