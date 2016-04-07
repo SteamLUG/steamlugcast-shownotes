@@ -5,7 +5,7 @@ SEASON: 04
 EPISODE: 05
 DURATION: 01:57:00
 FILENAME: steamlugcast.s04e05.waiting-for-vr
-DESCRIPTION:
+DESCRIPTION: Ariel Manzur joins our hosts to talk about the open source Godot Engine
 HOSTS: @DerRidda, @HeroOhOne, @ValiantCheese
 GUESTS: Ariel Manzur(@godotengine)
 ADDITIONAL:
@@ -21,10 +21,10 @@ NOTESCREATOR: @HeroOhOne
 00:00:20 Special guest, Ariel Manzur (@godotengine)
 
 00:00:25 *Our Gaming*
-00:00:28 @HeroOhOne has been playing Tabletop Simulator, SpeedRunners, and Descent
-00:00:46 @DerRidda has been playing 0h h1, 0h n0, and Insurgency
-00:01:09 @ValiantCheese has been playing Firewatch, Sublevel Zero, XCOM 2, Super Hexagon, and Descent
-00:01:24 Ariel has not had time for games, but played Starcraft 2 when it came out
+00:00:28 @HeroOhOne has been playing Tabletop Simulator http://berserk-games.com/tabletop-simulator, SpeedRunners http://store.steampowered.com/app/207140, and Descent http://www.dxx-rebirth.com
+00:00:46 @DerRidda has been playing 0h h1 http://0hh1.com, 0h n0 http://0hn0.com, and Insurgency http://store.steampowered.com/app/222880
+00:01:09 @ValiantCheese has been playing Firewatch http://www.firewatchgame.com, Sublevel Zero http://www.sigtrapgames.com/sublevelzero, XCOM 2 http://store.steampowered.com/app/268500, Super Hexagon http://superhexagon.com, and Descent http://www.dxx-rebirth.com
+00:01:24 Ariel has not had time for playing games, but played Starcraft 2 http://us.battle.net/sc2/en/game when it came out
 
 00:01:52 *Chat with Special Guest Ariel from the Godot Engine*
 00:02:45 Godot Engine started as a more flexible architecture in response to new hardware in 2007
