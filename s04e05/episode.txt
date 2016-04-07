@@ -12,4 +12,114 @@ ADDITIONAL:
 RATING: Clean
 YOUTUBE: Mubip0vZCOw
 EDITOR: @HeroOhOne
-NOTESCREATOR:
+NOTESCREATOR: @HeroOhOne
+
+00:00:08 *Introduction*
+00:00:15 @ValiantCheese introduces
+00:00:16 @HeroOhOne
+00:00:18 @DerRidda
+00:00:20 Special guest, Ariel Manzur (@godotengine)
+
+00:00:25 *Our Gaming*
+00:00:28 @HeroOhOne has been playing Tabletop Simulator, SpeedRunners, and Descent
+00:00:46 @DerRidda has been playing 0h h1, 0h n0, and Insurgency
+00:01:09 @ValiantCheese has been playing Firewatch, Sublevel Zero, XCOM 2, Super Hexagon, and Descent
+00:01:24 Ariel has not had time for games, but played Starcraft 2 when it came out
+
+00:01:52 *Chat with Special Guest Ariel from the Godot Engine*
+00:02:45 Godot Engine started as a more flexible architecture in response to new hardware in 2007
+00:03:44 They started working with OKAM Studio so that they could focus on the engine while the rest of the team made games
+00:04:24 The engine was always intended to be open source software, but they never considered it to be ready
+00:05:22 OKAM Studio's first project was a demo for The Interactive Adventures of Dog Mendonça & Pizza Boy
+	The Kickstarter campaign for the game was a last resort
+00:06:45 Publishers were intrigued after the Kickstarter campaign
+00:09:12 Godot Engine release on Steam provided credibility to the project
+00:10:21 Demo/programmers are out of the way
+00:13:49 Scumm-like high level language by accident
+00:14:46 Partner at OKAM is an artist for the Dog Mendonça graphic novels
+00:16:07 Description of The Interactive Adventures of Dog Mendonça & Pizza Boy
+00:18:23 While everything contributed to the Kickstarter campaign, the demo on Steam had the biggest impact
+00:20:35 Software Freedom Conservancy
+00:22:33 Contributions
+00:25:35 Adventure game tools
+00:27:37 Godot Engine 2.0
+00:29:31 New website
+vcs stuff
+00:37:49 Other games made with Godot
+	Steam Quest
+	Leftway
+00:38:59 @DerRidda liked Dolphin Island 2
+promo video?
+more steam stuff?
+00:47:47 There could be a nightly build available on Steam one day
+00:49:34 Future of Godot Engine
+	Performance
+	Better profiler
+	Roadmap trello board
+	Vulkan and GLES3
+01:05:17 Separation from OKAM Studio
+01:09:17 Linux is the primary platform of Godot Engine
+
+01:13:40 *SteamLUG Community Stuff*
+01:13:42 Past Events
+	Nuclear Dawn http://steamcommunity.com/groups/steamlug#events/92690048508279170
+	Space Hulk http://steamcommunity.com/groups/steamlug#events/92690048508279434
+	Dota 2 http://steamcommunity.com/groups/steamlug#events/92690048508285154
+	Synergy http://steamcommunity.com/groups/steamlug#events/92690048508285374
+01:14:23 Upcoming Events
+	GRID Autosport http://steamcommunity.com/groups/steamlug#events/747966842245765539
+	Factorio http://steamcommunity.com/groups/steamlug#events/747966842245768484
+	Sir, You Are Being Hunted http://steamcommunity.com/groups/steamlug#events/747966842245772592
+	No More Room In Hell http://steamcommunity.com/groups/steamlug#events/747966842245781658
+01:14:50 @ValiantCheese wrote a wildlife guide for Firewatch http://steamcommunity.com/sharedfiles/filedetails/?id=631422921
+
+01:15:55 *Steam/Valve News*
+01:15:58 HTC Vive consumer edition has been announced http://blog.htcvive.com/2016/02/unveiling-the-vive-consumer-edition-and-pre-order-information
+	The 800 USD http://blog.htcvive.com/us/2016/02/international-pricing-for-vive-pre-order package comes with the headset, 2 controllers, and 2 base stations
+	Headset has a microphone and bluetooth
+	Bundled with Job Simulator, Fantastic Contraption, and Tilt Brush
+	Godot Engine may receive Vive support this year
+	Linux support is not ready, but being worked on http://steamcommunity.com/groups/steamuniverse/discussions/1/412448158164353829/#c412448158165700144
+01:22:03 Steam beta client has updated runtime, fixing potential libalsa incompatibility
+	Steam Controller can now emulate traditional gamepad rumble
+01:23:06 Security and Trading Update http://store.steampowered.com/news/20631 will result in extended trade hold time for some users
+01:24:43 Headup Games Complete http://store.steampowered.com/bundle/225 is first to have new bundle discounts
+
+01:25:52 *Tech News*
+01:25:55 Libretro officially has Vulkan support http://www.libretro.com/index.php/vulkan-progress-report-and-initial-impressions
+01:26:45 Unreal Engine 4 demo, Protostar, shows off Vulkan on mobile hardware https://www.unrealengine.com/blog/epic-games-unveils-protostar-at-samsung-galaxy-unpacked
+01:27:34 Nvidia updated Vulkan beta driver to 355.00.29 https://developer.nvidia.com/vulkan-driver
+01:28:36 Godot 2.0 Stable has been released http://www.godotengine.org/article/godot-engine-reaches-2-0-stable
+	Plugin support will be included in the next release http://www.godotengine.org/article/plugins
+
+01:31:57 *General Gaming News*
+01:32:00 Humble Indie Bundle 16 https://www.youtube.com/watch?v=VmWoMpu0DlI
+	Pay what you want: Retro City Rampage DX, Outlast, Never Alone + Foxtales DLC
+	Beat the average: Trine 3, Door Kickers, Duet, FORCED
+	BTA + 2 USD: Else Heart.Break(), Sunless Sea
+01:33:29 Insurgency Sandstorm brings the franchise to Unreal Engine 4 with new features http://newworldinteractive.com/announcing-insurgency-sandstorm
+01:34:11 Factorio is now available on Steam Early Access http://store.steampowered.com/app/427520
+	Blog contains instructions on claiming your Steam key https://www.factorio.com/blog/post/steam-keys-available
+01:34:45 Hitman GO has been released http://store.steampowered.com/app/427820
+01:35:53 SUPERHOT has been released http://store.steampowered.com/app/322500
+	Replay feature is not available on Linux
+01:37:27 Doponia Doomsday has been released http://store.steampowered.com/app/421050
+01:37:50 That Dragon, Cancer is now available on Linux http://store.steampowered.com/app/419460
+01:40:27 Shadwen, Frozenbyte's stealth game, has a demo available http://store.steampowered.com/app/425210
+	In a unique promotion, playing the demo reduced the price of the final game for everyone
+01:43:56 The March IndieBox will feature Assault Android Cactus https://www.theindiebox.com/aac
+	Witchbeam have also been making Dev Diary videos http://steamcommunity.com/app/250110/discussions/0/412448158155805658
+01:45:42 XCOM 2 updated with Linux fixes http://steamcommunity.com/games/268500/announcements/detail/843667822467974122
+01:46:08 SpeedRunners has an opt-in Linux beta thanks to flibit
+01:46:48 Overlord series is showing signs of Linux support
+	Overlord https://steamdb.info/app/11450/history/?changeid=1799072, Overlord II https://steamdb.info/app/12810/history/?changeid=1799131, Overlord: Rising Hell https://steamdb.info/app/12710/history/?changeid=1799109
+	I and II are confirmed to be ports by Virtual Programming https://www.vpltd.com
+01:47:40 Flippfly Prototype Showdown Round #3 http://flippfly.com/showdown/prototype-showdown-round-3
+01:48:23 Tim Sweeney is concerned about Microsoft's walled garden http://www.theguardian.com/technology/2016/mar/04/gears-of-war-developer-epic-games-tim-sweeney-games-industry-fight-microsoft
+	Elaborated in a podcast with Polygon https://soundcloud.com/polygon-newsworthy/4-tim-sweeney-on-microsofts-evil-plan
+
+01:54:48 *Crowdfunding*
+01:54:50 Overload is to have a playable teaser https://www.kickstarter.com/projects/revivalprod/overload-the-ultimate-six-degree-of-freedom-shoote/posts/1509799?ref=backer_project_update
+
+01:56:11 *Sign-off*
+
