@@ -1,15 +1,15 @@
 RECORDED: 2016-03-18
 PUBLISHED:
-TITLE: 
+TITLE: Super Hot and Sweaty
 SEASON: 04
 EPISODE: 06
 DURATION:
-FILENAME:
+FILENAME: steamlugcast.s04e06.super-hot-and-sweaty
 DESCRIPTION:
 HOSTS: @Corben78, @HeroOhOne, @hmccio
-GUESTS: 
+GUESTS:
 ADDITIONAL:
 RATING:
 YOUTUBE:
-EDITOR:
+EDITOR: @diegoveralli
 NOTESCREATOR:
