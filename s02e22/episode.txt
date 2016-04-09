@@ -65,7 +65,7 @@ EDITOR: @johndrinkwater
 00:24:06 Oddworld: New ‘n’ Tasty release coming in a few months http://www.oddworld.com/2014/10/update-new-n-tasty/
 
 00:24:57 *Crowdfunding*
-00:25:09 The Interactive Adventures of Dog Mendonça & Pizza Boy https://www.kickstarter.com/projects/942343365/the-interactive-adventures-of-dog-mendonca-and-piz
+00:25:09 The Interactive Adventures of Dog Mendonça & Pizzaboy https://www.kickstarter.com/projects/942343365/the-interactive-adventures-of-dog-mendonca-and-piz
 00:25:51 SteamLUG 7DFPS team https://github.com/orgs/SteamLUG/teams/7dfps-2014
 
 00:26:32 *Sign-off*
