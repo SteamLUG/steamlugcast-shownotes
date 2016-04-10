@@ -10,7 +10,7 @@ HOSTS: @Corben78, @HeroOhOne, @hmccio
 GUESTS:
 ADDITIONAL:
 RATING: Clean
-YOUTUBE:
+YOUTUBE: vVf4WNfbd1s
 EDITOR: @diegoveralli
 NOTESCREATOR: @HeroOhOne
 
