@@ -73,6 +73,6 @@ NOTESCREATOR: @HeroOhOne
 
 00:42:33 *Crowdfunding*
 00:42:35 Overload has been funded https://www.kickstarter.com/projects/revivalprod/overload-the-ultimate-six-degree-of-freedom-shoote/description
-@flibitijibibo is running a Patreon campaign https://www.patreon.com/flibitijibibo
+00:43:44 @flibitijibibo is running a Patreon campaign https://www.patreon.com/flibitijibibo
 
 00:44:36 *Sign-off*
