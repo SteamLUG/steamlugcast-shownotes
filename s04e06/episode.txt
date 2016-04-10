@@ -25,3 +25,25 @@ NOTESCREATOR: @HeroOhOne
 00:03:06 @Corben78 has been playing TIS-100 http://www.zachtronics.com/tis-100, SUPERHOT http://store.steampowered.com/app/322500, and Elite: Dangerous https://www.elitedangerous.com
 00:05:42 @Corben78 SPOILER HOTS all over the SUPERHOT
 
+00:12:03 *SteamLUG Community Stuff*
+00:12:10 Past Events
+	GRID: Autosport http://steamcommunity.com/groups/steamlug#events/747966842245765539
+	Factorio http://steamcommunity.com/groups/steamlug#events/747966842245768484
+	Sir, You Are Being Hunted http://steamcommunity.com/groups/steamlug#events/747966842245772592
+	No More Room In Hell http://steamcommunity.com/groups/steamlug#events/747966842245781658
+00:13:23 Upcoming Events
+	Frozen Synapse http://steamcommunity.com/groups/steamlug#events/747966842245786153
+	Tabletop Simulator http://steamcommunity.com/groups/steamlug#events/747966842245788616
+	Arma 3 http://steamcommunity.com/groups/steamlug#events/747966842245793146
+	Natural Selection 2 http://steamcommunity.com/groups/steamlug#events/747966842245796114
+
+00:16:57 *Steam/Valve News*
+00:17:03 Action sets feature released for the Steam Controller when using the beta client http://steamcommunity.com/groups/SteamClientBeta/announcements/detail/907845561657648981
+00:18:16 Unity beta received native support for SteamVR http://blogs.unity3d.com/2016/03/15/enhanced-visuals-better-performance-and-more-the-unity-5-4-public-beta-is-ready
+	Valve made a free SteamVR rendering plugin for Unity https://www.assetstore.unity3d.com/en/#!/content/32647
+	Linux support not yet present in SteamVR nor the plugin
+00:20:26 Valve spoke about porting Source 2 to Vulkan at GDC https://youtu.be/xXyZ4YaktyU?t=1h27m2s
+	Dota 2, despite not being a good test case, had better frame rates in graphics-heavy scenes
+
+00:22:04 *Tech News*
+
