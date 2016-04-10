@@ -3,13 +3,25 @@ PUBLISHED:
 TITLE: Super Hot and Sweaty
 SEASON: 04
 EPISODE: 06
-DURATION:
+DURATION: 00:46:43
 FILENAME: steamlugcast.s04e06.super-hot-and-sweaty
 DESCRIPTION:
 HOSTS: @Corben78, @HeroOhOne, @hmccio
 GUESTS:
 ADDITIONAL:
-RATING:
+RATING: Clean
 YOUTUBE:
 EDITOR: @diegoveralli
-NOTESCREATOR:
+NOTESCREATOR: @HeroOhOne
+
+00:00:08 *Introduction*
+00:00:23 @Corben78 introduces
+00:00:24 @hmccio
+00:00:29 @HeroOhOne
+
+00:00:31 *Our Gaming*
+00:00:37 @hmccio has been playing Sword Coast Legends https://swordcoast.com, SUPERHOT http://store.steampowered.com/app/322500, Pokemon Omega Ruby http://www.nintendo.com/games/detail/pokemon-omega-ruby-3ds, and emulated games
+00:02:46 @HeroOhOne has been playing Arma 3 http://arma3.com
+00:03:06 @Corben78 has been playing TIS-100 http://www.zachtronics.com/tis-100, SUPERHOT http://store.steampowered.com/app/322500, and Elite: Dangerous https://www.elitedangerous.com
+00:05:42 @Corben78 SPOILER HOTS all over the SUPERHOT
+
