@@ -5,7 +5,7 @@ SEASON: 04
 EPISODE: 06
 DURATION: 00:46:43
 FILENAME: steamlugcast.s04e06.super-hot-and-sweaty
-DESCRIPTION:
+DESCRIPTION: Our hosts spoil half of SUPERHOT and discuss the latest in Linux gaming and game engines.
 HOSTS: @Corben78, @HeroOhOne, @hmccio
 GUESTS:
 ADDITIONAL:
@@ -46,4 +46,33 @@ NOTESCREATOR: @HeroOhOne
 	Dota 2, despite not being a good test case, had better frame rates in graphics-heavy scenes
 
 00:22:04 *Tech News*
+00:22:07 Godot Engine 2.0.1 released, marking the beginning of a quicker release cycle http://godotengine.org/article/updates-on-the-release-cycle-and-godot-2-0-1
+00:23:23 Croteam has released Serious Engine v1.10 under the GPL https://github.com/Croteam-official/Serious-Engine
+	@icculus has begun work on a Linux patch http://www.croteam.com/4443-2
+00:24:37 Atomic Game Engine is now MIT licensed http://atomicgameengine.com/blog/announcement-2
+	Based on Urho3D http://urho3d.github.io
+00:25:23 Cryengine is now pay-what-you-want for source access https://www.cryengine.com/get-cryengine
+	Linux client is not yet available
+00:26:05 AMD released a video describing their GPUOpen initiative https://www.youtube.com/watch?v=Y0oBFeFUG4w
+00:26:42 Raspberry Pi 3, the most powerful Raspberry Pi, has been released https://www.raspberrypi.org/blog/raspberry-pi-3-on-sale
 
+00:28:31 *General Gaming News*
+00:28:35 @flibitijibibo has unofficially gotten Stardew Valley to work on Linux https://twitter.com/flibitijibibo/status/707608871561465856
+	The developer, @ConcernedApe, is considering a Linux port https://twitter.com/ConcernedApe/status/709805368025591808
+00:30:40 Payday 2 appears to have an imminent Linux release https://steamdb.info/app/218620/depots
+00:32:57 Life Is Strange shows signs of Linux support https://steamdb.info/app/319630/history/?changeid=1807849
+00:33:51 Warhammer 40,000: Dawn of War II https://steamdb.info/app/15620/history and Dawn of War II - Retribution https://steamdb.info/app/56400/history show signs of Linux support
+00:34:20 Substance Painter 2, 3D painting software, is planned to have a Linux beta https://www.allegorithmic.com/blog/substance-painter-2
+00:34:36 Frozen Synapse 2 reveal trailer https://www.youtube.com/watch?v=Ycct_blsuYk
+00:35:11 Stellaris has a new trailer https://www.youtube.com/watch?v=HJYRLFvJVFg
+00:36:19 Arma 3 Linux client has been updated to version 1.54 https://dev.arma3.com/post/sitrep-00146
+	The port is still considered a beta, but this includes 5 releases from the previous version
+00:38:45 Prison Architect has had a hidden 3D mode since at least version 1.0 https://www.youtube.com/watch?v=oDsL-D344BU
+00:40:14 Day of the Tentacle Remastered is not to have a day-1 Linux release http://steamcommunity.com/app/388210/discussions/0/412449508274187311/#c412449508276057867
+00:41:24 Stasis, an isometric horror game, is to have a Linux release http://steamcommunity.com/app/380150/discussions/0/541907867777059868/#c458606877311420421
+
+00:42:33 *Crowdfunding*
+00:42:35 Overload has been funded https://www.kickstarter.com/projects/revivalprod/overload-the-ultimate-six-degree-of-freedom-shoote/description
+@flibitijibibo is running a Patreon campaign https://www.patreon.com/flibitijibibo
+
+00:44:36 *Sign-off*
