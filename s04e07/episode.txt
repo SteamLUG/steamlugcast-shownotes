@@ -7,9 +7,33 @@ DURATION: 00:44:41
 FILENAME: steamlugcast.s04e07.pirates-and-robbers
 DESCRIPTION:
 HOSTS: @DerRidda, @HeroOhOne, @ValiantCheese
-GUESTS: 
+GUESTS:
 ADDITIONAL:
 RATING: Clean
 YOUTUBE:
 EDITOR: @HeroOhOne
-NOTESCREATOR:
+NOTESCREATOR: @HeroOhOne
+
+00:00:08 *Introduction*
+00:00:15 @DerRidda introduces
+00:00:16 @ValiantCheese
+00:00:20 @HeroOhOne
+
+00:00:22 *Our Gaming*
+00:00:24 @HeroOhOne has been playing Payday 2 http://store.steampowered.com/app/218620 and The Interactive Adventures of Dog Mendonça and Pizzaboy http://store.steampowered.com/app/330420
+00:00:58 @ValiantCheese has been playing ARK: Survival Evolved http://store.steampowered.com/app/346110, Hand of Fate http://store.steampowered.com/app/266510, and Day of the Tentacle Remastered http://dott.doublefine.com
+00:01:36 @DerRidda has been playing Dungeons of Dredmor https://dungeonsofdredmor.com, Torchlight II http://www.torchlight2game.com, and Payday 2 http://store.steampowered.com/app/218620
+
+00:03:09 *SteamLUG Community Stuff*
+00:03:12 Past Events
+	Frozen Synapse http://steamcommunity.com/groups/steamlug#events/747966842245786153
+	Tabletop Simulator http://steamcommunity.com/groups/steamlug#events/747966842245788616
+	Arma 3 http://steamcommunity.com/groups/steamlug#events/747966842245793146
+	Natural Selection 2 http://steamcommunity.com/groups/steamlug#events/747966842245796114
+00:04:55 Upcoming Events
+	Daedalus http://steamcommunity.com/groups/steamlug#events/707437285802900413
+	Payday 2 http://steamcommunity.com/groups/steamlug#events/707437285802900569
+	Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/707437285802908375
+	Coffin Dodgers http://steamcommunity.com/groups/steamlug#events/707437285802908561
+00:05:34 Moska has made an open source Arma 3 launcher for Linux https://github.com/busquetsaguilopau/asma
+00:06:11 @ValiantCheese wrote
