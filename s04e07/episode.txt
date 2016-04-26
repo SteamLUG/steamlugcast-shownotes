@@ -5,7 +5,7 @@ SEASON: 04
 EPISODE: 07
 DURATION: 00:44:41
 FILENAME: steamlugcast.s04e07.pirates-and-robbers
-DESCRIPTION:
+DESCRIPTION: Our hosts talk about Payday 2, game piracy, and the latest tech available to Linux gamers.
 HOSTS: @DerRidda, @HeroOhOne, @ValiantCheese
 GUESTS:
 ADDITIONAL:
@@ -54,4 +54,31 @@ NOTESCREATOR: @HeroOhOne
 00:14:39 Vulkan support has been added to Wine Staging 1.9.6
 	64 bit operating systems have a nearly binary compatible implementation of Vulkan
 	CSMT has been disabled for this release
-00:15:39 Serious Engine
+00:15:39 @icculus patches https://github.com/rcgordon/Serious-Engine to Serious Engine have enabled Linux support https://icculus.org/cgi-bin/finger/finger.pl?user=icculus&date=2016-04-01&time=01-22-04
+	Also released a blog post detailing the history of the port https://icculus.org/cgi-bin/finger/finger.pl?user=icculus&date=2016-04-01&time=01-22-04
+00:17:18 @flibitijibibo has released FNA 16.04 https://plus.google.com/+flibitijibibo/posts/S2MQ9FBenpQ
+
+00:18:05 *General Gaming News*
+00:18:07 Video comparing Arma 3 performance on SteamOS and Windows has been made https://www.youtube.com/watch?v=rISRVeJxhnE
+00:19:09 Baldur's Gate: Enhanced Edition received Siege of Dragonspeak expansion http://steamcommunity.com/games/228280/announcements/detail/951757389281031901
+00:19:51 Hyper Light Drifer has been released http://store.steampowered.com/app/257850
+00:20:26 Payday 2 now has Linux support http://steamcommunity.com/games/218620/announcements/detail/857180519137332791
+00:25:05 F1 2015 port was accidentally made available for a short period https://www.reddit.com/r/linux_gaming/search?sort=new&restrict_sr=on&q=flair%3ABETA%2BRELEASE
+00:25:46 Tomb Raider (2013) is received a Linux port thanks to Feral Interactive https://twitter.com/feralgames/status/712580451064541185
+00:26:54 Worms W.M.D is to have Linux support on day 1 https://twitter.com/Team17Ltd/status/711930916373979140
+00:28:15 Punch Club has sold 300 thousand copies, in contrast to the 1 million pirated copies http://tinybuild.com/punch-club-has-been-pirated-over-1-million-times
+00:35:31 Human Resource Machine is now available on Linux http://tomorrowcorporation.com/posts/human-resource-machine-for-linux-now-available
+	@johndrinkwater helped test the port
+00:37:00 Darkest Dungeon beta port is accessible with password `1iheartlinux1`
+	Port available courtesy of @aaron_melcher of @knockoutgames
+
+00:37:52 *Other Steam/Valve News*
+00:37:56 Valve has been found to be misleading Australian consumers https://www.accc.gov.au/media-release/federal-court-finds-valve-made-misleading-representations-about-consumer-guarantees
+
+00:38:40 *Virtual Reality Talk*
+00:39:02 @ValiantCheese thinks it is most important that people do not buy into VR too early
+00:42:16 @DerRidda needs better hardware to be able to try it
+00:43:04 Unreal Engine 4.11 https://www.unrealengine.com/blog/unreal-engine-4-11-released added support for instanced stereo rendering https://www.youtube.com/watch?v=uTUwKC7GXjo
+	This technique improves performance in stereoscopic rendering http://www.vrfocus.com/2015/10/epic-games-bullet-train-runs-at-a-solid-90-fps-much-higher-than-1080p/
+
+00:43:32 *Sign-off*
