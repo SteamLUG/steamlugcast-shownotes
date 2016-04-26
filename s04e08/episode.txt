@@ -12,4 +12,45 @@ ADDITIONAL:
 RATING:
 YOUTUBE:
 EDITOR: Tele (Tele42)
-NOTESCREATOR:
+NOTESCREATOR: @HeroOhOne
+
+00:00:09 *Introduction*
+00:00:19 @HeroOhOne introduces
+00:00:20 @DerRidda
+
+00:00:23 *Our Gaming*
+00:00:27 @DerRidda has been playing Insurgency http://store.steampowered.com/app/222880, Payday 2 http://store.steampowered.com/app/218620, Saints Row 2 http://store.steampowered.com/app/9480, and Saints Row: The Third http://store.steampowered.com/app/55230
+00:00:37 @HeroOhOne has been playing Payday 2 http://store.steampowered.com/app/218620 and Windward http://www.tasharen.com/presskit/sheet.php?p=windward
+
+00:00:55 *SteamLUG Community Stuff*
+00:00:57 Past Events
+	Daedalus - No Escape http://steamcommunity.com/groups/steamlug#events/707437285802900413
+	Payday 2 http://steamcommunity.com/groups/steamlug#events/707437285802900569
+	Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/707437285802908375
+	Coffin Dodgers http://steamcommunity.com/groups/steamlug#events/707437285802908561
+00:02:15 Upcoming Events
+	King Arthur's Gold http://steamcommunity.com/groups/steamlug#events/707437285802911398
+	War Thunder http://steamcommunity.com/groups/steamlug#events/707437285802911560
+	Fistful of Frags http://steamcommunity.com/groups/steamlug#events/707437285802916839
+	XCOM 2 http://steamcommunity.com/groups/steamlug#events/707437285802917037
+00:02:31 @ValiantCheese released Tiny Chooper Raceway, a game made with Godot Engine https://github.com/Cheeseness/tiny-chopper-raceway
+
+00:03:30 *Steam/Valve News*
+00:03:32 Steam beta update includes a better performing Vulkan overlay http://steamcommunity.com/groups/SteamClientBeta#announcements/detail/887582442903066807
+00:04:04 HTC Vive has been launched http://www.steamvr.com
+	Not yet working on Linux
+00:04:50 GDC Steam Controller talk is now available http://www.gdcvault.com/play/1023606
+
+00:05:53 *Tech News*
+00:05:55 radeonsi and mesa have support for OpenGL 4.2 https://lists.freedesktop.org/archives/mesa-dev/2016-April/112547.html
+00:06:32 Vulkan support has been added to some Android devices http://android-developers.blogspot.com/2016/04/android-n-developer-preview-2-out-today.html
+00:07:10 Unity editor version 5.4.0b13 has been released for Linux http://forum.unity3d.com/threads/unity-on-linux-release-notes-and-known-issues.350256/#post-2586478
+00:07:53 Godot Engine 2.0.2 is now available http://godotengine.org/article/maintenance-release-godot-2-0-2
+
+00:08:36 *General Gaming News*
+00:08:38 The Talos Principle beta Vulkan performance has been improved http://steamcommunity.com/app/257510/discussions/0/371919771762680354
+	DerRidda had his frame rate double between this beta and the last http://pastebin.com/9bTUQRJW
+	Vulkan command line flag is `+gfx_strAPI "VLK"`
+00:09:57 Savage Resurrection http://savrez.com
+Hand of Fate 2 http://store.steampowered.com/app/456670
+Don't Starve Together http://forums.kleientertainment.com/topic/66132-dont-starve-together-leaving-early-access
