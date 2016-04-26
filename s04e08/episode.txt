@@ -3,7 +3,7 @@ PUBLISHED:
 TITLE: In the Winter of 2666
 SEASON: 04
 EPISODE: 08
-DURATION: 00:24:13
+DURATION: 00:24:12
 FILENAME: steamlugcast.s04e08.in-the-winter-of-2666
 DESCRIPTION:
 HOSTS: @DerRidda, @HeroOhOne
