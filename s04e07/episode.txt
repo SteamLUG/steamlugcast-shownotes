@@ -36,4 +36,22 @@ NOTESCREATOR: @HeroOhOne
 	Team Fortress 2 http://steamcommunity.com/groups/steamlug#events/707437285802908375
 	Coffin Dodgers http://steamcommunity.com/groups/steamlug#events/707437285802908561
 00:05:34 Moska has made an open source Arma 3 launcher for Linux https://github.com/busquetsaguilopau/asma
-00:06:11 @ValiantCheese wrote
+00:06:11 @ValiantCheese wrote articles, sometimes approaching a Cheeselength
+	Outcomes of  AdventureJam 2015 http://cheesetalks.net/adventurejam2015.php
+	How to survive a game jam http://cheesetalks.net/surviving-adventure-jam
+	Dog Mendonça and its origins http://cheesetalks.net/dog_mendonca.php
+
+00:08:38 *Steam/Valve News*
+00:08:40 CAD files for the Steam Controller's external parts have been released under the CC BY-NC-SA 4.0 license http://steamcommunity.com/games/353370/announcements/detail/901091250587575759
+
+00:10:58 *Tech News*
+00:10:59 AMD GPU-PRO hybrid beta driver has been released, with Vulkan support http://support.amd.com/en-us/kb-articles/Pages/AMDGPU-PRO-Beta-Driver-for-Vulkan-Release-Notes.aspx
+	Replaces fglrx and uses the Free amdgpu kernel driver
+00:12:50 Nvidia beta driver version 364.12 is now available http://www.nvidia.com/download/driverResults.aspx/100577/en-us
+	Includes support for Vulkan, GLVND, and Wayland/Mir
+	Wayland support is implemented in a different way, must use a patched Weston https://lists.freedesktop.org/archives/wayland-devel/2016-March/027547.html
+00:14:19 Nvidia long-lived branch version 361.42 fixes bugs and adds support for more hardware https://devtalk.nvidia.com/default/topic/928139/unix-graphics-announcements-and-news/linux-solaris-and-freebsd-driver-361-42-long-lived-branch-release
+00:14:39 Vulkan support has been added to Wine Staging 1.9.6
+	64 bit operating systems have a nearly binary compatible implementation of Vulkan
+	CSMT has been disabled for this release
+00:15:39 Serious Engine
