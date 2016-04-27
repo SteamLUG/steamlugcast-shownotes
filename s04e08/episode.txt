@@ -51,6 +51,17 @@ NOTESCREATOR: @HeroOhOne
 00:08:38 The Talos Principle beta Vulkan performance has been improved http://steamcommunity.com/app/257510/discussions/0/371919771762680354
 	DerRidda had his frame rate double between this beta and the last http://pastebin.com/9bTUQRJW
 	Vulkan command line flag is `+gfx_strAPI "VLK"`
-00:09:57 Savage Resurrection http://savrez.com
-Hand of Fate 2 http://store.steampowered.com/app/456670
-Don't Starve Together http://forums.kleientertainment.com/topic/66132-dont-starve-together-leaving-early-access
+00:09:57 Savage Resurrection has been revealed http://savrez.com
+00:11:22 Hand of Fate 2 has been announced http://store.steampowered.com/app/456670
+00:12:07 Don't Starve Together is leaving Early Access on April 21st http://forums.kleientertainment.com/topic/66132-dont-starve-together-leaving-early-access
+00:12:26 Enter the Gungeon released http://store.steampowered.com/app/311690
+00:13:27 Saints Row 2 and Saints Row: The Third ports have been released http://steamcommunity.com/games/55230/announcements/detail/608359266016307449
+00:16:32 ARK: Survival of the Fittest http://steamcommunity.com/games/407530/announcements/detail/868441862309808608
+00:17:33 Golf With Friends http://blacklightinteractive.com/2016/04/update-0-0-81-mac-and-linux-support
+00:18:01 SpeedRunners port by @flibitijibibo is now out of beta http://steamcommunity.com/app/207140/discussions/2/412448792351455365/#c371919771763603290
+00:18:22 Dark Horizons: Mechanized Corps is to come to Linux soon http://steamcommunity.com/games/dhmc/announcements/detail/821153936375835024
+Heavy Gear Assault https://heavygear.com/uploads/8c6898b3a9a20aa674da44aee38d152994453abc.png
+Homefront: The Revolution https://www.youtube.com/watch?v=rE0FoI1mpQc
+	Linux port https://twitter.com/DSDambuster/status/720613271536017408
+
+*Sign-off*
