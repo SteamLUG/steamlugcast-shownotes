@@ -5,7 +5,7 @@ SEASON: 04
 EPISODE: 04
 DURATION: 01:00:07
 FILENAME: steamlugcast.s04e04.vulkhaaan
-DESCRIPTION: Our penguins have a low‐level talk about the long‐awaited Vulkan launch
+DESCRIPTION: Our penguins have a low‐level talk about the long‐awaited Vulkan launch.
 HOSTS: (bean) @beansmyname, @DerRidda, @HeroOhOne, @johndrinkwater, Tele (Tele42), @ValiantCheese
 GUESTS:
 ADDITIONAL:
