@@ -5,7 +5,7 @@ SEASON: 04
 EPISODE: 08
 DURATION: 00:24:12
 FILENAME: steamlugcast.s04e08.in-the-winter-of-2666
-DESCRIPTION:
+DESCRIPTION: DerRidda and HER0 01 talk about the release of the remaining Saints Row ports, future mech games, and the latest releases in the Linux gaming world.
 HOSTS: @DerRidda, @HeroOhOne
 GUESTS:
 ADDITIONAL:
