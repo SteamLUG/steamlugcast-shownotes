@@ -1,5 +1,5 @@
 RECORDED: 2016-04-15
-PUBLISHED:
+PUBLISHED: 2016-04-28
 TITLE: In the Winter of 2666
 SEASON: 04
 EPISODE: 08
@@ -9,7 +9,7 @@ DESCRIPTION: DerRidda and HER0 01 talk about the release of the remaining Saints
 HOSTS: @DerRidda, @HeroOhOne
 GUESTS:
 ADDITIONAL:
-RATING:
+RATING: Clean
 YOUTUBE: bi9wgNS8pjU
 EDITOR: Tele (Tele42)
 NOTESCREATOR: @HeroOhOne
