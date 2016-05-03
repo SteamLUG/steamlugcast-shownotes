@@ -86,7 +86,7 @@ NOTESCREATOR: bean (@beansmyname)
 00:40:45 *Other Community Stuff*
 00:40:49 @ValiantCheese sat down with another backer/forum mod and talked about Broken Age https://www.gamingonlinux.com/articles/editorial-a-conversation-about-broken-age.5306
 00:41:42 SteamLUG community member norbert wrote a proper review of Broken Age https://www.gamingonlinux.com/articles/review-broken-age-on-linux.5325
-00:42:01 Work continues on the SteamLUG website by @johndrinkwater and Tele42
+00:42:01 Work continues on the SteamLUG website by @johndrinkwater and Tele (Tele42)
 	More work on convenience features for future contributors
 	Cheese suggests badges for community engagement
 00:43:29 Double Fine Game Club is playing Broken Age and chatting with developers http://www.doublefine.com/forums/viewthread/17001/

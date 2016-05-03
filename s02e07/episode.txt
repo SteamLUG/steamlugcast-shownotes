@@ -64,7 +64,7 @@ EDITOR: @johndrinkwater
 00:28:31 Steam Releases:
 	Escape Goat 2 http://store.steampowered.com/app/255340/
 	SYSTEM bloody SHOCK bloody 2 http://store.steampowered.com/app/238210/
-00:30:04 Tele42 mentions that Braid is wine‐wrapped. http://i.imgur.com/ha5Exmh.jpg
+00:30:04 Tele (Tele42) mentions that Braid is wine‐wrapped. http://i.imgur.com/ha5Exmh.jpg
 00:31:03 We then get into an archival / preservation / DRM conversation
 00:34:02 GameSpy servers to be shutdown next month http://www.eurogamer.net/articles/2014-04-04-gamespy-servers-to-shut-down-next-month
 00:36:22 Back to Steam Releases:
