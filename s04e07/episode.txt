@@ -37,7 +37,7 @@ NOTESCREATOR: @HeroOhOne
 	Coffin Dodgers http://steamcommunity.com/groups/steamlug#events/707437285802908561
 00:05:34 Moska has made an open source Arma 3 launcher for Linux https://github.com/busquetsaguilopau/asma
 00:06:11 @ValiantCheese wrote articles, sometimes approaching a Cheeselength
-	Outcomes of  AdventureJam 2015 http://cheesetalks.net/adventurejam2015.php
+	Outcomes of AdventureJam 2015 http://cheesetalks.net/adventurejam2015.php
 	How to survive a game jam http://cheesetalks.net/surviving-adventure-jam
 	Dog Mendonça and its origins http://cheesetalks.net/dog_mendonca.php
 
@@ -69,7 +69,7 @@ NOTESCREATOR: @HeroOhOne
 00:28:15 Punch Club has sold 300 thousand copies, in contrast to the 1 million pirated copies http://tinybuild.com/punch-club-has-been-pirated-over-1-million-times
 00:35:31 Human Resource Machine is now available on Linux http://tomorrowcorporation.com/posts/human-resource-machine-for-linux-now-available
 	@johndrinkwater helped test the port
-00:37:00 Darkest Dungeon beta port is accessible with password `1iheartlinux1`
+00:37:00 Darkest Dungeon beta port is accessible with password `1iheartlinux1` http://steamcommunity.com/games/262060/announcements/detail/843670831149750514
 	Port available courtesy of @aaron_melcher of @knockoutgames
 
 00:37:52 *Other Steam/Valve News*
@@ -79,6 +79,6 @@ NOTESCREATOR: @HeroOhOne
 00:39:02 @ValiantCheese thinks it is most important that people do not buy into VR too early
 00:42:16 @DerRidda needs better hardware to be able to try it
 00:43:04 Unreal Engine 4.11 https://www.unrealengine.com/blog/unreal-engine-4-11-released added support for instanced stereo rendering https://www.youtube.com/watch?v=uTUwKC7GXjo
-	This technique improves performance in stereoscopic rendering http://www.vrfocus.com/2015/10/epic-games-bullet-train-runs-at-a-solid-90-fps-much-higher-than-1080p/
+	This technique improves performance in stereoscopic rendering http://www.vrfocus.com/2015/10/epic-games-bullet-train-runs-at-a-solid-90-fps-much-higher-than-1080p
 
 00:43:32 *Sign-off*
