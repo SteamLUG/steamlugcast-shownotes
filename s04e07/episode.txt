@@ -51,7 +51,7 @@ NOTESCREATOR: @HeroOhOne
 	Includes support for Vulkan, GLVND, and Wayland/Mir
 	Wayland support is implemented in a different way, must use a patched Weston https://lists.freedesktop.org/archives/wayland-devel/2016-March/027547.html
 00:14:19 Nvidia long-lived branch version 361.42 fixes bugs and adds support for more hardware https://devtalk.nvidia.com/default/topic/928139/unix-graphics-announcements-and-news/linux-solaris-and-freebsd-driver-361-42-long-lived-branch-release
-00:14:39 Vulkan support has been added to Wine Staging 1.9.6
+00:14:39 Vulkan support has been added to Wine Staging 1.9.6 http://www.wine-staging.com/news/2016-03-21-release-1.9.6.html
 	64 bit operating systems have a nearly binary compatible implementation of Vulkan
 	CSMT has been disabled for this release
 00:15:39 @icculus patches https://github.com/rcgordon/Serious-Engine to Serious Engine have enabled Linux support https://icculus.org/cgi-bin/finger/finger.pl?user=icculus&date=2016-04-01&time=01-22-04
