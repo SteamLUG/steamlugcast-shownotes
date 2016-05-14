@@ -195,7 +195,7 @@ NOTESCREATOR: @ValiantCheese
 02:43:28 Fullbright developer testing the native Linux Unity editor https://twitter.com/DonJuanLeon/status/642682421863825408
 02:44:45 AMD release notes leak Alien: Isolation Linux release http://www.pcworld.com/article/2984515/software-games/alien-isolation-linux-release-hinted-at-by-since-scrubbed-amd-driver-release-notes.html
 
-02:45:26  *Crowdfunding*
+02:45:26 *Crowdfunding*
 02:45:29 The Dwarves https://www.kickstarter.com/projects/kingartgames/the-dwarves-a-new-storydriven-fantasy-rpg
 02:46:46 12 Is Better Than 6 https://www.kickstarter.com/projects/1926605606/12-is-better-than-6/
 02:48:04 ESSENCE https://www.kickstarter.com/projects/448730379/essence

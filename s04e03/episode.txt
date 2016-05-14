@@ -58,8 +58,8 @@ NOTESCREATOR: nixi
 	Beat the average: The Last Federation and 1 DLC, Reassembly
 	15USD or more: Chaos Reborn and Big Pharma
 00:19:13 Natural Selection 2 update http://steamcommunity.com/games/ns2/announcements/detail/698424015497720005
-	Adds servers restricted to low level players with bots filling gaps and forces experienced players  into spectator slots
-	Improved AI, including  ability to take commander role
+	Adds servers restricted to low level players with bots filling gaps and forces experienced players into spectator slots
+	Improved AI, including ability to take commander role
 00:21:39 Company of Heroes 2 now has Linux/Mac cross-platform multiplayer and a performance update http://steamcommunity.com/groups/maclinux#announcements/detail/903338082002623947
 00:22:57 Don’t Starve Shipwrecked DLC updated, including Linux support http://forums.kleientertainment.com/topic/63753-shipwrecked-build-165276-feb-4th/
 00:23:36 Serious Sam 3 and The Talos Principle to have Vulkan support
