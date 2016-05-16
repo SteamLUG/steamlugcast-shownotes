@@ -46,7 +46,7 @@ NOTESCREATOR: @HeroOhOne
 	Dota 2, despite not being a good test case, had better frame rates in graphics-heavy scenes
 
 00:22:04 *Tech News*
-00:22:07 Godot Engine 2.0.1 released, marking the beginning of a quicker release cycle http://godotengine.org/article/updates-on-the-release-cycle-and-godot-2-0-1
+00:22:07 Godot Engine 2.0.1 released, marking the beginning of a quicker release cycle https://godotengine.org/article/updates-on-the-release-cycle-and-godot-2-0-1
 00:23:23 Croteam has released Serious Engine v1.10 under the GPL https://github.com/Croteam-official/Serious-Engine
 	@icculus has begun work on a Linux patch http://www.croteam.com/4443-2
 00:24:37 Atomic Game Engine is now MIT licensed http://atomicgameengine.com/blog/announcement-2

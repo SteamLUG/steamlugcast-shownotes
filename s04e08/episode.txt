@@ -45,7 +45,7 @@ NOTESCREATOR: @HeroOhOne
 00:05:55 radeonsi and mesa have support for OpenGL 4.2 https://lists.freedesktop.org/archives/mesa-dev/2016-April/112547.html
 00:06:32 Vulkan support has been added to some Android devices http://android-developers.blogspot.com/2016/04/android-n-developer-preview-2-out-today.html
 00:07:10 Unity editor version 5.4.0b13 has been released for Linux http://forum.unity3d.com/threads/unity-on-linux-release-notes-and-known-issues.350256/#post-2586478
-00:07:53 Godot Engine 2.0.2 is now available http://godotengine.org/article/maintenance-release-godot-2-0-2
+00:07:53 Godot Engine 2.0.2 is now available https://godotengine.org/article/maintenance-release-godot-2-0-2
 
 00:08:36 *General Gaming News*
 00:08:38 The Talos Principle beta Vulkan performance has been improved http://steamcommunity.com/app/257510/discussions/0/371919771762680354

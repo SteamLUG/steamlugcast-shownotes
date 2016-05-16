@@ -46,7 +46,7 @@ NOTESCREATOR: nixi
 	At least 30 git repositories spread over 4 GitHub organizations https://github.com/GPUOpen-LibrariesAndSDKs https://github.com/GPUOpen-Effects https://github.com/GPUOpen-Tools https://github.com/GPUOpen-ProfessionalCompute-Tools
 	Mostly supports DirectX11 with some support for OpenGL, OpenCL, Nvidia CUDA, and DirectX12
 00:10:59 Unreal Engine VR Mode editor https://www.youtube.com/watch?v=JKO9fEjNiio
-00:12:36 Godot Engine 2.0 is now in beta http://godotengine.org/news/36-godot-engine-2-0-is-now-beta
+00:12:36 Godot Engine 2.0 is now in beta https://godotengine.org/article/godot-2-0-now-beta
 	UI improvements, including much better screen space efficiency
 	Bug fixes and small features
 

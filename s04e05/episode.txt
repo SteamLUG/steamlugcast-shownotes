@@ -42,9 +42,9 @@ NOTESCREATOR: @HeroOhOne
 00:20:35 Software Freedom Conservancy https://sfconservancy.org helps fund Godot
 00:22:33 Code contributions began pouring in as soon as the engine was made open source https://github.com/godotengine/godot
 00:25:35 Adventure game tools used in Dog Mendonça will be made available some time after GDC
-00:27:37 Godot Engine 2.0 has been released http://www.godotengine.org/article/godot-engine-reaches-2-0-stable
+00:27:37 Godot Engine 2.0 has been released https://www.godotengine.org/article/godot-engine-reaches-2-0-stable
 	Includes scene inheritance, multi-scene editing, text based file formats, and UI improvements
-00:29:31 A new website for the engine has gone live http://www.godotengine.org
+00:29:31 A new website for the engine has gone live https://www.godotengine.org
 00:32:30 smithzv asks in chat, "The made tscn, which is VCS friendly, but are the shader resources still a binary format?"
 00:37:49 Other games made with Godot
 	Steam Quest https://steamcommunity.com/sharedfiles/filedetails/?id=539629193
@@ -91,7 +91,7 @@ NOTESCREATOR: @HeroOhOne
 01:25:55 Libretro officially has Vulkan support http://www.libretro.com/index.php/vulkan-progress-report-and-initial-impressions
 01:26:45 Unreal Engine 4 demo, Protostar, shows off Vulkan on mobile hardware https://www.unrealengine.com/blog/epic-games-unveils-protostar-at-samsung-galaxy-unpacked
 01:27:34 Nvidia updated Vulkan beta driver to 355.00.29 https://developer.nvidia.com/vulkan-driver
-01:28:36 Godot 2.0 Stable has been released http://www.godotengine.org/article/godot-engine-reaches-2-0-stable
+01:28:36 Godot 2.0 Stable has been released https://www.godotengine.org/article/godot-engine-reaches-2-0-stable
 	Plugin support will be included in the next release http://www.godotengine.org/article/plugins
 
 01:31:57 *General Gaming News*
