@@ -6,17 +6,21 @@ EPISODE: 10
 DURATION: 00:27:46
 FILENAME: steamlugcast.s04e10.call-of-kill-heroes-halos-of-doom
 DESCRIPTION:
-HOSTS: @DerRidda, @HeroOhOne, @Mohero
+HOSTS: @DerRidda, @HeroOhOne, @Jasey_Wasey
 GUESTS:
 ADDITIONAL:
 RATING:
 YOUTUBE:
-NOTESCREATOR:
+NOTESCREATOR: @HeroOhOne
 EDITOR: Tele (Tele42)
 
-*Introduction*
+00:00:08 *Introduction*
+00:00:19 @HeroOhOne introduces
+00:00:21 @DerRidda
+00:00:24 @Jasey_Wasey
 
-*Our Gaming*
+00:00:26 *Our Gaming*
+00:00:29 @DerRidda has been playing Tomb Raider, Dying Light, and the Shadwen demo
 
 *SteamLUG Community Stuff*
 
