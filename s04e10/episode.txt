@@ -1,10 +1,10 @@
 RECORDED: 2016-05-13
 PUBLISHED:
-TITLE:
+TITLE: Call of Kill Heroes: Halos of Doom
 SEASON: 04
 EPISODE: 10
-DURATION:
-FILENAME:
+DURATION: 00:27:46
+FILENAME: steamlugcast.s04e10.call-of-kill-heroes-halos-of-doom
 DESCRIPTION:
 HOSTS: @DerRidda, @HeroOhOne, @Mohero
 GUESTS:
@@ -12,7 +12,7 @@ ADDITIONAL:
 RATING:
 YOUTUBE:
 NOTESCREATOR:
-EDITOR:
+EDITOR: Tele (Tele42)
 
 *Introduction*
 
