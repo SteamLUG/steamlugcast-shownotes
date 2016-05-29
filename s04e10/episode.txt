@@ -10,7 +10,7 @@ HOSTS: @DerRidda, @HeroOhOne, @Jasey_Wasey
 GUESTS:
 ADDITIONAL:
 RATING: Clean
-YOUTUBE:
+YOUTUBE: 7RjOrfZ390w
 NOTESCREATOR: @HeroOhOne
 EDITOR: Tele (Tele42)
 
