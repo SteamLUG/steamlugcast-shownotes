@@ -5,11 +5,11 @@ SEASON: 04
 EPISODE: 10
 DURATION: 00:27:46
 FILENAME: steamlugcast.s04e10.call-of-kill-heroes-halos-of-doom
-DESCRIPTION:
+DESCRIPTION: DerRidda, HER0 01, and Mohero discuss the latest Linux gaming updates and releases.
 HOSTS: @DerRidda, @HeroOhOne, @Jasey_Wasey
 GUESTS:
 ADDITIONAL:
-RATING:
+RATING: Clean
 YOUTUBE:
 NOTESCREATOR: @HeroOhOne
 EDITOR: Tele (Tele42)
@@ -22,22 +22,48 @@ EDITOR: Tele (Tele42)
 00:00:26 *Our Gaming*
 00:00:29 @DerRidda has been playing Tomb Raider http://store.steampowered.com/app/203160, Dying Light http://store.steampowered.com/app/239140, and the Shadwen demo https://www.shadwen.com
 00:01:43 @Jasey_Wasey has been playing Vector 36 http://vector36.com http://store.steampowered.com/app/346460, Mini Metro http://dinopoloclub.com/minimetro, and Civilization: Beyond Earth http://franchise.civilization.com/en/games/civilization-beyond-earth
-00:03:53 @HeroOhOne has been playing Civilization V http://franchise.civilization.com/en/games/civilization-v and Beyond Earth http://franchise.civilization.com/en/games/civilization-beyond-earth, Arma 3 https://arma3.com, and War Thunder https://warthunder.com
+00:03:53 @HeroOhOne has been playing Civilization V https://franchise.civilization.com/en/games/civilization-v and Beyond Earth https://franchise.civilization.com/en/games/civilization-beyond-earth, Arma 3 https://arma3.com, and War Thunder https://warthunder.com
 
 00:05:29 *SteamLUG Community Stuff*
 00:05:32 Past Events
-	Left 4 Dead 2 http://steamcommunity.com/groups/steamlug#events/707437285802921355
-	Frozen Cortex http://steamcommunity.com/groups/steamlug#events/707437285802921529
-	Steel Storm: Burning Retribution http://steamcommunity.com/groups/steamlug#events/699558652724896826
-	Windward http://steamcommunity.com/groups/steamlug#events/699558652724896940
-00:07:30 
+	Left 4 Dead 2 https://steamcommunity.com/groups/steamlug#events/707437285802921355
+	Frozen Cortex https://steamcommunity.com/groups/steamlug#events/707437285802921529
+	Steel Storm: Burning Retribution https://steamcommunity.com/groups/steamlug#events/699558652724896826
+	Windward https://steamcommunity.com/groups/steamlug#events/699558652724896940
+00:07:30 Upcoming Events
+	Counter-Strike: Global Offensive https://steamcommunity.com/groups/steamlug#events/699558652724922051
+	Don't Starve Together https://steamcommunity.com/groups/steamlug#events/699558652724922140
+	Mount & Blade: Warband https://steamcommunity.com/groups/steamlug#events/699558652724931235
+	GRID Autosport https://steamcommunity.com/groups/steamlug#events/699558652724931361
 
-*Steam/Valve News*
+00:08:12 *Tech News*
+00:08:15 Pyra handheld computer is now available for preorder https://pyra-handheld.com
+00:09:51 Nvidia GTX 1070 and GTX 1080 have been announced https://www.geforce.com/hardware/10series/geforce-gtx-1080
+00:11:12 Godot Engine 2.0.3 has been released https://godotengine.org/article/maintenance-release-godot-2-0-3
+00:12:32 Doom (2016) is revealed to be getting a Vulkan renderer https://www.youtube.com/watch?v=0y3LaLJoo0s
+	Closed alpha had platinum rating in the Wine AppDB https://appdb.winehq.org/objectManager.php?sClass=version&iId=33420
+	The full release is not working in Wine https://appdb.winehq.org/objectManager.php?sClass=version&iId=33711
 
-*Tech News*
+00:13:56 *General Gaming News*
+00:13:58 Running With Rifles version 1.30 released, including Steam Workshop support https://steamcommunity.com/games/270150/announcements/detail/604984012794723341
+	Among others, two official mods were released, Running with the Dead https://steamcommunity.com/sharedfiles/filedetails/?id=677995637 and Racing https://steamcommunity.com/sharedfiles/filedetails/?id=681811952
+00:14:49 Distance Creativity update has been released https://steamcommunity.com/games/distance/announcements/detail/806519864418621904
+	Includes three new race tracks, improvements to the track editor, and new driving mechanics
+00:16:21 Crypt of the Necrodancer has received an update with two new soundtrack remixes https://steamcommunity.com/games/247080/announcements/detail/611738382089044545
+00:17:07 Stasis Linux beta has been released https://steamcommunity.com/app/380150/discussions/0/541907867777059868/#c364040797995155149
+00:17:55 Atari Vault developer, Code Mystics, are testing a Linux beta port https://steamcommunity.com/app/400020/discussions/0/357284767252347219
+00:19:27 Civilization VI has been announced http://store.steampowered.com/app/289070
+00:19:44 Shadwen release date set for May 17th http://www.frozenbyte.com/2016/05/shadwen-launches-on-may-17th-for-pc-ps4
+00:20:05 In Case of Emergency, Release Raptor is being ported to Linux https://arcengames.com/raptor-dev-diary-3-more-audio-and-video
+00:20:58 The Ship Remasted has received encrypted Linux depots https://steamdb.info/app/383790/history/?changeid=1932221
+	Blazing Griffin had previously stated their intention to release a Linux client http://www.blazinggriffin.com/games-2/the-ship/ship-remasted-scope-project
+00:21:42 Dead Island and Dead Island Riptide Definitive Editions are showing signs of Linux support https://steamdb.info/app/383150/history/?changeid=1945396 https://steamdb.info/app/383180/history/?changeid=1945398
+00:23:08 Jack Nicklaus Perfect Golf release includes Linux support http://store.steampowered.com/app/288140
+00:24:11 Stellaris is out now http://store.steampowered.com/app/281990
 
-*General Gaming News*
+00:25:53 *Crowdfunding*
+00:25:55 Insomnia http://insomnia-project.com has a Kickstarter campaign https://www.kickstarter.com/projects/1892480689/insomnia-pc-max-linux
+	Retro-futuristic RPG
+	A playable Linux demo is available
 
-*Crowdfunding*
-
-*Sign-off*
+00:26:52 *Sign-off*
