@@ -1,31 +1,86 @@
 RECORDED: 2016-04-29
 PUBLISHED:
-TITLE:
+TITLE: Still No Powerglove Support
 SEASON: 04
 EPISODE: 09
 DURATION: 00:51:14
 FILENAME: steamlugcast.s04e09.still-no-powerglove-support
-DESCRIPTION:
+DESCRIPTION: DerRidda, Mohero, and Cheese talk about new software releases and announcements in Linux gaming.
 HOSTS: @DerRidda, @Jasey_Wasey, @ValiantCheese
 GUESTS:
 ADDITIONAL:
-RATING:
+RATING: Clean
 YOUTUBE:
-NOTESCREATOR:
+NOTESCREATOR: @HeroOhOne
 EDITOR: @diegoveralli
 
-*Introduction*
+00:00:07 *Introduction*
+00:00:15 @ValiantCheese introduces
+00:00:17 @Jasey_Wasey
+00:00:19 @DerRidda
 
-*Our Gaming*
+00:00:29 *Our Gaming*
+00:00:35 @DerRidda has been playing Saints Row 2 http://store.steampowered.com/app/9480 and Saints Row: The Third http://store.steampowered.com/app/55230
+00:00:48 @Jasey_Wasey has been playing Windward http://www.tasharen.com/presskit/sheet.php?p=windward and War Thunder https://warthunder.com
+00:01:09 @ValiantCheese has been playing Left 4 Dead 2 http://store.steampowered.com/app/550, Windward http://www.tasharen.com/presskit/sheet.php?p=windward, and Guns of Icarus Online https://gunsoficarus.com
+	Assault Android Cactus http://www.assaultandroidcactus.com, Crypt of the NecroDancer http://necrodancer.com, and Hand of Fate http://www.defiantdev.com/hofpress on the side, along with games from LowRezJam https://itch.io/jam/lowrezjam2016
 
-*SteamLUG Community Stuff*
+00:01:38 *SteamLUG Community Stuff*
+00:01:40 Past Events
+	King Arthur's Gold https://steamcommunity.com/groups/steamlug#events/707437285802911398
+	War Thunder https://steamcommunity.com/groups/steamlug#events/707437285802911560
+	Fistful of Frags https://steamcommunity.com/groups/steamlug#events/707437285802916839
+	XCOM 2 https://steamcommunity.com/groups/steamlug#events/707437285802917037
+00:03:01 Upcoming Events
+	Left 4 Dead 2 https://steamcommunity.com/groups/steamlug#events/707437285802921355
+	Frozen Cortex https://steamcommunity.com/groups/steamlug#events/707437285802921529
+00:03:14 @Jasey_Wasey is now hosting official Windward servers https://steamlug.org/servers
+	His game servers are hosted in Docker containers https://hub.docker.com/u/gameservers, contributions are welcome https://github.com/GameServers
+00:04:27 A Docker container for RTMP streaming https://hub.docker.com/r/jasonrivers/nginx-rtmp has also been made by @Jasey_Wasey
+	Can be used to stream gameplay with OBS to multiple streaming services simultaneously
+00:05:19 VR on Linux website http://vronlinux.com has been launched by norbert
+00:09:19 Nemoder and @ValiantCheese created Hidden Star https://cheeseness.itch.io/hidden-star, a space exploration game for LowRezJam https://itch.io/jam/lowrezjam2016
+00:12:35 @ValiantCheese posted an unboxing video https://www.youtube.com/watch?v=UUNVSgVtoaY of the Assault Android Cactus IndieBox https://www.theindiebox.com/aac
 
-*Steam/Valve News*
+00:12:57 *Steam/Valve News*
+00:13:00 Valve has added GitHub repositories for the CS:GO Demo Parsing Tool https://github.com/ValveSoftware/csgo-demoinfo and OpenVR driver for Razer Hydra https://github.com/ValveSoftware/driver_hydra
+Steam Store received 115 Lionsgate movies on April 22nd http://store.steampowered.com/search/?developer=category1=992&developer=Lionsgate
 
-*Tech News*
+00:18:42 *Tech News*
+00:18:44 Intel mesa driver now has Vulkan support mainlined https://cgit.freedesktop.org/mesa/mesa/commit/?id=cab30cc5f90b99ba9b5c2bcc34cd88d3523bf30c
+00:19:01 radeonsi now supports OpenGL 4.3 https://mesamatrix.net
+	GL 4.2-4.3 needs llvm 3.9+
+	Shadow of Mordor and Alien: Isolation will see improvements https://www.reddit.com/r/linux_gaming/comments/4fiizr/radeonsi_is_the_first_open_source_driver_with/d294kqx
+00:20:49 CodeXL https://github.com/GPUOpen-Tools/CodeXL has been released by AMD, in a continued commitment to their GPUOpen initiative http://developer.amd.com/tools-and-sdks/opencl-zone/codexl
+	Comprehensive debugging and profiling tool with Linux support
+00:21:29 Nvidia driver version 364.19 has been released
+	Adds support for Vulkan, their own flavor of Wayland, and DRM KMS support
 
-*General Gaming News*
+00:22:07 *General Gaming News*
+00:22:09 Valve has started CS:GO Prime Account Matchmaking as an experiment allowing one to register their account with a phone number https://support.steampowered.com/kb_article.php?ref=2235-QYCN-3295
+	This prevents "smurfing," or experienced players making new accounts to play at lower ranks with less experienced players
+00:23:40 Randomized character generation in Rust now includes female characters https://playrust.com/devblog-105
+00:24:23 Pyre has been announced by Pyre https://www.youtube.com/watch?v=FvxfmnrNj2U
+00:24:52 More video of gameplay in Shadow Warrior 2 has been revealed https://www.youtube.com/watch?v=PIikukPw9f4
+00:25:32 SpeedRunners has been released from early access https://steamcommunity.com/games/207140/announcements/detail/969773433453209437
+00:26:07 Don't Starve Together is now out of early access https://steamcommunity.com/games/322330/announcements/detail/618492910171592433
+00:27:13 The Culling has had a Linux port released http://store.steampowered.com/app/437220
+00:29:06 Tomb Raider (2013) is now on Linux https://www.feralinteractive.com/en/news/604
+00:31:11 The Torchlight 1 Linux port is now available for purchase https://www.humblebundle.com/store/torchlight
+00:33:54 The Linux version of Darkest Dungeon is out of beta http://www.darkestdungeon.com/linux-release-town-events-update-playstation-and-more
+00:34:51 Master of Orion (2016) port released https://store.steampowered.com/app/298050
+00:36:18 Kerbal Space Program 1.1 released http://forum.kerbalspaceprogram.com/index.php?/developerarticles.html/kerbal-space-program-11-turbo-charged
+	Adds Unity 5, a rewritten UI, KSPedia, and new tutorials and scenarios
+00:37:46 Air Brawl is free to own http://store.steampowered.com/app/375600
+00:40:01 Gog.com officially supports Ubuntu 16.04 https://www.gog.com/news/ubuntu_1604_now_supported_on_gogcom
+	Includes derivative distributions which use Ubuntu 16.04 as a base
+00:41:08 This is in contrast to Steam's webpage stating support for Ubuntu 12.04
+	Not many official Valve sources state support for any particular Linux distro, but the few that do only say Ubuntu 12.04 http://repo.steampowered.com/steam http://store.steampowered.com/bigpicture
+	meklu says in chat "the page has been lost in the whirlpool of bitrot"
+00:44:22 The Witcher 3 https://www.gog.com/forum/general/to_cd_projekt_red_bring_witcher_3_and_your_other_games_to_linux_please/post192
 
-*Crowdfunding*
+00:46:40 *Crowdfunding*
+00:47:02 Happy Dude https://www.kickstarter.com/projects/1162667751/happy-dude
+	Platformer that uses changing colors as a means to solve puzzles
 
-*Sign-off*
+00:48:47 *Sign-off*
