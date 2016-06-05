@@ -10,7 +10,7 @@ HOSTS: @DerRidda, @Jasey_Wasey, @ValiantCheese
 GUESTS:
 ADDITIONAL:
 RATING: Clean
-YOUTUBE:
+YOUTUBE: mTOkENgUez8
 NOTESCREATOR: @HeroOhOne
 EDITOR: @diegoveralli
 
