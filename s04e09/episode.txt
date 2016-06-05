@@ -3,8 +3,8 @@ PUBLISHED:
 TITLE:
 SEASON: 04
 EPISODE: 09
-DURATION:
-FILENAME:
+DURATION: 00:51:14
+FILENAME: steamlugcast.s04e09.still-no-powerglove-support
 DESCRIPTION:
 HOSTS: @DerRidda, @Jasey_Wasey, @ValiantCheese
 GUESTS:
@@ -12,7 +12,7 @@ ADDITIONAL:
 RATING:
 YOUTUBE:
 NOTESCREATOR:
-EDITOR:
+EDITOR: @diegoveralli
 
 *Introduction*
 
