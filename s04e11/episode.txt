@@ -35,12 +35,20 @@ EDITOR: Tele (Tele42)
 00:07:22 The SteamLUG website https://steamlug.org has been updated https://github.com/SteamLUG/steamlug.org/pull/196
 	Windward servers now appear in the official server list https://steamlug.org/servers
 
-00:08:05 *Steam/Valve News*
+00:08:04 *Steam/Valve News*
+00:08:05 Counter-Strike: Global Offensive update adds a 64 bit client for Linux http://blog.counter-strike.net/index.php/2016/05/14479
+	This has fixed many random crashes but caused some transitional issues
+00:08:54 Dota 2 has received beta Vulkan support http://store.steampowered.com/news/22000
+	After installing the Vulkan DLC, enable with the `-vulkan` launch option
+	Some have experienced flickering and crashing with the renderer https://github.com/ValveSoftware/Dota-2-Vulkan/issues/1#issuecomment-222156717
 
+00:11:19 *Tech News*
+00:11:24 Wine Staging 1.9.10 restores CSMT https://www.wine-staging.com/news/2016-05-18-release-1.9.10.html
+00:12:34 Cryengine source has been released on Github https://github.com/CRYTEK-CRYENGINE/CRYENGINE
+	This is not a Free software release
+00:13:33 With some tweaking, the HTC Vive was found to work on Linux with a demo included in OpenVR http://www.vronlinux.com/articles/adventures-with-openvr-and-the-vive-on-linux.8
 
-*Tech News*
-
-*General Gaming News*
+00:17:20 *General Gaming News*
 
 *Crowdfunding*
 
