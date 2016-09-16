@@ -14,13 +14,29 @@ YOUTUBE:
 NOTESCREATOR: @HeroOhOne
 EDITOR: Tele (Tele42)
 
-*Introduction*
+00:00:08 *Introduction*
+00:00:20 @hmccio introduces
+00:00:21 @HeroOhOne and Nemoder
 
-*Our Gaming*
+00:00:26 *Our Gaming*
+00:00:29 @HeroOhOne has been playing Dota 2 http://store.steampowered.com/app/570 and Shadwen https://www.shadwen.com
+00:00:52 Nemoder has been playing Dota 2 http://store.steampowered.com/app/570, 7 Days to Die http://store.steampowered.com/app/251570, Windward http://www.tasharen.com/presskit/sheet.php?p=windward, and Guns of Icarus Online http://store.steampowered.com/app/209080
+00:01:55 @hmccio has been playing Middle Earth: Shadow of Mordor http://store.steampowered.com/app/241930 and Tomb Raider http://store.steampowered.com/app/203160
 
-*SteamLUG Community Stuff*
+00:03:00 *SteamLUG Community Stuff*
+00:03:04 Past Events
+	Counter-Strike: Global Offensive http://steamcommunity.com/groups/steamlug#events/699558652724922051
+	Don’t Starve Together http://steamcommunity.com/groups/steamlug#events/699558652724922140
+	Mount & Blade: Warband http://steamcommunity.com/groups/steamlug#events/699558652724931235
+	GRID Autosport http://steamcommunity.com/groups/steamlug#events/699558652724931361
+00:07:10 Upcoming Events
+	No More Room in Hell http://steamcommunity.com/groups/steamlug#events/699558652724939803
+	SpeedRunners http://steamcommunity.com/groups/steamlug#events/699558652724939887
+00:07:22 The SteamLUG website https://steamlug.org has been updated https://github.com/SteamLUG/steamlug.org/pull/196
+	Windward servers now appear in the official server list https://steamlug.org/servers
 
-*Steam/Valve News*
+00:08:05 *Steam/Valve News*
+
 
 *Tech News*
 
