@@ -5,11 +5,11 @@ SEASON: 04
 EPISODE: 11
 DURATION: 00:37:00
 FILENAME: steamlugcast.s04e11.almost-working
-DESCRIPTION:
+DESCRIPTION: Jane Dorable, HER0 01, and Nemoder find that the latest Linux gaming tech may be just around the corner.
 HOSTS: @HeroOhOne, @hmccio, Nemoder
 GUESTS:
 ADDITIONAL:
-RATING:
+RATING: Clean
 YOUTUBE:
 NOTESCREATOR: @HeroOhOne
 EDITOR: Tele (Tele42)
@@ -49,7 +49,21 @@ EDITOR: Tele (Tele42)
 00:13:33 With some tweaking, the HTC Vive was found to work on Linux with a demo included in OpenVR http://www.vronlinux.com/articles/adventures-with-openvr-and-the-vive-on-linux.8
 
 00:17:20 *General Gaming News*
+00:17:23 Shadwen, by Frozenbyte, is out now http://www.frozenbyte.com/2016/05/shadwen-out-today-on-pc-ps4-os-x-linux
+00:20:24 Omnibus has been released http://store.steampowered.com/app/415740
+00:20:49 Duskers http://duskers.misfits-attic.com is out of Early Access http://steamcommunity.com/games/254320/announcements/detail/840297723705895965
+00:22:00 F1 2015 has been ported by Feral https://www.feralinteractive.com/en/news/615
+00:25:33 Atari Vault port has been released http://store.steampowered.com/app/400020
+00:26:08 Simutrans https://www.simutrans.com, a Free software transport management simulator, is now available on Steam http://store.steampowered.com/app/434520
+00:26:58 Motorsport Manager has been announced for a September 2016 release https://www.youtube.com/watch?v=mUsRRIzY9HU
+00:28:14 Savage: Resurrection http://store.steampowered.com/app/366440 has a new trailer https://www.youtube.com/watch?v=q0BOpZgcY2o
+	Currently in Early Access but without Linux support yet https://steamcommunity.com/app/366440/discussions/0/364042262876339218/#c364042262877628787
+00:29:53 Tomb Raider patch 1.1.1 has been released, including performance and bug fixes https://steamcommunity.com/app/203160/discussions/0/357287304420332226
+00:31:06 Chaos Reborn has been updated with co-op gameplay https://steamcommunity.com/games/319050/announcements/detail/805395126105242123
+00:31:32 Sword Coast Legends received a free expansion, Rage of Demons https://forums.swordcoast.com/index.php?/topic/10642-rage-of-demons-has-reached-sword-coast-legends
+	Includes new campaign, race, class, and dungeon master features
+00:32:32 The Center, a community made map for ARK: Survival Evolved, is now officially part of the game https://steamcommunity.com/games/346110/announcements/detail/820031373841604935
+00:33:15 Unreal Tournament 4 has a new map, Underland, completed https://www.epicgames.com/unrealtournament/blog/new-build-new-map-underland
+00:34:37 Goat Simulator: Waste of Space DLC has been released http://store.steampowered.com/app/463720
 
-*Crowdfunding*
-
-*Sign-off*
+00:35:45 *Sign-off*
