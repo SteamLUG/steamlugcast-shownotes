@@ -9,10 +9,10 @@ DESCRIPTION:
 HOSTS: @DerRidda, @HeroOhOne, Nemoder
 GUESTS:
 ADDITIONAL:
-RATING:
+RATING: Explicit
 YOUTUBE:
 NOTESCREATOR:
-EDITOR:
+EDITOR: @HeroOhOne
 
 *Introduction*
 
