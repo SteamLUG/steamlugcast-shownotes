@@ -1,10 +1,10 @@
 RECORDED: 2016-09-02
 PUBLISHED:
-TITLE:
+TITLE: Drivers Don't Have To Roll Dice
 SEASON: 04
 EPISODE: 18
-DURATION:
-FILENAME:
+DURATION: 00:27:59
+FILENAME: steamlugcast.s04e18.drivers-dont-have-to-roll-dice
 DESCRIPTION:
 HOSTS: @beansmyname, @DerRidda, @HeroOhOne
 GUESTS:
@@ -12,7 +12,7 @@ ADDITIONAL:
 RATING:
 YOUTUBE:
 NOTESCREATOR:
-EDITOR:
+EDITOR: @Corben78
 
 *Introduction*
 
