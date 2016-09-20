@@ -1,31 +1,112 @@
 RECORDED: 2016-07-08
 PUBLISHED:
-TITLE:
+TITLE: Rambling Chat At Lightspeed
 SEASON: 04
 EPISODE: 14
-DURATION:
-FILENAME:
-DESCRIPTION:
+DURATION: 01:36:52
+FILENAME: steamlugcast.s04e14.rambling-chat-at-lightspeed
+DESCRIPTION: John Kane joins our hosts to chat about Killing Time At Lightspeed, Mallow Drops and narrative in games
 HOSTS: @Cheeseness, @DerRidda
 GUESTS: @gritfish
 ADDITIONAL: 380660
-RATING:
+RATING: Explicit
 YOUTUBE:
-NOTESCREATOR:
-EDITOR:
+NOTESCREATOR: @ValiantCheese
+EDITOR: @ValiantCheese
 
-*Introduction*
+00:00:08 *Introduction*
+00:00:09 @DerRidda introduces
+00:00:18 with @ValiantCheese
+00:00:24 and special guest John Kane, @gritfish
 
-*Our Gaming*
+00:00:27 *Our Gaming*
+00:00:31 @ValiantCheese has been playing The Way, Pulse, Crypt of the NecroDancer and Day of the Tentacle Remastered
+00:03:14 @DerRidda has been playing Divinity: Original Sin - Enhanced Edition, Insurgency and Sven Coop
+00:03:58 @gritfish has been playing Overwatch, A Boy and His Blob, Imbroglio
 
-*SteamLUG Community Stuff*
+00:16:49 *Chat with Special Guest John Kane*
+00:17:01 @gritfish's background
+00:18:12 Killing Time At Lightspeed's origins http://killingtimeatlightspeed.com/
+00:18:36 Depression Quest http://www.depressionquest.com/
+00:18:45 Antholojam 2014 http://www.antholojam.com/
+00:18:57 Ferguson riots https://en.wikipedia.org/wiki/Ferguson_unrest
+00:20:53 2014 Sydney hostage crisis https://en.wikipedia.org/wiki/2014_Sydney_hostage_crisis
+00:24:26 Science Fiction in Killing Time at Lightspeed and games in general
+00:25:35 Objects in Space http://objectsgame.com/
+00:25:40 Flat Earth Games http://www.flatearthgames.com.au
+00:26:28 "Why aren't there science fiction games" - Extra Credits https://www.youtube.com/watch?v=zQg9oJ7paS8
+00:27:55 SOMA http://www.somagame.com/
+00:28:38 Portal http://orange.half-life2.com/portal.html
+00:29:20 Cibele http://ninasays.so/cibele/
+00:29:21 Her Story http://www.herstorygame.com/
+00:29:46 Escaped robot disrupts traffic https://www.rt.com/viral/346747-russian-robot-runaway-havoc/
+00:30:25 hitchBOT http://www.hitchbot.me/
+00:30:51 Boston Dynamics http://www.bostondynamics.com/
+	Boston Dynamics' YouTube channel https://www.youtube.com/user/BostonDynamics/videos
+00:31:43 Introducing SpotMini https://www.youtube.com/watch?v=tf7IEVTDjng
+00:32:46 Predictions for future science fiction
+00:34:02 Games reflecting human experience
+00:34:39 Firewatch http://firewatchgame.com/
+	Minor story spoilers!
+00:40:56 Steve Gaynor's second Firewatch playthrough https://twitter.com/fullbright/status/719368712629854208
+00:41:51 "We're married now" https://twitter.com/ja2ke/status/719369093166403584
+00:42:19 @ValiantCheese's Firewatch wildlife guide http://steamcommunity.com/sharedfiles/filedetails/?id=631422921
+00:44:48 Grand Theft Auto franchise https://en.wikipedia.org/wiki/Grand_Theft_Auto_%28series%29
+00:46:59 No Man's Sky http://www.nomanssky.com/
+00:47:28 What makes a meaningful game story?
+00:49:10 Gone Home http://www.gonehomegame.com/
+00:50:05 Cabin In The Woods http://www.imdb.com/title/tt1259521/
+00:53:19 Pokemon GO http://www.pokemon.com/us/pokemon-video-games/pokemon-go/
+00:53:44 @YugSTAR
+00:53:51 Pokemon GO Sydney Walk https://www.facebook.com/events/205243773206046/
+00:54:28 Ingress https://www.ingress.com/
+00:54:47 Mallow Drops http://mallowdrops.com/
+00:56:20 Indie game developer experiences
+00:57:57 Feedback on Killing Time at Lightspeed's launch
+00:58:24 Game length
+01:01:27 Marigold Bartlett @Ghosttowngoldie, Killing Time at Lightspeed artist
+01:01:37 Matt Hamm @Brainfed, Killing Time at Lightspeed composer
 
-*Steam/Valve News*
+01:04:48 *SteamLUG Community Stuff*
+01:04:50 Past events
+	Tomb Raider http://steamcommunity.com/groups/steamlug#events/692806085452682457
+	Factorio http://steamcommunity.com/groups/steamlug#events/692806085452682749
+	Guns of Icarus Online http://steamcommunity.com/groups/steamlug#events/687179183162050273
+	F1 2015 http://steamcommunity.com/groups/steamlug#events/687179183162055301
+01:05:39 Upcoming events
+	Worms Clan Wars http://steamcommunity.com/groups/steamlug#events/687179183162058162
+	Oil Rush http://steamcommunity.com/groups/steamlug#events/687179183162060072
+	Codename: Cure http://steamcommunity.com/groups/steamlug#events/687179183162067590
+	PULSAR: Lost Colony http://steamcommunity.com/groups/steamlug#events/687179183162071104
 
-*Tech News*
+01:06:02 *Tech News*
+01:06:03 AMD RX480 Linux benchmarks http://www.phoronix.com/scan.php?page=article&item=amdgpu-rx480-linux&num=11
 
-*General Gaming News*
+01:07:13 *General Gaming News*
+01:07:14 Humble PC & Android Bundle 14 https://www.humblebundle.com/pc-android-14-bundle
+	100,000,000 http://eightyeightgames.com/100000000-2/
+	You Must Build A Boat http://eightyeightgames.com/you-must-build-a-boat/
+	Knights of Pen & Paper 2 http://www.knightsofpenandpaper.com/
+	Unmechanical https://en.wikipedia.org/wiki/Unmechanical
+01:08:40 Pro Pinball Ultra released for Linux http://steamcommunity.com/games/287900/announcements/detail/884211582083980777
+01:10:15 Chronicles of Riddick: Assault on Dark Athena trailer on Virtual Progamming's YouTube channel https://www.youtube.com/watch?v=NqKclfiqlUM
+01:11:35 Salt & Sanctuary released for Linux http://steamcommunity.com/games/SaltandSanctuary/announcements/detail/824539788094304534
+	flibitijibibo's 38th port https://twitter.com/flibitijibibo/status/751112015045767168
+	Epic Name Bro's Salt & Sanctuary YouTube playlist https://www.youtube.com/playlist?list=PLQDWoXFQ-YLr2GvfDK7UKsg5fQgUohv0_
+01:13:10 Killing Time at Lightspeed Enhanced Edition has been released on Steam http://store.steampowered.com/app/380660
+01:14:12 Killing Time at Lightspeed avatars https://twitter.com/gritfish/status/741945929519882241 https://www.facebook.com/1034995123232112/photos/?tab=album&album_id=1119701618094795
+01:18:38 Sven Co-op Linux alpha released http://steamcommunity.com/games/sven_co-op/announcements/detail/827917089673350222
+01:20:58 Summer Games Done Quick https://gamesdonequick.com
+	Crypt of the NecroDancer seeeded Cadence and Dorian race archive https://www.youtube.com/watch?v=y3xAKw5Ukko
+	Trine 3 co-op speedrun archive https://www.youtube.com/watch?v=o8zw_qk2DhY
+01:21:39 Starbound is scheduled for release in July http://playstarbound.com/starbound-release-announcement/
+01:22:04 Black Mesa developer confirms that Linux support is being worked on and not open for discussion https://steamcommunity.com/app/362890/discussions/0/458607699618908746/?ctp=13#c358416640403262319
 
-*Crowdfunding*
+01:23:28 *Crowdfunding*
+01:23:32 Greedy Guns successfully funded https://www.kickstarter.com/projects/339204957/greedy-guns-a-metroidvania-inspired-by-metal-slug
+	Demo available on itch.io https://tio-atum.itch.io/greedyguns
+01:28:06 Massive Chalice http://massivechalice.com/
+01:31:02 System Shock remake on target to read Linux stretch goal https://www.kickstarter.com/projects/1598858095/system-shock
+	Linux demo being worked on http://steamcommunity.com/app/482400/discussions/0/351660338713339416/?ctp=13#c358417008719675853
 
-*Sign-off*
+01:36:03 *Sign-off*
