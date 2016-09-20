@@ -5,27 +5,80 @@ SEASON: 04
 EPISODE: 12
 DURATION: 00:38:34
 FILENAME: steamlugcast.s04e12.half-a-million-winners
-DESCRIPTION:
+DESCRIPTION: DerRidda, HER0 01, and Nemoder discuss an eclectic collection of Linux gaming news.
 HOSTS: @DerRidda, @HeroOhOne, Nemoder
 GUESTS:
 ADDITIONAL:
 RATING: Explicit
 YOUTUBE:
-NOTESCREATOR:
+NOTESCREATOR: @HeroOhOne
 EDITOR: @HeroOhOne
 
-*Introduction*
+00:00:08 *Introduction*
+00:00:18 @HeroOhOne introduces
+00:00:21 @DerRidda
+00:00:23 Nemoder
 
-*Our Gaming*
+00:00:26 *Our Gaming*
+00:00:29 @DerRidda has been playing Tomb Raider http://store.steampowered.com/app/203160
+00:00:44 Nemoder has been playing Dwarf Fortress http://www.bay12games.com/dwarves and Dota 2 http://store.steampowered.com/app/570
+00:00:55 @HeroOhOne has been playing Dota 2 http://store.steampowered.com/app/570 and Shadwen https://www.shadwen.com
 
-*SteamLUG Community Stuff*
+00:02:23 *SteamLUG Community Stuff*
+00:02:26 Past Events
+	No More Room in Hell https://steamcommunity.com/groups/steamlug#events/699558652724939803
+	SpeedRunners https://steamcommunity.com/groups/steamlug#events/699558652724939887
+	Dota 2 https://steamcommunity.com/groups/steamlug#events/692806085452627500
+	Insurgency - Day of Infamy mod https://steamcommunity.com/groups/steamlug#events/692806085452627691
+00:05:14 Upcoming Events
+	Distance https://steamcommunity.com/groups/steamlug#events/692806085452648671
+	Stellaris https://steamcommunity.com/groups/steamlug#events/692806085452648890
+	Sword Coast Legends https://steamcommunity.com/groups/steamlug#events/692806085452662811
+	Payday 2 https://steamcommunity.com/groups/steamlug#events/692806085452662910
+00:05:32 Day of the Tentacle Remastered http://dott.doublefine.com Linux port is nearing completion, thanks to @ValiantCheese
 
-*Steam/Valve News*
+00:05:59 *Steam/Valve News*
+00:06:01 Dota 2 Vulkan support has been updated to fix flickering on NVIDIA GPUs https://www.dota2.com/news/updates/22092
+00:06:49 SteamOS 2.80 Beta released https://steamcommunity.com/groups/steamuniverse/discussions/1/364042703856198459
+00:07:31 Over half a million Steam Controllers have been sold https://steamcommunity.com/games/353370/announcements/detail/883083192033975013
+	As this includes bundled units, Ars Technica interprets this as a failure of Steam Machines http://arstechnica.com/gaming/2016/06/its-time-to-declare-valves-steam-machines-doa
+00:09:55 Steam Dev Days 2016 will take place on the 12th and 13th of October https://steamcommunity.com/devdays
+00:11:17 The HTC Vive is now shipping within 2-3 business days of being ordered http://blog.vive.com/us/2016/06/updates-vive-availability-and-more
+	Some computer stores in the USA will be stocking and demoing them
 
-*Tech News*
+00:12:10 *Tech News*
+00:12:12 Unity Engine has switched to a subscription based payment model https://store.unity.com https://blogs.unity3d.com/2016/06/05/subscription-why
+	@DerRidda suggests contributing to Godot Engine instead https://godotengine.org/donate
+00:15:09 Unreal Engine 4.12 is out now https://www.unrealengine.com/blog/unreal-engine-4-12-released
+	Includes support for OSVR http://www.osvr.org
+00:15:56 AMD RX 480 has been announced https://www.amd.com/en-us/press-releases/Pages/radeon-rx-480-2016may31.aspx
+	VR ready GPU for 199 USD
+00:16:52 Vulkan Dev Days videos are available https://www.youtube.com/playlist?list=PLYO7XTAX41FMmTe9XqW2eR0j9jTthoF5v
 
-*General Gaming News*
+00:17:40 *General Gaming News*
+00:17:42 Gog Connect program has surfaced https://connect.gog.com
+00:18:52 Please Don't Touch Anything is out now https://steamcommunity.com/games/354240/announcements/detail/604985283923826309
+00:19:29 Dead Island http://store.steampowered.com/app/383150 and Dead Island Riptide http://store.steampowered.com/app/383180 Definitive Edition ports have been released https://steamcommunity.com/games/383180/announcements/detail/951763086359168637
+	Engine is based on the same used in Dying Light
+00:21:02 Life is Strange is being ported by Feral https://www.gamingonlinux.com/articles/life-is-strange-is-coming-to-linux-steamos-by-feral-interactive.7324#62342
+00:21:29 Brigador is now available http://store.steampowered.com/app/274500
+00:21:57 Oxenfree has been ported to Linux https://steamcommunity.com/app/388880/discussions/0/451850213953511172/?ctp=7#c350533172684545727
+00:22:21 Torment: Tides of Numenera release has been delayed https://www.kickstarter.com/projects/inxile/torment-tides-of-numenera/posts/1598831
+00:23:51 EVE Online has an unofficial native launcher https://forums.eveonline.com/default.aspx?g=posts&t=482663
+	Downloads Wine and the game preconfigured
+00:25:51 Rocket League port is almost ready https://steamcommunity.com/app/252950/discussions/0/458604254463362128/?ctp=3#c357287935550758463
+00:26:19 Overlord 1 and 2 ports have been announced by Virtual Programming https://www.youtube.com/watch?v=3ljXNFVVzgk
+00:26:44 Defect is in Early Access http://store.steampowered.com/app/352370
+00:27:33 Salt and Sanctuary http://store.steampowered.com/app/283640 Linux beta is now available, thanks to @flibitijibibo https://steamcommunity.com/app/283640/discussions/8/350532795335062942
+00:28:23 SEUM: Speedrunners from Hell demo has been released http://store.steampowered.com/app/457210
+00:29:26 Hitman http://store.steampowered.com/app/236870 has signs of a Linux port in progress https://steamdb.info/app/236870/depots
+00:30:24 Many summer sales are running on various game stores, with all the hottest deals
+	Gog https://www.gog.com, Paradox Interactive https://www.paradoxplaza.com/featured-deals, Humble https://www.humblebundle.com/store
+	Steam Summer Sale is rumored to start on the 23rd
+00:33:23 Crea is now out of Early Access http://store.steampowered.com/app/280520
 
-*Crowdfunding*
+00:34:38 *Crowdfunding*
+00:34:41 ZED, a puzzle game by one of the artists of Myst https://www.kickstarter.com/projects/1368459285/zed
+00:35:36 Transmission, a mysterious action/adventure game https://www.kickstarter.com/projects/paperunicorn/transmission
 
-*Sign-off*
+00:37:28 *Sign-off*
