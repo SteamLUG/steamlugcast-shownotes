@@ -1,10 +1,10 @@
 RECORDED: 2016-06-10
 PUBLISHED:
-TITLE:
+TITLE: Half a Million Winners
 SEASON: 04
 EPISODE: 12
-DURATION:
-FILENAME:
+DURATION: 00:38:34
+FILENAME: steamlugcast.s04e12.half-a-million-winners
 DESCRIPTION:
 HOSTS: @DerRidda, @HeroOhOne, Nemoder
 GUESTS:
