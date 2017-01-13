@@ -66,7 +66,7 @@ NOTESCREATOR: bean (@beansmyname)
 01:37:47 Ryan quotes original Descent developers ‘not a single line of this code is worth looking at’
 01:38:36 Quake3 Arena code quality praised: http://ioquake3.org/
 01:39:47 Cheeseness asks what can game devs do to make a port easier
-01:40:57 Middleware issues with Shank http://store.steampowered.com/app/6120/
+01:40:57 Middleware issues with Shank http://store.steampowered.com/app/6120/ http://icculus.org/theoraplay/
 01:44:26 LinuxZen from chat asks about the origin of the name Icculus
 01:46:44 Cheeseness asks who ends up maintaining ports.
 01:48:00 Ryan wants Psychonauts updated for SDL2 http://store.steampowered.com/app/3830/
