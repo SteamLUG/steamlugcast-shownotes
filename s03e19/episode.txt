@@ -51,7 +51,7 @@ NOTESCREATOR: bean (@beansmyname)
 	And on to a release on December 9th of 2013 on Steam http://store.steampowered.com/app/253030
 00:14:20 The impact of community engagement on the Kickstarter's success https://www.kicktraq.com/projects/flippfly/race-the-sun-endless-racer-with-mod-tools-and-mult/
 00:15:08 What led to the decision to utilize the Unity3D for the game's engine http://unity3d.com/
-00:16:46 Aaron went to work for Raven Software right out of college, working on titles like Singularity and Call of Duty: Modern Warfare III http://ravensoftware.com/
+00:16:46 Aaron went to work for Raven Software right out of college, working on titles like Singularity and Call of Duty: Modern Warfare III http://www.ravensoftware.com/
 00:19:55 The transition from working on AAA shooters to independently developing Race the Sun brought many challenges
 00:22:45 Pleasant surprises during the development of Race the Sun
 00:23:41 The Linux user community provides useful feedback

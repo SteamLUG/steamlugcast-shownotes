@@ -90,7 +90,7 @@ NOTESCREATOR: @ValiantCheese
 00:51:21 Pay Day 2 http://www.crimenet.info
 	Arma 3 http://arma3.com/
 00:51:46 Unreal Tournament https://en.wikipedia.org/wiki/Unreal_Tournament
-00:52:17 CD Projekt https://en.cdprojekt.com/
+00:52:17 CD Projekt https://www.cdprojekt.com/en
 00:53:02 Preserving older versions of games
 00:54:30 Counter-Strike "1.6" https://en.wikipedia.org/wiki/Counter-Strike
 00:54:34 Counter-Strike: Source https://en.wikipedia.org/wiki/Counter-Strike:_Source

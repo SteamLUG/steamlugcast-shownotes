@@ -57,7 +57,7 @@ NOTESCREATOR: @HeroOhOne
 00:12:26 Enter the Gungeon released http://store.steampowered.com/app/311690
 00:13:27 Saints Row 2 and Saints Row: The Third ports have been released http://steamcommunity.com/games/55230/announcements/detail/608359266016307449
 00:16:32 ARK: Survival of the Fittest http://steamcommunity.com/games/407530/announcements/detail/868441862309808608
-00:17:33 Golf With Friends http://blacklightinteractive.com/2016/04/update-0-0-81-mac-and-linux-support
+00:17:33 Golf With Friends https://steamcommunity.com/games/431240/announcements/detail/841420191442565760
 00:18:01 SpeedRunners port by @flibitijibibo is now out of beta http://steamcommunity.com/app/207140/discussions/2/412448792351455365/#c371919771763603290
 00:18:22 Dark Horizons: Mechanized Corps is to come to Linux soon http://steamcommunity.com/games/dhmc/announcements/detail/821153936375835024
 00:20:21 Heavy Gear Assault is also shown to have a Linux port in the works https://heavygear.com/uploads/8c6898b3a9a20aa674da44aee38d152994453abc.png

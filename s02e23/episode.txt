@@ -65,7 +65,7 @@ EDITOR: @ValiantCheese
 
 00:53:39 *Crowdfunding*
 00:53:43 The Interactive Adventures of Dog Mendonça & Pizzaboy reaches its funding goal https://www.kickstarter.com/projects/942343365/the-interactive-adventures-of-dog-mendonca-and-piz
-00:57:16 GOG releases a few classic LucasArts titles available for Linux https://www.cdprojekt.com/en/Press_Room/Aktualnosci,news_id,2330
+00:57:16 GOG releases a few classic LucasArts titles available for Linux https://www.cdprojekt.com/en/media/news/disney-interactive-and-gog-com-join-forces-to-release-classic-lucasfilm-games
 01:01:19 Handmade Hero, a project to code a complete game, one hour a night, live via Twitch http://handmadehero.org
 01:03:10 Jonathan Blow has been streaming video discussing and coding a programming language from scratch http://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO
 01:06:12 Crystal Picnic source release crowdfunding campaign by Nooskewl https://www.indiegogo.com/projects/crystal-picnic-open-source-action-rpg

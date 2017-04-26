@@ -95,7 +95,7 @@ EDITOR: @johndrinkwater
 01:02:26 The Mims Beginning is nearly funded (mentioned previously in [s01e16]) http://www.indiegogo.com/projects/the-mims-beginning
 	Xpander’s video https://www.youtube.com/watch?v=0MGaL_ngvL8
 	GamingOnLinux article http://www.gamingonlinux.com/articles/the-mims-beginning-indiegogo-campaign.2924
-01:03:28 Hand of Fate http://defiantdev.com/handoffate.php
+01:03:28 Hand of Fate http://defiantdev.com/hof1.html
 01:04:12 Discussion point: How do we find out about crowdfunding projects and how do we personally decide what to back? Are we having to be more discerning now than this time last year?
 01:05:16 John refers to Pillow Castle’s The Museum of Simulation Technology http://pillowcastlegames.com
 	Tech Demo video http://www.youtube.com/watch?v=HOfll06X16c

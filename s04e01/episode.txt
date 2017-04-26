@@ -36,7 +36,7 @@ NOTESCREATOR: @johndrinkwater
 00:03:31 SteamLUG gaming server GS5 [US] has been upgraded http://steamcommunity.com/groups/steamlug#announcements/detail/92688143665014854
 
 00:03:57 *Steam/Valve News*
-00:03:58 HTC Vive Pre has been announced https://www.htc.com/us/about/newsroom/2016/htc-reshapes-imagination-with-virtual-reality/
+00:03:58 HTC Vive Pre has been announced https://www.htc.com/us/about/newsroom/2016/2016-01-04-htc-reshapes-imagination-with-virtual-reality
 00:06:58 Valve explains caching issue http://store.steampowered.com/news/19852/
 00:08:26 Marc Laidlaw, writer of Half‐Life has left Valve https://www.rockpapershotgun.com/2016/01/08/marc-laidlaw-leaves-valve/
 

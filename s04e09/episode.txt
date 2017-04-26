@@ -23,7 +23,7 @@ EDITOR: @diegoveralli
 00:00:35 @DerRidda has been playing Saints Row 2 http://store.steampowered.com/app/9480 and Saints Row: The Third http://store.steampowered.com/app/55230
 00:00:48 @Jasey_Wasey has been playing Windward http://www.tasharen.com/presskit/sheet.php?p=windward and War Thunder https://warthunder.com
 00:01:09 @ValiantCheese has been playing Left 4 Dead 2 http://store.steampowered.com/app/550, Windward http://www.tasharen.com/presskit/sheet.php?p=windward, and Guns of Icarus Online https://gunsoficarus.com
-	Assault Android Cactus http://www.assaultandroidcactus.com, Crypt of the NecroDancer http://necrodancer.com, and Hand of Fate http://www.defiantdev.com/hofpress on the side, along with games from LowRezJam https://itch.io/jam/lowrezjam2016
+	Assault Android Cactus http://www.assaultandroidcactus.com, Crypt of the NecroDancer http://necrodancer.com, and Hand of Fate http://defiantdev.com/hof1.html on the side, along with games from LowRezJam https://itch.io/jam/lowrezjam2016
 
 00:01:38 *SteamLUG Community Stuff*
 00:01:40 Past Events
@@ -51,7 +51,7 @@ Steam Store received 115 Lionsgate movies on April 22nd http://store.steampowere
 00:19:01 radeonsi now supports OpenGL 4.3 https://mesamatrix.net
 	GL 4.2-4.3 needs llvm 3.9+
 	Shadow of Mordor and Alien: Isolation will see improvements https://www.reddit.com/r/linux_gaming/comments/4fiizr/radeonsi_is_the_first_open_source_driver_with/d294kqx
-00:20:49 CodeXL https://github.com/GPUOpen-Tools/CodeXL has been released by AMD, in a continued commitment to their GPUOpen initiative http://developer.amd.com/tools-and-sdks/opencl-zone/codexl
+00:20:49 CodeXL https://github.com/GPUOpen-Tools/CodeXL has been released by AMD, in a continued commitment to their GPUOpen initiative http://gpuopen.com/compute-product/codexl
 	Comprehensive debugging and profiling tool with Linux support
 00:21:29 Nvidia driver version 364.19 has been released
 	Adds support for Vulkan, their own flavor of Wayland, and DRM KMS support
