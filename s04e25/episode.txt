@@ -6,7 +6,7 @@ EPISODE: 25
 DURATION:
 FILENAME:
 DESCRIPTION:
-HOSTS: @beansmyname, @DerRidda, @HeroOhOne, Nemoder, Tele
+HOSTS: @beansmyname, @DerRidda, @HeroOhOne, Nemoder, Tele (Tele42)
 GUESTS:
 ADDITIONAL:
 RATING:
