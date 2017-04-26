@@ -52,7 +52,7 @@ EDITOR: @johndrinkwater
 00:25:03 Unity Asset Store https://www.assetstore.unity3d.com/
 00:26:10 Q.U.B.E. http://store.steampowered.com/app/203730/
 00:26:36 Don’t Starve http://store.steampowered.com/app/219740/
-00:33:30 Gravity Ghost http://livelyivy.com/gravityghost-com/
+00:33:30 Gravity Ghost http://gravityghost.com
 00:34:50 Natural Selection 2 http://store.steampowered.com/app/4920/
 00:36:40 Nuclear Dawn http://store.steampowered.com/app/17710/
 

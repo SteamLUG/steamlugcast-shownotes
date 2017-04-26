@@ -22,8 +22,8 @@ EDITOR: @johndrinkwater
 
 00:01:06 *Interview w/ John Warner from Over The Moon Games*
 00:01:29 Relic http://www.relic.com/
-	Company of Heroes http://www.relic.com/games/company-of-heroes/
-	Company of Heroes: Opposing Fronts http://www.relic.com/games/opposing-fronts/
+	Company of Heroes http://www.companyofheroes.com/games/company-of-heroes
+	Company of Heroes: Opposing Fronts http://store.steampowered.com/app/9340/Company_of_Heroes_Opposing_Fronts
 	Dawn of War 2 http://www.dawnofwar2.com
 00:01:44 Dance on Broadway http://www.longtailstudios.com/en/games/endanceonbroadway
 00:02:02 Raycatcher http://store.steampowered.com/app/32000/
@@ -67,11 +67,11 @@ EDITOR: @johndrinkwater
 00:25:74 Monogame http://www.monogame.net/
 00:26:13 List of Linux friendly audio libraries on FreeGameDev via @qubodup http://freegamedev.net/wiki/Game_libraries#Audio
 00:26:28 Wwise is apparently licenceable for developers who need Linux support now (though is not officially announced yet) https://twitter.com/decasteljau/status/383573594363527168
-00:28:50 Sauropod posted about upcoming Linux support for Wwise in May 2013 http://www.sauropodstudio.com/dev-diary-number-forty-six-linux-1st-attempt-and-bridges/
-	Correction: Later Sauropod posts clarify that beta access to Wwise for Linux was delayed and they pursued FMOD for Linux http://www.sauropodstudio.com/dev-diary-number-forty-seven-distant-islands-linux-and-flying-castles/
+00:28:50 Sauropod posted about upcoming Linux support for Wwise in May 2013 http://www.castlestory.net/en/event/4189-Dev-Diary-Number-Forty-Six-Linux-1st-Attempt-And-Bridges
+	Correction: Later Sauropod posts clarify that beta access to Wwise for Linux was delayed and they pursued FMOD for Linux http://www.castlestory.net/en/event/4207-Dev-Diary-Number-Forty-Seven-Distant-Islands-Linux-And-Flying-Castles
 00:29:28 Software Freedom Day http://softwarefreedomday.org
 	Cheese’s writeup of the Launceston SFD event http://www.taslug.org.au/modules/news/article.php?storyid=222
-00:30:06 Rift support for Neverball http://forum.nevercorner.net/viewtopic.php?pid=29214#p29214
+00:30:06 Rift support for Neverball http://neverforum.com/fmpbo/viewtopic.php?pid=29050#p29050
 00:30:36 SuperTuxKart http://supertuxkart.sourceforge.net/
 00:30:47 @mimlofbees demonstrated some painting using the Gimp http://gimp.org
 

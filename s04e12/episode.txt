@@ -43,7 +43,7 @@ EDITOR: @HeroOhOne
 00:07:31 Over half a million Steam Controllers have been sold https://steamcommunity.com/games/353370/announcements/detail/883083192033975013
 	As this includes bundled units, Ars Technica interprets this as a failure of Steam Machines http://arstechnica.com/gaming/2016/06/its-time-to-declare-valves-steam-machines-doa
 00:09:55 Steam Dev Days 2016 will take place on the 12th and 13th of October https://steamcommunity.com/devdays
-00:11:17 The HTC Vive is now shipping within 2-3 business days of being ordered http://blog.vive.com/us/2016/06/updates-vive-availability-and-more
+00:11:17 The HTC Vive is now shipping within 2-3 business days of being ordered https://www.htc.com/us/about/newsroom/2016/htc-and-valave-bring-virtual-reality-to-life/
 	Some computer stores in the USA will be stocking and demoing them
 
 00:12:10 *Tech News*

@@ -38,7 +38,7 @@ EDITOR: @johndrinkwater
 	Stream http://steamlug.org/stream
 	Savegame http://archive.steamlug.org/AutoSave_WineCellar_2013_5_15_19_47_59_0.sav
 00:24:22 Red Orchestra http://steamcommunity.com/groups/steamlug#events/1585540098955998019
-00:27:00 Future Events http://events.steamlug.org/
+00:27:00 Future Events https://steamlug.org/events
 
 00:29:10 *Steam/Valve news*
 00:30:28 Steam’d Penguins http://blogs.valvesoftware.com/linux/steamd-penguins/

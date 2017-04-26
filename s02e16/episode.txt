@@ -89,7 +89,7 @@ EDITOR: @johndrinkwater
 00:52:33 2HB is Double Fine's Moai integrated authoring and debigging tool
 00:52:45 Brandon Dillon @Noughtceratops is also lead developer on Hack 'n' Slash http://www.hacknslashthegame.com/
 00:54:15 "...if I ever founded my own game studio someday, not that I really have much of an intention to, you know, I would be using Linux and I would probably make it a priority so that people could [use Linux] in developing whatever kind of games we were making."
-00:55:54 JP would like to see Spelunky http://spelunkyworld.com and Abyss Odyssey http://abyssodyssey.com/abysspage.html on Linux
+00:55:54 JP would like to see Spelunky http://spelunkyworld.com and Abyss Odyssey http://www.abyssodyssey.com on Linux
 00:57:02 JP's experiences with Wine http://winehq.org
 00:58:20 Comments on popular game creation platforms working on Linux
 00:58:54 Thoughts on Unreal Engine 4's Linux support

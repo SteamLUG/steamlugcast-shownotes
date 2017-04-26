@@ -29,7 +29,7 @@ EDITOR: @johndrinkwater
 	Guns of Icarus Online (post-cast) http://steamcommunity.com/groups/steamlug#events/1371642583203024214
 	Nuclear Dawn (servers being donated by Xeno Gamers) http://steamcommunity.com/groups/steamlug#events/1371642583203025979
 	Xeno Gamers Steam Group http://steamcommunity.com/groups/xenogamers
-	Xeno Gamers official site http://www.xenogamers.org
+	Xeno Gamers official site https://www.xenogamers.com
 	ND Battle Society Steam Group http://steamcommunity.com/groups/NDBattleSoc
 	RootGamer.com article http://rootgamer.com/9517/news/nuclear-dawn-bughunt-saturday
 	Nuclear Dawn event video courtesy of Xpander https://www.youtube.com/watch?v=gu15yeVjYkQ&list=UUNUOu9mkwysKsfLyPJF8YbQ&feature=c4-overview

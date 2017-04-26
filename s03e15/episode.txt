@@ -52,7 +52,7 @@ NOTESCREATOR: @johndrinkwater
 00:12:25 *SIGGRAPH*
 00:12:30 Vulkan talks by Khronos Group at SIGGRAPH https://www.khronos.org/news/events/2015-siggraph
 	Nvidia has a Vulkan talk at SIGGRAPH on Sunday
-00:13:33 ‘The Time Has Come: Powerful Profiling and Debugging Tools Arrive for Linux and OpenGL With NVIDIA’s Linux Graphics Debugger’ http://s2015.siggraph.org/attendees/nvidia-best-gtc-talks https://www.gamingonlinux.com/articles/nvidia-to-show-off-vulkan-on-nvidia-gpus-an-opengl-linux-graphics-debugger.5778
+00:13:33 ‘The Time Has Come: Powerful Profiling and Debugging Tools Arrive for Linux and OpenGL With NVIDIA’s Linux Graphics Debugger’ https://www.nvidia.com/object/siggraph2015-best-gtc.html https://www.gamingonlinux.com/articles/nvidia-to-show-off-vulkan-on-nvidia-gpus-an-opengl-linux-graphics-debugger.5778
 00:14:00 AMD GDCE talk on Vulkan https://twitter.com/DeusQain/status/628518709934448640
 00:14:14 Nvidia releases 355.06 beta driver with changes to the build system http://www.nvidia.com/download/driverResults.aspx/88694/en-us
 00:14:39 AMDGPU support was added to MESA’s DRM lib http://phoronix.com/scan.php?page=news_item&px=AMDGPU-Libdrm-Support

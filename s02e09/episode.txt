@@ -53,7 +53,7 @@ EDITOR: @johndrinkwater
 00:13:44 Projects using Leadwerks engine
 	Steam page http://store.steampowered.com/app/251810/
 	Hoodwink http://www.hoodwinkgame.com/
-	Combat Helo http://www.combat-helo.com/
+	Combat Helo http://www.leadwerks.com/werkspace/page/games/_/combat-helo-gunnery-r9
 	Dangerous Rays http://www.dangerousrays.com/
 00:14:55 Leadwerks availability
 	Leadwerks http://www.leadwerks.com

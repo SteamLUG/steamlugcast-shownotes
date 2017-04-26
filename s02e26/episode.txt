@@ -80,7 +80,7 @@ EDITOR: @ValiantCheese
 	Tak (Unity) [s02e19]
 00:52:05 How the mac and linux communities respond to ports and porting companies
 00:53:49 Valve's Greenlight's rise and fade
-00:58:30 SteamOSe project merged upstream http://directhex.github.io/steamos-installer/
+00:58:30 SteamOSe project merged upstream https://github.com/steamos-community/stephensons-rocket
 00:58:37 GOG supporting Linux http://www.gog.com/news/gogcom_now_supports_linux
 01:00:03 Desura changes hands again and promises better Linux support and Humble Bundle's proportional decline in Linux support
 01:01:53 More Unreal Engine 3 Linux ports, and UE4 ported by community

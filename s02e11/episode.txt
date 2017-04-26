@@ -53,7 +53,7 @@ EDITOR: @johndrinkwater
 	Symphony, Draw a Stickman: Epic, Galcon Fusion, Galcon Legends, Skulls of the Shogun, Breach &amp; Clear, Metal Slug 3, Fieldrunners 2
 	John mispoke here and said 11, oops, embarassing.
 00:14:24 GOG job posting http://www.gog.com/work#linux_tech_specialist
-00:15:33 Metro: Redux, a bundle of 2033 & Last Light http://enterthemetro.com/us/news/game_information/return_to_post_apocalyptic_moscow_us/ http://store.steampowered.com/sub/44169/
+00:15:33 Metro: Redux, a bundle of 2033 & Last Light http://www.deepsilver.com/en/games/metro-redux http://store.steampowered.com/sub/44169/
 00:17:50 Feral Interactive announced a Linux port of XCOM: Enemy Unknown plus add-on content http://www.feralinteractive.com/en/news/424/
 00:19:50 John confesses that he bought a MacBook Pro (8,3 Late 2011, 2<sup>nd</sup> hand)
 

@@ -76,7 +76,7 @@ NOTESCREATOR: bean (@beansmyname)
 	Star Wars Tie Fighter Special Edition http://www.gog.com/game/star_wars_tie_fighter_special_edition
 	Star Wars Rebel Assault 1 & 2 http://www.gog.com/game/star_wars_rebel_assault_1_2
 00:49:23 *Game Releases*
-00:49:25 Kerbal Space Program http://store.steampowered.com/app/220200/ http://forum.kerbalspaceprogram.com/content/336-KSP-1-0-is-Released
+00:49:25 Kerbal Space Program http://store.steampowered.com/app/220200/ http://forum.kerbalspaceprogram.com/index.php?/developerarticles.html/ksp-10-is-released-r162
 00:50:23 Verdun http://store.steampowered.com/app/242860/ http://steamcommunity.com/games/242860/announcements/detail/248039396483421911
 00:51:27 Broken Age Act 2 http://store.steampowered.com/app/232790/ http://steamcommunity.com/games/232790/announcements/detail/126441672048273786
 00:52:10 Dungeons 2 http://store.steampowered.com/app/262280/
